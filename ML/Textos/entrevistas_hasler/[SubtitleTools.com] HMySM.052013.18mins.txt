@@ -1,0 +1,4398 @@
+﻿\_sh v3.0  1054 Text
+
+\id
+\ref
+\tx
+\ft
+\nt 
+
+\block 001
+\ELANParticipant FH
+\ELANBegin 0.050
+\ELANEnd 2.973
+\tx mari    mari    peñi.
+\mb mari    mari    peñi
+\ge diez    diez    hermano (de ego masculino)
+\ps número número nombre
+
+\ft Hola hermano.
+\mm HectorMariano.14052013.capuchas_18mins.wav 0.050 2.973
+
+\block 002
+\ELANParticipant HM
+\ELANBegin 2.973
+\ELANEnd 4.853
+\tx mari    mari    peñi.
+\mb mari    mari    peñi
+\ge diez    diez    hermano (de ego masculino)
+\ps número número nombre
+
+\ft Hola hermano.
+\mm HectorMariano.14052013.capuchas_18mins.wav 2.973 4.853
+
+\block 003
+\ELANParticipant FH
+\ELANBegin 4.853
+\ELANEnd 7.531
+\tx ¿chumleymi?
+\mb chum  -le    -ymi
+\ge cómo -ESTAT -IND.2SG
+\ps pro   -tam-e -per
+
+\ft ¿Cómo estás?
+\mm HectorMariano.14052013.capuchas_18mins.wav 4.853 7.531
+
+\block 004
+\ELANParticipant HM
+\ELANBegin 7.531
+\ELANEnd 10.443
+\tx kümelen                 peñi                      ¿eymi kay?
+\mb küme    -le    -n       peñi                      eymi   kay
+\ge bien     -ESTAT -IND.1SG hermano (de ego masculino) tú    y
+\ps adverbio -tam-e -per     nombre                     pro    conj
+
+\ft Estoy bien, ¿Y tú?
+\mm HectorMariano.14052013.capuchas_18mins.wav 7.531 10.443
+
+\block 005
+\ELANParticipant FH
+\ELANBegin 10.440
+\ELANEnd 11.960
+\tx kümelkalen                            ka.
+\mb küme    -l     -ka    -le    -n       ka
+\ge bien     -APPL3 -CONT  -ESTAT -IND.1SG y
+\ps adverbio -per   -tam-e -tam-e -per     conj
+
+\ft Estoy bien también.
+\mm HectorMariano.14052013.capuchas_18mins.wav 10.440 11.960
+
+\block 006
+\ELANParticipant FH
+\ELANBegin 11.960
+\ELANEnd 14.960
+\tx fachiantü nütramkayayu.
+\mb fachiantü nütramka -ya    -yu
+\ge hoy        conversar -FUT   -IND.1DU
+\ps adverbio   verbo     -tam-e -per
+
+\ft Hoy día conversaremos,
+\mm HectorMariano.14052013.capuchas_18mins.wav 11.960 14.960
+
+\block 007
+\ELANParticipant FH
+\ELANBegin 14.960
+\ELANEnd 27.195
+\tx kiñe pichi    dungu  ka,  ¿chem küdaw   niepaymi              eymi wüne    akulu               tüfachi    universidad  mew?
+\mb kiñe pichi    dungu  ka   chem   küdaw   nie   -pa    -ymi     eymi wüne    aku         -lu     tüfa -chi  *universidad mew
+\ge un    pequeño asunto y    qué   trabajar tener -DIR.1 -IND.2SG tú  primero  llegar.acá -advr.1 DEM1  -adjr ***          PPOS
+\ps art   adj      nombre conj pro    verbo    verbo -dir   -per     pro  adjetivo verbo       -advr   pro   -***  ***          ppos
+
+\ft un pequeño asunto, ¿Qué trabajo tuviste aquí, cuando recien llegaste a esta universidad?
+\mm HectorMariano.14052013.capuchas_18mins.wav 14.960 27.195
+
+\block 008
+\ELANParticipant HM
+\ELANBegin 27.160
+\ELANEnd 30.680
+\tx Iñche akulu               tüfachi    küdaw   mew,
+\mb iñche aku         -lu     tüfa -chi  küdaw   mew
+\ge 1SG    llegar.acá -advr.1 DEM1  -adjr trabajar PPOS
+\ps pro    verbo       -advr   pro   -***  verbo    ppos
+
+\ft Cuando llegué a este trabajo,
+\mm HectorMariano.14052013.capuchas_18mins.wav 27.160 30.680
+
+\block 009
+\ELANParticipant HM
+\ELANBegin 30.680
+\ELANEnd 33.200
+\tx wüne    katrupan               kachu,
+\mb wüne    katru  -pa    -n       kachu
+\ge primero  cortar -DIR.1 -IND.1SG pasto
+\ps adjetivo verbo  -dir   -per     nombre
+
+\ft primero cortaba el pasto acá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 30.680 33.200
+
+\block 010
+\ELANParticipant HM
+\ELANBegin 33.200
+\ELANEnd 34.960
+\tx katrukachupan,
+\mb katru  -kachu  -pa    -n
+\ge cortar -pasto  -DIR.1 -IND.1SG
+\ps verbo  -nombre -dir   -per
+
+\ft cortaba pasto acá.
+\mm HectorMariano.14052013.capuchas_18mins.wav 33.200 34.960
+
+\block 011
+\ELANParticipant HM
+\ELANBegin 34.960
+\ELANEnd 37.200
+\tx feymew,
+\mb feymew
+\ge entonces
+\ps conj
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 34.960 37.200
+
+\block 012
+\ELANParticipant HM
+\ELANBegin 37.200
+\ELANEnd 43.680
+\tx kuyfi        ta  iñche katrukelafun                        kachu  tañi          lelfün mew,
+\mb kuyfi        ta  iñche katru  -ke    -la   -fu    -n       kachu  ta  -ñi      lelfün mew
+\ge antiguamente DET 1SG    cortar -HAB   -NEG1 -AP    -IND.1SG pasto  DET -1SG.POSS campo   PPOS
+\ps adv          det pro    verbo  -tam-e -neg  -tam-e -per     nombre det -pro      nombre  ppos
+
+\ft antes yo no cortaba el pasto en mi campo,
+\mm HectorMariano.14052013.capuchas_18mins.wav 37.200 43.680
+
+\block 013
+\ELANParticipant HM
+\ELANBegin 44.120
+\ELANEnd 45.520
+\tx tañi          lof       mew,
+\mb ta  -ñi      lof       mew
+\ge DET -1SG.POSS comunidad PPOS
+\ps det -pro      nombre    ppos
+
+\ft en mi comunidad.
+\mm HectorMariano.14052013.capuchas_18mins.wav 44.120 45.520
+
+\block 014
+\ELANParticipant HM
+\ELANBegin 45.520
+\ELANEnd 49.240
+\tx ufisa  müten   katrukefuy                    kachu  uyew.
+\mb ufisa  müten   katru  -ke    -fu    -y       kachu  uyew
+\ge oveja  no.más  cortar -HAB   -AP    -IND.[3] pasto  allá
+\ps nombre adverbio verbo  -tam-e -tam-e -per     nombre adverbio
+
+\ft Las ovejas no más cortaban el pasto allá.
+\mm HectorMariano.14052013.capuchas_18mins.wav 45.520 49.240
+
+\block 015
+\ELANParticipant HM
+\ELANBegin 49.240
+\ELANEnd 50.680
+\tx kimniekelafun.
+\mb kim   -nie   -ke    -la   -fu    -n
+\ge saber -PERF  -HAB   -NEG1 -AP    -IND.1SG
+\ps verbo -tam-e -tam-e -neg  -tam-e -per
+
+\ft No conocía.
+\mm HectorMariano.14052013.capuchas_18mins.wav 49.240 50.680
+
+\block 016
+\ELANParticipant HM
+\ELANBegin 50.680
+\ELANEnd 52.840
+\tx kimniekelafun                             feychi     dungu.
+\mb kim   -nie   -ke    -la   -fu    -n       fey  -chi  dungu
+\ge saber -PERF  -HAB   -NEG1 -AP    -IND.1SG DEM2 -adjr asunto
+\ps verbo -tam-e -tam-e -neg  -tam-e -per     pro  -***  nombre
+
+\ft No conocía ese asunto.
+\mm HectorMariano.14052013.capuchas_18mins.wav 50.680 52.840
+
+\block 017
+\ELANParticipant HM
+\ELANBegin 52.840
+\ELANEnd 55.000
+\tx feymew,
+\mb feymew
+\ge entonces
+\ps conj
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 52.840 55.000
+
+\block 018
+\ELANParticipant HM
+\ELANBegin 55.000
+\ELANEnd 57.600
+\tx fey  ta  chi  waria  mew
+\mb fey  ta  chi  waria  mew
+\ge DEM2 DET DEM2 ciudad PPOS
+\ps pro  det dem  nombre ppos
+
+\ft en esta ciudad,
+\mm HectorMariano.14052013.capuchas_18mins.wav 55.000 57.600
+
+\block 019
+\ELANParticipant HM
+\ELANBegin 57.600
+\ELANEnd 59.920
+\tx katrungekey                 ta  kachu  ta
+\mb katru  -nge -ke    -y       ta  kachu  ta
+\ge cortar -PAS -HAB   -IND.[3] DET pasto  DET
+\ps verbo  -per -tam-e -per     det nombre det
+
+\ft cortan el pasto
+\mm HectorMariano.14052013.capuchas_18mins.wav 57.600 59.920
+
+\block 020
+\ELANParticipant HM
+\ELANBegin 59.920
+\ELANEnd 67.040
+\tx tañi        atungeael                  ta  we       konpayael                   ta  ruka   mew, konpayael                   ta
+\mb ta  -ñi    atu     -nge -a     -el    ta  we       kon    -pa    -ya    -el    ta  ruka   mew  kon    -pa    -ya    -el    ta
+\ge DET -3.POSS adornar -PAS -FUT   -NMRZ2 DET recien   entrar -DIR.1 -FUT   -NMRZ2 DET casa   PPOS entrar -DIR.1 -FUT   -NMRZ2 DET
+\ps det -pro    verbo   -per -tam-e -nmzr  det adverbio verbo  -dir   -tam-e -nmzr  det nombre ppos verbo  -dir   -tam-e -nmzr  det
+
+\tx unifersidad mew
+\mb unifersidad mew
+\ge universidad PPOS
+\ps nombre      ppos
+
+\ft para adornar la entrada a las casas, la entrada de la universidad,
+\mm HectorMariano.14052013.capuchas_18mins.wav 59.920 67.040
+
+\block 021
+\ELANParticipant HM
+\ELANBegin 67.040
+\ELANEnd 71.080
+\tx tañi        küme    adngeael                    ta  ruka,
+\mb ta  -ñi    küme    ad     -nge   -a     -el    ta  ruka
+\ge DET -3.POSS bien     imagen -COP   -FUT   -NMRZ2 DET casa
+\ps det -pro    adverbio nombre -verbo -tam-e -nmzr  det nombre
+
+\ft para que se vean bien las casas,
+\mm HectorMariano.14052013.capuchas_18mins.wav 67.040 71.080
+
+\block 022
+\ELANParticipant HM
+\ELANBegin 71.080
+\ELANEnd 74.160
+\tx küme    adngeael                    ta  universidad,
+\mb küme    ad     -nge   -a     -el    ta  universidad
+\ge bien     imagen -COP   -FUT   -NMRZ2 DET universidad
+\ps adverbio nombre -verbo -tam-e -nmzr  det nombre
+
+\ft para que se vea bien la universidad.
+\mm HectorMariano.14052013.capuchas_18mins.wav 71.080 74.160
+
+\block 023
+\ELANParticipant HM
+\ELANBegin 74.160
+\ELANEnd 76.360
+\tx feymew   ta  mülekey              ta  kachu.
+\mb feymew   ta  müle -ke    -y       ta  kachu
+\ge entonces DET estar -HAB   -IND.[3] DET pasto
+\ps conj     det verbo -tam-e -per     det nombre
+
+\ft Entonces, para eso resultó estar el pasto.
+\mm HectorMariano.14052013.capuchas_18mins.wav 74.160 76.360
+
+\block 024
+\ELANParticipant HM
+\ELANBegin 76.360
+\ELANEnd 79.200
+\tx katrungekey                 kachu,
+\mb katru  -nge -ke    -y       kachu
+\ge cortar -PAS -HAB   -IND.[3] pasto
+\ps verbo  -per -tam-e -per     nombre
+
+\ft Se corta el pasto.
+\mm HectorMariano.14052013.capuchas_18mins.wav 76.360 79.200
+
+\block 025
+\ELANParticipant HM
+\ELANBegin 79.200
+\ELANEnd 80.960
+\tx kiñeke     mew
+\mb kiñe -ke   mew
+\ge un    -DIST PPOS
+\ps art   -det  ppos
+
+\ft Algunas veces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 79.200 80.960
+
+\block 026
+\ELANParticipant HM
+\ELANBegin 80.960
+\ELANEnd 82.880
+\tx we       pepalu         iñche feychi
+\mb we       pepa   -lu     iñche fey  -chi
+\ge recien   pepa   -advr.1 1SG    DEM2 -adjr
+\ps adverbio nombre -advr   pro    pro  -***
+
+\ft cuando yo recien vi eso,
+\mm HectorMariano.14052013.capuchas_18mins.wav 80.960 82.880
+
+\block 027
+\ELANParticipant HM
+\ELANBegin 82.880
+\ELANEnd 87.920
+\tx müna    kümelkaley                            chi  kachu, chumngechi chi  küpal-afun                   ñi      mansun, ñi
+\mb müna    küme    -l     -ka    -le    -y       chi  kachu  chumngechi chi  küpal -a     -fu    -n       ñi      mansun  ñi
+\ge mucho    bien     -APPL3 -CONT  -ESTAT -IND.[3] DEM2 pasto  cómo      DUB  traer  -FUT   -AP    -IND.1SG 1SG.POSS buey    1SG.POSS
+\ps adverbio adverbio -per   -tam-e -tam-e -per     dem  nombre pro        part verbo  -tam-e -tam-e -per     pro      nombre  pro
+
+\tx kulliñ,
+\mb kulliñ
+\ge animal
+\ps nombre
+
+\ft "muy bueno está el pasto, ¿Cómo traería a mis bueyes, a mis animales?,
+\mm HectorMariano.14052013.capuchas_18mins.wav 82.880 87.920
+
+\block 028
+\ELANParticipant HM
+\ELANBegin 87.920
+\ELANEnd 90.200
+\tx wedapayafuy,
+\mb weda     -pa    -ya    -fu    -y
+\ge llenarse -DIR.1 -FUT   -AP    -IND.[3]
+\ps verbo    -dir   -tam-e -tam-e -per
+
+\ft aquí se llenarían,
+\mm HectorMariano.14052013.capuchas_18mins.wav 87.920 90.200
+
+\block 029
+\ELANParticipant HM
+\ELANBegin 90.200
+\ELANEnd 92.240
+\tx fentren  ipayafuy                            tüfa
+\mb fentren  i     -pa    -ya    -fu    -y       tüfa
+\ge mucho    comer -DIR.1 -FUT   -AP    -IND.[3] DEM1
+\ps adverbio verbo -dir   -tam-e -tam-e -per     pro
+
+\ft mucho comerían acá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 90.200 92.240
+
+\block 030
+\ELANParticipant HM
+\ELANBegin 92.240
+\ELANEnd 96.480
+\tx ñi      mansun, utruf-entu-mekey               tüfachi    kachu, pin
+\mb ñi      mansun  utruf-entu   -meke    -y       tüfa -chi  kachu  pi    -n
+\ge 1SG.POSS buey    lanzar sacar -PROG.AG -IND.[3] DEM1  -adjr pasto  decir -IND.1SG
+\ps pro      nombre  verbo  verbo -tam-e   -per     pro   -***  nombre verbo -per
+
+\ft mis bueyes, sacarían todo este pasto", dije.
+\mm HectorMariano.14052013.capuchas_18mins.wav 92.240 96.480
+
+\block 031
+\ELANParticipant HM
+\ELANBegin 96.480
+\ELANEnd 97.080
+\tx welu...
+\mb welu
+\ge pero
+\ps conj
+
+\ft Pero...
+\mm HectorMariano.14052013.capuchas_18mins.wav 96.480 97.080
+
+\block 032
+\ELANParticipant HM
+\ELANBegin 97.080
+\ELANEnd 101.040
+\tx amatufin               feychi     dungu  ka,
+\mb amatu   -fi   -n       fey  -chi  dungu  ka
+\ge admirar -3.OP -IND.1SG DEM2 -adjr asunto y
+\ps verbo   -per  -per     pro  -***  nombre conj
+
+\ft mucho admiré ese asunto,
+\mm HectorMariano.14052013.capuchas_18mins.wav 97.080 101.040
+
+\block 033
+\ELANParticipant HM
+\ELANBegin 101.040
+\ELANEnd 103.600
+\tx chumngelu ta  katrungeken               kachu.
+\mb chumngelu ta  katru  -nge -ke    -n     kachu
+\ge por qué  DET cortar -PAS -HAB   -NMRZ1 pasto
+\ps pro       det verbo  -per -tam-e -nmrz  nombre
+
+\ft ¿Por qué se corta el pasto?,
+\mm HectorMariano.14052013.capuchas_18mins.wav 101.040 103.600
+
+\block 034
+\ELANParticipant HM
+\ELANBegin 103.600
+\ELANEnd 107.080
+\tx chumngelu ta  utruf-entu-meken            kachu.
+\mb chumngelu ta  utruf entu  -meke    -n     kachu
+\ge por qué  DET lanzarsacar -PROG.AG -NMRZ1 pasto
+\ps pro       det verbo verbo -tam-e   -nmrz  nombre
+
+\ft ¿Por qué estoy sacando el pasto?
+\mm HectorMariano.14052013.capuchas_18mins.wav 103.600 107.080
+
+\block 035
+\ELANParticipant HM
+\ELANBegin 107.080
+\ELANEnd 109.640
+\tx iñchiñ uyew,
+\mb iñchiñ uyew
+\ge nosotros allá
+\ps pro      adverbio
+
+\ft Nosotros allá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 107.080 109.640
+
+\block 036
+\ELANParticipant HM
+\ELANBegin 109.640
+\ELANEnd 111.440
+\tx katrukachuiñ            ta  kulliñ,
+\mb katru  -kachu  -iñ     ta  kulliñ
+\ge cortar -pasto  -IND.1PL DET animal
+\ps verbo  -nombre -per     det nombre
+
+\ft nos cortan el pasto los animales,
+\mm HectorMariano.14052013.capuchas_18mins.wav 109.640 111.440
+
+\block 037
+\ELANParticipant HM
+\ELANBegin 111.440
+\ELANEnd 114.640
+\tx elukefiiñ                  ta  kulliñ elukefiiñ                  ta  mansun,
+\mb elu   -ke    -fi   -iñ     ta  kulliñ elu   -ke    -fi   -iñ     ta  mansun
+\ge dar   -HAB   -3.OP -IND.1PL DET animal  dar   -HAB   -3.OP -IND.1PL DET buey
+\ps verbo -tam-e -per  -per     det nombre  verbo -tam-e -per  -per     det nombre
+
+\ft se lo damos a los animales, se lo damos a los bueyes,
+\mm HectorMariano.14052013.capuchas_18mins.wav 111.440 114.640
+
+\block 038
+\ELANParticipant HM
+\ELANBegin 114.640
+\ELANEnd 122.800
+\tx motrilekey                   ta  kulliñ, kulliñ tañi          iyael               feychi     kachu.
+\mb motri -le    -ke    -y       ta  kulliñ  kulliñ ta  -ñi      i     -ya    -el    fey  -chi  kachu
+\ge gordo -ESTAT -HAB   -IND.[3] DET animal   animal  DET -1SG.POSS comer -FUT   -NMRZ2 DEM2 -adjr pasto
+\ps adj   -tam-e -tam-e -per     det nombre   nombre  det -pro      verbo -tam-e -nmzr  pro  -***  nombre
+
+\ft están gordos los animales, los animales, por comer ese pasto.
+\mm HectorMariano.14052013.capuchas_18mins.wav 114.640 122.800
+
+\block 039
+\ELANParticipant HM
+\ELANBegin 122.800
+\ELANEnd 125.480
+\tx welu,
+\mb welu
+\ge pero
+\ps conj
+
+\ft Sin embargo,
+\mm HectorMariano.14052013.capuchas_18mins.wav 122.800 125.480
+
+\block 040
+\ELANParticipant HM
+\ELANBegin 125.480
+\ELANEnd 127.680
+\tx kake       küdaw   müley         waria  mew,
+\mb ka   -ke   küdaw   müle -y       waria  mew
+\ge y    -DIST trabajar estar -IND.[3] ciudad PPOS
+\ps conj -det  verbo    verbo -per     nombre ppos
+
+\ft otros trabajos hay en la ciudad,
+\mm HectorMariano.14052013.capuchas_18mins.wav 125.480 127.680
+
+\block 041
+\ELANParticipant HM
+\ELANBegin 127.680
+\ELANEnd 130.240
+\tx trurlay                 ta  küdaw,
+\mb trur     -la   -y       ta  küdaw
+\ge juntarse -NEG1 -IND.[3] DET trabajar
+\ps verbo    -neg  -per     det verbo
+
+\ft no se parecen los trabajos,
+\mm HectorMariano.14052013.capuchas_18mins.wav 127.680 130.240
+
+\block 042
+\ELANParticipant HM
+\ELANBegin 130.240
+\ELANEnd 132.720
+\tx ta  lof       mew  ka   waria  mew.
+\mb ta  lof       mew  ka   waria  mew
+\ge DET comunidad PPOS y    ciudad PPOS
+\ps det nombre    ppos conj nombre ppos
+
+\ft en la comunidad y en la ciudad.
+\mm HectorMariano.14052013.capuchas_18mins.wav 130.240 132.720
+
+\block 043
+\ELANParticipant HM
+\ELANBegin 132.720
+\ELANEnd 139.000
+\tx feymew   kiñe, feychi     küdaw   niepan                wüne.
+\mb feymew   kiñe  fey  -chi  küdaw   nie   -pa    -n       wüne
+\ge entonces un     DEM2 -adjr trabajar tener -DIR.1 -IND.1SG primero
+\ps conj     art    pro  -***  verbo    verbo -dir   -per     adjetivo
+
+\ft Entonces, ese trabajo tuve acá primero.
+\mm HectorMariano.14052013.capuchas_18mins.wav 132.720 139.000
+
+\block 044
+\ELANParticipant HM
+\ELANBegin 139.000
+\ELANEnd 141.880
+\tx fey  ka   kiñe rupa
+\mb fey  ka   kiñe rupa
+\ge DEM2 y    un    vez
+\ps pro  conj art   nombre
+
+\ft Entonces, una vez
+\mm HectorMariano.14052013.capuchas_18mins.wav 139.000 141.880
+
+\block 045
+\ELANParticipant HM
+\ELANBegin 141.880
+\ELANEnd 145.000
+\tx we       küdawkülelu           iñche tüfa mew,
+\mb we       küdaw   -küle -lu     iñche tüfa mew
+\ge recien   trabajar -PROG  -advr.1 1SG    DEM1  PPOS
+\ps adverbio verbo    -tam-e -advr   pro    pro   ppos
+
+\ft cuando recien estaba trabajando acá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 141.880 145.000
+
+\block 046
+\ELANParticipant HM
+\ELANBegin 145.000
+\ELANEnd 147.720
+\tx perumen
+\mb pe    -rume  -n
+\ge ver   -RPN   -IND.1SG
+\ps verbo -tam-E -per
+
+\ft de repente vi
+\mm HectorMariano.14052013.capuchas_18mins.wav 145.000 147.720
+
+\block 047
+\ELANParticipant HM
+\ELANBegin 147.720
+\ELANEnd 149.560
+\tx fentren  che    küpay,
+\mb fentren  che    küpa -y
+\ge mucho    gente  venir -IND.[3]
+\ps adverbio nombre verbo -per
+
+\ft mucha gente venía,
+\mm HectorMariano.14052013.capuchas_18mins.wav 147.720 149.560
+
+\block 048
+\ELANParticipant HM
+\ELANBegin 149.560
+\ELANEnd 154.080
+\tx munulongkoley,                    munulongkoley                     ñi    longko, ñi    ange,
+\mb munu     -longko -le    -y       munu     -longko -le    -y       ñi    longko  ñi    ange
+\ge envuelto -cabeza -ESTAT -IND.[3] envuelto -cabeza -ESTAT -IND.[3] 3.POSS cabeza  3.POSS cara
+\ps adjetivo -nombre -tam-e -per     adjetivo -nombre -tam-e -per     pro    nombre  pro    nombre
+
+\ft estaba envuelta su cabeza, estaba envuelta su cabeza, su cara,
+\mm HectorMariano.14052013.capuchas_18mins.wav 149.560 154.080
+
+\block 049
+\ELANParticipant HM
+\ELANBegin 154.080
+\ELANEnd 156.000
+\tx takungey            ñi    ange
+\mb taku  -nge -y       ñi    ange
+\ge tapar -PAS -IND.[3] 3.POSS cara
+\ps verbo -per -per     pro    nombre
+
+\ft tenían tapada su cara.
+\mm HectorMariano.14052013.capuchas_18mins.wav 154.080 156.000
+
+\block 050
+\ELANParticipant HM
+\ELANBegin 156.000
+\ELANEnd 158.280
+\tx lefkülen            küpay         chi  wecheke     che
+\mb *lef -küle -n       küpa -y       chi  weche -ke   che
+\ge ***  -ESTAT -IND.1SG venir -IND.[3] DEM2 joven -DIST gente
+\ps ***  -tam-e -per     verbo -per     dem  adj   -det  nombre
+
+\ft Corriendo venían los jovenes,
+\mm HectorMariano.14052013.capuchas_18mins.wav 156.000 158.280
+
+\block 051
+\ELANParticipant HM
+\ELANBegin 158.280
+\ELANEnd 161.880
+\tx wirarkülen          küpay         engün, küpal-ley             karoti, küpal-ley
+\mb wirar  -küle -n     küpa -y       engün  küpal -le    -y       karoti  küpal -le    -y
+\ge gritar -PROG  -NMRZ1 venir -IND.[3] 3.PL    traer  -PROG  -IND.[3] garrote traer  -PROG  -IND.[3]
+\ps verbo  -tam-e -nmrz  verbo -per     per     verbo  -tam-e -per     nombre  verbo  -tam-e -per
+
+\ft venían gritando, traían garrotes, traían
+\mm HectorMariano.14052013.capuchas_18mins.wav 158.280 161.880
+
+\block 052
+\ELANParticipant HM
+\ELANBegin 161.880
+\ELANEnd 163.480
+\tx fotilla.
+\ft botellas.
+\mm HectorMariano.14052013.capuchas_18mins.wav 161.880 163.480
+
+\block 053
+\ELANParticipant HM
+\ELANBegin 163.480
+\ELANEnd 168.000
+\tx fillke               dungu, fillke               chemkun küpalleyngün.
+\mb fill           -ke   dungu  fill           -ke   chemkun küpal -le    -y       -ngün
+\ge cada uno       -DIST asunto cada uno       -DIST cosa    traer  -PROG  -IND.[3] -3.PL
+\ps adjetivo       -det  nombre adjetivo       -det  nombre  verbo  -tam-e -per     -per
+
+\ft De todo traían.
+\mm HectorMariano.14052013.capuchas_18mins.wav 163.480 168.000
+
+\block 054
+\ELANParticipant HM
+\ELANBegin 168.000
+\ELANEnd 169.320
+\tx fey
+\mb fey
+\ge DEM2
+\ps pro
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 168.000 169.320
+
+\block 055
+\ELANParticipant HM
+\ELANBegin 169.320
+\ELANEnd 173.000
+\tx chem, chumimi        am   chi, pin.
+\mb chem  chum  -imi     am   chi  pi    -n
+\ge qué  cómo -IND.2SG INT  DUB  decir -IND.1SG
+\ps pro   pro   -per     part part verbo -per
+
+\ft ¿Qué haré?, dije.
+\mm HectorMariano.14052013.capuchas_18mins.wav 169.320 173.000
+
+\block 056
+\ELANParticipant HM
+\ELANBegin 173.000
+\ELANEnd 174.720
+\tx müna    llikan.
+\mb müna    llika     -n
+\ge mucho    asustarse -IND.1SG
+\ps adverbio verbo     -per
+
+\ft Estaba muy asustado.
+\mm HectorMariano.14052013.capuchas_18mins.wav 173.000 174.720
+
+\block 057
+\ELANParticipant HM
+\ELANBegin 174.720
+\ELANEnd 176.280
+\tx lefkülen            konpatun
+\mb lef    -küle -n     kon    -pa    -tu  -n
+\ge correr -PROG  -NMRZ1 entrar -DIR.1 -RE  -IND.1SG
+\ps verbo  -tam-e -nmrz  verbo  -dir   -dir -per
+
+\ft Entre corriendo de vuelta.
+\mm HectorMariano.14052013.capuchas_18mins.wav 174.720 176.280
+
+\block 058
+\ELANParticipant HM
+\ELANBegin 176.280
+\ELANEnd 179.440
+\tx tañi          universidad mew  tañi          pichi    makina  ka   küpal-ün.
+\mb ta  -ñi      universidad mew  ta  -ñi      pichi    makina  ka   küpal -ün
+\ge DET -1SG.POSS universidad PPOS DET -1SG.POSS pequeño maquina y    traer  -IND.1SG
+\ps det -pro      nombre      ppos det -pro      adj      nombre  conj verbo  -per
+
+\ft a mi universidad, la pequeña máquina también traje.
+\mm HectorMariano.14052013.capuchas_18mins.wav 176.280 179.440
+
+\block 059
+\ELANParticipant HM
+\ELANBegin 179.440
+\ELANEnd 180.720
+\tx feymew,
+\mb feymew
+\ge entonces
+\ps conj
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 179.440 180.720
+
+\block 060
+\ELANParticipant HM
+\ELANBegin 180.720
+\ELANEnd 182.040
+\tx feypin.
+\mb fey  -pi    -n
+\ge DEM2 -decir -IND.1SG
+\ps pro  -verbo -per
+
+\ft dije así
+\mm HectorMariano.14052013.capuchas_18mins.wav 180.720 182.040
+
+\block 061
+\ELANParticipant HM
+\ELANBegin 182.040
+\ELANEnd 185.840
+\tx chem dungu  chi, iney   no       rume     feypilaenew,                          feypilaenew                           ñi
+\mb chem dungu  chi  iney   no       rume     fey  -pi    -la   -e   -n       -ew  fey  -pi    -la   -e   -n       -ew  ñi
+\ge qué asunto DUB  quién NEG2     siquiera DEM2 -decir -NEG1 -INV -IND.1SG -OBL DEM2 -decir -NEG1 -INV -IND.1SG -OBL 3.POSS
+\ps pro  nombre part pro    adverbio adverbio pro  -verbo -neg  -per -per     -per pro  -verbo -neg  -per -per     -per pro
+
+\ft "¿Qué pasa? Nadie me dijo nada, nadie me dijo
+\mm HectorMariano.14052013.capuchas_18mins.wav 182.040 185.840
+
+\block 062
+\ELANParticipant HM
+\ELANBegin 185.840
+\ELANEnd 191.160
+\tx chumken             chi  pu  chillkatufe    tüfa mew.
+\mb chum  -ke    -n     chi  pu  chillkatufe    tüfa mew
+\ge cómo -HAB   -NMRZ1 DEM2 COL estudiar  -AG  DEM1  PPOS
+\ps pro   -tam-e -nmrz  dem  det verbo     -der pro   ppos
+
+\ft lo que hacían los estudiantes acá".
+\mm HectorMariano.14052013.capuchas_18mins.wav 185.840 191.160
+
+\block 063
+\ELANParticipant HM
+\ELANBegin 191.160
+\ELANEnd 193.800
+\tx fillke               universidad mew  mülelu       tüfa mew
+\mb fill           -ke   universidad mew  müle -lu     tüfa mew
+\ge cada uno       -DIST universidad PPOS estar -advr.1 DEM1  PPOS
+\ps adjetivo       -det  nombre      ppos verbo -advr   pro   ppos
+
+\ft De todas las universidades que están acá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 191.160 193.800
+
+\block 064
+\ELANParticipant HM
+\ELANBegin 193.800
+\ELANEnd 195.120
+\tx tripapayngün.
+\mb tripa -pa    -y       -ngün
+\ge salir -DIR.1 -IND.[3] -3.PL
+\ps verbo -dir   -per     -per
+
+\ft salían.
+\mm HectorMariano.14052013.capuchas_18mins.wav 193.800 195.120
+
+\block 065
+\ELANParticipant HM
+\ELANBegin 195.120
+\ELANEnd 196.720
+\tx feymew,
+\mb feymew
+\ge entonces
+\ps conj
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 195.120 196.720
+
+\block 066
+\ELANParticipant HM
+\ELANBegin 196.720
+\ELANEnd 198.800
+\tx lefkülen            konpatun.
+\mb lef    -küle -n     kon    -pa    -tu    -n
+\ge correr -PROG  -NMRZ1 entrar -DIR.1 -APPL3 -NMRZ1
+\ps verbo  -tam-e -nmrz  verbo  -dir   -per   -nmrz
+
+\ft entré corriendo de vuelta.
+\mm HectorMariano.14052013.capuchas_18mins.wav 196.720 198.800
+
+\block 067
+\ELANParticipant HM
+\ELANBegin 198.800
+\ELANEnd 202.680
+\tx ramtufin                 kiñe kompañ,
+\mb ramtu     -fi   -n       kiñe kompañ
+\ge preguntar -3.OP -IND.1SG un    acompañar
+\ps verbo     -per  -per     art   verbo
+
+\ft Le pregunté a un compañero
+\mm HectorMariano.14052013.capuchas_18mins.wav 198.800 202.680
+
+\block 068
+\ELANParticipant HM
+\ELANBegin 202.680
+\ELANEnd 204.760
+\tx chem dungu  am   ta  müley
+\mb chem dungu  am   ta  müle -y
+\ge qué asunto INT  DET estar -IND.[3]
+\ps pro  nombre part det verbo -per
+
+\ft ¿Qué asunto hay?
+\mm HectorMariano.14052013.capuchas_18mins.wav 202.680 204.760
+
+\block 069
+\ELANParticipant HM
+\ELANBegin 204.920
+\ELANEnd 208.840
+\tx fey  tüfa ta  pichike        che    tripakeyngün                ta ti,
+\mb fey  tüfa ta  pichi    -ke   che    tripa -ke    -y       -ngün ta ti
+\ge DEM2 DEM1  DET pequeño -DIST gente  salir -HAB   -IND.[3] -3.PL  DETDET2
+\ps pro  pro   det adj      -det  nombre verbo -tam-e -per     -per   detdet
+
+\ft "los niños salieron,
+\mm HectorMariano.14052013.capuchas_18mins.wav 204.920 208.840
+
+\block 070
+\ELANParticipant HM
+\ELANBegin 208.840
+\ELANEnd 213.720
+\tx müte    ayekelay                     tañi        chumngechi amulen              tüfachi    dungu  universidad mew,
+\mb müte    aye    -ke    -la   -y       ta  -ñi    chumngechi amu   -le    -n     tüfa -chi  dungu  universidad mew
+\ge poco     gustar -HAB   -NEG1 -IND.[3] DET -3.POSS cómo      ir    -PROG  -NMRZ1 DEM1  -adjr asunto universidad PPOS
+\ps adverbio verbo  -tam-e -neg  -per     det -pro    pro        verbo -tam-e -nmrz  pro   -***  nombre nombre      ppos
+
+\ft no les gusta como van las cosas en esta universidad,
+\mm HectorMariano.14052013.capuchas_18mins.wav 208.840 213.720
+
+\block 071
+\ELANParticipant HM
+\ELANBegin 213.720
+\ELANEnd 216.040
+\tx pütrün müna    fali  ta  estudiael,
+\mb pütrün müna    fali  ta  estudia  -el
+\ge mucho    mucho    valer DET estudiar -NMRZ2
+\ps adverbio adverbio verbo det verbo    -nmzr
+
+\ft vale mucho estudiar,
+\mm HectorMariano.14052013.capuchas_18mins.wav 213.720 216.040
+
+\block 072
+\ELANParticipant HM
+\ELANBegin 216.040
+\ELANEnd 220.760
+\tx pütrün müna    fali  ta  chillkatuael            tüfa mew,
+\mb pütrün müna    fali  ta  chillkatu -a     -el    tüfa mew
+\ge mucho    mucho    valer DET estudiar  -FUT   -NMRZ2 DEM1  PPOS
+\ps adverbio adverbio verbo det verbo     -tam-e -nmzr  pro   ppos
+
+\ft cuesta muy caro estudiar acá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 216.040 220.760
+
+\block 073
+\ELANParticipant HM
+\ELANBegin 221.960
+\ELANEnd 224.280
+\tx feymew   ta  tripakeyngün                ta ti,  feymew   ta
+\mb feymew   ta  tripa -ke    -y       -ngün ta ti   feymew   ta
+\ge entonces DET salir -HAB   -IND.[3] -3.PL  DETDET2 entonces DET
+\ps conj     det verbo -tam-e -per     -per   detdet  conj     det
+
+\ft entonces salen, por eso
+\mm HectorMariano.14052013.capuchas_18mins.wav 221.960 224.280
+
+\block 074
+\ELANParticipant HM
+\ELANBegin 224.280
+\ELANEnd 228.240
+\tx ingkakey                           tañi        kimelwün             engün.
+\mb i     -*ng -ka    -ke    -y       ta  -ñi    kimel    -w    -ün   engün
+\ge comer -*** -CONT  -HAB   -IND.[3] DET -3.POSS enseñar -REFL -NMRZ1 3.PL
+\ps verbo -*** -tam-e -tam-e -per     det -pro    verbo    -per  -nmrz  per
+
+\ft defienden su enseñanza.
+\mm HectorMariano.14052013.capuchas_18mins.wav 224.280 228.240
+
+\block 075
+\ELANParticipant HM
+\ELANBegin 228.240
+\ELANEnd 230.880
+\tx femnoliñ                          ta  ka   antü
+\mb fem      -no       -l    -iñ     ta  ka   antü
+\ge ser.así -NEG2     -COND -IND.1PL DET y    día
+\ps verbo    -adverbio -mod  -per     det conj nombre
+
+\ft Si no lo hacen así, otro día
+\mm HectorMariano.14052013.capuchas_18mins.wav 228.240 230.880
+
+\block 076
+\ELANParticipant HM
+\ELANBegin 230.880
+\ELANEnd 232.800
+\tx papeltulayaiñ
+\mb papel  -tu   -la   -ya    -iñ
+\ge papel  -VERB -NEG1 -FUT   -IND.1PL
+\ps nombre -der  -neg  -tam-e -per
+
+\ft no estudiarán.
+\mm HectorMariano.14052013.capuchas_18mins.wav 230.880 232.800
+
+\block 077
+\ELANParticipant HM
+\ELANBegin 232.800
+\ELANEnd 235.840
+\tx rume     fali  tüfa mew  ta  papeltun,
+\mb rume     fali  tüfa mew  ta  papel  -tu   -n
+\ge mucho    valer DEM1  PPOS DET papel  -VERB -NMRZ1
+\ps adverbio verbo pro   ppos det nombre -der  -nmrz
+
+\ft Es muy caro estudiar acá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 232.800 235.840
+
+\block 078
+\ELANParticipant HM
+\ELANBegin 235.840
+\ELANEnd 238.240
+\tx feymew   ta  tripakey              ta  wecheke     che,
+\mb feymew   ta  tripa -ke    -y       ta  weche -ke   che
+\ge entonces DET salir -HAB   -IND.[3] DET joven -DIST gente
+\ps conj     det verbo -tam-e -per     det adj   -det  nombre
+
+\ft por eso salen los jovenes",
+\mm HectorMariano.14052013.capuchas_18mins.wav 235.840 238.240
+
+\block 079
+\ELANParticipant HM
+\ELANBegin 238.240
+\ELANEnd 239.560
+\tx pienew.
+\mb pi    -e   -n       -ew
+\ge decir -INV -IND.1SG -OBL
+\ps verbo -per -per     -per
+
+\ft me dijo.
+\mm HectorMariano.14052013.capuchas_18mins.wav 238.240 239.560
+
+\block 080
+\ELANParticipant HM
+\ELANBegin 239.760
+\ELANEnd 242.680
+\tx feymew
+\mb feymew
+\ge entonces
+\ps conj
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 239.760 242.680
+
+\block 081
+\ELANParticipant HM
+\ELANBegin 242.680
+\ELANEnd 245.400
+\tx pefin                awkan         reke müley,
+\mb pe    -fi   -n       awka   -n     reke müle -y
+\ge ver   -3.OP -IND.1SG luchar -NMRZ1 COMP estar -IND.[3]
+\ps verbo -per  -per     verbo  -nmrz  ppos verbo -per
+
+\ft vi que había como una pelea,
+\mm HectorMariano.14052013.capuchas_18mins.wav 242.680 245.400
+
+\block 082
+\ELANParticipant HM
+\ELANBegin 245.400
+\ELANEnd 247.360
+\tx kiñe fütra   awkan         reke.
+\mb kiñe fütra   awka   -n     reke
+\ge un    gran     luchar -NMRZ1 COMP
+\ps art   adverbio verbo  -nmrz  ppos
+
+\ft como una gran pelea.
+\mm HectorMariano.14052013.capuchas_18mins.wav 245.400 247.360
+
+\block 083
+\ELANParticipant HM
+\ELANBegin 247.360
+\ELANEnd 251.360
+\tx utruftufiy                   kiñe fotilla mew, kütral tripay,
+\mb utruf  -tu    -fi   -y       kiñe fotilla mew  kütral tripa -y
+\ge lanzar -APPL3 -3.OP -IND.[3] un    botella PPOS fuego   salir -IND.[3]
+\ps verbo  -per   -per  -per     art   nombre  ppos nombre  verbo -per
+
+\ft Lanzaron una botella, salió fuego,
+\mm HectorMariano.14052013.capuchas_18mins.wav 247.360 251.360
+
+\block 084
+\ELANParticipant HM
+\ELANBegin 251.360
+\ELANEnd 253.080
+\tx wente
+\mb wente
+\ge arriba
+\ps adverbio
+
+\ft arriba
+\mm HectorMariano.14052013.capuchas_18mins.wav 251.360 253.080
+
+\block 085
+\ELANParticipant HM
+\ELANBegin 253.080
+\ELANEnd 257.560
+\tx wente    karafinero, ketro    longko, karü    longko
+\mb wente    karafinero  ketro    longko  karü    longko
+\ge arriba   carabinero  cuadrado cabeza  verde    cabeza
+\ps adverbio nombre      adjetivo nombre  adjetivo nombre
+
+\ft arriba de los carabineros, los cabeza cuadrada, los cabeza verde,
+\mm HectorMariano.14052013.capuchas_18mins.wav 253.080 257.560
+
+\block 086
+\ELANParticipant HM
+\ELANBegin 258.000
+\ELANEnd 259.480
+\tx karü    weshakelukiyawkelu.
+\mb karü    weshakelu -kiyaw -ke    -lu
+\ge verde    ropa      -AND   -HAB   -advr.1
+\ps adjetivo nombre    -dir   -tam-e -advr
+
+\ft los que andan vestidos de verde.
+\mm HectorMariano.14052013.capuchas_18mins.wav 258.000 259.480
+
+\block 087
+\ELANParticipant HM
+\ELANBegin 259.480
+\ELANEnd 262.160
+\tx utruftungey                 feymew,
+\mb utruf  -tu    -nge -y       feymew
+\ge lanzar -APPL3 -PAS -IND.[3] entonces
+\ps verbo  -per   -per -per     conj
+
+\ft Les lanzaron entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 259.480 262.160
+
+\block 088
+\ELANParticipant HM
+\ELANBegin 262.160
+\ELANEnd 264.640
+\tx uyechi     kütral wente
+\mb uye  -chi  kütral wente
+\ge DEM5 -adjr fuego   arriba
+\ps dem  -***  nombre  adverbio
+
+\ft ese fuego encima
+\mm HectorMariano.14052013.capuchas_18mins.wav 262.160 264.640
+
+\block 089
+\ELANParticipant HM
+\ELANBegin 264.640
+\ELANEnd 266.600
+\tx guanaco pingey              ta ti
+\mb guanaco pi    -nge -y       ta ti
+\ge guanaco decir -PAS -IND.[3] DETDET2
+\ps nombre  verbo -per -per     detdet
+
+\ft del guanaco se llama,
+\mm HectorMariano.14052013.capuchas_18mins.wav 264.640 266.600
+
+\block 090
+\ELANParticipant HM
+\ELANBegin 266.600
+\ELANEnd 268.120
+\tx fütra   camion.
+\mb fütra   camion
+\ge gran     camión
+\ps adverbio nombre
+
+\ft ese gran camión.
+\mm HectorMariano.14052013.capuchas_18mins.wav 266.600 268.120
+
+\block 091
+\ELANParticipant HM
+\ELANBegin 268.120
+\ELANEnd 269.560
+\tx feymew,
+\mb feymew
+\ge entonces
+\ps conj
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 268.120 269.560
+
+\block 092
+\ELANParticipant HM
+\ELANBegin 269.600
+\ELANEnd 271.120
+\tx feypin                iñche
+\mb fey  -pi    -n       iñche
+\ge DEM2 -decir -IND.1SG 1SG
+\ps pro  -verbo -per     pro
+
+\ft así dije yo:
+\mm HectorMariano.14052013.capuchas_18mins.wav 269.600 271.120
+
+\block 093
+\ELANParticipant HM
+\ELANBegin 271.120
+\ELANEnd 274.760
+\tx lufküley                feychi     awtu   chumafulu                   faw      ta  che    faw      mülelu       feymew,
+\mb luf      -küle -y       fey  -chi  awtu   chum  -a     -fu    -lu     faw      ta  che    faw      müle -lu     feymew
+\ge quemarse -PROG  -IND.[3] DEM2 -adjr auto   cómo -FUT   -AP    -advr.1 acá     DET gente  acá     estar -advr.1 entonces
+\ps verbo    -tam-e -per     pro  -***  nombre pro   -tam-e -tam-e -advr   adverbio det nombre adverbio verbo -advr   conj
+
+\ft "Se esta quemando ese auto, ¿Qué vamos a hacer los que estamos acá?"
+\mm HectorMariano.14052013.capuchas_18mins.wav 271.120 274.760
+
+\block 094
+\ELANParticipant HM
+\ELANBegin 274.760
+\ELANEnd 277.840
+\tx fey  ñi      wenüy pienew,                  femkelay                       ta  ti.
+\mb fey  ñi      wenüy pi    -e   -n       -ew  fem      -ke    -la   -y       ta  ti
+\ge DEM2 1SG.POSS amigo  decir -INV -IND.1SG -OBL ser.así -HAB   -NEG1 -IND.[3] DET DET2
+\ps pro  pro      nombre verbo -per -per     -per verbo    -tam-e -neg  -per     det det
+
+\ft Entonces mi amigo me dijo: "No es así,
+\mm HectorMariano.14052013.capuchas_18mins.wav 274.760 277.840
+
+\block 095
+\ELANParticipant HM
+\ELANBegin 277.840
+\ELANEnd 281.240
+\tx feychi     makina  dewmangey           tañi        lufkünu-noael                            piy
+\mb fey  -chi  makina  dewma -nge -y       ta  -ñi    luf      -künu -no       -a     -el    pi
+\ge DEM2 -adjr maquina hacer -PAS -IND.[3] DET -3.POSS quemarse -dejar -NEG2     -FUT   -CAUS1 decir
+\ps pro  -***  nombre  verbo -per -per     det -pro    verbo    -verbo -adverbio -tam-e -per   verbo
+
+\ft Esa máquina está hecha para no quemarse", dijo.
+\mm HectorMariano.14052013.capuchas_18mins.wav 277.840 281.240
+
+\block 096
+\ELANParticipant HM
+\ELANBegin 281.635
+\ELANEnd 283.680
+\tx feymew
+\mb feymew
+\ge entonces
+\ps conj
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 281.635 283.680
+
+\block 097
+\ELANParticipant HM
+\ELANBegin 283.680
+\ELANEnd 286.160
+\tx kiñeke     allkün           ka   wirarün
+\mb kiñe -ke   allkü   -n       ka   wirar    -ün
+\ge un    -DIST escuchar -IND.1SG y    gritar   -NMRZ1
+\ps art   -det  verbo    -per     conj verbo    -nmrz
+
+\ft alguno gritos escuché,
+\mm HectorMariano.14052013.capuchas_18mins.wav 283.680 286.160
+
+\block 098
+\ELANParticipant HM
+\ELANBegin 286.160
+\ELANEnd 289.840
+\tx feychi     wünen          chillkatulu       tüfachi    universidad mew
+\mb fey  -chi  wüne    -n     chillkatu -lu     tüfa -chi  universidad mew
+\ge DEM2 -adjr primero  -NMRZ1 estudiar  -advr.1 DEM1  -adjr universidad PPOS
+\ps pro  -***  adjetivo -nmrz  verbo     -advr   pro   -***  nombre      ppos
+
+\ft "los que estudiaron antes en esta universidad,
+\mm HectorMariano.14052013.capuchas_18mins.wav 286.160 289.840
+
+\block 099
+\ELANParticipant HM
+\ELANBegin 289.840
+\ELANEnd 292.800
+\tx chem rume     kullilay
+\mb chem rume     kulli -la   -y
+\ge qué siquiera pagar -NEG1 -IND.[3]
+\ps pro  adverbio verbo -neg  -per
+
+\ft no pagaron nada,
+\mm HectorMariano.14052013.capuchas_18mins.wav 289.840 292.800
+
+\block 100
+\ELANParticipant HM
+\ELANBegin 292.800
+\ELANEnd 299.120
+\tx re.      falta papeltuyngün                fachiantü müleyngün           presidentengeyngün               longkolelu
+\mb re-falta       papel  -tu   -y       -ngün fachiantü müle -y       -ngün presidente -nge   -y       -ngün longko -le    -lu
+\ge gratis         papel  -VERB -IND.[3] -3.PL  hoy        estar -IND.[3] -3.PL  presidente -COP   -IND.[3] -3.PL  cabeza -ESTAT -advr.1
+\ps adj            nombre -der  -per     -per   adverbio   verbo -per     -per   nombre     -verbo -per     -per   nombre -tam-e -advr
+
+\tx tüfachi    pais   mew
+\mb tüfa -chi  pais   mew
+\ge DEM1  -adjr pais   PPOS
+\ps pro   -***  nombre ppos
+
+\ft estudiaron gratis, hoy están de presidentes, son los que mandan en este país,
+\mm HectorMariano.14052013.capuchas_18mins.wav 292.800 299.120
+
+\block 101
+\ELANParticipant HM
+\ELANBegin 299.120
+\ELANEnd 302.120
+\tx chumngelu am   ta  iñchiñ ta
+\mb chumngelu am   ta  iñchiñ ta
+\ge por qué  INT  DET nosotros DET
+\ps pro       part det pro      det
+
+\ft ¿Por qué nosotros
+\mm HectorMariano.14052013.capuchas_18mins.wav 299.120 302.120
+
+\block 102
+\ELANParticipant HM
+\ELANBegin 302.120
+\ELANEnd 304.600
+\tx fentren  kullimekeiñ            tüfa
+\mb fentren  kulli -meke    -iñ     tüfa
+\ge mucho    pagar -PROG.AG -IND.1PL DEM1
+\ps adverbio verbo -tam-e   -per     pro
+
+\ft estamos pagando tanto acá?",
+\mm HectorMariano.14052013.capuchas_18mins.wav 302.120 304.600
+
+\block 103
+\ELANParticipant HM
+\ELANBegin 304.600
+\ELANEnd 307.040
+\tx pipiy                  chi  wechewentru    ñi    wirarün
+\mb pi    -pi    -y       chi  weche -wentru ñi    wirar    -ün
+\ge decir -decir -IND.[3] DEM2 joven -hombre 3.POSS gritar   -NMRZ1
+\ps verbo -verbo -per     dem  adj   -nombre pro    verbo    -nmrz
+
+\ft decía el grito de los jovenes.
+\mm HectorMariano.14052013.capuchas_18mins.wav 304.600 307.040
+
+\block 104
+\ELANParticipant HM
+\ELANBegin 307.040
+\ELANEnd 310.360
+\tx feymew   iñche rakiduamün          ka
+\mb feymew   iñche rakiduam    -ün     ka
+\ge entonces 1SG    pensamiento -IND.1SG y
+\ps conj     pro    nombre      -per     conj
+
+\ft Entonces, yo pensé también:
+\mm HectorMariano.14052013.capuchas_18mins.wav 307.040 310.360
+
+\block 105
+\ELANParticipant HM
+\ELANBegin 310.360
+\ELANEnd 313.320
+\tx ruftu           dungu  perkeno                  ta  tüfey
+\mb ruf      -tu    dungu  pe    -rke   -no       ta  tüfey
+\ge verdad   -APPL3 asunto CERT  -EVID  -NEG2     DET DEM2
+\ps adverbio -per   nombre tam-e -tam-e -adverbio det pro
+
+\ft "Parece que es verdad esto,
+\mm HectorMariano.14052013.capuchas_18mins.wav 310.360 313.320
+
+\block 106
+\ELANParticipant HM
+\ELANBegin 313.320
+\ELANEnd 316.520
+\tx iñche ta  müna    pichin          ka   kullingeken                tüfa mew
+\mb iñche ta  müna    pichi    -n     ka   kulli -nge -ke    -n       tüfa mew
+\ge 1SG    DET mucho    pequeño -NMRZ1 y    pagar -PAS -HAB   -IND.1SG DEM1  PPOS
+\ps pro    det adverbio adj      -nmrz  conj verbo -per -tam-e -per     pro   ppos
+
+\ft a mi me pagan muy poco acá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 313.320 316.520
+
+\block 107
+\ELANParticipant HM
+\ELANBegin 316.520
+\ELANEnd 321.400
+\tx chumngechi am   papeltuay                    tañi          fotüm                       ka   antü  küpakole
+\mb chumngechi am   papel  -tu   -a     -y       ta  -ñi      fotüm                       ka   antü  küpa  -kon    -l    -e
+\ge cómo      INT  papel  -VERB -FUT   -IND.[3] DET -1SG.POSS hijo hombre de ego masculino y    día   querer -entrar -COND -3SG
+\ps pro        part nombre -der  -tam-e -per     det -pro      nombre                       conj nombre aux    -verbo  -mod  -per
+
+\tx universidad mew
+\mb universidad mew
+\ge universidad PPOS
+\ps nombre      ppos
+
+\ft ¿Cómo van a estudiar mis hijos si algún día quieren entrar a la universidad?
+\mm HectorMariano.14052013.capuchas_18mins.wav 316.520 321.400
+
+\block 108
+\ELANParticipant HM
+\ELANBegin 321.400
+\ELANEnd 324.800
+\tx fey  ñi    tañi        feypin              ta ti           wechewentru
+\mb fey  ñi    ta  -ñi    fey  -pi    -n     ta  -t     -i   weche -wentru
+\ge DEM2 3.POSS DET -3.POSS DEM2 -decir -NMRZ1 DET -NMRZ3 -1SG joven -hombre
+\ps pro  pro    det -pro    pro  -verbo -nmrz  det -nmrz  -per adj   -nombre
+
+\ft Así es lo que dicen los jovenes"
+\mm HectorMariano.14052013.capuchas_18mins.wav 321.400 324.800
+
+\block 109
+\ELANParticipant HM
+\ELANBegin 324.800
+\ELANEnd 326.880
+\tx pin            tañi          rakiduam    mew  iñche ka
+\mb pi    -n       ta  -ñi      rakiduam    mew  iñche ka
+\ge decir -IND.1SG DET -1SG.POSS pensamiento PPOS 1SG    y
+\ps verbo -per     det -pro      nombre      ppos pro    conj
+
+\ft dije en mi pensamiento yo también.
+\mm HectorMariano.14052013.capuchas_18mins.wav 324.800 326.880
+
+\block 110
+\ELANParticipant HM
+\ELANBegin 326.880
+\ELANEnd 330.160
+\tx doy      kimlu         dungu  iñche ka   antü,
+\mb doy      kim   -lu     dungu  iñche ka   antü
+\ge más     saber -advr.1 asunto 1SG    y    día
+\ps adverbio verbo -advr   nombre pro    conj nombre
+
+\ft Cuando supe más de este asunto, otro día,
+\mm HectorMariano.14052013.capuchas_18mins.wav 326.880 330.160
+
+\block 111
+\ELANParticipant HM
+\ELANBegin 330.160
+\ELANEnd 332.760
+\tx rupalu         tripantü, rupalu         antü,
+\mb rupa   -lu     tripantü  rupa   -lu     antü
+\ge vez    -advr.1 año       vez    -advr.1 día
+\ps nombre -advr   nombre     nombre -advr   nombre
+
+\ft cuando pasó un año, pasaron días,
+\mm HectorMariano.14052013.capuchas_18mins.wav 330.160 332.760
+
+\block 112
+\ELANParticipant HM
+\ELANBegin 332.760
+\ELANEnd 336.480
+\tx feymew   feypin                kimün           nütramkan
+\mb feymew   fey  -pi    -n       kim     -ün     nütramka -n
+\ge entonces DEM2 -decir -IND.1SG saber   -IND.1SG conversar -IND.1SG
+\ps conj     pro  -verbo -per     verbo   -per     verbo     -per
+
+\ft entonces, dije, supe, conversé:
+\mm HectorMariano.14052013.capuchas_18mins.wav 332.760 336.480
+
+\block 113
+\ELANParticipant HM
+\ELANBegin 336.480
+\ELANEnd 339.000
+\tx wenüykafin                  ti   pu  chillkatufe
+\mb wenüy -ka    -fi   -n       ti   pu  chillkatu -fe
+\ge amigo  -CONT  -3.OP -IND.1SG DET2 COL estudiar  -AG
+\ps nombre -tam-e -per  -per     det  det verbo     -der
+
+\ft "soy amigo de los estudiantes".
+\mm HectorMariano.14052013.capuchas_18mins.wav 336.480 339.000
+
+\block 114
+\ELANParticipant HM
+\ELANBegin 339.000
+\ELANEnd 341.960
+\tx kiñeke     mew  feypienew                       feyngey              ta  tüfey
+\mb kiñe -ke   mew  fey  -pi    -e   -n       -ew  fey  -nge   -y       ta  tüfey
+\ge un    -DIST PPOS DEM2 -decir -INV -IND.1SG -OBL DEM2 -COP   -IND.[3] DET DEM2
+\ps art   -det  ppos pro  -verbo -per -per     -per pro  -verbo -per     det pro
+
+\ft Algunos me dijeron: "es así la cosa
+\mm HectorMariano.14052013.capuchas_18mins.wav 339.000 341.960
+
+\block 115
+\ELANParticipant HM
+\ELANBegin 341.960
+\ELANEnd 346.120
+\tx iñche tañi          chaw   ta  küdawküley             ta  construccion      mew
+\mb iñche ta  -ñi      chaw   ta  küdaw   -küle -y       ta  construccion      mew
+\ge 1SG    DET -1SG.POSS padre  DET trabajar -PROG  -IND.[3] DET construcción PPOS
+\ps pro    det -pro      nombre det verbo    -tam-e -per     det nombre        ppos
+
+\ft mi papá trabaja en la construcción,
+\mm HectorMariano.14052013.capuchas_18mins.wav 341.960 346.120
+
+\block 116
+\ELANParticipant HM
+\ELANBegin 346.120
+\ELANEnd 348.800
+\tx rume     pichin          kullingekey
+\mb rume     pichi    -n     kulli -nge -ke    -y
+\ge mucho    pequeño -NMRZ1 pagar -PAS -HAB   -IND.[3]
+\ps adverbio adj      -nmrz  verbo -per -tam-e -per
+
+\ft le pagan muy poco,
+\mm HectorMariano.14052013.capuchas_18mins.wav 346.120 348.800
+
+\block 117
+\ELANParticipant HM
+\ELANBegin 348.800
+\ELANEnd 354.440
+\tx nienoli                     tüfamew   ta  beca,  kellunolimew                      ta  gobierno, ta  estado,
+\mb nie   -no       -l    -i   tüfa -mew ta  beca   kellu  -no       -l    -i   -mew ta  gobierno  ta  estado
+\ge tener -NEG2     -COND -1SG DEM1  -OBL DET beca   ayudar -NEG2     -COND -1SG -OBL DET gobierno  DET estado
+\ps verbo -adverbio -mod  -per pro   -per det nombre verbo  -adverbio -mod  -per -per det nombre    det nombre
+
+\ft si no tuviera beca, si no me ayudara el gobierno, el estado,
+\mm HectorMariano.14052013.capuchas_18mins.wav 348.800 354.440
+
+\block 118
+\ELANParticipant HM
+\ELANBegin 354.440
+\ELANEnd 356.720
+\tx iñche ta  chillkatulayafun                       piy
+\mb iñche ta  chillkatu -la   -ya    -fu    -n       pi    -y
+\ge 1SG    DET estudiar  -NEG1 -FUT   -AP    -IND.1SG decir -IND.[3]
+\ps pro    det verbo     -neg  -tam-e -tam-e -per     verbo -per
+
+\ft yo no estudiaría" dijo.
+\mm HectorMariano.14052013.capuchas_18mins.wav 354.440 356.720
+
+\block 119
+\ELANParticipant HM
+\ELANBegin 356.720
+\ELANEnd 359.000
+\tx feymew
+\mb feymew
+\ge entonces
+\ps conj
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 356.720 359.000
+
+\block 120
+\ELANParticipant HM
+\ELANBegin 359.000
+\ELANEnd 362.200
+\tx kiñeke     mew  niekelan                    iyael,
+\mb kiñe -ke   mew  nie   -ke    -la   -n       iyael
+\ge un    -DIST PPOS tener -HAB   -NEG1 -IND.1SG comida
+\ps art   -det  ppos verbo -tam-e -neg  -per     nombre
+
+\ft "algunas veces no tengo para comer,
+\mm HectorMariano.14052013.capuchas_18mins.wav 359.000 362.200
+
+\block 121
+\ELANParticipant HM
+\ELANBegin 362.200
+\ELANEnd 364.800
+\tx kiñeke     mew  niekelan                    kulliñ
+\mb kiñe -ke   mew  nie   -ke    -la   -n       kulliñ
+\ge un    -DIST PPOS tener -HAB   -NEG1 -IND.1SG plata
+\ps art   -det  ppos verbo -tam-e -neg  -per     nombre
+
+\ft algunas veces no tengo dinero
+\mm HectorMariano.14052013.capuchas_18mins.wav 362.200 364.800
+
+\block 122
+\ELANParticipant HM
+\ELANBegin 364.800
+\ELANEnd 367.160
+\tx ñi      ngillayael            iyael
+\mb ñi      ngilla  -ya    -el    iyael
+\ge 1SG.POSS comprar -FUT   -NMRZ2 comida
+\ps pro      verbo   -tam-e -nmzr  nombre
+
+\ft para comprar comida"
+\mm HectorMariano.14052013.capuchas_18mins.wav 364.800 367.160
+
+\block 123
+\ELANParticipant HM
+\ELANBegin 367.160
+\ELANEnd 370.640
+\tx piy            kiñe rupa   kiñe pichiwentru       nütramkaenew
+\mb pi    -y       kiñe rupa   kiñe pichi    -wentru nütramka -e   -n       -ew
+\ge decir -IND.[3] un    vez    un    pequeño -hombre conversar -INV -IND.1SG -OBL
+\ps verbo -per     art   nombre art   adj      -nombre verbo     -per -per     -per
+
+\ft dijo una vez un niño, me conversó.
+\mm HectorMariano.14052013.capuchas_18mins.wav 367.160 370.640
+
+\block 124
+\ELANParticipant HM
+\ELANBegin 370.640
+\ELANEnd 375.400
+\tx rume     longkon-tuñmafin                          tañi          nütram
+\mb rume     longko -n     -tu    -ñma  -fi   -n       ta  -ñi      nütram
+\ge mucho    cabeza -NMRZ1 -APPL3 -APPL1 -3.OP -IND.1SG DET -1SG.POSS historia
+\ps adverbio nombre -nmrz  -per   -per   -per  -per     det -pro      sustantivo
+
+\ft Se me quedó grabada su conversación.
+\mm HectorMariano.14052013.capuchas_18mins.wav 370.640 375.400
+
+\block 125
+\ELANParticipant HM
+\ELANBegin 375.400
+\ELANEnd 378.680
+\tx kiñe pataka nien           tañi          ponsiku  mew
+\mb kiñe pataka nie   -n       ta  -ñi      ponsiku  mew
+\ge un    cien   tener -IND.1SG DET -1SG.POSS bolsillo PPOS
+\ps art   nombre verbo -per     det -pro      nombre   ppos
+
+\ft "cien pesos tengo en el bolsillo,
+\mm HectorMariano.14052013.capuchas_18mins.wav 375.400 378.680
+
+\block 126
+\ELANParticipant HM
+\ELANBegin 378.680
+\ELANEnd 381.280
+\tx welu
+\mb welu
+\ge pero
+\ps conj
+
+\ft pero
+\mm HectorMariano.14052013.capuchas_18mins.wav 378.680 381.280
+
+\block 127
+\ELANParticipant HM
+\ELANBegin 381.280
+\ELANEnd 384.600
+\tx müna    nguñelefun,                        ngillale           kiñe kofke
+\mb müna    nguñe       -le    -fu    -n       ngilla  -l    -e   kiñe kofke
+\ge mucho    tener.hambre -PROG  -AP    -IND.1SG comprar -COND -3SG un    pan
+\ps adverbio verbo        -tam-e -tam-e -per     verbo   -mod  -per art   nombre
+
+\ft aunque esté muy hambriento, si me comprara un pan,
+\mm HectorMariano.14052013.capuchas_18mins.wav 381.280 384.600
+
+\block 128
+\ELANParticipant HM
+\ELANBegin 384.600
+\ELANEnd 387.560
+\tx ngillale           kiñe kofke
+\mb ngilla  -l    -e   kiñe kofke
+\ge comprar -COND -3SG un    pan
+\ps verbo   -mod  -per art   nombre
+
+\ft si me comprara un pan,
+\mm HectorMariano.14052013.capuchas_18mins.wav 384.600 387.560
+
+\block 129
+\ELANParticipant HM
+\ELANBegin 387.560
+\ELANEnd 391.000
+\tx nentulayafin                       chi  fotocopia
+\mb nentu -la    -ya    -fi   -n       chi  fotocopia
+\ge sacar -NEG1  -FUT   -3.OP -IND.1SG DEM2 fotocopia
+\ps verbo -neg   -tam-e -per  -per     dem  nombre
+
+\ft no sacaré las fotocopias.
+\mm HectorMariano.14052013.capuchas_18mins.wav 387.560 391.000
+
+\block 130
+\ELANParticipant HM
+\ELANBegin 391.000
+\ELANEnd 393.600
+\tx nentuan               fotocopia
+\mb nentu -a     -n       fotocopia
+\ge sacar -FUT   -IND.1SG fotocopia
+\ps verbo -tam-e -per     nombre
+
+\ft Voy a sacar las fotocopias,
+\mm HectorMariano.14052013.capuchas_18mins.wav 391.000 393.600
+
+\block 131
+\ELANParticipant HM
+\ELANBegin 393.600
+\ELANEnd 396.400
+\tx mejor,   entuan                fotocopia
+\mb mejor    entu  -a     -n       fotocopia
+\ge mejor    sacar -FUT   -IND.1SG fotocopia
+\ps adverbio verbo -tam-e -per     nombre
+
+\ft mejor, voy a sacar las fotocopias,
+\mm HectorMariano.14052013.capuchas_18mins.wav 393.600 396.400
+
+\block 132
+\ELANParticipant HM
+\ELANBegin 396.400
+\ELANEnd 398.840
+\tx ka   antü
+\mb ka   antü
+\ge y    día
+\ps conj nombre
+
+\ft y algún día,
+\mm HectorMariano.14052013.capuchas_18mins.wav 396.400 398.840
+
+\block 133
+\ELANParticipant HM
+\ELANBegin 398.840
+\ELANEnd 400.720
+\tx entuli           tañi          chillkatun
+\mb entu  -l    -i   ta  -ñi      chillkatu -n
+\ge sacar -COND -1SG DET -1SG.POSS estudiar  -NMRZ1
+\ps verbo -mod  -per det -pro      verbo     -nmrz
+
+\ft cuando saqué mis estudios,
+\mm HectorMariano.14052013.capuchas_18mins.wav 398.840 400.720
+
+\block 134
+\ELANParticipant HM
+\ELANBegin 400.720
+\ELANEnd 404.080
+\tx doy      kiñe kofke  niean                 tañi.
+\mb doy      kiñe kofke  nie   -a     -n       ta  -ñi
+\ge más     un    pan    tener -FUT   -IND.1SG DET -1SG.POSS
+\ps adverbio art   nombre verbo -tam-e -per     det -pro
+
+\ft más de un pan tendré,
+\mm HectorMariano.14052013.capuchas_18mins.wav 400.720 404.080
+
+\block 135
+\ELANParticipant HM
+\ELANBegin 404.080
+\ELANEnd 407.640
+\tx kimli,           profesorngeli,             kimelfengeli
+\mb kim   -l    -i   profesor -nge   -l    -i   kimelfe    -nge   -l    -i
+\ge saber -COND -1SG profesor -COP   -COND -1SG sustantivo -COP   -COND -1SG
+\ps verbo -mod  -per nombre   -verbo -mod  -per nombre     -verbo -mod  -per
+
+\ft si sé, si soy profesor,
+\mm HectorMariano.14052013.capuchas_18mins.wav 404.080 407.640
+
+\block 136
+\ELANParticipant HM
+\ELANBegin 407.640
+\ELANEnd 409.720
+\tx piy            ñi      rakiduam    mew  piy
+\mb pi    -y       ñi      rakiduam    mew  pi    -y
+\ge decir -IND.[3] 1SG.POSS pensamiento PPOS decir -IND.[3]
+\ps verbo -per     pro      nombre      ppos verbo -per
+
+\ft dice mi pensamiento" dijo.
+\mm HectorMariano.14052013.capuchas_18mins.wav 407.640 409.720
+
+\block 137
+\ELANParticipant HM
+\ELANBegin 409.720
+\ELANEnd 413.160
+\tx kiñe pataka niekefuy                     tañi          ponsiku  mew
+\mb kiñe pataka nie   -ke    -fu    -y       ta  -ñi      ponsiku  mew
+\ge un    cien   tener -HAB   -AP    -IND.[3] DET -1SG.POSS bolsillo PPOS
+\ps art   nombre verbo -tam-e -tam-e -per     det -pro      nombre   ppos
+
+\ft Aunque tuviera cien pesos en el bolsillo,
+\mm HectorMariano.14052013.capuchas_18mins.wav 409.720 413.160
+
+\block 138
+\ELANParticipant HM
+\ELANBegin 413.160
+\ELANEnd 415.960
+\tx feymew   feypilu
+\mb feymew   fey  -pi    -lu
+\ge entonces DEM2 -decir -advr.1
+\ps conj     pro  -verbo -advr
+
+\ft entonces cuando me dijo eso,
+\mm HectorMariano.14052013.capuchas_18mins.wav 413.160 415.960
+
+\block 139
+\ELANParticipant HM
+\ELANBegin 415.960
+\ELANEnd 419.800
+\tx leli... lelifin,             amatufin               tañi        rakiduam
+\mb leli    leli  -fi   -n       amatu   -fi   -n       ta  -ñi    rakiduam
+\ge mirar   mirar -3.OP -IND.1SG admirar -3.OP -IND.1SG DET -3.POSS pensamiento
+\ps verbo   verbo -per  -per     verbo   -per  -per     det -pro    nombre
+
+\ft lo miré, mucho admiré su pensamiento.
+\mm HectorMariano.14052013.capuchas_18mins.wav 415.960 419.800
+
+\block 140
+\ELANParticipant HM
+\ELANBegin 420.280
+\ELANEnd 422.920
+\tx ruf      dungu  feychi     dungu
+\mb ruf      dungu  fey  -chi  dungu
+\ge verdad   asunto DEM2 -adjr asunto
+\ps adverbio nombre pro  -***  nombre
+
+\ft Es verdad ese asunto.
+\mm HectorMariano.14052013.capuchas_18mins.wav 420.280 422.920
+
+\block 141
+\ELANParticipant HM
+\ELANBegin 422.920
+\ELANEnd 425.200
+\tx feychi     antü
+\mb fey  -chi  antü
+\ge DEM2 -adjr día
+\ps pro  -***  nombre
+
+\ft Ese día,
+\mm HectorMariano.14052013.capuchas_18mins.wav 422.920 425.200
+
+\block 142
+\ELANParticipant HM
+\ELANBegin 425.200
+\ELANEnd 428.960
+\tx ile              kiñe kofke, nentulayafuy                        fotocopia
+\mb i     -l    -e   kiñe kofke  nentu -la    -ya    -fu    -y       fotocopia
+\ge comer -COND -3SG un    pan    sacar -NEG1  -FUT   -AP    -IND.[3] fotocopia
+\ps verbo -mod  -per art   nombre verbo -neg   -tam-e -tam-e -per     nombre
+
+\ft si se come un pan, no saca las fotocopias,
+\mm HectorMariano.14052013.capuchas_18mins.wav 425.200 428.960
+
+\block 143
+\ELANParticipant HM
+\ELANBegin 428.960
+\ELANEnd 432.560
+\tx welu ilay                 nentuy         fotocopia, papeltuy
+\mb welu i     -la   -y       nentu -y       fotocopia  papel  -tu    -y
+\ge pero comer -NEG1 -IND.[3] sacar -IND.[3] fotocopia  papel  -APPL3 -IND.[3]
+\ps conj verbo -neg  -per     verbo -per     nombre     nombre -per   -per
+
+\ft pero no come, saca las fotocopias, estudia,
+\mm HectorMariano.14052013.capuchas_18mins.wav 428.960 432.560
+
+\block 144
+\ELANParticipant HM
+\ELANBegin 432.560
+\ELANEnd 434.560
+\tx kiñe küme    nota   entuy
+\mb kiñe küme    nota   entu  -y
+\ge un    bien     nota   sacar -IND.[3]
+\ps art   adverbio nombre verbo -per
+
+\ft se saca una buena nota,
+\mm HectorMariano.14052013.capuchas_18mins.wav 432.560 434.560
+
+\block 145
+\ELANParticipant HM
+\ELANBegin 434.560
+\ELANEnd 439.320
+\tx ñi    newen-tun             ñi    kutrankawün
+\mb ñi    newen    -tu   -n     ñi    kutrankaw   -ün
+\ge 3.POSS energía -VERB -NMRZ1 3.POSS sufrir      -NMRZ1
+\ps pro    nombre   -der  -nmrz  pro    verbo       -nmrz
+
+\ft para fortalecer su sufrimiento
+\mm HectorMariano.14052013.capuchas_18mins.wav 434.560 439.320
+
+\block 146
+\ELANParticipant HM
+\ELANBegin 439.320
+\ELANEnd 441.360
+\tx chillkatun       nielu
+\mb chillkatu -n     nie   -lu
+\ge estudiar  -NMRZ1 tener -advr.1
+\ps verbo     -nmrz  verbo -advr
+
+\ft que tiene en los estudios.
+\mm HectorMariano.14052013.capuchas_18mins.wav 439.320 441.360
+
+\block 147
+\ELANParticipant HM
+\ELANBegin 441.640
+\ELANEnd 445.160
+\tx femngechilerkey                  ta  tüfachi    dungu  tüfachi    universidad mew
+\mb femngechi -le    -rke   -y       ta  tüfa -chi  dungu  tüfa -chi  universidad mew
+\ge así      -ESTAT -EVID  -IND.[3] DET DEM1  -adjr asunto DEM1  -adjr universidad PPOS
+\ps adverbio  -tam-e -tam-e -per     det pro   -***  nombre pro   -***  nombre      ppos
+
+\ft Así resultó estar la cosa en esta universidad.
+\mm HectorMariano.14052013.capuchas_18mins.wav 441.640 445.160
+
+\block 148
+\ELANParticipant HM
+\ELANBegin 446.240
+\ELANEnd 447.840
+\tx fey  ka
+\mb fey  ka
+\ge DEM2 y
+\ps pro  conj
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 446.240 447.840
+
+\block 149
+\ELANParticipant HM
+\ELANBegin 447.840
+\ELANEnd 451.560
+\tx doy      rupalu         antü  mew  doy      rupalu         antü  rupalu
+\mb doy      rupa   -lu     antü  mew  doy      rupa   -lu     antü  rupa   -lu
+\ge más     vez    -advr.1 día   PPOS más     vez    -advr.1 día   vez    -advr.1
+\ps adverbio nombre -advr   nombre ppos adverbio nombre -advr   nombre nombre -advr
+
+\ft cuando pasaron más días, cuando más días pasaron,
+\mm HectorMariano.14052013.capuchas_18mins.wav 447.840 451.560
+
+\block 150
+\ELANParticipant HM
+\ELANBegin 451.560
+\ELANEnd 453.320
+\tx rangiñ tripantü peno
+\mb rangiñ tripantü peno
+\ge medio   año      DUB
+\ps nombre  nombre    part
+
+\ft medio año quizás,
+\mm HectorMariano.14052013.capuchas_18mins.wav 451.560 453.320
+
+\block 151
+\ELANParticipant HM
+\ELANBegin 453.320
+\ELANEnd 456.120
+\tx trawürumey              ta  pu  küdawfe
+\mb trawü   -rume  -y       ta  pu  küdaw   -fe
+\ge juntarse -RPN   -IND.[3] DET COL trabajar -AG
+\ps verbo    -tam-E -per     det det verbo    -der
+
+\ft de repente se juntaron los trabajadores.
+\mm HectorMariano.14052013.capuchas_18mins.wav 453.320 456.120
+
+\block 152
+\ELANParticipant HM
+\ELANBegin 456.320
+\ELANEnd 459.560
+\tx ka   feypiy                ñi    nütramkan
+\mb ka   fey  -pi    -y       ñi    nütramka -n
+\ge y    DEM2 -decir -IND.[3] 3.POSS conversar -NMRZ1
+\ps conj pro  -verbo -per     pro    verbo     -nmrz
+
+\ft Y así dijo su conversación:
+\mm HectorMariano.14052013.capuchas_18mins.wav 456.320 459.560
+
+\block 153
+\ELANParticipant HM
+\ELANBegin 459.560
+\ELANEnd 461.520
+\tx iñchiñ ta
+\mb iñchiñ ta
+\ge nosotros DET
+\ps pro      det
+
+\ft "nosotros,
+\mm HectorMariano.14052013.capuchas_18mins.wav 459.560 461.520
+
+\block 154
+\ELANParticipant HM
+\ELANBegin 461.520
+\ELANEnd 464.240
+\tx rume     pichin          kullingekeiñ
+\mb rume     pichi    -n     kulli -nge -ke    -iñ
+\ge mucho    pequeño -NMRZ1 pagar -PAS -HAB   -IND.1PL
+\ps adverbio adj      -nmrz  verbo -per -tam-e -per
+
+\ft nos pagan muy poco,
+\mm HectorMariano.14052013.capuchas_18mins.wav 461.520 464.240
+
+\block 155
+\ELANParticipant HM
+\ELANBegin 464.240
+\ELANEnd 470.480
+\tx nielaiñ             ta  chumngechi ñi    kullingeken              ta  pu  kimelfe
+\mb nie   -la   -iñ     ta  chumngechi ñi    kulli -nge -ke    -n     ta  pu  kimelfe
+\ge tener -NEG1 -IND.1PL DET cómo      3.POSS pagar -PAS -HAB   -NMRZ1 DET COL sustantivo
+\ps verbo -neg  -per     det pro        pro    verbo -per -tam-e -nmrz  det det nombre
+
+\ft no tenemos los sueldos que les pagan a los profesores,
+\mm HectorMariano.14052013.capuchas_18mins.wav 464.240 470.480
+
+\block 156
+\ELANParticipant HM
+\ELANBegin 470.600
+\ELANEnd 472.880
+\tx femngechi ta  kullingekelaiñ,
+\mb femngechi ta  kulli -nge -ke    -la   -iñ
+\ge así      DET pagar -PAS -HAB   -NEG1 -IND.1PL
+\ps adverbio  det verbo -per -tam-e -neg  -per
+
+\ft no nos pagan así,
+\mm HectorMariano.14052013.capuchas_18mins.wav 470.600 472.880
+
+\block 157
+\ELANParticipant HM
+\ELANBegin 472.880
+\ELANEnd 476.800
+\tx rulpakelaiñ                küyen tañi          iyael
+\mb rulpa -ke    -la   -iñ     küyen ta  -ñi      iyael
+\ge pasar -HAB   -NEG1 -IND.1PL mes    DET -1SG.POSS comida
+\ps verbo -tam-e -neg  -per     nombre det -pro      nombre
+
+\ft no alcanzamos a llegar a fin de mes para comer,
+\mm HectorMariano.14052013.capuchas_18mins.wav 472.880 476.800
+
+\block 158
+\ELANParticipant HM
+\ELANBegin 476.800
+\ELANEnd 479.080
+\tx rulpakelaiñ                küyen taiñ
+\mb rulpa -ke    -la   -iñ     küyen ta  -iñ
+\ge pasar -HAB   -NEG1 -IND.1PL mes    DET -IND.1PL
+\ps verbo -tam-e -neg  -per     nombre det -per
+
+\ft no alcanzamos a llegar a fin de mes con
+\mm HectorMariano.14052013.capuchas_18mins.wav 476.800 479.080
+
+\block 159
+\ELANParticipant HM
+\ELANBegin 479.080
+\ELANEnd 483.040
+\tx küdaw   mew  tunten  tañi          kullingen
+\mb küdaw   mew  tunten  ta  -ñi      kulli -nge -n
+\ge trabajar PPOS cuánto DET -1SG.POSS pagar -PAS -NMRZ1
+\ps verbo    ppos pro     det -pro      verbo -per -nmrz
+
+\ft nuestro trabajo, con lo que nos pagan.
+\mm HectorMariano.14052013.capuchas_18mins.wav 479.080 483.040
+
+\block 160
+\ELANParticipant HM
+\ELANBegin 483.360
+\ELANEnd 485.000
+\tx pichin          ngillakaiñ             ta  iyael
+\mb pichi    -n     ngilla  -ka    -iñ     ta  i     -ya    -el
+\ge pequeño -NMRZ1 comprar -CONT  -IND.1PL DET comer -FUT   -NMRZ2
+\ps adj      -nmrz  verbo   -tam-e -per     det verbo -tam-e -nmzr
+
+\ft Compramos poco para comer,
+\mm HectorMariano.14052013.capuchas_18mins.wav 483.360 485.000
+
+\block 161
+\ELANParticipant HM
+\ELANBegin 485.000
+\ELANEnd 488.240
+\tx purum        afi               tañi          kulliñ, tañi          plata
+\mb purum        af       -i       ta  -ñi      kulliñ  ta  -ñi      plata
+\ge de.inmediato terminar -IND.[3] DET -1SG.POSS plata    DET -1SG.POSS plata
+\ps adverbio     verbo    -per     det -pro      nombre   det -pro      nombre
+
+\ft de inmediato se acaba la plata",
+\mm HectorMariano.14052013.capuchas_18mins.wav 485.000 488.240
+
+\block 162
+\ELANParticipant HM
+\ELANBegin 488.240
+\ELANEnd 489.880
+\tx piy            ñi    rakiduam    engün
+\mb pi    -y       ñi    rakiduam    engün
+\ge decir -IND.[3] 3.POSS pensamiento 3.PL
+\ps verbo -per     pro    nombre      per
+
+\ft decía el pensamiento de ellos.
+\mm HectorMariano.14052013.capuchas_18mins.wav 488.240 489.880
+
+\block 163
+\ELANParticipant HM
+\ELANBegin 489.880
+\ELANEnd 492.320
+\tx awkamefiiñ                 ta  ti   pu
+\mb awka   -me   -fi   -iñ     ta  ti   pu
+\ge luchar -DIR3 -3.OP -IND.1PL DET DET2 COL
+\ps verbo  -dir  -per  -per     det det  det
+
+\ft "Les vamos a ir a pelear a los
+\mm HectorMariano.14052013.capuchas_18mins.wav 489.880 492.320
+
+\block 164
+\ELANParticipant HM
+\ELANBegin 492.320
+\ELANEnd 495.080
+\tx longkolelu            tüfa mew
+\mb longko -le    -lu     tüfa mew
+\ge cabeza -ESTAT -advr.1 DEM1  PPOS
+\ps nombre -tam-e -advr   pro   ppos
+
+\ft que mandan acá.
+\mm HectorMariano.14052013.capuchas_18mins.wav 492.320 495.080
+
+\block 165
+\ELANParticipant HM
+\ELANBegin 495.080
+\ELANEnd 499.480
+\tx amuiñ         feypimefiiñ                      ka   pichiñ  kullingeiñ
+\mb amu   -iñ     fey  -pi    -me   -fi   -iñ     ka   pichiñ  kulli -nge -iñ
+\ge ir    -IND.1PL DEM2 -decir -DIR3 -3.OP -IND.1PL y    poco     pagar -PAS -IND.1PL
+\ps verbo -per     pro  -verbo -dir  -per  -per     conj adverbio verbo -per -per
+
+\ft Iremos, les diremos "paguenos un poco màs""
+\mm HectorMariano.14052013.capuchas_18mins.wav 495.080 499.480
+
+\block 166
+\ELANParticipant HM
+\ELANBegin 499.480
+\ELANEnd 501.200
+\tx pingün
+\mb pi    -ngün
+\ge decir -3.PL
+\ps verbo -per
+
+\ft dijeron.
+\mm HectorMariano.14052013.capuchas_18mins.wav 499.480 501.200
+
+\block 167
+\ELANParticipant HM
+\ELANBegin 501.200
+\ELANEnd 503.520
+\tx müna    weda     pin
+\mb müna    weda     pi    -n
+\ge mucho    malo     decir -IND.1SG
+\ps adverbio adjetivo verbo -per
+
+\ft "¡Qué mal!", dije.
+\mm HectorMariano.14052013.capuchas_18mins.wav 501.200 503.520
+
+\block 168
+\ELANParticipant HM
+\ELANBegin 503.520
+\ELANEnd 505.360
+\tx iñche
+\mb iñche
+\ge 1SG
+\ps pro
+
+\ft Yo
+\mm HectorMariano.14052013.capuchas_18mins.wav 503.520 505.360
+
+\block 169
+\ELANParticipant HM
+\ELANBegin 505.360
+\ELANEnd 508.040
+\tx konan                  tüfachi    dungu  mew  ka
+\mb kon    -a     -n       tüfa -chi  dungu  mew  ka
+\ge entrar -FUT   -IND.1SG DEM1  -adjr asunto PPOS y
+\ps verbo  -tam-e -per     pro   -***  nombre ppos conj
+
+\ft entraré a este asunto también.
+\mm HectorMariano.14052013.capuchas_18mins.wav 505.360 508.040
+
+\block 170
+\ELANParticipant HM
+\ELANBegin 508.040
+\ELANEnd 510.720
+\tx fey  chumafun                     kay
+\mb fey  chum  -a     -fu    -n       kay
+\ge DEM2 cómo -FUT   -AP    -IND.1SG y
+\ps pro  pro   -tam-e -tam-e -per     conj
+
+\ft "¿Què hare, pues?
+\mm HectorMariano.14052013.capuchas_18mins.wav 508.040 510.720
+
+\block 171
+\ELANParticipant HM
+\ELANBegin 510.720
+\ELANEnd 513.840
+\tx chumngechileyngün                ka   felerkeyngün
+\mb chumngechi -le    -y       -ngün ka   fele     -rke   -y       -ngün
+\ge cómo      -ESTAT -IND.[3] -3.PL  y    ser así -EVID  -IND.[3] -3.PL
+\ps pro        -tam-e -per     -per   conj verbo    -tam-e -per     -per
+
+\ft Resulta que así están ellos,
+\mm HectorMariano.14052013.capuchas_18mins.wav 510.720 513.840
+
+\block 172
+\ELANParticipant HM
+\ELANBegin 513.840
+\ELANEnd 516.720
+\tx fey  ta  müta        kullingekey                ta  ko,
+\mb fey  ta  müta        kulli -nge -ke    -y       ta  ko
+\ge DEM2 DET rápidamente pagar -PAS -HAB   -IND.[3] DET agua
+\ps pro  det adverbio     verbo -per -tam-e -per     det nombre
+
+\ft se paga el agua,
+\mm HectorMariano.14052013.capuchas_18mins.wav 513.840 516.720
+
+\block 173
+\ELANParticipant HM
+\ELANBegin 516.720
+\ELANEnd 519.680
+\tx kullingekey                ta  pelon
+\mb kulli -nge -ke    -y       ta  pelon
+\ge pagar -PAS -HAB   -IND.[3] DET luz
+\ps verbo -per -tam-e -per     det nombre
+
+\ft se paga la luz,
+\mm HectorMariano.14052013.capuchas_18mins.wav 516.720 519.680
+
+\block 174
+\ELANParticipant HM
+\ELANBegin 519.680
+\ELANEnd 524.240
+\tx kullingekey                ta  küpayael           fillantü               küdawpayael
+\mb kulli -nge -ke    -y       ta  küpa -ya    -el    fill           -antü  küdaw   -pa    -ya    -el
+\ge pagar -PAS -HAB   -IND.[3] DET venir -FUT   -NMRZ2 cada uno       -día   trabajar -DIR.1 -FUT   -NMRZ2
+\ps verbo -per -tam-e -per     det verbo -tam-e -nmzr  adjetivo       -nombre verbo    -dir   -tam-e -nmzr
+
+\ft se paga para venir acá todos los días a trabajar,
+\mm HectorMariano.14052013.capuchas_18mins.wav 519.680 524.240
+
+\block 175
+\ELANParticipant HM
+\ELANBegin 524.240
+\ELANEnd 526.160
+\tx kullingekey                ta
+\mb kulli -nge -ke    -y       ta
+\ge pagar -PAS -HAB   -IND.[3] DET
+\ps verbo -per -tam-e -per     det
+
+\ft se paga
+\mm HectorMariano.14052013.capuchas_18mins.wav 524.240 526.160
+
+\block 176
+\ELANParticipant HM
+\ELANBegin 526.160
+\ELANEnd 529.160
+\tx dewmaiyael               feychi     gas    pingelu
+\mb dewma -i   -ya    -el    fey  -chi  gas    pi    -nge -lu
+\ge hacer -1SG -FUT   -NMRZ2 DEM2 -adjr gas    decir -PAS -advr.1
+\ps verbo -per -tam-e -nmzr  pro  -***  nombre verbo -per -advr
+
+\ft para hacer la comida, gas que se llama.
+\mm HectorMariano.14052013.capuchas_18mins.wav 526.160 529.160
+
+\block 177
+\ELANParticipant HM
+\ELANBegin 529.160
+\ELANEnd 531.400
+\tx fillke
+\mb fill           -ke
+\ge cada uno       -DIST
+\ps adjetivo       -det
+
+\ft Muchos,
+\mm HectorMariano.14052013.capuchas_18mins.wav 529.160 531.400
+
+\block 178
+\ELANParticipant HM
+\ELANBegin 531.400
+\ELANEnd 534.400
+\tx fillke               kulliñ mülerkey
+\mb fill           -ke   kulliñ müle -rke   -y
+\ge cada uno       -DIST plata   estar -EVID  -IND.[3]
+\ps adjetivo       -det  nombre  verbo -tam-e -per
+
+\ft muchos pagos resulta que hay.
+\mm HectorMariano.14052013.capuchas_18mins.wav 531.400 534.400
+
+\block 179
+\ELANParticipant HM
+\ELANBegin 534.400
+\ELANEnd 536.800
+\tx fey  rakin           tañi          kulliñ
+\mb fey  raki   -n       ta  -ñi      kulliñ
+\ge DEM2 contar -IND.1SG DET -1SG.POSS plata
+\ps pro  verbo  -per     det -pro      nombre
+
+\ft Entonces, cuento mi plata,
+\mm HectorMariano.14052013.capuchas_18mins.wav 534.400 536.800
+
+\block 180
+\ELANParticipant HM
+\ELANBegin 536.800
+\ELANEnd 539.600
+\tx puwlay                      tañi          rupayael             ta ti   küyen
+\mb puw          -la   -y       ta  -ñi      rupa   -ya    -el    ta ti   küyen
+\ge llegar.allá -NEG1 -IND.[3] DET -1SG.POSS vez    -FUT   -NMRZ2 DETDET2 mes
+\ps verbo        -neg  -per     det -pro      nombre -tam-e -nmzr  detdet  nombre
+
+\ft no llego a pasar el mes.
+\mm HectorMariano.14052013.capuchas_18mins.wav 536.800 539.600
+
+\block 181
+\ELANParticipant HM
+\ELANBegin 539.600
+\ELANEnd 542.600
+\tx feyngerkey,                 konan                  tüfachi    weychan       mew
+\mb fey  -nge   -rke   -y       kon    -a     -n       tüfa -chi  weycha -n     mew
+\ge DEM2 -COP   -EVID  -IND.[3] entrar -FUT   -IND.1SG DEM1  -adjr lucha  -NMRZ1 PPOS
+\ps pro  -verbo -tam-e -per     verbo  -tam-e -per     pro   -***  nombre -nmrz  ppos
+
+\ft Resulta que es así, entrarè a esta lucha"
+\mm HectorMariano.14052013.capuchas_18mins.wav 539.600 542.600
+
+\block 182
+\ELANParticipant HM
+\ELANBegin 542.600
+\ELANEnd 544.570
+\tx ka   pin            tañi          rakiduam
+\mb ka   pi    -n       ta  -ñi      rakiduam
+\ge y    decir -IND.1SG DET -1SG.POSS pensamiento
+\ps conj verbo -per     det -pro      nombre
+
+\ft dijo mi pensamiento también.
+\mm HectorMariano.14052013.capuchas_18mins.wav 542.600 544.570
+
+\block 183
+\ELANParticipant HM
+\ELANBegin 544.600
+\ELANEnd 550.200
+\tx femngechiley              ta  pu  wecheke     che
+\mb femngechi -le    -y       ta  pu  weche -ke   che
+\ge así      -ESTAT -IND.[3] DET COL joven -DIST gente
+\ps adverbio  -tam-e -per     det det adj   -det  nombre
+
+\ft Así esta
+\mm HectorMariano.14052013.capuchas_18mins.wav 544.600 550.200
+
+\block 184
+\ELANParticipant HM
+\ELANBegin 550.200
+\ELANEnd 554.240
+\tx tañi        awkan         engün
+\mb ta  -ñi    awka   -n     engün
+\ge DET -3.POSS luchar -NMRZ1 3.PL
+\ps det -pro    verbo  -nmrz  per
+
+\ft la lucha de los jovenes.
+\mm HectorMariano.14052013.capuchas_18mins.wav 550.200 554.240
+
+\block 185
+\ELANParticipant HM
+\ELANBegin 554.240
+\ELANEnd 556.280
+\tx kiñeke     mew
+\mb kiñe -ke   mew
+\ge un    -DIST PPOS
+\ps art   -det  ppos
+
+\ft Algunas veces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 554.240 556.280
+
+\block 186
+\ELANParticipant HM
+\ELANBegin 556.280
+\ELANEnd 558.400
+\tx chumngelu am   tripayngün
+\mb chumngelu am   tripa -y       -ngün
+\ge por qué  INT  salir -IND.[3] -3.PL
+\ps pro       part verbo -per     -per
+
+\ft ¿Por qué salen?
+\mm HectorMariano.14052013.capuchas_18mins.wav 556.280 558.400
+
+\block 187
+\ELANParticipant HM
+\ELANBegin 558.400
+\ELANEnd 561.360
+\tx rüpü mew, fütra   rüpü mew
+\mb rüpü mew  fütra   rüpü mew
+\ge camino PPOS gran     camino PPOS
+\ps nombre ppos adverbio nombre ppos
+
+\ft A la calle, a la avenida
+\mm HectorMariano.14052013.capuchas_18mins.wav 558.400 561.360
+
+\block 188
+\ELANParticipant HM
+\ELANBegin 561.360
+\ELANEnd 564.440
+\tx Grecia engu Macul  tripayngün
+\mb Grecia engu Macul  tripa -y       -ngün
+\ge Grecia 3DU  Macul  salir -IND.[3] -3.PL
+\ps nombre per  nombre verbo -per     -per
+
+\ft a Grecia con Macul salen.
+\mm HectorMariano.14052013.capuchas_18mins.wav 561.360 564.440
+
+\block 189
+\ELANParticipant HM
+\ELANBegin 564.440
+\ELANEnd 568.160
+\tx dewmapuy             kiñe fütra   kütral engün
+\mb dewma -pu   -y       kiñe fütra   kütral engün
+\ge hacer -DIR2 -IND.[3] un    gran     fuego   3.PL
+\ps verbo -dir  -per     art   adverbio nombre  per
+
+\ft Allá hacen un gran fuego,
+\mm HectorMariano.14052013.capuchas_18mins.wav 564.440 568.160
+
+\block 190
+\ELANParticipant HM
+\ELANBegin 568.160
+\ELANEnd 570.760
+\tx lupümfiy                    ta  fey ti   chi
+\mb lup    -üm   -fi   -y       ta  fey ti   chi
+\ge quemar -CAUS1 -3.OP -IND.[3] DET DEM2DET2 DUB
+\ps verbo  -per   -per  -per     det pro det  part
+
+\ft hacen quemar esas,
+\mm HectorMariano.14052013.capuchas_18mins.wav 568.160 570.760
+
+\block 191
+\ELANParticipant HM
+\ELANBegin 570.760
+\ELANEnd 574.720
+\tx camion, rueda, lupümpuyngün
+\mb camion  rueda  lup    -üm   -pu   -y       -ngün
+\ge camión rueda  quemar -CAUS1 -DIR2 -IND.[3] -3.PL
+\ps nombre  nombre verbo  -per   -dir  -per     -per
+
+\ft rueda de camión hacen quemar.
+\mm HectorMariano.14052013.capuchas_18mins.wav 570.760 574.720
+
+\block 192
+\ELANParticipant HM
+\ELANBegin 574.720
+\ELANEnd 577.840
+\tx tripay         ta  fütra   kütral, fütra   pitrun,
+\mb tripa -y       ta  fütra   kütral  fütra   pitrun
+\ge salir -IND.[3] DET gran     fuego    gran     humo
+\ps verbo -per     det adverbio nombre   adverbio nombre
+
+\ft Sale un gran fuego, mucho humo,
+\mm HectorMariano.14052013.capuchas_18mins.wav 574.720 577.840
+
+\block 193
+\ELANParticipant HM
+\ELANBegin 577.840
+\ELANEnd 582.000
+\tx pilay                tañi        rupayael             kakelu             awtu,
+\mb pi    -la   -y       ta  -ñi    rupa   -ya    -el    ka   -ke   -lu     awtu
+\ge decir -NEG1 -IND.[3] DET -3.POSS vez    -FUT   -NMRZ2 y    -DIST -advr.1 auto
+\ps verbo -neg  -per     det -pro    nombre -tam-e -nmzr  conj -det  -advr   nombre
+
+\ft no quieren que pasen otros autos.
+\mm HectorMariano.14052013.capuchas_18mins.wav 577.840 582.000
+
+\block 194
+\ELANParticipant HM
+\ELANBegin 582.000
+\ELANEnd 583.960
+\tx feyngün
+\mb fey  -ngün
+\ge DEM2 -3.PL
+\ps pro  -per
+
+\ft Ellos
+\mm HectorMariano.14052013.capuchas_18mins.wav 582.000 583.960
+
+\block 195
+\ELANParticipant HM
+\ELANBegin 583.960
+\ELANEnd 586.240
+\tx wira-wira-nie-ngün           tañi
+\mb wira   -wira   -nie   -ngün ta  -ñi
+\ge gritar -gritar -PERF  -3.PL  DET -3.POSS
+\ps verbo  -verbo  -tam-e -per   det -pro
+
+\ft gritan con su
+\mm HectorMariano.14052013.capuchas_18mins.wav 583.960 586.240
+
+\block 196
+\ELANParticipant HM
+\ELANBegin 586.240
+\ELANEnd 589.720
+\tx pitu   engün, bocina piy   ta  wingka
+\mb pitu   engün  bocina pi    ta  wingka
+\ge pito   3.PL    bocina decir DET no.mapuche
+\ps nombre per     nombre verbo det nombre
+
+\ft pito, bocina dicen los wingkas.
+\mm HectorMariano.14052013.capuchas_18mins.wav 586.240 589.720
+
+\block 197
+\ELANParticipant HM
+\ELANBegin 589.720
+\ELANEnd 593.160
+\tx fey  ta  akukey,                     akulu               wula     ta  pu
+\mb fey  ta  aku         -ke    -y       aku         -lu     wula     ta  pu
+\ge DEM2 DET llegar.acá -HAB   -IND.[3] llegar.acá -advr.1 después DET COL
+\ps pro  det verbo       -tam-e -per     verbo       -advr   adverbio det det
+
+\ft Entonces llegan, cuando llegan los
+\mm HectorMariano.14052013.capuchas_18mins.wav 589.720 593.160
+
+\block 198
+\ELANParticipant HM
+\ELANBegin 593.160
+\ELANEnd 595.360
+\tx ketrolongko
+\mb ketro    -longko
+\ge cuadrado -cabeza
+\ps adjetivo -nombre
+
+\ft cabeza cuadrada,
+\mm HectorMariano.14052013.capuchas_18mins.wav 593.160 595.360
+
+\block 199
+\ELANParticipant HM
+\ELANBegin 595.360
+\ELANEnd 597.440
+\tx karü    weshakelutulelu
+\mb karü    weshakelu -tu    -le    -lu
+\ge verde    ropa      -APPL3 -PROG  -advr.1
+\ps adjetivo nombre    -per   -tam-e -advr
+
+\ft los que andan vestidos de verde,
+\mm HectorMariano.14052013.capuchas_18mins.wav 595.360 597.440
+
+\block 200
+\ELANParticipant HM
+\ELANBegin 597.440
+\ELANEnd 599.800
+\tx fey  wula     ta  famtripayngün
+\mb fey  wula     ta  fam      -tripa -y       -ngün
+\ge DEM2 después DET así     -salir -IND.[3] -3.PL
+\ps pro  adverbio det adverbio -verbo -per     -per
+
+\ft entonces, después salen así,
+\mm HectorMariano.14052013.capuchas_18mins.wav 597.440 599.800
+
+\block 201
+\ELANParticipant HM
+\ELANBegin 599.800
+\ELANEnd 604.240
+\tx nawpayngün                  ta ti   pu  ketrolongko,
+\mb naw   -pa    -y       -ngün ta ti   pu  ketro    -longko
+\ge bajar -DIR.1 -IND.[3] -3.PL  DETDET2 COL cuadrado -cabeza
+\ps verbo -dir   -per     -per   detdet  det adjetivo -nombre
+
+\ft se bajan acá los cabeza cuadrada,
+\mm HectorMariano.14052013.capuchas_18mins.wav 599.800 604.240
+
+\block 202
+\ELANParticipant HM
+\ELANBegin 604.240
+\ELANEnd 607.240
+\tx tralkatupayngün
+\mb tralkatu -pa    -y       -ngün
+\ge disparar -DIR.1 -IND.[3] -3.PL
+\ps verbo    -dir   -per     -per
+
+\ft disparan acá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 604.240 607.240
+
+\block 203
+\ELANParticipant HM
+\ELANBegin 607.240
+\ELANEnd 610.440
+\tx pütrün müna    numuy                   kiñe pitrun
+\mb pütrün müna    numu           -y       kiñe pitrun
+\ge mucho    mucho    estar.hediondo -IND.[3] un    humo
+\ps adverbio adverbio verbo          -per     art   nombre
+
+\ft muy hediondo un humo
+\mm HectorMariano.14052013.capuchas_18mins.wav 607.240 610.440
+
+\block 204
+\ELANParticipant HM
+\ELANBegin 610.440
+\ELANEnd 612.720
+\tx utruftukupayngün                     ka
+\mb utruf  -tuku  -pa    -y       -ngün ka
+\ge lanzar -poner -DIR.1 -IND.[3] -3.PL  y
+\ps verbo  -tam-e -dir   -per     -per   conj
+
+\ft tiran aca.
+\mm HectorMariano.14052013.capuchas_18mins.wav 610.440 612.720
+
+\block 205
+\ELANParticipant HM
+\ELANBegin 612.720
+\ELANEnd 618.440
+\tx müna    kutran     niey           ta  pel,   müna    kutran     niey           ta  nge,   re       ngümayawi           ta  che
+\mb müna    kutran     nie   -y       ta  pel    müna    kutran     nie   -y       ta  nge    re       ngüma -yaw -i       ta  che
+\ge mucho    enfermedad tener -IND.[3] DET cuello mucho    enfermedad tener -IND.[3] DET ojo    solo     llorar -AND -IND.[3] DET gente
+\ps adverbio nombre     verbo -per     det nombre adverbio nombre     verbo -per     det nombre adverbio verbo  -dir -per     det nombre
+
+\tx feychi     pitrun mew
+\mb fey  -chi  pitrun mew
+\ge DEM2 -adjr humo   PPOS
+\ps pro  -***  nombre ppos
+
+\ft Se enferma el cuello, se enferman los ojos, anda puro llorando la gente con ese humo.
+\mm HectorMariano.14052013.capuchas_18mins.wav 612.720 618.440
+
+\block 206
+\ELANParticipant HM
+\ELANBegin 618.760
+\ELANEnd 619.920
+\tx feychi     pitrun piam
+\mb fey  -chi  pitrun piam
+\ge DEM2 -adjr humo   EVID.REP
+\ps pro  -***  nombre part
+
+\ft Ese humo, dicen,
+\mm HectorMariano.14052013.capuchas_18mins.wav 618.760 619.920
+
+\block 207
+\ELANParticipant HM
+\ELANBegin 619.920
+\ELANEnd 623.240
+\tx kutrankey                  che    ka   antü
+\mb kutran     -ke    -y       che    ka   antü
+\ge enfermedad -HAB   -IND.[3] gente  y    día
+\ps nombre     -tam-e -per     nombre conj nombre
+
+\ft enferma a la gente a largo plazo,
+\mm HectorMariano.14052013.capuchas_18mins.wav 619.920 623.240
+
+\block 208
+\ELANParticipant HM
+\ELANBegin 623.240
+\ELANEnd 627.160
+\tx fey  perkankey                piam     ta  fun                 ponwitu,
+\mb fey  perkan   -ke    -y       piam     ta  *   -fu    -n       ponwitu
+\ge DEM2 podrirse -HAB   -IND.[3] EVID.REP DET *** -AP    -IND.1SG adentro
+\ps pro  verbo    -tam-e -per     part     det *** -tam-e -per     adverbio
+
+\ft entonces dicen que se pudre adentro,
+\mm HectorMariano.14052013.capuchas_18mins.wav 623.240 627.160
+
+\block 209
+\ELANParticipant HM
+\ELANBegin 627.160
+\ELANEnd 630.440
+\tx cancer pingey              ta  ti   kutran     feychi
+\mb cancer pi    -nge -y       ta  ti   kutran     fey  -chi
+\ge cancer decir -PAS -IND.[3] DET DET2 enfermedad DEM2 -adjr
+\ps nombre verbo -per -per     det det  nombre     pro  -***
+
+\ft cáncer se llama esa enfermedad.
+\mm HectorMariano.14052013.capuchas_18mins.wav 627.160 630.440
+
+\block 210
+\ELANParticipant HM
+\ELANBegin 630.560
+\ELANEnd 634.640
+\tx feychi     piam     ta  weda     pitrun wedake         dungu  wedake
+\mb fey  -chi  piam     ta  weda     pitrun weda     -ke   dungu  weda     -ke
+\ge DEM2 -adjr EVID.REP DET malo     humo   malo     -DIST asunto malo     -DIST
+\ps pro  -***  part     det adjetivo nombre adjetivo -det  nombre adjetivo -det
+
+\ft Entonces, dicen, ese humo es malo, cosas malas
+\mm HectorMariano.14052013.capuchas_18mins.wav 630.560 634.640
+
+\block 211
+\ELANParticipant HM
+\ELANBegin 634.640
+\ELANEnd 637.840
+\tx chem chi  ta  tukurkeyngün                tañi        pitrun mew
+\mb chem chi  ta  tuku  -rke   -y       -ngün ta  -ñi    pitrun mew
+\ge qué DUB  DET poner -EVID  -IND.[3] -3.PL  DET -3.POSS humo   PPOS
+\ps pro  part det tam-e -tam-e -per     -per   det -pro    nombre ppos
+
+\ft dicen que ocasiona ese humo.
+\mm HectorMariano.14052013.capuchas_18mins.wav 634.640 637.840
+
+\block 212
+\ELANParticipant HM
+\ELANBegin 637.840
+\ELANEnd 640.120
+\tx feymew
+\mb feymew
+\ge entonces
+\ps conj
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 637.840 640.120
+
+\block 213
+\ELANParticipant HM
+\ELANBegin 640.120
+\ELANEnd 642.400
+\tx kiñeke     che    tüfamew
+\mb kiñe -ke   che    tüfa -mew
+\ge un    -DIST gente  DEM1  -OBL
+\ps art   -det  nombre pro   -per
+
+\ft algunas personas acá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 640.120 642.400
+
+\block 214
+\ELANParticipant HM
+\ELANBegin 642.400
+\ELANEnd 645.360
+\tx winolkülen          tripay
+\mb winol  -küle -n     tripa -y
+\ge gatear -ESTAT -NMRZ1 salir -IND.[3]
+\ps verbo  -tam-e -nmrz  verbo -per
+
+\ft gateando salen
+\mm HectorMariano.14052013.capuchas_18mins.wav 642.400 645.360
+
+\block 215
+\ELANParticipant HM
+\ELANBegin 645.360
+\ELANEnd 648.280
+\tx feychi     pitrun konlu          tañi        mongen mew,
+\mb fey  -chi  pitrun kon    -lu     ta  -ñi    mongen mew
+\ge DEM2 -adjr humo   entrar -advr.1 DET -3.POSS vida   PPOS
+\ps pro  -***  nombre verbo  -advr   det -pro    nombre ppos
+
+\ft cuando ese humo entra a sus vidas.
+\mm HectorMariano.14052013.capuchas_18mins.wav 645.360 648.280
+
+\block 216
+\ELANParticipant HM
+\ELANBegin 648.280
+\ELANEnd 650.000
+\tx femngechiley              ta
+\mb femngechi -le    -y       ta
+\ge así      -ESTAT -IND.[3] DET
+\ps adverbio  -tam-e -per     det
+
+\ft Asì estàn
+\mm HectorMariano.14052013.capuchas_18mins.wav 648.280 650.000
+
+\block 217
+\ELANParticipant HM
+\ELANBegin 650.000
+\ELANEnd 652.000
+\tx ñi    dungu  engün
+\mb ñi    dungu  engün
+\ge 3.POSS asunto 3.PL
+\ps pro    nombre per
+
+\ft las cosas.
+\mm HectorMariano.14052013.capuchas_18mins.wav 650.000 652.000
+
+\block 218
+\ELANParticipant HM
+\ELANBegin 652.000
+\ELANEnd 654.880
+\tx kiñeke     mew  weda     dungungey
+\mb kiñe -ke   mew  weda     dungu  -nge   -y
+\ge un    -DIST PPOS malo     asunto -COP   -IND.[3]
+\ps art   -det  ppos adjetivo nombre -verbo -per
+
+\ft Algunas veces hay cosas malas.
+\mm HectorMariano.14052013.capuchas_18mins.wav 652.000 654.880
+
+\block 219
+\ELANParticipant HM
+\ELANBegin 654.880
+\ELANEnd 658.360
+\tx feychi     pu  che    karü   longko konpalu
+\mb fey  -chi  pu  che    karü   longko kon    -pa    -lu
+\ge DEM2 -adjr COL gente  verde   cabeza entrar -DIR.1 -advr.1
+\ps pro  -***  det nombre adjetivonombre verbo  -dir   -advr
+
+\ft Esta gente, los cabeza verde, cuando entran,
+\mm HectorMariano.14052013.capuchas_18mins.wav 654.880 658.360
+
+\block 220
+\ELANParticipant HM
+\ELANBegin 658.360
+\ELANEnd 660.240
+\tx ka   kewakapafiy                         che
+\mb ka   kewa   -ka    -pa    -fi   -y       che
+\ge y    pelear -CONT  -DIR.1 -3.OP -IND.[3] gente
+\ps conj verbo  -tam-e -dir   -per  -per     nombre
+
+\ft vienen a pelear con la gente,
+\mm HectorMariano.14052013.capuchas_18mins.wav 658.360 660.240
+
+\block 221
+\ELANParticipant HM
+\ELANBegin 660.240
+\ELANEnd 661.680
+\tx moltronpafiy
+\mb moltron -pa    -fi   -y
+\ge golpear -DIR.1 -3.OP -IND.[3]
+\ps verbo   -dir   -per  -per
+
+\ft los golpean,
+\mm HectorMariano.14052013.capuchas_18mins.wav 660.240 661.680
+
+\block 222
+\ELANParticipant HM
+\ELANBegin 661.680
+\ELANEnd 664.920
+\tx karoti  mew, furi    püle, longko püle
+\mb karoti  mew  furi    püle  longko püle
+\ge garrote PPOS espalda hacia  cabeza hacia
+\ps nombre  ppos nombre  adv    nombre adv
+
+\ft con los garrotes, en la espalda, en la cabeza
+\mm HectorMariano.14052013.capuchas_18mins.wav 661.680 664.920
+
+\block 223
+\ELANParticipant HM
+\ELANBegin 664.920
+\ELANEnd 667.080
+\tx che    trukukelafiy                         ta  che    engün
+\mb che    truku    -ke    -la   -fi   -y       ta  che    engün
+\ge gente  respetar -HAB   -NEG1 -3.OP -IND.[3] DET gente  3.PL
+\ps nombre verbo    -tam-e -neg  -per  -per     det nombre per
+
+\ft a la gente, no respetan a la gente,
+\mm HectorMariano.14052013.capuchas_18mins.wav 664.920 667.080
+
+\block 224
+\ELANParticipant HM
+\ELANBegin 667.080
+\ELANEnd 669.320
+\tx pichike        wecheke     wentru nungey
+\mb pichi    -ke   weche -ke   wentru nu      -nge -y
+\ge pequeño -DIST joven -DIST hombre agarrar -PAS -IND.[3]
+\ps adj      -det  adj   -det  nombre verbo   -per -per
+
+\ft los niños, los jovenes son atrapados.
+\mm HectorMariano.14052013.capuchas_18mins.wav 667.080 669.320
+
+\block 225
+\ELANParticipant HM
+\ELANBegin 669.320
+\ELANEnd 672.760
+\tx pu     awtu   piam
+\mb pu     awtu   piam
+\ge dentro auto   EVID.REP
+\ps prep   nombre part
+
+\ft En los autos, dicen,
+\mm HectorMariano.14052013.capuchas_18mins.wav 669.320 672.760
+
+\block 226
+\ELANParticipant HM
+\ELANBegin 672.760
+\ELANEnd 675.320
+\tx nentutuy              kiñe nütram    engün
+\mb nentu -tu    -y       kiñe nütram    engün
+\ge sacar -APPL3 -IND.[3] un    historia   3.PL
+\ps verbo -per   -per     art   sustantivo per
+
+\ft han sacado algunas conversaciones,
+\mm HectorMariano.14052013.capuchas_18mins.wav 672.760 675.320
+
+\block 227
+\ELANParticipant HM
+\ELANBegin 675.320
+\ELANEnd 678.000
+\tx müna    kewaenew                  chi  ketro    longko
+\mb müna    kewa   -e   -n       -ew  chi  ketro    longko
+\ge mucho    pelear -INV -IND.1SG -OBL DEM2 cuadrado cabeza
+\ps adverbio verbo  -per -per     -per dem  adjetivo nombre
+
+\ft mucho les pegan los cabeza cuadrada.
+\mm HectorMariano.14052013.capuchas_18mins.wav 675.320 678.000
+
+\block 228
+\ELANParticipant HM
+\ELANBegin 678.000
+\ELANEnd 679.800
+\tx tulongtukuenew
+\mb tulong -tuku  -e   -n       -ew
+\ge patear -poner -INV -IND.1SG -OBL
+\ps verbo  -tam-e -per -per     -per
+
+\ft "Me patearon,
+\mm HectorMariano.14052013.capuchas_18mins.wav 678.000 679.800
+
+\block 229
+\ELANParticipant HM
+\ELANBegin 679.800
+\ELANEnd 682.120
+\tx ñi      luku    mew, pütra    mew
+\mb ñi      luku    mew  pütra    mew
+\ge 1SG.POSS rodilla PPOS estómago PPOS
+\ps pro      nombre  ppos nombre    ppos
+
+\ft en las rodillas, en el estómago"
+\mm HectorMariano.14052013.capuchas_18mins.wav 679.800 682.120
+
+\block 230
+\ELANParticipant HM
+\ELANBegin 682.120
+\ELANEnd 683.720
+\tx piy            tañi        pinien              engün
+\mb pi    -y       ta  -ñi    pi    -nie   -n     engün
+\ge decir -IND.[3] DET -3.POSS decir -PERF  -NMRZ1 3.PL
+\ps verbo -per     det -pro    verbo -tam-e -nmrz  per
+
+\ft dicen algunos.
+\mm HectorMariano.14052013.capuchas_18mins.wav 682.120 683.720
+
+\block 231
+\ELANParticipant HM
+\ELANBegin 683.720
+\ELANEnd 687.040
+\tx awkan         reke müley         chi  dungu
+\mb awka   -n     reke müle -y       chi  dungu
+\ge luchar -NMRZ1 COMP estar -IND.[3] DEM2 asunto
+\ps verbo  -nmrz  ppos verbo -per     dem  nombre
+
+\ft Como una lucha hay,
+\mm HectorMariano.14052013.capuchas_18mins.wav 683.720 687.040
+
+\block 232
+\ELANParticipant HM
+\ELANBegin 687.040
+\ELANEnd 688.960
+\tx feychi     dungu
+\mb fey  -chi  dungu
+\ge DEM2 -adjr asunto
+\ps pro  -***  nombre
+
+\ft ese asunto
+\mm HectorMariano.14052013.capuchas_18mins.wav 687.040 688.960
+
+\block 233
+\ELANParticipant HM
+\ELANBegin 688.960
+\ELANEnd 692.040
+\tx mülen,        feychi     dungu  pepan                 tüfa mew
+\mb müle -n       fey  -chi  dungu  pe    -pa    -n       tüfa mew
+\ge estar -IND.1SG DEM2 -adjr asunto ver   -DIR.1 -IND.1SG DEM1  PPOS
+\ps verbo -per     pro  -***  nombre verbo -dir   -per     pro   ppos
+
+\ft estoy, ese asunto vi acá.
+\mm HectorMariano.14052013.capuchas_18mins.wav 688.960 692.040
+
+\block 234
+\ELANParticipant HM
+\ELANBegin 692.040
+\ELANEnd 697.920
+\tx fillke               mongen iñche tañi          lof       mew  feychi     dungu  ta  pekelafun
+\mb fill           -ke   mongen iñche ta  -ñi      lof       mew  fey  -chi  dungu  ta  pe    -ke    -la   -fu    -n
+\ge cada uno       -DIST vida   1SG    DET -1SG.POSS comunidad PPOS DEM2 -adjr asunto DET ver   -HAB   -NEG1 -AP    -IND.1SG
+\ps adjetivo       -det  nombre pro    det -pro      nombre    ppos pro  -***  nombre det verbo -tam-e -neg  -tam-e -per
+
+\ft De todo tipo de vida, en mi comunidad ese asunto yo no lo vi.
+\mm HectorMariano.14052013.capuchas_18mins.wav 692.040 697.920
+
+\block 235
+\ELANParticipant HM
+\ELANBegin 697.920
+\ELANEnd 701.040
+\tx Kurako Ranquil feychi     dungu  ngelay
+\mb Kurako Ranquil fey  -chi  dungu  nge   -la   -y
+\ge Curaco Ranquil DEM2 -adjr asunto haber -NEG1 -IND.[3]
+\ps nombre nombre  pro  -***  nombre verbo -neg  -per
+
+\ft En Curaco Ranquil este asunto no hay.
+\mm HectorMariano.14052013.capuchas_18mins.wav 697.920 701.040
+
+\block 236
+\ELANParticipant HM
+\ELANBegin 701.040
+\ELANEnd 704.200
+\tx femngechi kewan         ngelay,
+\mb femngechi kewa   -n     nge   -la   -y
+\ge así      pelear -NMRZ1 haber -NEG1 -IND.[3]
+\ps adverbio  verbo  -nmrz  verbo -neg  -per
+
+\ft Una pelea así, no hay.
+\mm HectorMariano.14052013.capuchas_18mins.wav 701.040 704.200
+
+\block 237
+\ELANParticipant HM
+\ELANBegin 704.200
+\ELANEnd 706.800
+\tx femngechi weychan       ngelay
+\mb femngechi weycha -n     nge   -la   -y
+\ge así      lucha  -NMRZ1 haber -NEG1 -IND.[3]
+\ps adverbio  nombre -nmrz  verbo -neg  -per
+
+\ft Una lucha así, no hay.
+\mm HectorMariano.14052013.capuchas_18mins.wav 704.200 706.800
+
+\block 238
+\ELANParticipant HM
+\ELANBegin 706.800
+\ELANEnd 708.600
+\tx ka   müley         kake       püle
+\mb ka   müle -y       ka   -ke   püle
+\ge y    estar -IND.[3] y    -DIST hacia
+\ps conj verbo -per     conj -det  adv
+
+\ft También hay otras cosas allá.
+\mm HectorMariano.14052013.capuchas_18mins.wav 706.800 708.600
+
+\block 239
+\ELANParticipant HM
+\ELANBegin 708.600
+\ELANEnd 711.800
+\tx fey  wula     tañi          lof       mew
+\mb fey  wula     ta  -ñi      lof       mew
+\ge DEM2 después DET -1SG.POSS comunidad PPOS
+\ps pro  adverbio det -pro      nombre    ppos
+
+\ft Allá en mi comunidad,
+\mm HectorMariano.14052013.capuchas_18mins.wav 708.600 711.800
+
+\block 240
+\ELANParticipant HM
+\ELANBegin 711.800
+\ELANEnd 716.200
+\tx muntutulu             ñi      mapu   engün ta  pu  wecheke     che
+\mb muntu  -tu    -lu     ñi      mapu   engün ta  pu  weche -ke   *kech  -e
+\ge quitar -APPL3 -advr.1 1SG.POSS tierra 3.PL   DET COL joven -DIST ***    -3SG
+\ps verbo  -per   -advr   pro      nombre per    det det adj   -det  ***    -per
+
+\ft cuando nos quitaron la tierra, los jovenes
+\mm HectorMariano.14052013.capuchas_18mins.wav 711.800 716.200
+
+\block 241
+\ELANParticipant HM
+\ELANBegin 716.200
+\ELANEnd 717.920
+\tx femmekeyngün                     ka
+\mb fem      -meke    -y       -ngün ka
+\ge ser.así -PROG.AG -IND.[3] -3.PL  y
+\ps verbo    -tam-e   -per     -per   conj
+
+\ft así hicieron también.
+\mm HectorMariano.14052013.capuchas_18mins.wav 716.200 717.920
+
+\block 242
+\ELANParticipant HM
+\ELANBegin 717.920
+\ELANEnd 719.960
+\tx awkanmekeyngün
+\mb awka   -n     -meke    -y       -ngün
+\ge luchar -NMRZ1 -PROG.AG -IND.[3] -3.PL
+\ps verbo  -nmrz  -tam-e   -per     -per
+
+\ft Estuvieron peleando,
+\mm HectorMariano.14052013.capuchas_18mins.wav 717.920 719.960
+
+\block 243
+\ELANParticipant HM
+\ELANBegin 719.960
+\ELANEnd 724.680
+\tx welu iñche mongelelu            feychi     mülelu       uyew     müte    ngeafuy                      feychi     dungu
+\mb welu iñche monge -le    -lu     fey  -chi  müle -lu     uyew     müte    nge   -a     -fu    -y       fey  -chi  dungu
+\ge pero 1SG    vivir -PROG  -advr.1 DEM2 -adjr estar -advr.1 allá    poco     haber -FUT   -AP    -IND.[3] DEM2 -adjr asunto
+\ps conj pro    verbo -tam-e -advr   pro  -***  verbo -advr   adverbio adverbio verbo -tam-e -tam-e -per     pro  -***  nombre
+
+\ft pero cuando yo vivía allá, cuando yo estaba alla, ya no había este asunto.
+\mm HectorMariano.14052013.capuchas_18mins.wav 719.960 724.680
+
+\block 244
+\ELANParticipant HM
+\ELANBegin 724.680
+\ELANEnd 726.080
+\tx femngechi peñi,
+\mb femngechi peñi
+\ge así      hermano (de ego masculino)
+\ps adverbio  nombre
+
+\ft Así, hermano,
+\mm HectorMariano.14052013.capuchas_18mins.wav 724.680 726.080
+
+\block 245
+\ELANParticipant HM
+\ELANBegin 726.080
+\ELANEnd 728.520
+\tx feychi     nütram    nien           tüfa
+\mb fey  -chi  nütram    nie   -n       tüfa
+\ge DEM2 -adjr historia   tener -IND.1SG DEM1
+\ps pro  -***  sustantivo verbo -per     pro
+
+\ft esa historia tengo ahora
+\mm HectorMariano.14052013.capuchas_18mins.wav 726.080 728.520
+
+\block 246
+\ELANParticipant HM
+\ELANBegin 728.520
+\ELANEnd 730.040
+\tx tañi          piael
+\mb ta  -ñi      pi    -a     -el
+\ge DET -1SG.POSS decir -FUT   -NMRZ2
+\ps det -pro      verbo -tam-e -nmzr
+
+\ft para decir
+\mm HectorMariano.14052013.capuchas_18mins.wav 728.520 730.040
+
+\block 247
+\ELANParticipant HM
+\ELANBegin 730.040
+\ELANEnd 733.200
+\tx chum  we       akulu               tüfachi    küdaw   mew,
+\mb chum  we       aku         -lu     tüfa -chi  küdaw   mew
+\ge cómo recien   llegar.acá -advr.1 DEM1  -adjr trabajar PPOS
+\ps pro   adverbio verbo       -advr   pro   -***  verbo    ppos
+
+\ft cómo era cuando llegue a este trabajo,
+\mm HectorMariano.14052013.capuchas_18mins.wav 730.040 733.200
+
+\block 248
+\ELANParticipant HM
+\ELANBegin 733.200
+\ELANEnd 737.320
+\tx wüne    llikalkaenew                               chi  pu  wecheke     che
+\mb wüne    llika     -l     -ka    -e   -n       -ew  chi  pu  weche -ke   che
+\ge primero  asustarse -APPL3 -CONT  -INV -IND.1SG -OBL DEM2 COL joven -DIST gente
+\ps adjetivo verbo     -per   -tam-e -per -per     -per dem  det adj   -det  nombre
+
+\ft mucho me asusté de los jovenes,
+\mm HectorMariano.14052013.capuchas_18mins.wav 733.200 737.320
+
+\block 249
+\ELANParticipant HM
+\ELANBegin 737.320
+\ELANEnd 739.120
+\tx kiñeke     mew
+\mb kiñe -ke   mew
+\ge un    -DIST PPOS
+\ps art   -det  ppos
+
+\ft algunas veces
+\mm HectorMariano.14052013.capuchas_18mins.wav 737.320 739.120
+
+\block 250
+\ELANParticipant HM
+\ELANBegin 739.120
+\ELANEnd 741.440
+\tx tralkatukonpay                   ta  ti   pu
+\mb tralkatu -kon    -pa    -y       ta  ti   pu
+\ge disparar -entrar -DIR.1 -IND.[3] DET DET2 COL
+\ps verbo    -verbo  -dir   -per     det det  det
+
+\ft disparaban acá los
+\mm HectorMariano.14052013.capuchas_18mins.wav 739.120 741.440
+
+\block 251
+\ELANParticipant HM
+\ELANBegin 741.440
+\ELANEnd 743.640
+\tx karü    longko
+\mb karü    longko
+\ge verde    cabeza
+\ps adjetivo nombre
+
+\ft cabeza verde,
+\mm HectorMariano.14052013.capuchas_18mins.wav 741.440 743.640
+
+\block 252
+\ELANParticipant HM
+\ELANBegin 743.640
+\ELANEnd 745.800
+\tx ketro    longko
+\mb ketro    longko
+\ge cuadrado cabeza
+\ps adjetivo nombre
+
+\ft cabeza cuadrada,
+\mm HectorMariano.14052013.capuchas_18mins.wav 743.640 745.800
+
+\block 253
+\ELANParticipant HM
+\ELANBegin 745.800
+\ELANEnd 749.720
+\tx tukefiy                       che,   longko mew
+\mb tu      -ke    -fi   -y       che    longko mew
+\ge agarrar -HAB   -3.OP -IND.[3] gente  cabeza PPOS
+\ps verbo   -tam-e -per  -per     nombre nombre ppos
+
+\ft agarraban a la gente, de la cabeza,
+\mm HectorMariano.14052013.capuchas_18mins.wav 745.800 749.720
+
+\block 254
+\ELANParticipant HM
+\ELANBegin 749.720
+\ELANEnd 753.040
+\tx langümafuy                    che    ka   feychi     tralkan,
+\mb la    -ngüma -fu    -y       che    ka   fey  -chi  tralka   -n
+\ge morir -llorar -AP    -IND.[3] gente  y    DEM2 -adjr disparar -NMRZ1
+\ps verbo -verbo  -tam-e -per     nombre conj pro  -***  verbo    -nmrz
+
+\ft podrían matar gente con esos disparos.
+\mm HectorMariano.14052013.capuchas_18mins.wav 749.720 753.040
+
+\block 255
+\ELANParticipant HM
+\ELANBegin 753.040
+\ELANEnd 758.760
+\tx femngechi ta  kuñiwtukuyawiñ               ta  iñchiñ taiñ        miyawael            tüfamew
+\mb femngechi ta  kuñiw   -tuku  -yaw -iñ     ta  iñchiñ ta  -iñ     miyaw -a     -el    tüfa -mew
+\ge así      DET cuidarse -poner -AND -IND.1PL DET nosotros DET -IND.1PL andar -FUT   -NMRZ2 DEM1  -OBL
+\ps adverbio  det verbo    -tam-e -dir -per     det pro      det -per     verbo -tam-e -nmzr  pro   -per
+
+\ft Así andamos juntos en nuestro andar acá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 753.040 758.760
+
+\block 256
+\ELANParticipant HM
+\ELANBegin 758.760
+\ELANEnd 763.480
+\tx tripay         chi  wecheke     che    kewayael             iñchiñ ta  elkawkeiñ                 kiñeke     mew
+\mb tripa -y       chi  weche -ke   che    kewa   -ya    -el    iñchiñ ta  elkaw      -ke    -iñ     kiñe -ke   mew
+\ge salir -IND.[3] DEM2 joven -DIST gente  pelear -FUT   -NMRZ2 nosotros DET esconderse -HAB   -IND.1PL un    -DIST PPOS
+\ps verbo -per     dem  adj   -det  nombre verbo  -tam-e -nmzr  pro      det verbo      -tam-e -per     art   -det  ppos
+
+\ft salen los jovenes a pelear, nosotros nos escondemos algunas veces.
+\mm HectorMariano.14052013.capuchas_18mins.wav 758.760 763.480
+
+\block 257
+\ELANParticipant HM
+\ELANBegin 763.480
+\ELANEnd 767.720
+\tx fey  ta  wim-wim-iñ                       tüfa tañi          felen           mongen tüfa mew
+\mb fey  ta  wim        wim           -iñ     tüfa ta  -ñi      fele     -n     mongen tüfa mew
+\ge DEM2 DET acostumbraracostumbrarse -IND.1PL DEM1  DET -1SG.POSS ser así -NMRZ1 vida   DEM1  PPOS
+\ps pro  det verbo      verbo         -per     pro   det -pro      verbo    -nmrz  nombre pro   ppos
+
+\ft Esa costumbre tenemos, así es nuestra vida acá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 763.480 767.720
+
+\block 258
+\ELANParticipant HM
+\ELANBegin 767.720
+\ELANEnd 769.600
+\tx femngechi peñi,
+\mb femngechi peñi
+\ge así      hermano (de ego masculino)
+\ps adverbio  nombre
+
+\ft así es peño,
+\mm HectorMariano.14052013.capuchas_18mins.wav 767.720 769.600
+
+\block 259
+\ELANParticipant HM
+\ELANBegin 769.600
+\ELANEnd 772.880
+\tx fantepuy                tañi          nütram,
+\mb fante    -pu   -y       ta  -ñi      nütram
+\ge así     -DIR2 -IND.[3] DET -1SG.POSS historia
+\ps adverbio -dir  -per     det -pro      sustantivo
+
+\ft hasta acá llegó mi historia,
+\mm HectorMariano.14052013.capuchas_18mins.wav 769.600 772.880
+
+\block 260
+\ELANParticipant HM
+\ELANBegin 772.880
+\ELANEnd 776.921
+\tx nielmi           kiñeke     ramtun           ta  llowdunguaeyu                           ta  ti
+\mb nie   -l    -mi  kiñe -ke   ramtu     -n     ta  llow      -dungu  -a     -e   -yu      ta  ti
+\ge tener -COND -2SG un    -DIST preguntar -NMRZ1 DET responder -asunto -FUT   -INV -IND.1DU DET DET2
+\ps verbo -mod  -per art   -det  verbo     -nmrz  det verbo     -nombre -tam-e -per -per     det det
+
+\ft si tienes algunas preguntas, te las responderé.
+\mm HectorMariano.14052013.capuchas_18mins.wav 772.880 776.921
+
+\block 261
+\ELANParticipant FH
+\ELANBegin 776.920
+\ELANEnd 781.120
+\tx feley             peñi,                     ka   fachiantü
+\mb fele     -y       peñi                      ka   fachiantü
+\ge ser así -IND.[3] hermano (de ego masculino) y    hoy
+\ps verbo    -per     nombre                     conj adverbio
+
+\ft Así es peñi, y hoy día
+\mm HectorMariano.14052013.capuchas_18mins.wav 776.920 781.120
+
+\block 262
+\ELANParticipant FH
+\ELANBegin 781.120
+\ELANEnd 783.960
+\tx eymi chem rakiduam    nieymi         ta
+\mb eymi chem rakiduam    nie   -ymi     ta
+\ge tú  qué pensamiento tener -IND.2SG DET
+\ps pro  pro  nombre      verbo -per     det
+
+\ft ¿Qué pensamiento tienes
+\mm HectorMariano.14052013.capuchas_18mins.wav 781.120 783.960
+
+\block 263
+\ELANParticipant FH
+\ELANBegin 783.960
+\ELANEnd 786.440
+\tx tüfachi    kimeluwün            dungu
+\mb tüfa -chi  kimel    -wü  -n     dungu
+\ge DEM1  -adjr enseñar -REFL -NMRZ1 asunto
+\ps pro   -***  verbo    -per  -nmrz  nombre
+
+\ft sobre este asunto de la educación,
+\mm HectorMariano.14052013.capuchas_18mins.wav 783.960 786.440
+
+\block 264
+\ELANParticipant FH
+\ELANBegin 786.440
+\ELANEnd 788.600
+\tx tüfachi    kimeluwün               awkan
+\mb tüfa -chi  kimel       -wü  -n     awka   -n
+\ge DEM1  -adjr enseñar    -REFL -NMRZ1 luchar -NMRZ1
+\ps pro   -***  verbo       -per  -nmrz  verbo  -nmrz
+
+\ft esta pelea por la educación
+\mm HectorMariano.14052013.capuchas_18mins.wav 786.440 788.600
+
+\block 265
+\ELANParticipant FH
+\ELANBegin 788.600
+\ELANEnd 794.120
+\tx mülelu       tüfachi    pais   mew
+\mb müle -lu     tüfa -chi  pais   mew
+\ge estar -advr.1 DEM1  -adjr pais   PPOS
+\ps verbo -advr   pro   -***  nombre ppos
+
+\ft que hay en este país?
+\mm HectorMariano.14052013.capuchas_18mins.wav 788.600 794.120
+
+\block 266
+\ELANParticipant HM
+\ELANBegin 794.281
+\ELANEnd 797.353
+\tx chem, müte    küme    allkulan              tami
+\mb chem  müte    küme    *allku -la   -n       ta  -mi
+\ge qué  poco     bien     ***    -NEG1 -IND.1SG DET -2SG.POSS
+\ps pro   adverbio adverbio ***    -neg  -per     det -pro
+
+\ft ¿Qué? No le escuché muy bien.
+\mm HectorMariano.14052013.capuchas_18mins.wav 794.281 797.353
+
+\block 267
+\ELANParticipant FH
+\ELANBegin 797.353
+\ELANEnd 808.851
+\tx chi  pu  chillkatufe    fachiantü pikey                 müley         ñi      kullinoael                     ta  educacion,
+\mb chi  pu  chillkatu -fe  fachiantü pi    -ke    -y       müle -y       ñi      kulli -no       -a     -el    ta  educacion
+\ge DEM2 COL estudiar  -AG  hoy        decir -HAB   -IND.[3] estar -IND.[3] 1SG.POSS pagar -NEG2     -FUT   -NMRZ2 DET educación
+\ps dem  det verbo     -der adverbio   verbo -tam-e -per     verbo -per     pro      verbo -adverbio -tam-e -nmzr  det nombre
+
+\tx müley         ñi...
+\mb müle -y       ñi
+\ge estar -IND.[3] 1SG.POSS
+\ps verbo -per     pro
+
+\ft Los estudiantes hoy dicen "no tenemos que pagar por la educaciòn"
+\mm HectorMariano.14052013.capuchas_18mins.wav 797.353 808.851
+
+\block 268
+\ELANParticipant HM
+\ELANBegin 808.840
+\ELANEnd 810.960
+\tx feley,
+\mb fele     -y
+\ge ser así -IND.[3]
+\ps verbo    -per
+
+\ft Así es,
+\mm HectorMariano.14052013.capuchas_18mins.wav 808.840 810.960
+
+\block 269
+\ELANParticipant HM
+\ELANBegin 810.960
+\ELANEnd 812.800
+\tx femngechi
+\mb femngechi
+\ge así
+\ps adverbio
+
+\ft Así,
+\mm HectorMariano.14052013.capuchas_18mins.wav 810.960 812.800
+
+\block 270
+\ELANParticipant HM
+\ELANBegin 812.800
+\ELANEnd 815.600
+\tx iñche pichike        kimün
+\mb iñche pichi    -ke   kim     -ün
+\ge 1SG    pequeño -DIST saber   -IND.1SG
+\ps pro    adj      -det  verbo   -per
+
+\ft yo tengo un poco de conocimiento.
+\mm HectorMariano.14052013.capuchas_18mins.wav 812.800 815.600
+
+\block 271
+\ELANParticipant HM
+\ELANBegin 815.600
+\ELANEnd 820.720
+\tx nütramkaken              rupalu         tripantü iñche
+\mb nütramka -ke    -n       rupa   -lu     tripantü iñche
+\ge conversar -HAB   -IND.1SG vez    -advr.1 año      1SG
+\ps verbo     -tam-e -per     nombre -advr   nombre    pro
+
+\ft Converso, cuando pasan los años,
+\mm HectorMariano.14052013.capuchas_18mins.wav 815.600 820.720
+
+\block 272
+\ELANParticipant HM
+\ELANBegin 820.720
+\ELANEnd 826.200
+\tx dew      konlu          tüfachi    dungu  mew, kimeluwün            mapuche dungun        mew
+\mb dew      kon    -lu     tüfa -chi  dungu  mew  kimel    -w    -ün   mapuche dungu  -n     mew
+\ge ya       entrar -advr.1 DEM1  -adjr asunto PPOS enseñar -REFL -NMRZ1 mapuche asunto -NMRZ1 PPOS
+\ps adverbio verbo  -advr   pro   -***  nombre ppos verbo    -per  -nmrz  nombre  nombre -nmrz  ppos
+
+\ft después de entrar a este asunto, de enseñar mapudungun.
+\mm HectorMariano.14052013.capuchas_18mins.wav 820.720 826.200
+
+\block 273
+\ELANParticipant HM
+\ELANBegin 826.200
+\ELANEnd 829.480
+\tx fey  ta  ka   tripaken              ka   mapu
+\mb fey  ta  ka   tripa -ke    -n       ka   mapu
+\ge DEM2 DET y    salir -HAB   -IND.1SG y    tierra
+\ps pro  det conj verbo -tam-e -per     conj nombre
+
+\ft Entonces, salgo a otras tierras,
+\mm HectorMariano.14052013.capuchas_18mins.wav 826.200 829.480
+
+\block 274
+\ELANParticipant HM
+\ELANBegin 829.480
+\ELANEnd 831.560
+\tx ka   pais
+\mb ka   pais
+\ge y    pais
+\ps conj nombre
+
+\ft otro país,
+\mm HectorMariano.14052013.capuchas_18mins.wav 829.480 831.560
+
+\block 275
+\ELANParticipant HM
+\ELANBegin 831.560
+\ELANEnd 834.200
+\tx ka   nütramkangeken                  ka
+\mb ka   nütramka -nge   -ke    -n       ka
+\ge y    conversar -COP   -HAB   -IND.1SG y
+\ps conj verbo     -verbo -tam-e -per     conj
+
+\ft y me conversan también,
+\mm HectorMariano.14052013.capuchas_18mins.wav 831.560 834.200
+
+\block 276
+\ELANParticipant HM
+\ELANBegin 834.200
+\ELANEnd 837.240
+\tx ka   pais   ta  kullingekerkelay                        ta  chillkatun
+\mb ka   pais   ta  kulli -nge -ke    -rke   -la   -y       ta  chillkatu -n
+\ge y    pais   DET pagar -PAS -HAB   -EVID  -NEG1 -IND.[3] DET estudiar  -NMRZ1
+\ps conj nombre det verbo -per -tam-e -tam-e -neg  -per     det verbo     -nmrz
+
+\ft en otros países dicen que no se pagan los estudios.
+\mm HectorMariano.14052013.capuchas_18mins.wav 834.200 837.240
+
+\block 277
+\ELANParticipant HM
+\ELANBegin 837.240
+\ELANEnd 841.200
+\tx argentina pais   mew
+\mb argentina pais   mew
+\ge Argentina pais   PPOS
+\ps nombre    nombre ppos
+
+\ft En Argentina,
+\mm HectorMariano.14052013.capuchas_18mins.wav 837.240 841.200
+
+\block 278
+\ELANParticipant HM
+\ELANBegin 841.200
+\ELANEnd 843.800
+\tx feychi     dungu  ta  mülerkelay
+\mb fey  -chi  dungu  ta  müle -rke   -la   -y
+\ge DEM2 -adjr asunto DET estar -EVID  -NEG1 -IND.[3]
+\ps pro  -***  nombre det verbo -tam-e -neg  -per
+
+\ft dicen que ese asunto no está
+\mm HectorMariano.14052013.capuchas_18mins.wav 841.200 843.800
+
+\block 279
+\ELANParticipant HM
+\ELANBegin 843.800
+\ELANEnd 845.680
+\tx faw      reke
+\mb faw      reke
+\ge acá     COMP
+\ps adverbio ppos
+
+\ft como acá.
+\mm HectorMariano.14052013.capuchas_18mins.wav 843.800 845.680
+
+\block 280
+\ELANParticipant HM
+\ELANBegin 845.680
+\ELANEnd 847.400
+\tx fey  tüfachi    pais   mew
+\mb fey  tüfa -chi  pais   mew
+\ge DEM2 DEM1  -adjr pais   PPOS
+\ps pro  pro   -***  nombre ppos
+
+\ft En este país,
+\mm HectorMariano.14052013.capuchas_18mins.wav 845.680 847.400
+
+\block 281
+\ELANParticipant HM
+\ELANBegin 847.400
+\ELANEnd 849.760
+\tx kom      kullikey              che
+\mb kom      kulli -ke    -y       che
+\ge todo     pagar -HAB   -IND.[3] gente
+\ps adverbio verbo -tam-e -per     nombre
+
+\ft todo paga la gente,
+\mm HectorMariano.14052013.capuchas_18mins.wav 847.400 849.760
+
+\block 282
+\ELANParticipant HM
+\ELANBegin 849.760
+\ELANEnd 854.400
+\tx tunten  tripan       ko,    fenten          müley         tañi        kullingeael,
+\mb tunten  tripa -n     ko     fente    -n     müle -y       ta  -ñi    kulli -nge -a     -el
+\ge cuánto salir -NMRZ1 agua   así     -NMRZ1 estar -IND.[3] DET -3.POSS pagar -PAS -FUT   -NMRZ2
+\ps pro     verbo -nmrz  nombre adverbio -nmrz  verbo -per     det -pro    verbo -per -tam-e -nmzr
+
+\ft lo que sale el agua, eso es lo que hay que pagar.
+\mm HectorMariano.14052013.capuchas_18mins.wav 849.760 854.400
+
+\block 283
+\ELANParticipant HM
+\ELANBegin 854.400
+\ELANEnd 858.580
+\tx kellulaeyew                     ta  pu  estado ta  pu  che
+\mb kellu  -la   -e   -y       -ew  ta  pu  estado ta  pu  che
+\ge ayudar -NEG1 -INV -IND.[3] -OBL DET COL estado DET COL gente
+\ps verbo  -neg  -per -per     -per det det nombre det det nombre
+
+\ft El Estado no ayuda a la gente.
+\mm HectorMariano.14052013.capuchas_18mins.wav 854.400 858.580
+
+\block 284
+\ELANParticipant HM
+\ELANBegin 858.580
+\ELANEnd 867.600
+\tx kechu   warangka tripale          ko,    kechu   warangka kullingey,          welu argentina ngelay               feychi
+\mb kechu   warangka tripa -l    -e   ko     kechu   warangka kulli -nge -y       welu argentina nge   -la   -y       fey  -chi
+\ge cinco   mil      salir -COND -3SG agua   cinco   mil      pagar -PAS -IND.[3] pero Argentina haber -NEG1 -IND.[3] DEM2 -adjr
+\ps número nombre   verbo -mod  -per nombre número nombre   verbo -per -per     conj nombre    verbo -neg  -per     pro  -***
+
+\tx mongen
+\mb mongen
+\ge vida
+\ps nombre
+
+\ft Si sale cinco mil pesos el agua, cinco mil se pagan, pero en argentina no hay esa vida.
+\mm HectorMariano.14052013.capuchas_18mins.wav 858.580 867.600
+
+\block 285
+\ELANParticipant HM
+\ELANBegin 867.600
+\ELANEnd 869.440
+\tx feychi     estado
+\mb fey  -chi  estado
+\ge DEM2 -adjr estado
+\ps pro  -***  nombre
+
+\ft Ese Estado,
+\mm HectorMariano.14052013.capuchas_18mins.wav 867.600 869.440
+
+\block 286
+\ELANParticipant HM
+\ELANBegin 869.440
+\ELANEnd 873.680
+\tx kellufiy              ta  kom      pu  che    ngillaymi        kiñe reloj, kiñe mütrümwe
+\mb kellu  -fi   -y       ta  kom      pu  che    ngilla  -ymi     kiñe reloj  kiñe mütrüm -we
+\ge ayudar -3.OP -IND.[3] DET todo     COL gente  comprar -IND.2SG un    reloj  un    llamar   -LOC
+\ps verbo  -per  -per     det adverbio det nombre verbo   -per     art   nombre art   verbo    -nmrz
+
+\ft ayuda a la gente, compras un reljos, un celular,
+\mm HectorMariano.14052013.capuchas_18mins.wav 869.440 873.680
+
+\block 287
+\ELANParticipant HM
+\ELANBegin 873.680
+\ELANEnd 878.040
+\tx fey  ta  subsidianieeyew                     ta  chi  estado
+\mb fey  ta  subsidia  -nie   -e   -y       -ew  ta  chi  estado
+\ge DEM2 DET subsidiar -PERF  -INV -IND.[3] -OBL DET DEM2 estado
+\ps pro  det verbo     -tam-e -per -per     -per det dem  nombre
+
+\ft entonces, el estado lo subsidia.
+\mm HectorMariano.14052013.capuchas_18mins.wav 873.680 878.040
+
+\block 288
+\ELANParticipant HM
+\ELANBegin 878.040
+\ELANEnd 880.600
+\tx fey  tüfa mew  ngelay               feychi     dungu,
+\mb fey  tüfa mew  nge   -la   -y       fey  -chi  dungu
+\ge DEM2 DEM1  PPOS haber -NEG1 -IND.[3] DEM2 -adjr asunto
+\ps pro  pro   ppos verbo -neg  -per     pro  -***  nombre
+
+\ft Acá no es así la cosa,
+\mm HectorMariano.14052013.capuchas_18mins.wav 878.040 880.600
+
+\block 289
+\ELANParticipant HM
+\ELANBegin 880.600
+\ELANEnd 882.960
+\tx uyew     ka
+\mb uyew     ka
+\ge allá    y
+\ps adverbio conj
+
+\ft allá también,
+\mm HectorMariano.14052013.capuchas_18mins.wav 880.600 882.960
+
+\block 290
+\ELANParticipant HM
+\ELANBegin 882.960
+\ELANEnd 886.800
+\tx re falta  chillkatukey              ta  pu  chillkatufe
+\mb re falta  chillkatu -ke    -y       ta  pu  chillkatu -fe
+\ge solfalta  estudiar  -HAB   -IND.[3] DET COL estudiar  -AG
+\ps advnombre verbo     -tam-e -per     det det verbo     -der
+
+\ft los estudiantes estudian gratis,
+\mm HectorMariano.14052013.capuchas_18mins.wav 882.960 886.800
+
+\block 291
+\ELANParticipant HM
+\ELANBegin 886.800
+\ELANEnd 889.960
+\tx ngelay               ta  fenten          kulliael            engün
+\mb nge   -la   -y       ta  fente    -n     kulli -a     -el    engün
+\ge haber -NEG1 -IND.[3] DET así     -NMRZ1 pagar -FUT   -NMRZ2 3.PL
+\ps verbo -neg  -per     det adverbio -nmrz  verbo -tam-e -nmzr  per
+
+\ft no hay que pagar.
+\mm HectorMariano.14052013.capuchas_18mins.wav 886.800 889.960
+
+\block 292
+\ELANParticipant HM
+\ELANBegin 889.960
+\ELANEnd 892.480
+\tx Bolivia ka   Peru   feychi     dungu  müley
+\mb Bolivia ka   Peru   fey  -chi  dungu  müle -y
+\ge Bolivia y    Perú  DEM2 -adjr asunto estar -IND.[3]
+\ps nombre  conj nombre pro  -***  nombre verbo -per
+
+\ft En Bolivia y Perú también hay este asunto.
+\mm HectorMariano.14052013.capuchas_18mins.wav 889.960 892.480
+
+\block 293
+\ELANParticipant HM
+\ELANBegin 892.480
+\ELANEnd 895.200
+\tx tüfachi    pais   mew  müten
+\mb tüfa -chi  pais   mew  müten
+\ge DEM1  -adjr pais   PPOS no.más
+\ps pro   -***  nombre ppos adverbio
+
+\ft En este país no más,
+\mm HectorMariano.14052013.capuchas_18mins.wav 892.480 895.200
+
+\block 294
+\ELANParticipant HM
+\ELANBegin 895.200
+\ELANEnd 897.720
+\tx feychi     dungu  müley,
+\mb fey  -chi  dungu  müle -y
+\ge DEM2 -adjr asunto estar -IND.[3]
+\ps pro  -***  nombre verbo -per
+
+\ft hay ese asunto.
+\mm HectorMariano.14052013.capuchas_18mins.wav 895.200 897.720
+
+\block 295
+\ELANParticipant HM
+\ELANBegin 897.720
+\ELANEnd 900.480
+\tx pu  ülmen       ta  yeniey                 tüfachi    pais
+\mb pu  ülmen       ta  ye     -nie   -y       tüfa -chi  pais
+\ge COL persona.rica DET llevar -PERF  -IND.[3] DEM1  -adjr pais
+\ps det nombre       det verbo  -tam-e -per     pro   -***  nombre
+
+\ft Los ricos llevan este país,
+\mm HectorMariano.14052013.capuchas_18mins.wav 897.720 900.480
+
+\block 296
+\ELANParticipant HM
+\ELANBegin 900.480
+\ELANEnd 902.440
+\tx kom      muntuñmangeiñ             taiñ
+\mb kom      muntu  -ñma  -nge -iñ     ta  -iñ
+\ge todo     quitar -APPL1 -PAS -IND.1PL DET -IND.1PL
+\ps adverbio verbo  -per   -per -per     det -per
+
+\ft todo nos han quitado nuestras
+\mm HectorMariano.14052013.capuchas_18mins.wav 900.480 902.440
+
+\block 297
+\ELANParticipant HM
+\ELANBegin 902.440
+\ELANEnd 907.480
+\tx nien         tañi        ülmen       nien         tüfachi    mapu   mew
+\mb nie   -n     ta  -ñi    ülmen       nie   -n     tüfa -chi  mapu   mew
+\ge tener -NMRZ1 DET -3.POSS persona.rica tener -NMRZ1 DEM1  -adjr tierra PPOS
+\ps verbo -nmrz  det -pro    nombre       verbo -nmrz  pro   -***  nombre ppos
+
+\ft pertenencias, que los ricos tienen en esta tierra.
+\mm HectorMariano.14052013.capuchas_18mins.wav 902.440 907.480
+
+\block 298
+\ELANParticipant HM
+\ELANBegin 907.480
+\ELANEnd 910.800
+\tx iñchiñ ta  rikulefuiñ                   tüfachi    pais   mew
+\mb iñchiñ ta  riku   -le    -fu    -iñ     tüfa -chi  pais   mew
+\ge nosotros DET rico   -ESTAT -AP    -IND.1PL DEM1  -adjr pais   PPOS
+\ps pro      det nombre -tam-e -tam-e -per     pro   -***  nombre ppos
+
+\ft eramos ricos en este país,
+\mm HectorMariano.14052013.capuchas_18mins.wav 907.480 910.800
+
+\block 299
+\ELANParticipant HM
+\ELANBegin 910.800
+\ELANEnd 912.360
+\tx welu
+\mb welu
+\ge pero
+\ps conj
+
+\ft pero
+\mm HectorMariano.14052013.capuchas_18mins.wav 910.800 912.360
+
+\block 300
+\ELANParticipant HM
+\ELANBegin 912.360
+\ELANEnd 915.360
+\tx feychi     pu  ka   pais   küpay         pu  ülmen
+\mb fey  -chi  pu  ka   pais   küpa -y       pu  ülmen
+\ge DEM2 -adjr COL y    pais   venir -IND.[3] COL persona.rica
+\ps pro  -***  det conj nombre verbo -per     det nombre
+
+\ft de otros países vienen los ricos,
+\mm HectorMariano.14052013.capuchas_18mins.wav 912.360 915.360
+
+\block 301
+\ELANParticipant HM
+\ELANBegin 915.360
+\ELANEnd 917.720
+\tx muntuñmapaeyñmew                      taiñ
+\mb muntu  -ñma  -pa    -e   -yñ     -mew ta  -iñ
+\ge quitar -APPL1 -DIR.1 -INV -IND.1PL -OBL DET -IND.1PL
+\ps verbo  -per   -dir   -per -per     -per det -per
+
+\ft vienen a quitarnos nuestras,
+\mm HectorMariano.14052013.capuchas_18mins.wav 915.360 917.720
+
+\block 302
+\ELANParticipant HM
+\ELANBegin 917.720
+\ELANEnd 921.680
+\tx taiñ        nien         tüfachi    pais   mew  welu feyngün    ta  nielay               ta  kulpa
+\mb ta  -iñ     nie   -n     tüfa -chi  pais   mew  welu fey  -ngün ta  nie   -la   -y       ta  kulpa
+\ge DET -IND.1PL tener -NMRZ1 DEM1  -adjr pais   PPOS pero DEM2 -3.PL  DET tener -NEG1 -IND.[3] DET culpar
+\ps det -per     verbo -nmrz  pro   -***  nombre ppos conj pro  -per   det verbo -neg  -per     det verbo
+
+\ft nuestras pertenencias a este país, pero ellos no tienen la culpa.
+\mm HectorMariano.14052013.capuchas_18mins.wav 917.720 921.680
+
+\block 303
+\ELANParticipant HM
+\ELANBegin 921.760
+\ELANEnd 925.040
+\tx niey           ta  kulpa  ta  ti   pu  gobierno
+\mb nie   -y       ta  kulpa  ta  ti   pu  gobierno
+\ge tener -IND.[3] DET culpar DET DET2 COL gobierno
+\ps verbo -per     det verbo  det det  det nombre
+
+\ft La culpa la tienen los gobiernos,
+\mm HectorMariano.14052013.capuchas_18mins.wav 921.760 925.040
+
+\block 304
+\ELANParticipant HM
+\ELANBegin 925.040
+\ELANEnd 927.600
+\tx yenielu               tüfachi    pais,
+\mb ye     -nie   -lu     tüfa -chi  pais
+\ge llevar -PERF  -advr.1 DEM1  -adjr pais
+\ps verbo  -tam-e -advr   pro   -***  nombre
+
+\ft que llevan este país.
+\mm HectorMariano.14052013.capuchas_18mins.wav 925.040 927.600
+
+\block 305
+\ELANParticipant HM
+\ELANBegin 927.600
+\ELANEnd 930.520
+\tx feychi     dungu  fey  ta
+\mb fey  -chi  dungu  fey  ta
+\ge DEM2 -adjr asunto DEM2 DET
+\ps pro  -***  nombre pro  det
+
+\ft Ese asunto, entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 927.600 930.520
+
+\block 306
+\ELANParticipant HM
+\ELANBegin 930.520
+\ELANEnd 933.040
+\tx kümelay,               nieiñ         fey  tüfa mew
+\mb küme    -la   -y       nie   -iñ     fey  tüfa mew
+\ge bien     -NEG1 -IND.[3] tener -IND.1PL DEM2 DEM1  PPOS
+\ps adverbio -neg  -per     verbo -per     pro  pro   ppos
+
+\ft no es bueno, tenemos acá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 930.520 933.040
+
+\block 307
+\ELANParticipant HM
+\ELANBegin 933.040
+\ELANEnd 936.160
+\tx kofre  nierkefuy                    tüfachi    pais   mew  welu
+\mb kofre  nie   -rke   -fu    -y       tüfa -chi  pais   mew  welu
+\ge cobre  tener -EVID  -AP    -IND.[3] DEM1  -adjr pais   PPOS pero
+\ps nombre verbo -tam-e -tam-e -per     pro   -***  nombre ppos conj
+
+\ft el cobre dicen que tenemos en este país, pero
+\mm HectorMariano.14052013.capuchas_18mins.wav 933.040 936.160
+
+\block 308
+\ELANParticipant HM
+\ELANBegin 936.160
+\ELANEnd 938.240
+\tx iñchiñ ta  yenielafiiñ
+\mb iñchiñ ta  ye     -nie   -la   -fi   -iñ
+\ge nosotros DET llevar -PERF  -NEG1 -3.OP -IND.1PL
+\ps pro      det verbo  -tam-e -neg  -per  -per
+
+\ft nosotros no lo manejamos.
+\mm HectorMariano.14052013.capuchas_18mins.wav 936.160 938.240
+
+\block 309
+\ELANParticipant HM
+\ELANBegin 938.240
+\ELANEnd 940.600
+\tx ka   pais   yeniey.
+\mb ka   pais   ye     -nie   -y
+\ge y    pais   llevar -PERF  -IND.[3]
+\ps conj nombre verbo  -tam-e -per
+
+\ft otro país lo maneja.
+\mm HectorMariano.14052013.capuchas_18mins.wav 938.240 940.600
+
+\block 310
+\ELANParticipant HM
+\ELANBegin 940.600
+\ELANEnd 943.320
+\tx ko,    ka   inchñ         tañi          ko     no,
+\mb ko     ka   i     -*nchñ ta  -ñi      ko     no
+\ge agua   y    comer -***    DET -1SG.POSS agua   NEG2
+\ps nombre conj verbo -***    det -pro      nombre adverbio
+
+\ft El agua, el agua tampoco,
+\mm HectorMariano.14052013.capuchas_18mins.wav 940.600 943.320
+
+\block 311
+\ELANParticipant HM
+\ELANBegin 943.320
+\ELANEnd 948.600
+\tx ka   pais   ngenngepay                    tüfachi    ko     mew, luz    ka,  rüpü ka,
+\mb ka   pais   ngen   -nge   -pa    -y       tüfa -chi  ko     mew  luz    ka   rüpü ka
+\ge y    pais   dueño -COP   -DIR.1 -IND.[3] DEM1  -adjr agua   PPOS luz    y    camino y
+\ps conj nombre nombre -verbo -dir   -per     pro   -***  nombre ppos nombre conj nombre conj
+
+\ft otro país es dueño del agua acá, la luz también, los caminos también.
+\mm HectorMariano.14052013.capuchas_18mins.wav 943.320 948.600
+
+\block 312
+\ELANParticipant HM
+\ELANBegin 948.600
+\ELANEnd 952.840
+\tx kom      ta  feychi     pu  ülmen
+\mb kom      ta  fey  -chi  pu  ülmen
+\ge todo     DET DEM2 -adjr COL persona.rica
+\ps adverbio det pro  -***  det nombre
+
+\ft Todo esos ricos,
+\mm HectorMariano.14052013.capuchas_18mins.wav 948.600 952.840
+
+\block 313
+\ELANParticipant HM
+\ELANBegin 952.840
+\ELANEnd 956.000
+\tx ka   mapu   küpalu       ka   pais   küpalu       ngenngepatuy
+\mb ka   mapu   küpa -lu     ka   pais   küpa -lu     ngen   -nge   -pa    -tu    -y
+\ge y    tierra venir -advr.1 y    pais   venir -advr.1 dueño -COP   -DIR.1 -APPL3 -IND.[3]
+\ps conj nombre verbo -advr   conj nombre verbo -advr   nombre -verbo -dir   -per   -per
+
+\ft que vienen de otro país, se hicieron dueños acá.
+\mm HectorMariano.14052013.capuchas_18mins.wav 952.840 956.000
+
+\block 314
+\ELANParticipant HM
+\ELANBegin 956.000
+\ELANEnd 960.480
+\tx feychi     dungu  ta  kümelay,               fey  ta  müna    lladküken              taiñ        mapuchengen
+\mb fey  -chi  dungu  ta  küme    -la   -y       fey  ta  müna    lladkü -ke    -n       ta  -iñ     mapuche -nge   -n
+\ge DEM2 -adjr asunto DET bien     -NEG1 -IND.[3] DEM2 DET mucho    enojar  -HAB   -IND.1SG DET -IND.1PL mapuche -COP   -NMRZ1
+\ps pro  -***  nombre det adverbio -neg  -per     pro  det adverbio verbo   -tam-e -per     det -per     nombre  -verbo -nmrz
+
+\ft Ese asunto no es bueno,estamos muy tristes los mapuches,
+\mm HectorMariano.14052013.capuchas_18mins.wav 956.000 960.480
+
+\block 315
+\ELANParticipant HM
+\ELANBegin 960.480
+\ELANEnd 963.120
+\tx muntuñmangey               ñi      mapu,
+\mb muntu  -ñma  -nge -y       ñi      mapu
+\ge quitar -APPL1 -PAS -IND.[3] 1SG.POSS tierra
+\ps verbo  -per   -per -per     pro      nombre
+
+\ft nos quitaron la tierra.
+\mm HectorMariano.14052013.capuchas_18mins.wav 960.480 963.120
+
+\block 316
+\ELANParticipant HM
+\ELANBegin 963.120
+\ELANEnd 967.400
+\tx muntuñmangey               taiñ        iñchiñ taiñ        mapu,  taiñ
+\mb muntu  -ñma  -nge -y       ta  -iñ     iñchiñ ta  -iñ     mapu   ta  -iñ
+\ge quitar -APPL1 -PAS -IND.[3] DET -IND.1PL nosotros DET -IND.1PL tierra DET -IND.1PL
+\ps verbo  -per   -per -per     det -per     pro      det -per     nombre det -per
+
+\ft Nos quitaron nuestra tierra, nuestra
+\mm HectorMariano.14052013.capuchas_18mins.wav 963.120 967.400
+
+\block 317
+\ELANParticipant HM
+\ELANBegin 967.400
+\ELANEnd 969.920
+\tx ülmen       mapu
+\mb ülmen       mapu
+\ge persona.rica tierra
+\ps nombre       nombre
+
+\ft tierra rica.
+\mm HectorMariano.14052013.capuchas_18mins.wav 967.400 969.920
+
+\block 318
+\ELANParticipant HM
+\ELANBegin 969.920
+\ELANEnd 973.600
+\tx kisu     engün rume     yenietulay                          tüfa
+\mb kisu     engün rume     ye     -nie   -tu    -la   -y       tüfa
+\ge solo     3.PL   siquiera llevar -PERF  -APPL3 -NEG1 -IND.[3] DEM1
+\ps adverbio per    adverbio verbo  -tam-e -per   -neg  -per     pro
+
+\ft Ya no manejan estos asuntos por si mismos,
+\mm HectorMariano.14052013.capuchas_18mins.wav 969.920 973.600
+
+\block 319
+\ELANParticipant HM
+\ELANBegin 973.600
+\ELANEnd 976.440
+\tx iñchiñ ta  fey  tüfa mew  ta
+\mb iñchiñ ta  fey  tüfa mew  ta
+\ge nosotros DET DEM2 DEM1  PPOS DET
+\ps pro      det pro  pro   ppos det
+
+\ft nosotros, entonces, acá,
+\mm HectorMariano.14052013.capuchas_18mins.wav 973.600 976.440
+
+\block 320
+\ELANParticipant HM
+\ELANBegin 976.440
+\ELANEnd 981.760
+\tx wingkadungun           mew  privatizao  piy            ta  wingka
+\mb wingkadungu     -n     mew  privatizao  pi    -y       ta  wingka
+\ge hablar.español -NMRZ1 PPOS privatizado decir -IND.[3] DET no.mapuche
+\ps verbo           -nmrz  ppos nombre      verbo -per     det nombre
+
+\ft dicho en español, "privatizado", dicen los wingkas.
+\mm HectorMariano.14052013.capuchas_18mins.wav 976.440 981.760
+
+\block 321
+\ELANParticipant HM
+\ELANBegin 981.760
+\ELANEnd 987.280
+\tx kom      privatizaley               tüfachi    pais   mew
+\mb kom      privatiza  -le    -y       tüfa -chi  pais   mew
+\ge todo     privatizar -ESTAT -IND.[3] DEM1  -adjr pais   PPOS
+\ps adverbio verbo      -tam-e -per     pro   -***  nombre ppos
+
+\ft Todo está privatizado en este país.
+\mm HectorMariano.14052013.capuchas_18mins.wav 981.760 987.280
+
+\block 322
+\ELANParticipant HM
+\ELANBegin 987.520
+\ELANEnd 993.080
+\tx chem rume     ngillalmi          iney   rume     ta  kellulaeymew
+\mb chem rume     ngilla  -l    -mi  iney   rume     ta  kellu  -la   -e   -ym      -ew
+\ge qué siquiera comprar -COND -2SG quién siquiera DET ayudar -NEG1 -INV -IND.2SG -OBL
+\ps pro  adverbio verbo   -mod  -per pro    adverbio det verbo  -neg  -per -per     -per
+
+\ft cualquier cosa que quieras comprar, no te ayuda.
+\mm HectorMariano.14052013.capuchas_18mins.wav 987.520 993.080
+
+\block 323
+\ELANParticipant HM
+\ELANBegin 993.080
+\ELANEnd 995.360
+\tx feychi     dungu
+\mb fey  -chi  dungu
+\ge DEM2 -adjr asunto
+\ps pro  -***  nombre
+
+\ft Ese asunto,
+\mm HectorMariano.14052013.capuchas_18mins.wav 993.080 995.360
+
+\block 324
+\ELANParticipant HM
+\ELANBegin 995.360
+\ELANEnd 999.360
+\tx kiñe fütra   awkan         dungu  reke tüfa
+\mb kiñe fütra   awka   -n     dungu  reke tüfa
+\ge un    gran     luchar -NMRZ1 asunto COMP DEM1
+\ps art   adverbio verbo  -nmrz  nombre ppos pro
+
+\ft como un gran asunto de guerra es.
+\mm HectorMariano.14052013.capuchas_18mins.wav 995.360 999.360
+
+\block 325
+\ELANParticipant HM
+\ELANBegin 999.360
+\ELANEnd 1002.040
+\tx feymew
+\mb feymew
+\ge entonces
+\ps conj
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 999.360 1002.040
+
+\block 326
+\ELANParticipant HM
+\ELANBegin 1002.040
+\ELANEnd 1008.240
+\tx fantepumew ka   müley         ta  wecheke     che    müley         trawütrawümekeyngün
+\mb fantepumew ka   müle -y       ta  weche -ke   che    müle -y       trawü   -trawü   -meke    -y       -ngün
+\ge ahora      y    estar -IND.[3] DET joven -DIST gente  estar -IND.[3] juntarse -juntarse -PROG.AG -IND.[3] -3.PL
+\ps adverbio   conj verbo -per     det adj   -det  nombre verbo -per     verbo    -verbo    -tam-e   -per     -per
+
+\ft ahora están los jovenes, se están reuniendo y reuniendo
+\mm HectorMariano.14052013.capuchas_18mins.wav 1002.040 1008.240
+
+\block 327
+\ELANParticipant HM
+\ELANBegin 1008.360
+\ELANEnd 1011.520
+\tx tañi        nütramkayael           engün
+\mb ta  -ñi    nütramka -ya    -el    engün
+\ge DET -3.POSS conversar -FUT   -NMRZ2 3.PL
+\ps det -pro    verbo     -tam-e -nmzr  per
+
+\ft a conversar.
+\mm HectorMariano.14052013.capuchas_18mins.wav 1008.360 1011.520
+
+\block 328
+\ELANParticipant HM
+\ELANBegin 1011.520
+\ELANEnd 1014.840
+\tx pichiñ  kellun        niefuy                ta  estado mew
+\mb pichiñ  kellu  -n     nie   -fu    -y       ta  estado mew
+\ge poco     ayudar -NMRZ1 tener -AP    -IND.[3] DET estado PPOS
+\ps adverbio verbo  -nmrz  verbo -tam-e -per     det nombre ppos
+
+\ft Poca ayuda tiene el estado,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1011.520 1014.840
+
+\block 329
+\ELANParticipant HM
+\ELANBegin 1014.840
+\ELANEnd 1017.320
+\tx welu ka   muntuñmamekeyngün,
+\mb welu ka   muntu  -ñma  -meke    -y       -ngün
+\ge pero y    quitar -APPL1 -PROG.AG -IND.[3] -3.PL
+\ps conj conj verbo  -per   -tam-e   -per     -per
+
+\ft pero nos están quitando,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1014.840 1017.320
+
+\block 330
+\ELANParticipant HM
+\ELANBegin 1017.320
+\ELANEnd 1019.400
+\tx amuley                tüfachi    dungu,
+\mb amu   -le    -y       tüfa -chi  dungu
+\ge ir    -PROG  -IND.[3] DEM1  -adjr asunto
+\ps verbo -tam-e -per     pro   -***  nombre
+
+\ft está yendo este asunto,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1017.320 1019.400
+
+\block 331
+\ELANParticipant HM
+\ELANBegin 1019.400
+\ELANEnd 1021.840
+\tx müley         kewan         dungu
+\mb müle -y       kewa   -n     dungu
+\ge estar -IND.[3] pelear -NMRZ1 asunto
+\ps verbo -per     verbo  -nmrz  nombre
+
+\ft hay pelea.
+\mm HectorMariano.14052013.capuchas_18mins.wav 1019.400 1021.840
+
+\block 332
+\ELANParticipant HM
+\ELANBegin 1021.840
+\ELANEnd 1023.520
+\tx feychi     dungu,
+\mb fey  -chi  dungu
+\ge DEM2 -adjr asunto
+\ps pro  -***  nombre
+
+\ft Ese asnto,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1021.840 1023.520
+
+\block 333
+\ELANParticipant HM
+\ELANBegin 1023.520
+\ELANEnd 1025.480
+\tx feleiñ           tüfachi    pais   mew,
+\mb fele     -iñ     tüfa -chi  pais   mew
+\ge ser así -IND.1PL DEM1  -adjr pais   PPOS
+\ps verbo    -per     pro   -***  nombre ppos
+
+\ft así estamos en este país.
+\mm HectorMariano.14052013.capuchas_18mins.wav 1023.520 1025.480
+
+\block 334
+\ELANParticipant HM
+\ELANBegin 1025.480
+\ELANEnd 1026.920
+\tx feymew
+\mb feymew
+\ge entonces
+\ps conj
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1025.480 1026.920
+
+\block 335
+\ELANParticipant HM
+\ELANBegin 1026.920
+\ELANEnd 1029.120
+\tx ta  müley         ta  awkan
+\mb ta  müle -y       ta  awka   -n
+\ge DET estar -IND.[3] DET luchar -NMRZ1
+\ps det verbo -per     det verbo  -nmrz
+
+\ft Hay lucha.
+\mm HectorMariano.14052013.capuchas_18mins.wav 1026.920 1029.120
+
+\block 336
+\ELANParticipant HM
+\ELANBegin 1029.120
+\ELANEnd 1032.400
+\tx müley         ta  kewan
+\mb müle -y       ta  kewa   -n
+\ge estar -IND.[3] DET pelear -NMRZ1
+\ps verbo -per     det verbo  -nmrz
+
+\ft Hay pelea.
+\mm HectorMariano.14052013.capuchas_18mins.wav 1029.120 1032.400
+
+\block 337
+\ELANParticipant HM
+\ELANBegin 1032.400
+\ELANEnd 1034.960
+\tx feychi     pu  yenielu               tüfachi    pais
+\mb fey  -chi  pu  ye     -nie   -lu     tüfa -chi  pais
+\ge DEM2 -adjr COL llevar -PERF  -advr.1 DEM1  -adjr pais
+\ps pro  -***  det verbo  -tam-e -advr   pro   -***  nombre
+
+\ft Los que llevan este país,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1032.400 1034.960
+
+\block 338
+\ELANParticipant HM
+\ELANBegin 1034.960
+\ELANEnd 1038.040
+\tx wedwedküley             ta  ti   wecheke     che,
+\mb wedwed   -küle -y       ta  ti   weche -ke   che
+\ge loco     -ESTAT -IND.[3] DET DET2 joven -DIST gente
+\ps adjetivo -tam-e -per     det det  adj   -det  nombre
+
+\ft "están locos los jovenes,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1034.960 1038.040
+
+\block 339
+\ELANParticipant HM
+\ELANBegin 1038.040
+\ELANEnd 1040.600
+\tx müna    küme    kimeluwün               nieyngün
+\mb müna    küme    kimel       -w    -ün   nie   -y       -ngün
+\ge mucho    bien     enseñar    -REFL -NMRZ1 tener -IND.[3] -3.PL
+\ps adverbio adverbio verbo       -per  -nmrz  verbo -per     -per
+
+\ft tienen muy buena educación,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1038.040 1040.600
+
+\block 340
+\ELANParticipant HM
+\ELANBegin 1040.600
+\ELANEnd 1043.800
+\tx kewa-kewa-yngün,             re       falta  kewa   kewayngün             pipingün
+\mb kewa-kewa     -y       -ngün re       falta  kewa   kewa   -y       -ngün pi    -pi    -ngün
+\ge pelear pelear -IND.[3] -3.PL  solo     falta  pelear pelear -IND.[3] -3.PL  decir -decir -3.PL
+\ps verbo  verbo  -per     -per   adverbio nombre verbo  verbo  -per     -per   verbo -verbo -per
+
+\ft pelean mucho, por las puras no más pelean", dicen.
+\mm HectorMariano.14052013.capuchas_18mins.wav 1040.600 1043.800
+
+\block 341
+\ELANParticipant HM
+\ELANBegin 1043.800
+\ELANEnd 1046.800
+\tx welu küme    adkintupeliñ                 tüfachi    dungu
+\mb welu küme    adkintu -pe    -l    -iñ     tüfa -chi  dungu
+\ge pero bien     mirar   -CERT  -COND -IND.1PL DEM1  -adjr asunto
+\ps conj adverbio verbo   -tam-e -mod  -per     pro   -***  nombre
+
+\ft Pero si se mira bien este asunto,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1043.800 1046.800
+
+\block 342
+\ELANParticipant HM
+\ELANBegin 1046.800
+\ELANEnd 1052.840
+\tx küme    adkintupeliñ,                küme    rakiduamliñ               chumngechi yenien               ñi    dungu  engün
+\mb küme    adkintu -pe    -l    -iñ     küme    rakiduam    -l    -iñ     chumngechi ye     -nie   -n     ñi    dungu  engün
+\ge bien     mirar   -CERT  -COND -IND.1PL bien     pensamiento -COND -IND.1PL cómo      llevar -PERF  -NMRZ1 3.POSS asunto 3.PL
+\ps adverbio verbo   -tam-e -mod  -per     adverbio nombre      -mod  -per     pro        verbo  -tam-e -nmrz  pro    nombre per
+
+\ft si se mira bien, si se pien bien como se llevan estas cosas,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1046.800 1052.840
+
+\block 343
+\ELANParticipant HM
+\ELANBegin 1052.840
+\ELANEnd 1056.520
+\tx feypiafuiñ                         rufngey                  tañi        feypipingen                        ta  wecheke     che
+\mb fey  -pi    -a     -fu    -iñ     ruf      -nge   -y       ta  -ñi    fey  -pi    -pi    -nge -n       ta  weche -ke   che
+\ge DEM2 -decir -FUT   -AP    -IND.1PL verdad   -COP   -IND.[3] DET -3.POSS DEM2 -decir -decir -PAS -IND.1SG DET joven -DIST gente
+\ps pro  -verbo -tam-e -tam-e -per     adverbio -verbo -per     det -pro    pro  -verbo -verbo -per -per     det adj   -det  nombre
+
+\ft diriiamos "es verdad lo que es dicho por los jovenes.
+\mm HectorMariano.14052013.capuchas_18mins.wav 1052.840 1056.520
+
+\block 344
+\ELANParticipant HM
+\ELANBegin 1056.520
+\ELANEnd 1060.160
+\tx rufngey                  tañi        kewameken              engün
+\mb ruf      -nge   -y       ta  -ñi    kewa   -meke    -n     engün
+\ge verdad   -COP   -IND.[3] DET -3.POSS pelear -PROG.AG -NMRZ1 3.PL
+\ps adverbio -verbo -per     det -pro    verbo  -tam-e   -nmrz  per
+
+\ft Es verdad su lucha.
+\mm HectorMariano.14052013.capuchas_18mins.wav 1056.520 1060.160
+
+\block 345
+\ELANParticipant HM
+\ELANBegin 1060.160
+\ELANEnd 1063.520
+\tx chumngechi chillkatuay               kiñe weche
+\mb chumngechi chillkatu -a     -y       kiñe weche
+\ge cómo      estudiar  -FUT   -IND.[3] un    joven
+\ps pro        verbo     -tam-e -per     art   adj
+
+\ft ¿Cómo va a estudiar un joven
+\mm HectorMariano.14052013.capuchas_18mins.wav 1060.160 1063.520
+
+\block 346
+\ELANParticipant HM
+\ELANBegin 1063.520
+\ELANEnd 1067.040
+\tx ñi    chaw   küdawkülelu           dewmarukafengelu
+\mb ñi    chaw   küdaw   -küle -lu     dewma -ruka   -fe  -nge   -lu
+\ge 3.POSS padre  trabajar -PROG  -advr.1 hacer -casa   -AG  -COP   -advr.1
+\ps pro    nombre verbo    -tam-e -advr   verbo -nombre -der -verbo -advr
+
+\ft cuando su padr trabaja haciendo casas?
+\mm HectorMariano.14052013.capuchas_18mins.wav 1063.520 1067.040
+
+\block 347
+\ELANParticipant HM
+\ELANBegin 1067.040
+\ELANEnd 1069.840
+\tx chumngechi chillkatuay               feychi     wecheke     che
+\mb chumngechi chillkatu -a     -y       fey  -chi  weche -ke   che
+\ge cómo      estudiar  -FUT   -IND.[3] DEM2 -adjr joven -DIST gente
+\ps pro        verbo     -tam-e -per     pro  -***  adj   -det  nombre
+
+\ft ¿Cómo va a estudiar un joven,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1067.040 1069.840
+
+\block 348
+\ELANParticipant HM
+\ELANBegin 1069.840
+\ELANEnd 1071.960
+\tx ñi    chaw   kofkefengelu
+\mb ñi    chaw   kofke  -fe  -nge   -lu
+\ge 3.POSS padre  pan    -AG  -COP   -advr.1
+\ps pro    nombre nombre -der -verbo -advr
+
+\ft cuando su padre es panadero?
+\mm HectorMariano.14052013.capuchas_18mins.wav 1069.840 1071.960
+
+\block 349
+\ELANParticipant HM
+\ELANBegin 1071.960
+\ELANEnd 1076.120
+\tx chumngechi chillkatuay               chi  wecheke     che
+\mb chumngechi chillkatu -a     -y       chi  weche -ke   che
+\ge cómo      estudiar  -FUT   -IND.[3] DEM2 joven -DIST gente
+\ps pro        verbo     -tam-e -per     dem  adj   -det  nombre
+
+\ft ¿Como van a estudiar los jovenes,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1071.960 1076.120
+
+\block 350
+\ELANParticipant HM
+\ELANBegin 1076.120
+\ELANEnd 1079.680
+\tx iñche tañi          pu  fotüm                       iñche
+\mb iñche ta  -ñi      pu  fotüm                       iñche
+\ge 1SG    DET -1SG.POSS COL hijo hombre de ego masculino 1SG
+\ps pro    det -pro      det nombre                       pro
+
+\ft mis hijos,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1076.120 1079.680
+
+\block 351
+\ELANParticipant HM
+\ELANBegin 1079.680
+\ELANEnd 1083.680
+\tx tüfa mew  leputufengen                       tüfachi    universidad mew
+\mb tüfa mew  lepu   -tu    -fe  -nge   -n       tüfa -chi  universidad mew
+\ge DEM1  PPOS barrer -APPL3 -AG  -COP   -IND.1SG DEM1  -adjr universidad PPOS
+\ps pro   ppos verbo  -per   -der -verbo -per     pro   -***  nombre      ppos
+
+\ft si yo soy barrendero en esta universidad?"
+\mm HectorMariano.14052013.capuchas_18mins.wav 1079.680 1083.680
+
+\block 352
+\ELANParticipant HM
+\ELANBegin 1083.680
+\ELANEnd 1086.160
+\tx feymew
+\mb feymew
+\ge entonces
+\ps conj
+
+\ft Entonces,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1083.680 1086.160
+
+\block 353
+\ELANParticipant HM
+\ELANBegin 1086.160
+\ELANEnd 1088.600
+\tx mülefule,
+\mb müle -fu    -l    -e
+\ge estar -AP    -COND -3SG
+\ps verbo -tam-e -mod  -per
+
+\ft si hubiera,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1086.160 1088.600
+
+\block 354
+\ELANParticipant HM
+\ELANBegin 1088.600
+\ELANEnd 1091.480
+\tx ngülafule               engün tañi        rakiduam
+\mb ngüla -fu    -l    -e   engün ta  -ñi    rakiduam
+\ge abrir  -AP    -COND -3SG 3.PL   DET -3.POSS pensamiento
+\ps verbo  -tam-e -mod  -per per    det -pro    nombre
+
+\ft si se abriera su pensamiento,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1088.600 1091.480
+
+\block 355
+\ELANParticipant HM
+\ELANBegin 1091.480
+\ELANEnd 1094.240
+\tx chi  pu  yenielu               tüfachi    pais
+\mb chi  pu  ye     -nie   -lu     tüfa -chi  pais
+\ge DEM2 COL llevar -PERF  -advr.1 DEM1  -adjr pais
+\ps dem  det verbo  -tam-e -advr   pro   -***  nombre
+
+\ft de la gente que lleva este país,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1091.480 1094.240
+
+\block 356
+\ELANParticipant HM
+\ELANBegin 1094.240
+\ELANEnd 1097.560
+\tx rakiduamle             feychi     wecheke     che    mew  engün
+\mb rakiduam    -l    -e   fey  -chi  weche -ke   che    mew  engün
+\ge pensamiento -COND -3SG DEM2 -adjr joven -DIST gente  PPOS 3.PL
+\ps nombre      -mod  -per pro  -***  adj   -det  nombre ppos per
+
+\ft si pensara en los jovenes,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1094.240 1097.560
+
+\block 357
+\ELANParticipant HM
+\ELANBegin 1097.560
+\ELANEnd 1100.120
+\tx nentuafuy                    doy      kellun
+\mb nentu -a     -fu    -y       doy      kellu  -n
+\ge sacar -FUT   -AP    -IND.[3] más     ayudar -NMRZ1
+\ps verbo -tam-e -tam-e -per     adverbio verbo  -nmrz
+
+\ft sacarían más ayuda,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1097.560 1100.120
+
+\block 358
+\ELANParticipant HM
+\ELANBegin 1100.120
+\ELANEnd 1102.080
+\tx müleafuy                    doy      kellun
+\mb müle -a     -fu    -y       doy      kellu  -n
+\ge estar -FUT   -AP    -IND.[3] más     ayudar -NMRZ1
+\ps verbo -tam-e -tam-e -per     adverbio verbo  -nmrz
+
+\ft habría más ayuda,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1100.120 1102.080
+
+\block 359
+\ELANParticipant HM
+\ELANBegin 1102.080
+\ELANEnd 1105.720
+\tx tañi        kellungeael               ta  chi  wecheke     che    chumngechi tañi        kimelael               engün
+\mb ta  -ñi    kellu  -nge -a     -el    ta  chi  weche -ke   che    chumngechi ta  -ñi    kimel    -a     -el    engün
+\ge DET -3.POSS ayudar -PAS -FUT   -NMRZ2 DET DEM2 joven -DIST gente  cómo      DET -3.POSS enseñar -FUT   -NMRZ2 3.PL
+\ps det -pro    verbo  -per -tam-e -nmzr  det dem  adj   -det  nombre pro        det -pro    verbo    -tam-e -nmzr  per
+
+\ft para ayudar a los jovenes cómo van a estudiar,
+\mm HectorMariano.14052013.capuchas_18mins.wav 1102.080 1105.720
+
+\block 360
+\ELANParticipant HM
+\ELANBegin 1105.720
+\ELANEnd 1107.520
+\tx taiñ        küme
+\mb ta  -iñ     küme
+\ge DET -IND.1PL bien
+\ps det -per     adverbio
+
+\ft para que
+\mm HectorMariano.14052013.capuchas_18mins.wav 1105.720 1107.520
+
+\block 361
+\ELANParticipant HM
+\ELANBegin 1107.520
+\ELANEnd 1109.875
+\tx küme    küdaw   nieael              engün ka   antü
+\mb küme    küdaw   nie   -a     -el    engün ka   antü
+\ge bien     trabajar tener -FUT   -NMRZ2 3.PL   y    día
+\ps adverbio verbo    verbo -tam-e -nmzr  per    conj nombre
+
+\ft tengan buenos trabajos algún día.
+\mm HectorMariano.14052013.capuchas_18mins.wav 1107.520 1109.875
+
+\block 362
+\ELANParticipant HM
+\ELANBegin 1109.875
+\ELANEnd 1116.925
+\tx feymew   ta  wedalkaleiñ                           tüfachi    Chile  pais   mew  peñi,                     fey  müten
+\mb feymew   ta  weda     -l     -ka    -le    -iñ     tüfa -chi  Chile  pais   mew  peñi                      fey  müten
+\ge entonces DET malo     -APPL3 -CONT  -ESTAT -IND.1PL DEM1  -adjr Chile  pais   PPOS hermano (de ego masculino) DEM2 no.más
+\ps conj     det adjetivo -per   -tam-e -tam-e -per     pro   -***  nombre nombre ppos nombre                     pro  adverbio
+
+\ft Entonces, estamos mal en este país Chile, hermano, eso no más.
+\mm HectorMariano.14052013.capuchas_18mins.wav 1109.875 1116.925
+
+\block 363
+\ELANParticipant FH
+\ELANBegin 1117.895
+\ELANEnd 1125.711
+\tx feley             peñi,                     ka   müna    mañumeyu,              müna    kümey            tami          nütramkan
+\mb fele     -y       peñi                      ka   müna    mañum    -e   -yu      müna    küme    -y       ta  -mi       nütramka -n
+\ge ser así -IND.[3] hermano (de ego masculino) y    mucho    agradecer -INV -IND.1DU mucho    bien     -IND.[3] DET -2SG.POSS conversar -NMRZ1
+\ps verbo    -per     nombre                     conj adverbio verbo     -per -per     adverbio adverbio -per     det -pro      verbo     -nmrz
+
+\ft Es así hermano, le agradezco, muy buena su conversación.
+\mm HectorMariano.14052013.capuchas_18mins.wav 1117.895 1125.711
+
+
+\ELANMediaURL file:///Users/FelipeHasler/Dropbox/Trabajo de campo_21052013/trabajodecampomayo2013_300minutos/Santiago_270mins/HectorMariano.14052013.capuchas_18mins.wav
+\ELANMediaMIME audio/x-wav

@@ -1,0 +1,8794 @@
+﻿\_sh v3.0  400  Text
+
+\id
+\ref
+\tx 
+
+\ref 001
+\ELANParticipant FH
+\ELANBegin 13.080
+\ELANEnd 17.600
+\tx ramtueyu                kiñeke     pichi    dungu  mapudungun mew
+\mb ramtu     -e   -yu      kiñe -ke   pichi    dungu  mapudungun mew
+\ge preguntar -INV -IND.1DU un    -DIST pequeño asunto mapudungun PPOS
+\ps verbo     -per -per     art   -det  adj      nombre nombre     ppos
+
+\ft te voy a preguntar  algunas cosas en mapudungun
+\mm Conversación_CH_20112012.wav 13.080 17.600
+
+\ref 002
+\ELANParticipant FH
+\ELANBegin 17.600
+\ELANEnd 25.840
+\tx fey, ¿Chew küdawmekeymi              eymi?
+\mb fey  chew   küdaw   -meke    -ymi     eymi
+\ge DEM2 dónde trabajar -PROG.AG -IND.2SG tú
+\ps pro  pro    verbo    -tam-e   -per     pro
+
+\ft ¿Dónde está trabajando usted?
+\mm Conversación_CH_20112012.wav 17.600 25.840
+
+\ref 003
+\ELANParticipant CH
+\ELANBegin 25.800
+\ELANEnd 31.360
+\tx Iñche ta  küdawlepun                    ta, küdawlepun                    ta  Chillan
+\mb iñche ta  küdaw   -le    -pu   -n       ta  küdaw   -le    -pu   -n       ta  Chillan
+\ge 1SG    DET trabajar -PROG  -DIR2 -IND.1SG DET trabajar -PROG  -DIR2 -IND.1SG DET Chillan
+\ps pro    det verbo    -tam-e -dir  -per     det verbo    -tam-e -dir  -per     det nombre
+
+\ft yo voy a trabajar a Chillán
+\mm Conversación_CH_20112012.wav 25.800 31.360
+
+\ref 004
+\ELANParticipant FH
+\ELANBegin 31.320
+\ELANEnd 32.520
+\tx Chillan waria  mew
+\mb Chillan waria  mew
+\ge Chillan ciudad PPOS
+\ps nombre  nombre ppos
+
+\ft a la ciudad de Chillán
+\mm Conversación_CH_20112012.wav 31.320 32.520
+
+\ref 005
+\ELANParticipant CH
+\ELANBegin 32.480
+\ELANEnd 34.840
+\tx Chillan waria  mew
+\mb Chillan waria  mew
+\ge Chillan ciudad PPOS
+\ps nombre  nombre ppos
+
+\ft a la ciudad de Chillán
+\mm Conversación_CH_20112012.wav 32.480 34.840
+
+\ref 006
+\ELANParticipant CH
+\ELANBegin 34.840
+\ELANEnd 40.000
+\tx müley         ta  pal      norte    pi-y  ta  wingka
+\mb müle -y       ta  pal      norte    pi    ta  wingka
+\ge estar -IND.[3] DET para el  norte    decir DET no.mapuche
+\ps verbo -per     det prestamo prestamo verbo det nombre
+
+\ft está pal norte dicen los wingkas
+\mm Conversación_CH_20112012.wav 34.840 40.000
+
+\ref 007
+\ELANParticipant FH
+\ELANBegin 40.960
+\ELANEnd 42.720
+\tx ka   chummekeymi
+\mb ka   chum  -meke    -ymi
+\ge y    cómo -PROG.AG -IND.2SG
+\ps conj pro   -tam-e   -per
+
+\ft ¿y qué es lo que estás haciendo?
+\mm Conversación_CH_20112012.wav 40.960 42.720
+
+\ref 008
+\ELANParticipant CH
+\ELANBegin 42.680
+\ELANEnd 45.200
+\tx petu     küdawmen               ta  uyew
+\mb petu     küdaw   -me   -n       ta  uyew
+\ge todavía trabajar -DIR3 -IND.1SG DET allá
+\ps adverbio verbo    -dir  -per     det adverbio
+
+\ft estoy yendo a trabajar allá
+\mm Conversación_CH_20112012.wav 42.680 45.200
+
+\ref 009
+\ELANParticipant CH
+\ELANBegin 45.200
+\ELANEnd 47.040
+\tx dewmameken              ta  pichike        plaza
+\mb dewma -meke    -n       ta  pichi    -ke   plaza
+\ge hacer -PROG.AG -IND.1SG DET pequeño -DIST verbo
+\ps verbo -tam-e   -per     det adj      -det  prestamo
+
+\ft estoy haciendo unas pequeñas plazas
+\mm Conversación_CH_20112012.wav 45.200 47.040
+
+\ref 010
+\ELANParticipant CH
+\ELANBegin 47.040
+\ELANEnd 53.640
+\tx anukunuam                     ta  che,   yawfutuam                  ta  che
+\mb anu      -kunu  -a     -m     ta  che    yawfutu      -a     -m     ta  che
+\ge sentarse -PRPS  -FUT   -ADVR2 DET gente  tomar.sombra -FUT   -ADVR2 DET gente
+\ps verbo    -tam-e -tam-e -advr  det nombre verbo        -tam-e -advr  det nombre
+
+\ft para que se siente la gente, para que tome sombra la gente
+\mm Conversación_CH_20112012.wav 47.040 53.640
+
+\ref 011
+\ELANParticipant CH
+\ELANBegin 53.640
+\ELANEnd 60.720
+\tx ka   nienoam                        ta  müte    ta  trufur, ta  ruka   mew
+\mb ka   nie   -no       -a     -m     ta  müte    ta  trufur  ta  ruka   mew
+\ge y    tener -NEG2     -FUT   -ADVR2 DET poco     DET polvo   DET casa   PPOS
+\ps conj verbo -adverbio -tam-e -advr  det adverbio det nombre  det nombre ppos
+
+\tx konnoam                         ta  trufur
+\mb kon    -no       -a     -m     ta  trufur
+\ge entrar -NEG2     -FUT   -ADVR2 DET polvo
+\ps verbo  -adverbio -tam-e -advr  det nombre
+
+\ft para que no tengan polvo, para que no entre el polvo a las casas
+\mm Conversación_CH_20112012.wav 53.640 60.720
+
+\ref 012
+\ELANParticipant CH
+\ELANBegin 60.720
+\ELANEnd 65.360
+\tx cementangey              ta  chi  calle
+\mb cementa    -nge -y       ta  chi  calle
+\ge pavimentar -PAS -IND.[3] DET DUB  calle
+\ps verbo      -per -per     det part nombr
+
+\ft se pavimenta la calle
+\mm Conversación_CH_20112012.wav 60.720 65.360
+
+\ref 013
+\ELANParticipant CH
+\ELANBegin 65.360
+\ELANEnd 71.320
+\tx anumngealu                          pichike        matita, mamüll
+\mb anu      -m     -nge -a     -lu     pichi    -ke   matita  mamüll
+\ge sentarse -CAUS2 -PAS -FUT   -advr.1 pequeño -DIST matita  madera
+\ps verbo    -per   -per -tam-e -advr   adj      -det  nombre  nombre
+
+\ft para que sean plantas pequeñas matitas
+\mm Conversación_CH_20112012.wav 65.360 71.320
+
+\ref 014
+\ELANParticipant CH
+\ELANBegin 71.360
+\ELANEnd 73.360
+\tx plantayalu             ta  chi
+\mb planta  -ya    -lu     ta  chi
+\ge plantar -FUT   -advr.1 DET DUB
+\ps verbo   -tam-e -advr   det part
+
+\ft para plantarlas
+\mm Conversación_CH_20112012.wav 71.360 73.360
+
+\ref 015
+\ELANParticipant FH
+\ELANBegin 73.360
+\ELANEnd 75.280
+\tx müna    küme    dungu
+\mb müna    küme    dungu
+\ge mucho    bien     asunto
+\ps adverbio adverbio nombre
+
+\ft muy buena cosa
+\mm Conversación_CH_20112012.wav 73.360 75.280
+
+\ref 016
+\ELANParticipant FH
+\ELANBegin 75.280
+\ELANEnd 79.440
+\tx ka   chumley               tüfachi    küdaw?, ¿küme  küdaw?  ¿weda   küdaw?
+\mb ka   chum  -le    -y       tüfa -chi  küdaw   küme    küdaw   weda     küdaw
+\ge y    cómo -PRO   -IND.[3] DEM1  -adjr trabajar bien     trabajar malo     trabajar
+\ps conj pro   -tam-e -per     pro   -***  verbo    adverbio verbo    adjetivo verbo
+
+\ft ¿y cómo es este trabajo? ¿Buen trabajo? ¿Mal trabajo?
+\mm Conversación_CH_20112012.wav 75.280 79.440
+
+\ref 017
+\ELANParticipant CH
+\ELANBegin 79.400
+\ELANEnd 81.200
+\tx küme,   küme    küdaw
+\mb küme    küme    küdaw
+\ge bien     bien     trabajar
+\ps adverbio adverbio verbo
+
+\ft buen trabajo, buen trabajo
+\mm Conversación_CH_20112012.wav 79.400 81.200
+
+\ref 018
+\ELANParticipant CH
+\ELANBegin 81.200
+\ELANEnd 86.200
+\tx antü  müten   müna    weda,    müna    fuertengey               chi  antü
+\mb antü  müten   müna    weda     müna    fuerte   -nge   -y       chi  antü
+\ge sol    no.más  mucho    malo     mucho    fuerte   -COP   -IND.[3] DEM2 sol
+\ps nombre adverbio adverbio adjetivo adverbio adjetivo -verbo -per     dem  nombre
+
+\ft el sol no más muy malo, muy fuerte es el sol
+\mm Conversación_CH_20112012.wav 81.200 86.200
+
+\ref 019
+\ELANParticipant CH
+\ELANBegin 86.200
+\ELANEnd 87.560
+\tx müna    arengey
+\mb müna    are    -nge   -y
+\ge mucho    calor  -COP   -IND.[3]
+\ps adverbio nombre -verbo -per
+
+\ft hace mucho calor
+\mm Conversación_CH_20112012.wav 86.200 87.560
+
+\ref 020
+\ELANParticipant FH
+\ELANBegin 87.520
+\ELANEnd 88.360
+\tx arengey
+\mb are    -nge   -y
+\ge calor  -COP   -IND.[3]
+\ps nombre -verbo -per
+
+\ft hace mucho calor
+\mm Conversación_CH_20112012.wav 87.520 88.360
+
+\ref 021
+\ELANParticipant CH
+\ELANBegin 88.320
+\ELANEnd 89.200
+\tx müna    arengey
+\mb müna    are    -nge   -y
+\ge mucho    calor  -COP   -IND.[3]
+\ps adverbio nombre -verbo -per
+
+\ft mucho calor
+\mm Conversación_CH_20112012.wav 88.320 89.200
+
+\ref 022
+\ELANParticipant FH
+\ELANBegin 89.200
+\ELANEnd 90.640
+\tx uuuuu
+\ft
+\mm Conversación_CH_20112012.wav 89.200 90.640
+
+\ref 023
+\ELANParticipant FH
+\ELANBegin 90.760
+\ELANEnd 95.240
+\tx ka   tüfachi    küdaw   mew, müley         doy      mapuche che
+\mb ka   tüfa -chi  küdaw   mew  müle -y       doy      mapuche che
+\ge y    DEM1  -adjr trabajar PPOS estar -IND.[3] más     mapuche gente
+\ps conj pro   -***  verbo    ppos verbo -per     adverbio nombre  nombre
+
+\ft y en este trabajo, hay más gente mapuche
+\mm Conversación_CH_20112012.wav 90.760 95.240
+
+\ref 024
+\ELANParticipant CH
+\ELANBegin 95.200
+\ELANEnd 97.800
+\tx wünechi       mülepukey                  ka   mapuche
+\mb wüne    -chi  müle -pu   -ke    -y       ka   mapuche
+\ge primero  -adjr estar -DIR2 -HAB   -IND.[3] y    mapuche
+\ps adjetivo -***  verbo -dir  -tam-e -per     conj nombre
+
+\ft al principio iban a estar allá otros mapuches
+\mm Conversación_CH_20112012.wav 95.200 97.800
+
+\ref 025
+\ELANParticipant CH
+\ELANBegin 97.800
+\ELANEnd 101.280
+\tx después       afachi                küdaw   mew  küpatuyngün,
+\mb *des -pu   *s  af       -a     -chi  küdaw   mew  küpa  -tu    -y       -ngün
+\ge ***  -DIR2 *** terminar -FUT   -adjr trabajar PPOS querer -APPL3 -IND.[3] -3.PL
+\ps ***  -dir  *** verbo    -tam-e -***  verbo    ppos aux    -per   -per     -per
+
+\tx amutuyngün                  tañi        ruka   mew
+\mb amu   -tu    -y       -ngün ta  -ñi    ruka   mew
+\ge ir    -APPL3 -IND.[3] -3.PL  DET -3.POSS casa   PPOS
+\ps verbo -per   -per     -per   det -pro    nombre ppos
+
+\ft después cuando se acabó el trabajo se vinieron, se volvieron a sus casas
+\mm Conversación_CH_20112012.wav 97.800 101.280
+
+\ref 026
+\ELANParticipant CH
+\ELANBegin 101.320
+\ELANEnd 103.840
+\tx amutunge,           amutumun
+\mb amu   -tu  -nge     amu   -tu  -mun
+\ge ir    -RE  -IMP.2SG ir    -RE  -IMP.2PL
+\ps verbo -dir -mod     verbo -dir -per
+
+\ft andate, vayanse
+\mm Conversación_CH_20112012.wav 101.320 103.840
+
+\ref 027
+\ELANParticipant CH
+\ELANBegin 103.840
+\ELANEnd 104.840
+\tx deway                     ta  küdaw   ta ti
+\mb dew       -a     -y       ta  küdaw   ta ti
+\ge completar -FUT   -IND.[3] DET trabajar DETDET2
+\ps verbo     -tam-e -per     det verbo    detdet
+
+\ft se va a acabar el trabajo
+\mm Conversación_CH_20112012.wav 103.840 104.840
+
+\ref 028
+\ELANParticipant CH
+\ELANBegin 104.840
+\ELANEnd 107.760
+\tx duamwelaiñ                    ta  che    piy
+\mb duam     -we    -la   -iñ     ta  che    pi    -y
+\ge entender -INC   -NEG1 -IND.1PL DET gente  decir -IND.[3]
+\ps verbo    -tam-E -neg  -per     det nombre verbo -per
+
+\ft ya no necesitamos más gente dijeron
+\mm Conversación_CH_20112012.wav 104.840 107.760
+
+\ref 029
+\ELANParticipant CH
+\ELANBegin 107.840
+\ELANEnd 110.120
+\tx pingekunuy                 ta  küpatuy
+\mb pi    -nge -kunu  -y       ta  küpa -tu  -y
+\ge decir -PAS -PRPS  -IND.[3] DET venir -RE  -IND.[3]
+\ps verbo -per -tam-e -per     det verbo -dir -per
+
+\ft les dejaron dicho y se volvieron
+\mm Conversación_CH_20112012.wav 107.840 110.120
+
+\ref 030
+\ELANParticipant CH
+\ELANBegin 110.120
+\ELANEnd 110.760
+\tx ya
+\mb ya
+\ge ya
+\ps interjección
+
+\ft ya
+\mm Conversación_CH_20112012.wav 110.120 110.760
+
+\ref 031
+\ELANParticipant FH
+\ELANBegin 110.800
+\ELANEnd 113.080
+\tx afi               ta  küdaw
+\mb af       -i       ta  küdaw
+\ge terminar -IND.[3] DET trabajar
+\ps verbo    -per     det verbo
+
+\ft se acabó el trabajo
+\mm Conversación_CH_20112012.wav 110.800 113.080
+
+\ref 032
+\ELANParticipant CH
+\ELANBegin 113.040
+\ELANEnd 115.000
+\tx afi               ta  küdaw,  petu     afi               ta  küdaw
+\mb af       -i       ta  küdaw   petu     af       -i       ta  küdaw
+\ge terminar -IND.[3] DET trabajar todavía terminar -IND.[3] DET trabajar
+\ps verbo    -per     det verbo    adverbio verbo    -per     det verbo
+
+\ft se acabó el trabajo, se está acabando el trabajo
+\mm Conversación_CH_20112012.wav 113.040 115.000
+
+\ref 033
+\ELANParticipant CH
+\ELANBegin 115.000
+\ELANEnd 115.920
+\tx tuntelewelay
+\mb tunte   -le    -we    -la   -y
+\ge cuánto -PRO   -INC   -NEG1 -IND.[3]
+\ps pro     -tam-e -tam-E -neg  -per
+
+\ft queda poquito
+\mm Conversación_CH_20112012.wav 115.000 115.920
+
+\ref 034
+\ELANParticipant CH
+\ELANBegin 115.920
+\ELANEnd 118.480
+\tx mish
+\ft mish
+\mm Conversación_CH_20112012.wav 115.920 118.480
+
+\ref 035
+\ELANParticipant FH
+\ELANBegin 118.440
+\ELANEnd 122.920
+\tx küdaw   mew  eymün          mapudunguymün             kiñeke     mew
+\mb küdaw   mew  *eymü -n       mapudungu         -ymün   kiñe -ke   mew
+\ge trabajar PPOS ***    -IND.1SG hablar mapudungun -IND.2PL un    -DIST PPOS
+\ps verbo    ppos ***    -per     verbo             -per     art   -det  ppos
+
+\ft en el trabajo ustedes hablan mapudungun algunas veces
+\mm Conversación_CH_20112012.wav 118.440 122.920
+
+\ref 036
+\ELANParticipant CH
+\ELANBegin 122.880
+\ELANEnd 125.120
+\tx mapuchedungukeiñ
+\mb mapuche -dungu  -ke    -iñ
+\ge mapuche -asunto -HAB   -IND.1PL
+\ps nombre  -nombre -tam-e -per
+
+\ft hablamos mapudungun
+\mm Conversación_CH_20112012.wav 122.880 125.120
+
+\ref 037
+\ELANParticipant CH
+\ELANBegin 125.120
+\ELANEnd 127.680
+\tx müna    küpakimiy                       kiñekentu
+\mb müna    küpa  -kim   -i       -y       kiñe -ke   -ntu
+\ge mucho    querer -saber -IND.[3] -IND.[3] un    -DIST -COL
+\ps adverbio aux    -verbo -per     -per     art   -det  -det
+
+\ft algunos quieren aprender mapudungun
+\mm Conversación_CH_20112012.wav 125.120 127.680
+
+\ref 038
+\ELANParticipant CH
+\ELANBegin 127.680
+\ELANEnd 131.600
+\tx müna    küpa  mapuchedunguyngün
+\mb müna    küpa  mapuche -dungu  -y       -ngün
+\ge mucho    querer mapuche -asunto -IND.[3] -3.PL
+\ps adverbio aux    nombre  -nombre -per     -per
+
+\ft tienen ganas de aprender a hablar mapudungun
+\mm Conversación_CH_20112012.wav 127.680 131.600
+
+\ref 039
+\ELANParticipant FH
+\ELANBegin 131.560
+\ELANEnd 134.520
+\tx müna    küme    dungu
+\mb müna    küme    dungu
+\ge mucho    bien     asunto
+\ps adverbio adverbio nombre
+
+\ft muy buena cosa
+\mm Conversación_CH_20112012.wav 131.560 134.520
+
+\ref 040
+\ELANParticipant FH
+\ELANBegin 134.520
+\ELANEnd 140.400
+\tx eymi ta  karpintero
+\mb eymi ta  karpintero
+\ge tú  DET carpintero
+\ps pro  det nombre
+
+\ft tú eres carpintero
+\mm Conversación_CH_20112012.wav 134.520 140.400
+
+\ref 041
+\ELANParticipant CH
+\ELANBegin 140.360
+\ELANEnd 145.680
+\tx may,     iñche ta  maetro  karpintero küdawken                ta  tabla  mew
+\mb may      iñche ta  maetro  karpintero küdaw   -ke    -n       ta  tabla  mew
+\ge si       1SG    DET maestro carpintero trabajar -HAB   -IND.1SG DET tabla  PPOS
+\ps adverbio pro    det nombre  nombre     verbo    -tam-e -per     det nombre ppos
+
+\ft si, yo soy maestro carpintero, trabajo con las tablas
+\mm Conversación_CH_20112012.wav 140.360 145.680
+
+\ref 042
+\ELANParticipant CH
+\ELANBegin 145.680
+\ELANEnd 148.600
+\tx dewmakeiñ            moldaje
+\mb dewma -ke    -iñ     moldaje
+\ge hacer -HAB   -IND.1PL moldaje
+\ps verbo -tam-e -per     nombre
+
+\ft hacemos moldaje
+\mm Conversación_CH_20112012.wav 145.680 148.600
+
+\ref 043
+\ELANParticipant CH
+\ELANBegin 148.600
+\ELANEnd 152.280
+\tx ta  konam                ta  cemento, apoley                 ta  cemento mew
+\mb ta  kon    -a     -m     ta  cemento  apo    -le    -y       ta  cemento mew
+\ge DET entrar -FUT   -ADVR2 DET cemento  llenar -ESTAT -IND.[3] DET cemento PPOS
+\ps det verbo  -tam-e -advr  det nombre   verbo  -tam-e -per     det nombre  ppos
+
+\ft para que entre el cemento, se llena de cemento
+\mm Conversación_CH_20112012.wav 148.600 152.280
+
+\ref 044
+\ELANParticipant CH
+\ELANBegin 152.280
+\ELANEnd 155.760
+\tx femngechi, feychi     küdaw   iñchiñ        ta  dewmakeiñ
+\mb femngechi  fey  -chi  küdaw   *iñch -iñ     ta  dewma -ke    -iñ
+\ge así       DEM2 -adjr trabajar ***    -IND.1PL DET hacer -HAB   -IND.1PL
+\ps adverbio   pro  -***  verbo    ***    -per     det verbo -tam-e -per
+
+\ft así, ese trabajo hacemos nosotros
+\mm Conversación_CH_20112012.wav 152.280 155.760
+
+\ref 045
+\ELANParticipant FH
+\ELANBegin 155.720
+\ELANEnd 163.320
+\tx chumngechi kimimi         tami          dewman       karpintero reke
+\mb chumngechi kim   -imi     ta  -mi       dewma -n     karpintero reke
+\ge cómo      saber -IND.2SG DET -2SG.POSS hacer -NMRZ1 carpintero COMP
+\ps pro        verbo -per     det -pro      verbo -nmrz  nombre     ppos
+
+\ft y cómo aprendiste a hacer tu trabajo de carpintero
+\mm Conversación_CH_20112012.wav 155.720 163.320
+
+\ref 046
+\ELANParticipant FH
+\ELANBegin 163.320
+\ELANEnd 165.440
+\tx chumngechi kimimi
+\mb chumngechi kim   -imi
+\ge cómo      saber -IND.2SG
+\ps pro        verbo -per
+
+\ft cómo aprendiste
+\mm Conversación_CH_20112012.wav 163.320 165.440
+
+\ref 047
+\ELANParticipant CH
+\ELANBegin 165.400
+\ELANEnd 167.000
+\tx chumngechi adumün                tüfachi    küdaw
+\mb chumngechi adum    -*ü -n       tüfa -chi  küdaw
+\ge cómo      manejar -*** -IND.1SG DEM1  -adjr trabajar
+\ps pro        verbo   -*** -per     pro   -***  verbo
+
+\ft cómo aprendí este trabajo
+\mm Conversación_CH_20112012.wav 165.400 167.000
+
+\ref 048
+\ELANParticipant CH
+\ELANBegin 167.000
+\ELANEnd 173.000
+\tx adumün                tüfachi    küdaw   kuyfi        ka   ayefiiñ
+\mb adum    -*ü -n       tüfa -chi  küdaw   kuyfi        ka   aye    -fi   -iñ
+\ge manejar -*** -IND.1SG DEM1  -adjr trabajar antiguamente y    gustar -3.OP -IND.1PL
+\ps verbo   -*** -per     pro   -***  verbo    adv          conj verbo  -per  -per
+
+\ft aprendí este trabajo antes y me gustó
+\mm Conversación_CH_20112012.wav 167.000 173.000
+
+\ref 049
+\ELANParticipant CH
+\ELANBegin 173.000
+\ELANEnd 177.320
+\tx petu     pichikalu               iñche ayefiiñ              tachi     küdaw
+\mb petu     pichi    -ka    -lu     iñche aye    -fi   -iñ     ta  -chi  küdaw
+\ge todavía pequeño -CONT  -advr.1 1SG    gustar -3.OP -IND.1PL DET -adjr trabajar
+\ps adverbio adj      -tam-e -advr   pro    verbo  -per  -per     det -***  verbo
+
+\ft cuando todavía era nño me gustó este trabajo
+\mm Conversación_CH_20112012.wav 173.000 177.320
+
+\ref 050
+\ELANParticipant CH
+\ELANBegin 177.320
+\ELANEnd 180.160
+\tx müna    küpa dewmakefun                   ruka
+\mb müna    küpa dewma -ke    -fu    -n       ruka
+\ge mucho    quererhacer -HAB   -AP    -IND.1SG casa
+\ps adverbio aux   verbo -tam-e -tam-e -per     nombre
+
+\ft tenía muchas ganas de hacer casas
+\mm Conversación_CH_20112012.wav 177.320 180.160
+
+\ref 051
+\ELANParticipant CH
+\ELANBegin 180.200
+\ELANEnd 182.600
+\tx despues  dewman
+\mb despues  dewma -n
+\ge despues  hacer -IND.1SG
+\ps adverbio verbo -per
+
+\ft y después hice
+\mm Conversación_CH_20112012.wav 180.200 182.600
+
+\ref 052
+\ELANParticipant FH
+\ELANBegin 182.560
+\ELANEnd 185.760
+\tx ya,           re       adkintun         müten
+\mb ya            re       adkintu -n       müten
+\ge ya            solo     mirar   -IND.1SG no.más
+\ps interjección adverbio verbo   -per     adverbio
+
+\ft ya, solo mirando
+\mm Conversación_CH_20112012.wav 182.560 185.760
+
+\ref 053
+\ELANParticipant CH
+\ELANBegin 185.720
+\ELANEnd 190.160
+\tx re       adkintun         müten   fey  ka   pu  hermano  iglesia mew  ka
+\mb re       adkintu -n       müten   fey  ka   pu  *hermano iglesia mew  ka
+\ge solo     mirar   -IND.1SG no.más  DEM2 y    COL ***      iglesia PPOS y
+\ps adverbio verbo   -per     adverbio pro  conj det ***      nombre  ppos conj
+
+\tx enseñaenew
+\mb enseña  -e   -n       -ew
+\ge enseñar -3SG -IND.1SG -OBL
+\ps verbo    -per -per     -per
+
+\ft solo mirando y los hermanos de la iglesia me enseñaron
+\mm Conversación_CH_20112012.wav 185.720 190.160
+
+\ref 054
+\ELANParticipant CH
+\ELANBegin 190.160
+\ELANEnd 193.800
+\tx femngechi adumün
+\mb femngechi adum    -*ü -n
+\ge así      manejar -*** -IND.1SG
+\ps adverbio  verbo   -*** -per
+
+\ft así aprendí
+\mm Conversación_CH_20112012.wav 190.160 193.800
+
+\ref 055
+\ELANParticipant FH
+\ELANBegin 193.800
+\ELANEnd 202.840
+\tx eymi ayefimi                tami          küpan       iglesia mew
+\mb eymi aye    -fi   -mi       ta  -mi       küpa -n     iglesia mew
+\ge tú  gustar -3.OP -2SG.POSS DET -2SG.POSS venir -NMRZ1 iglesia PPOS
+\ps pro  verbo  -per  -pro      det -pro      verbo -nmrz  nombre  ppos
+
+\ft ¿a ti te gusta ir a la iglesia?
+\mm Conversación_CH_20112012.wav 193.800 202.840
+
+\ref 056
+\ELANParticipant CH
+\ELANBegin 202.720
+\ELANEnd 207.200
+\tx may      ayefin                tañi          miyawael            iglesia mew  ka
+\mb may      aye    -fi   -n       ta  -ñi      miyaw -a     -el    iglesia mew  ka
+\ge si       gustar -3.OP -IND.1SG DET -1SG.POSS andar -FUT   -NMRZ2 iglesia PPOS y
+\ps adverbio verbo  -per  -per     det -pro      verbo -tam-e -nmzr  nombre  ppos conj
+
+\ft me gusta andar en la iglesia
+\mm Conversación_CH_20112012.wav 202.720 207.200
+
+\ref 057
+\ELANParticipant FH
+\ELANBegin 207.160
+\ELANEnd 211.960
+\tx chumüll koni            ta  iglesia tüfachi    lof       mew
+\mb chumüll kon    -i       ta  iglesia tüfa -chi  lof       mew
+\ge cuándo  entrar -IND.[3] DET iglesia DEM1  -adjr comunidad PPOS
+\ps pro      verbo  -per     det nombre  pro   -***  nombre    ppos
+
+\ft ¿Cuándo entró la igelsia a esta comunidad?
+\mm Conversación_CH_20112012.wav 207.160 211.960
+
+\ref 058
+\ELANParticipant CH
+\ELANBegin 211.880
+\ELANEnd 212.680
+\tx chumüll akuy
+\mb chumüll aku         -y
+\ge cuándo  llegar.acá -IND.[3]
+\ps pro      verbo       -per
+
+\ft ¿Cuándo llegó?
+\mm Conversación_CH_20112012.wav 211.880 212.680
+
+\ref 059
+\ELANParticipant FH
+\ELANBegin 212.640
+\ELANEnd 215.360
+\tx may
+\mb may
+\ge si
+\ps adverbio
+
+\ft si
+\mm Conversación_CH_20112012.wav 212.640 215.360
+
+\ref 060
+\ELANParticipant CH
+\ELANBegin 215.320
+\ELANEnd 223.920
+\tx mas      o    menos    como     epu     mari    kechu   tripantü, mas      o    menos    peno
+\mb mas      o    menos    como     epu     mari    kechu   tripantü  mas      o    menos    peno
+\ge más     o    menos    como     dos     diez    cinco   año       más     o    menos    DUB
+\ps adverbio conj adverbio adverbio número número número nombre     adverbio conj adverbio part
+
+\tx amuley                dew
+\mb amu   -le    -y       dew
+\ge ir    -PRO   -IND.[3] ya
+\ps verbo -tam-e -per     adverbio
+
+\ft más o menos como veinticinco años, más o menos parece que van
+\mm Conversación_CH_20112012.wav 215.320 223.920
+
+\ref 061
+\ELANParticipant CH
+\ELANBegin 223.920
+\ELANEnd 227.720
+\tx tüfachi    iglesia akuy                 ta  mew
+\mb tüfa -chi  iglesia aku         -y       ta  mew
+\ge DEM1  -adjr iglesia llegar.acá -IND.[3] DET PPOS
+\ps pro   -***  nombre  verbo       -per     det ppos
+
+\ft esta iglesia llegó acá
+\mm Conversación_CH_20112012.wav 223.920 227.720
+
+\ref 062
+\ELANParticipant CH
+\ELANBegin 227.720
+\ELANEnd 231.400
+\tx dewmayngün           ta  ngillatuwe     ruka
+\mb dewma -y       -ngün ta  ngillatu -we   ruka
+\ge hacer -IND.[3] -3.PL  DET pedir    -LOC  casa
+\ps verbo -per     -per   det verbo    -nmrz nombre
+
+\ft hicieron una casa de oración
+\mm Conversación_CH_20112012.wav 227.720 231.400
+
+\ref 063
+\ELANParticipant CH
+\ELANBegin 231.400
+\ELANEnd 234.240
+\tx akuy                 ta  pu  hermano tuwlu            ta  pueblo mew
+\mb aku         -y       ta  pu  hermano tuw      -lu     ta  pueblo mew
+\ge llegar.acá -IND.[3] DET COL hermano provenir -advr.1 DET pueblo PPOS
+\ps verbo       -per     det det nombre  verbo    -advr   det nombre ppos
+
+\ft llegaron los hermanos que vienen del pueblo
+\mm Conversación_CH_20112012.wav 231.400 234.240
+
+\ref 064
+\ELANParticipant CH
+\ELANBegin 234.240
+\ELANEnd 238.200
+\tx küpaleyngün                ta  herramienta küdawam
+\mb küpa -le    -y       -ngün ta  herramienta küdaw   -a     -m
+\ge venir -PROG  -IND.[3] -3.PL  DET herramienta trabajar -FUT   -ADVR2
+\ps verbo -tam-e -per     -per   det nombre      verbo    -tam-e -advr
+
+\ft trajeron las herramientas para trabajar
+\mm Conversación_CH_20112012.wav 234.240 238.200
+
+\ref 065
+\ELANParticipant CH
+\ELANBegin 238.200
+\ELANEnd 242.240
+\tx iñche fey  ka   nieken                herramienta fey  ka   küdawken                iñche
+\mb iñche fey  ka   nie   -ke    -n       herramienta fey  ka   küdaw   -ke    -n       iñche
+\ge 1SG    DEM2 y    tener -HAB   -IND.1SG herramienta DEM2 y    trabajar -HAB   -IND.1SG 1SG
+\ps pro    pro  conj verbo -tam-e -per     nombre      pro  conj verbo    -tam-e -per     pro
+
+\ft yo también tengo herramientas y también trabajé
+\mm Conversación_CH_20112012.wav 238.200 242.240
+
+\ref 066
+\ELANParticipant CH
+\ELANBegin 242.240
+\ELANEnd 246.480
+\tx chumngechi tañi          katrungeael               ta  tabla
+\mb chumngechi ta  -ñi      katru  -nge -a     -el    ta  tabla
+\ge cómo      DET -1SG.POSS cortar -PAS -FUT   -NMRZ2 DET tabla
+\ps pro        det -pro      verbo  -per -tam-e -nmzr  det nombre
+
+\ft como cortar las tablas
+\mm Conversación_CH_20112012.wav 242.240 246.480
+
+\ref 067
+\ELANParticipant CH
+\ELANBegin 246.480
+\ELANEnd 249.680
+\tx corte 45 pingelu,
+\mb corte 45 pi    -nge -lu
+\ge corte 45 decir -PAS -advr.1
+\ps nombr 45 verbo -per -advr
+
+\ft corte 45 que le llaman
+\mm Conversación_CH_20112012.wav 246.480 249.680
+
+\ref 068
+\ELANParticipant CH
+\ELANBegin 249.680
+\ELANEnd 253.880
+\tx ka   müley         tabla  rollizo chumngechi ñi    katrungeael
+\mb ka   müle -y       tabla  rollizo chumngechi ñi    katru  -nge -a     -el
+\ge y    estar -IND.[3] tabla  rollizo cómo      3.POSS cortar -PAS -FUT   -NMRZ2
+\ps conj verbo -per     nombre nombre  pro        pro    verbo  -per -tam-e -nmzr
+
+\ft y hay tabla rollizo, como se cortan
+\mm Conversación_CH_20112012.wav 249.680 253.880
+
+\ref 069
+\ELANParticipant CH
+\ELANBegin 253.880
+\ELANEnd 256.840
+\tx chumngechi chew   püle tañi        elngeael
+\mb chumngechi chew   püle ta  -ñi    el    -nge -a     -el
+\ge cómo      dónde hacia DET -3.POSS dejar -PAS -FUT   -NMRZ2
+\ps pro        pro    adv   det -pro    verbo -per -tam-e -nmzr
+
+\ft cómo y donde se dejan
+\mm Conversación_CH_20112012.wav 253.880 256.840
+
+\ref 070
+\ELANParticipant CH
+\ELANBegin 256.840
+\ELANEnd 259.000
+\tx chumngechi katrungey            kakelu             tabla
+\mb chumngechi katru  -nge -y       ka   -ke   -lu     tabla
+\ge cómo      cortar -PAS -IND.[3] y    -DIST -advr.1 tabla
+\ps pro        verbo  -per -per     conj -det  -advr   nombre
+
+\ft cómo se cortan las otras tablas
+\mm Conversación_CH_20112012.wav 256.840 259.000
+
+\ref 071
+\ELANParticipant CH
+\ELANBegin 259.000
+\ELANEnd 261.920
+\tx famngechi katrungey            madera rollizo
+\mb famngechi katru  -nge -y       madera rollizo
+\ge así      cortar -PAS -IND.[3] madera rollizo
+\ps adverbio  verbo  -per -per     nombre nombre
+
+\ft así se corta la madera rollizo
+\mm Conversación_CH_20112012.wav 259.000 261.920
+
+\ref 072
+\ELANParticipant CH
+\ELANBegin 261.920
+\ELANEnd 265.320
+\tx femngechi katrungey            po   pa         que      agarre      el    corte
+\mb femngechi katru  -nge -y       po   *   -pa    *qu -e   *agarr -e   el    corte
+\ge así      cortar -PAS -IND.[3] pues *** -DIR.1 *** -3SG ***    -3SG dejar corte
+\ps adverbio  verbo  -per -per     part *** -dir   *** -per ***    -per verbo nombr
+
+\ft así se corta para que agarre el corte
+\mm Conversación_CH_20112012.wav 261.920 265.320
+
+\ref 073
+\ELANParticipant CH
+\ELANBegin 265.320
+\ELANEnd 268.440
+\tx kom      adumfin                feychi
+\mb kom      adum    -fi   -n       fey  -chi
+\ge todo     manejar -3.OP -IND.1SG DEM2 -adjr
+\ps adverbio verbo   -per  -per     pro  -***
+
+\ft todas esas cosas aprendí
+\mm Conversación_CH_20112012.wav 265.320 268.440
+
+\ref 074
+\ELANParticipant FH
+\ELANBegin 268.400
+\ELANEnd 269.160
+\tx aaaa
+\ft
+\mm Conversación_CH_20112012.wav 268.400 269.160
+
+\ref 075
+\ELANParticipant CH
+\ELANBegin 269.120
+\ELANEnd 272.240
+\tx ta  yewael                     ta  chi  corte
+\mb ta  ye     -w    -a     -el    ta  chi  corte
+\ge DET llevar -REFL -FUT   -NMRZ2 DET DEM2 corte
+\ps det verbo  -per  -tam-e -nmzr  det dem  nombr
+
+\ft para que calce el corete
+\mm Conversación_CH_20112012.wav 269.120 272.240
+
+\ref 076
+\ELANParticipant FH
+\ELANBegin 272.200
+\ELANEnd 277.520
+\tx hermano mew  eymi adumimi          ñi      küdawael              karpinteria  mew
+\mb hermano mew  eymi adum    -imi     ñi      küdaw   -a     -el    karpinteria  mew
+\ge hermano PPOS tú  manejar -IND.2SG 1SG.POSS trabajar -FUT   -NMRZ2 carpintería PPOS
+\ps nombre  ppos pro  verbo   -per     pro      verbo    -tam-e -nmzr  nombre       ppos
+
+\ft con los hermanos aprendiste a trabajar en la carpintería
+\mm Conversación_CH_20112012.wav 272.200 277.520
+
+\ref 077
+\ELANParticipant FH
+\ELANBegin 277.520
+\ELANEnd 285.280
+\tx ¿Küme  dungu  kam  weda     dungu  ñi    konün              ta  hermano tüfachi
+\mb küme    dungu  kam  weda     dungu  ñi    kon    -ü  -n     ta  hermano tüfa -chi
+\ge bien     asunto o    malo     asunto 3.POSS entrar -*** -NMRZ1 DET hermano DEM1  -adjr
+\ps adverbio nombre conj adjetivo nombre pro    verbo  -*** -nmrz  det nombre  pro   -***
+
+\tx lof       mew?
+\mb lof       mew
+\ge comunidad PPOS
+\ps nombre    ppos
+
+\ft ¿Es bueno o malo que hayan entrado los hermanos a esta comunidad?
+\mm Conversación_CH_20112012.wav 277.520 285.280
+
+\ref 078
+\ELANParticipant CH
+\ELANBegin 285.240
+\ELANEnd 287.840
+\tx küme    dungu, küme    dungu
+\mb küme    dungu  küme    dungu
+\ge bien     asunto bien     asunto
+\ps adverbio nombre adverbio nombre
+
+\ft buena cosa, buena cosa
+\mm Conversación_CH_20112012.wav 285.240 287.840
+
+\ref 079
+\ELANParticipant CH
+\ELANBegin 287.840
+\ELANEnd 291.720
+\tx sino re       putun             dungu  müleafuy                    re       kewan
+\mb sino re       putu       -n     dungu  müle -a     -fu    -y       re       kewa   -n
+\ge sino solo     tomar.vino -NMRZ1 asunto estar -FUT   -AP    -IND.[3] solo     pelear -NMRZ1
+\ps conj adverbio verbo      -nmrz  nombre verbo -tam-e -tam-e -per     adverbio verbo  -nmrz
+
+\tx müleafuy
+\mb müle -a     -fu    -y
+\ge estar -FUT   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -per
+
+\ft sino puras tomateras habrían, pura pelea habría
+\mm Conversación_CH_20112012.wav 287.840 291.720
+
+\ref 080
+\ELANParticipant CH
+\ELANBegin 291.720
+\ELANEnd 294.200
+\tx iglesia fey  permitelay              feychi     dungu  ñi
+\mb iglesia fey  permite  -la   -y       fey  -chi  dungu  ñi
+\ge iglesia DEM2 permitir -NEG1 -IND.[3] DEM2 -adjr asunto 3.POSS
+\ps nombre  pro  verbo    -neg  -per     pro  -***  nombre pro
+
+\ft la iglesia no permite ese asunto
+\mm Conversación_CH_20112012.wav 291.720 294.200
+
+\ref 081
+\ELANParticipant CH
+\ELANBegin 294.200
+\ELANEnd 296.480
+\tx putuputunoael                                    che    ruka   mew
+\mb putu       -putu       -no       -a     -el    che    ruka   mew
+\ge tomar.vino -tomar.vino -NEG2     -FUT   -NMRZ2 gente  casa   PPOS
+\ps verbo      -verbo      -adverbio -tam-e -nmzr  nombre nombre ppos
+
+\ft que anden dele tomando en las casas
+\mm Conversación_CH_20112012.wav 294.200 296.480
+
+\ref 082
+\ELANParticipant CH
+\ELANBegin 296.760
+\ELANEnd 300.320
+\tx sino katrungey            tüfachi    dungu
+\mb sino katru  -nge -y       tüfa -chi  dungu
+\ge sino cortar -PAS -IND.[3] DEM1  -adjr asunto
+\ps conj verbo  -per -per     pro   -***  nombre
+
+\ft sino que cortó este asunto
+\mm Conversación_CH_20112012.wav 296.760 300.320
+
+\ref 083
+\ELANParticipant CH
+\ELANBegin 300.320
+\ELANEnd 305.920
+\tx ngillangeael               ta  zapato, ngillangeael               ta  weshakelu,
+\mb ngilla  -nge -a     -el    ta  zapato  ngilla  -nge -a     -el    ta  weshakelu
+\ge comprar -PAS -FUT   -NMRZ2 DET zapato  comprar -PAS -FUT   -NMRZ2 DET ropa
+\ps verbo   -per -tam-e -nmzr  det nombre  verbo   -per -tam-e -nmzr  det nombre
+
+\tx ngillangeael               ta  iyael
+\mb ngilla  -nge -a     -el    ta  iyael
+\ge comprar -PAS -FUT   -NMRZ2 DET comida
+\ps verbo   -per -tam-e -nmzr  det nombre
+
+\ft para comprar zapato, para comprar ropa, para comprar comida
+\mm Conversación_CH_20112012.wav 300.320 305.920
+
+\ref 084
+\ELANParticipant CH
+\ELANBegin 305.920
+\ELANEnd 307.840
+\tx arreglangeael               ta  ruka
+\mb arregla  -nge -a     -el    ta  ruka
+\ge arreglar -PAS -FUT   -NMRZ2 DET casa
+\ps verbo    -per -tam-e -nmzr  det nombre
+
+\ft para arreglar la casa
+\mm Conversación_CH_20112012.wav 305.920 307.840
+
+\ref 085
+\ELANParticipant FH
+\ELANBegin 307.800
+\ELANEnd 309.960
+\tx fentren  dungu
+\mb fentren  dungu
+\ge mucho    asunto
+\ps adverbio nombre
+
+\ft muchas cosas
+\mm Conversación_CH_20112012.wav 307.800 309.960
+
+\ref 086
+\ELANParticipant CH
+\ELANBegin 309.920
+\ELANEnd 313.040
+\tx küme    kawitu                     mew  ngutuael
+\mb küme    ka   -w    -i       -tu    mew  ngutu     -a     -el
+\ge bien     y    -REFL -IND.[3] -APPL3 PPOS acostarse -FUT   -NMRZ2
+\ps adverbio conj -per  -per     -per   ppos verbo     -tam-e -nmzr
+
+\ft para dormir en buena cama
+\mm Conversación_CH_20112012.wav 309.920 313.040
+
+\ref 087
+\ELANParticipant CH
+\ELANBegin 313.040
+\ELANEnd 315.760
+\tx ngillangeael               ta  mueble fey  putukechi            che    fey
+\mb ngilla  -nge -a     -el    ta  mueble fey  putu       -ke-chi   che    fey
+\ge comprar -PAS -FUT   -NMRZ2 DET mueble DEM2 tomar.vino -tam-e-  gente  DEM2
+\ps verbo   -per -tam-e -nmzr  det nombre pro  verbo      -HAB-adjr nombre pro
+
+\ft para comprar muebles, la gente que toma
+\mm Conversación_CH_20112012.wav 313.040 315.760
+
+\ref 088
+\ELANParticipant CH
+\ELANBegin 315.760
+\ELANEnd 318.560
+\tx feychi     femngechi rakiduam    nielay
+\mb fey  -chi  femngechi rakiduam    nie   -la   -y
+\ge DEM2 -adjr así      pensamiento tener -NEG1 -IND.[3]
+\ps pro  -***  adverbio  nombre      verbo -neg  -per
+
+\ft ese pensamiento no tiene
+\mm Conversación_CH_20112012.wav 315.760 318.560
+
+\ref 089
+\ELANParticipant CH
+\ELANBegin 318.560
+\ELANEnd 323.480
+\tx sino ñi    poyen             niey,          niey           plata  pichiñ
+\mb sino ñi    poyen             nie   -y       nie   -y       plata  pichiñ
+\ge sino 3.POSS cariño, recuerdo tener -IND.[3] tener -IND.[3] plata  poco
+\ps conj pro    nombre            verbo -per     verbo -per     nombre adverbio
+
+\ft sino que se acuerda, tiene un poquito de plata
+\mm Conversación_CH_20112012.wav 318.560 323.480
+
+\ref 090
+\ELANParticipant CH
+\ELANBegin 323.480
+\ELANEnd 326.920
+\tx küpaley              ta  pullku, fentren  pullku küpaley
+\mb küpa -le    -y       ta  pullku  fentren  pullku küpa -le    -y
+\ge venir -PRO   -IND.[3] DET vino    mucho    vino   venir -PRO   -IND.[3]
+\ps verbo -tam-e -per     det nombre  adverbio nombre verbo -tam-e -per
+
+\ft anda trayendo vino, mucho vino anda trayendo
+\mm Conversación_CH_20112012.wav 323.480 326.920
+
+\ref 091
+\ELANParticipant CH
+\ELANBegin 326.920
+\ELANEnd 329.440
+\tx ipaymi                piy            ta  wenüy
+\mb i     -pa    -ymi     pi    -y       ta  wenüy
+\ge comer -DIR.1 -IND.2SG decir -IND.[3] DET amigo
+\ps verbo -dir   -per     verbo -per     det nombre
+
+\ft ven a comer acá le dice a su amigo
+\mm Conversación_CH_20112012.wav 326.920 329.440
+
+\ref 092
+\ELANParticipant CH
+\ELANBegin 329.440
+\ELANEnd 333.280
+\tx putuaiñ                   fiestaiñ,      piy,           fey  kiñe kordero
+\mb putu       -a     -iñ     fiesta -iñ     pi    -y       fey  kiñe kordero
+\ge tomar.vino -FUT   -IND.1PL fiesta -IND.1PL decir -IND.[3] DEM2 un    cordero
+\ps verbo      -tam-e -per     nombre -per     verbo -per     pro  art   nombre
+
+\tx ngillayngün
+\mb ngilla  -y       -ngün
+\ge comprar -IND.[3] -3.PL
+\ps verbo   -per     -per
+
+\ft tomaremos vino, haremos fiesta, dice, entonces compran un cordero
+\mm Conversación_CH_20112012.wav 329.440 333.280
+
+\ref 093
+\ELANParticipant CH
+\ELANBegin 333.280
+\ELANEnd 337.200
+\tx ñi    sañchu ngillayngün,           fütra   fiesta engün
+\mb ñi    sañchu ngilla  -y       -ngün fütra   fiesta engün
+\ge 3.POSS chancho comprar -IND.[3] -3.PL  gran     fiesta 3.PL
+\ps pro    nombre  verbo   -per     -per   adverbio nombre per
+
+\ft un chancho compran, hacen gran fiesta
+\mm Conversación_CH_20112012.wav 333.280 337.200
+
+\ref 094
+\ELANParticipant CH
+\ELANBegin 337.200
+\ELANEnd 340.960
+\tx fentren  ayiwün                nieyngün             pero nielay               ñi    ruka
+\mb fentren  ayi       -w    -ün   nie   -y       -ngün pero nie   -la   -y       ñi    ruka
+\ge mucho    alegrarse -REFL -NMRZ1 tener -IND.[3] -3.PL  pero tener -NEG1 -IND.[3] 3.POSS casa
+\ps adverbio verbo     -per  -nmrz  verbo -per     -per   conj verbo -neg  -per     pro    nombre
+
+\tx mew
+\mb mew
+\ge PPOS
+\ps ppos
+
+\ft mucha alegría tienen pero no tienen nada en la casa
+\mm Conversación_CH_20112012.wav 337.200 340.960
+
+\ref 095
+\ELANParticipant CH
+\ELANBegin 340.960
+\ELANEnd 344.000
+\tx domo   duami             itrofill müleael            ruka   mew
+\mb domo   duam     -i       itrofill müle -a     -el    ruka   mew
+\ge mujer  entender -IND.[3] de todo  estar -FUT   -NMRZ2 casa   PPOS
+\ps nombre verbo    -per     adverbio verbo -tam-e -nmzr  nombre ppos
+
+\ft las mujeres necesitan de todo para tener en la casa
+\mm Conversación_CH_20112012.wav 340.960 344.000
+
+\ref 096
+\ELANParticipant CH
+\ELANBegin 344.000
+\ELANEnd 349.560
+\tx wangku, mesa,  kom      fali           plata
+\mb *wangku mesa   kom      fal   -i       plata
+\ge ***     mesa   todo     valer -IND.[3] plata
+\ps ***     nombre adverbio verbo -per     nombre
+
+\ft banco, mesa, todo vale plata
+\mm Conversación_CH_20112012.wav 344.000 349.560
+
+\ref 097
+\ELANParticipant CH
+\ELANBegin 349.560
+\ELANEnd 351.200
+\tx kom      plata  ngillaiñ
+\mb kom      plata  ngilla  -iñ
+\ge todo     plata  comprar -IND.1PL
+\ps adverbio nombre verbo   -per
+
+\ft todo lo compramos con plata
+\mm Conversación_CH_20112012.wav 349.560 351.200
+
+\ref 098
+\ELANParticipant FH
+\ELANBegin 351.160
+\ELANEnd 357.640
+\tx ka   chi  pu  hermano, akulu               tüfachi    lof       mew
+\mb ka   chi  pu  hermano  aku         -lu     tüfa -chi  lof       mew
+\ge y    DEM2 COL hermano  llegar.acá -advr.1 DEM1  -adjr comunidad PPOS
+\ps conj dem  det nombre   verbo       -advr   pro   -***  nombre    ppos
+
+\tx kellueymew
+\mb kellu  -e   -ym      -ew
+\ge ayudar -INV -IND.2SG -OBL
+\ps verbo  -per -per     -per
+
+\ft y los hermanos, cuando llegaron a esta comunidad te ayudaron
+\mm Conversación_CH_20112012.wav 351.160 357.640
+
+\ref 099
+\ELANParticipant CH
+\ELANBegin 357.600
+\ELANEnd 360.360
+\tx ka   kellupaeiñmew,                  kellueiñmew              weshakelu mew
+\mb ka   kellu  -pa    -e   -iñ     -mew kellu  -e   -iñ     -mew weshakelu mew
+\ge y    ayudar -DIR.1 -INV -IND.1PL -OBL ayudar -3SG -IND.1PL -OBL ropa      PPOS
+\ps conj verbo  -dir   -per -per     -per verbo  -per -per     -per nombre    ppos
+
+\ft vinieron a ayudarnos, nos ayudaron con la ropa
+\mm Conversación_CH_20112012.wav 357.600 360.360
+
+\ref 100
+\ELANParticipant CH
+\ELANBegin 360.360
+\ELANEnd 376.560
+\tx kimün             chumngechi taiñ,       chumngechi tañi,
+\mb kim   -ü  -n     chumngechi ta  -iñ     chumngechi ta  -ñi
+\ge saber -*** -NMRZ1 cómo      DET -IND.1PL cómo      DET -1SG.POSS
+\ps verbo -*** -nmrz  pro        det -per     pro        det -pro
+
+\tx tañi          có mo  vivir  con          la        gente
+\mb ta  -ñi      *c  *mo *vivir *co -n       *   -la   *g  -e   -n       -t     -e
+\ge DET -1SG.POSS *** *** ***    *** -IND.1SG *** -NEG1 *** -3SG -IND.1SG -NMRZ3 -3SG
+\ps det -pro      *** *** ***    *** -per     *** -neg  *** -per -per     -nmrz  -per
+
+\ft sé como, como vivir con la gente
+\mm Conversación_CH_20112012.wav 360.360 376.560
+
+\ref 101
+\ELANParticipant FH
+\ELANBegin 376.520
+\ELANEnd 379.360
+\tx müna    küme    dungu
+\mb müna    küme    dungu
+\ge mucho    bien     asunto
+\ps adverbio adverbio nombre
+
+\ft muy buena cosa
+\mm Conversación_CH_20112012.wav 376.520 379.360
+
+\ref 102
+\ELANParticipant FH
+\ELANBegin 379.360
+\ELANEnd 385.920
+\tx fey  eymi ayiwküley                      tami          piwke    konlu          ta  iglesia
+\mb fey  eymi ayi       -w    -küle -y       ta  -mi       piwke    kon    -lu     ta  iglesia
+\ge DEM2 tú  alegrarse -REFL -PROG  -IND.[3] DET -2SG.POSS corazón entrar -advr.1 DET iglesia
+\ps pro  pro  verbo     -per  -tam-e -per     det -pro      nombre   verbo  -advr   det nombre
+
+\tx mew
+\mb mew
+\ge PPOS
+\ps ppos
+
+\ft entonces está contento tu corazón por la entrada de la iglesia
+\mm Conversación_CH_20112012.wav 379.360 385.920
+
+\ref 103
+\ELANParticipant CH
+\ELANBegin 385.880
+\ELANEnd 387.960
+\tx may      ayiwi                    ta  piwke
+\mb may      ayi       -w    -i       ta  piwke
+\ge si       alegrarse -REFL -IND.[3] DET corazón
+\ps adverbio verbo     -per  -per     det nombre
+
+\ft si, está contento el corazón
+\mm Conversación_CH_20112012.wav 385.880 387.960
+
+\ref 104
+\ELANParticipant CH
+\ELANBegin 387.960
+\ELANEnd 391.880
+\tx pelon  reke ta  pelu          ta  che
+\mb pelon  reke ta  pe    -lu     ta  che
+\ge luz    COMP DET ver   -advr.1 DET gente
+\ps nombre ppos det verbo -advr   det nombre
+
+\ft porque como la luz vio la gente
+\mm Conversación_CH_20112012.wav 387.960 391.880
+
+\ref 105
+\ELANParticipant FH
+\ELANBegin 391.840
+\ELANEnd 400.040
+\tx fey  eymi chem dungu  dewmakeymi            ta  iglesia mew
+\mb fey  eymi chem dungu  dewma -ke    -ymi     ta  iglesia mew
+\ge DEM2 tú  qué asunto hacer -HAB   -IND.2SG DET iglesia PPOS
+\ps pro  pro  pro  nombre verbo -tam-e -per     det nombre  ppos
+
+\ft y tú qué cosas haces en la iglesia?
+\mm Conversación_CH_20112012.wav 391.840 400.040
+
+\ref 106
+\ELANParticipant FH
+\ELANBegin 400.040
+\ELANEnd 407.000
+\tx eymi chillkatukeymi,           eymi ülkantukeymi
+\mb eymi chillkatu -ke    -ymi     eymi ülkantu -ke    -ymi
+\ge tú  estudiar  -HAB   -IND.2SG tú  cantar   -HAB   -IND.2SG
+\ps pro  verbo     -tam-e -per     pro  verbo    -tam-e -per
+
+\ft estudiaas, cantas?
+\mm Conversación_CH_20112012.wav 400.040 407.000
+
+\ref 107
+\ELANParticipant FH
+\ELANBegin 407.000
+\ELANEnd 410.560
+\tx chem dungu  dewmakeymi            ta  iglesia mew
+\mb chem dungu  dewma -ke    -ymi     ta  iglesia mew
+\ge qué asunto hacer -HAB   -IND.2SG DET iglesia PPOS
+\ps pro  nombre verbo -tam-e -per     det nombre  ppos
+
+\ft qué cosas haces en la iglesia?
+\mm Conversación_CH_20112012.wav 407.000 410.560
+
+\ref 108
+\ELANParticipant CH
+\ELANBegin 410.520
+\ELANEnd 413.520
+\tx iglesia mew  kelluken               ta  iñche chem duam     mew  rume
+\mb iglesia mew  kellu  -ke    -n       ta  iñche chem duam     mew  rume
+\ge iglesia PPOS ayudar -HAB   -IND.1SG DET 1SG    qué entender PPOS siquiera
+\ps nombre  ppos verbo  -tam-e -per     det pro    pro  verbo    ppos adverbio
+
+\ft en la iglesia ayudo en cualquier necesidad que haya
+\mm Conversación_CH_20112012.wav 410.520 413.520
+
+\ref 109
+\ELANParticipant CH
+\ELANBegin 413.520
+\ELANEnd 421.200
+\tx plata  mew, dungun        tukun        mew
+\mb plata  mew  dungu  -n     tuku  -n     mew
+\ge plata  PPOS asunto -NMRZ1 poner -NMRZ1 PPOS
+\ps nombre ppos nombre -nmrz  tam-e -nmrz  ppos
+
+\ft con plata, en las afirmaciones
+\mm Conversación_CH_20112012.wav 413.520 421.200
+
+\ref 110
+\ELANParticipant CH
+\ELANBegin 421.200
+\ELANEnd 423.600
+\tx femngechi
+\mb femngechi
+\ge así
+\ps adverbio
+
+\ft así
+\mm Conversación_CH_20112012.wav 421.200 423.600
+
+\ref 111
+\ELANParticipant CH
+\ELANBegin 423.600
+\ELANEnd 427.400
+\tx apoyar                       al                encargado  de       obra              piy
+\mb apo    -ya            -*r  *   -a     -l     *encargado *d  -e   o    -*br -a     pi    -y
+\ge llenar -ya            -*** *** -FUT   -APPL3 ***        *** -3SG o    -*** -FUT   decir -IND.[3]
+\ps verbo  -interjección -*** *** -tam-e -per   ***        *** -per conj -*** -tam-e verbo -per
+
+\tx ta  wingka
+\mb ta  wingka
+\ge DET no.mapuche
+\ps det nombre
+
+\ft apoyar al encargado de obras dicen los wingkas
+\mm Conversación_CH_20112012.wav 423.600 427.400
+
+\ref 112
+\ELANParticipant FH
+\ELANBegin 427.360
+\ELANEnd 434.960
+\tx welu pepi  mapudungukeymün                  iglesia mew
+\mb welu pepi  mapudungu         -ke    -ymün   iglesia mew
+\ge pero poder hablar mapudungun -HAB   -IND.2PL iglesia PPOS
+\ps conj aux   verbo             -tam-e -per     nombre  ppos
+
+\ft pero pueden hablar mapudungun en la iglesia
+\mm Conversación_CH_20112012.wav 427.360 434.960
+
+\ref 113
+\ELANParticipant CH
+\ELANBegin 435.080
+\ELANEnd 438.080
+\tx may,     mapuchedungukeiñ,               mapuche adumafiiñ
+\mb may      mapuche -dungu  -ke    -iñ     mapuche adum    -a     -fi   -iñ
+\ge si       mapuche -asunto -HAB   -IND.1PL mapuche manejar -FUT   -3.OP -IND.1PL
+\ps adverbio nombre  -nombre -tam-e -per     nombre  verbo   -tam-e -per  -per
+
+\ft si, hablamos mapudungun, adaptamos el contexto de la iglesia al mapudungun
+\mm Conversación_CH_20112012.wav 435.080 438.080
+
+\ref 114
+\ELANParticipant CH
+\ELANBegin 438.080
+\ELANEnd 440.160
+\tx mapuche ayekafiiñ
+\mb mapuche ayeka   -fi   -iñ
+\ge mapuche bromear -3.OP -IND.1PL
+\ps nombre  verbo   -per  -per
+
+\ft hacemos bromas en mapuche
+\mm Conversación_CH_20112012.wav 438.080 440.160
+
+\ref 115
+\ELANParticipant CH
+\ELANBegin 440.160
+\ELANEnd 443.680
+\tx trawükeiñ,             matetukeiñ                  iglesia mew
+\mb trawü   -ke    -iñ     mate   -tu   -ke    -iñ     iglesia mew
+\ge juntarse -HAB   -IND.1PL mate   -VERB -HAB   -IND.1PL iglesia PPOS
+\ps verbo    -tam-e -per     nombre -der  -tam-e -per     nombre  ppos
+
+\ft nos juntamos, tomamos mate en la iglesia
+\mm Conversación_CH_20112012.wav 440.160 443.680
+
+\ref 116
+\ELANParticipant CH
+\ELANBegin 443.680
+\ELANEnd 447.720
+\tx müley         ayekan
+\mb müle -y       ayeka   -n
+\ge estar -IND.[3] bromear -NMRZ1
+\ps verbo -per     verbo   -nmrz
+
+\ft hay bromas
+\mm Conversación_CH_20112012.wav 443.680 447.720
+
+\ref 117
+\ELANParticipant FH
+\ELANBegin 447.680
+\ELANEnd 461.360
+\tx petu     konnon                   ta  iglesia tüfachi    lof       mew, müley         ka
+\mb petu     kon    -no       -n     ta  iglesia tüfa -chi  lof       mew  müle -y       ka
+\ge todavía entrar -NEG2     -NMRZ1 DET iglesia DEM1  -adjr comunidad PPOS estar -IND.[3] y
+\ps adverbio verbo  -adverbio -nmrz  det nombre  pro   -***  nombre    ppos verbo -per     conj
+
+\tx kiñe dungu
+\mb kiñe dungu
+\ge un    asunto
+\ps art   nombre
+
+\ft antes que entrara la iglesia habían otros asuntos
+\mm Conversación_CH_20112012.wav 447.680 461.360
+
+\ref 118
+\ELANParticipant CH
+\ELANBegin 461.320
+\ELANEnd 462.800
+\tx si       po,  kake       dungu  müley         po
+\mb si       po   ka   -ke   dungu  müle -y       po
+\ge si       pues y    -DIST asunto estar -IND.[3] pues
+\ps adverbio part conj -det  nombre verbo -per     part
+
+\ft si po, otros asuntos habían
+\mm Conversación_CH_20112012.wav 461.320 462.800
+
+\ref 119
+\ELANParticipant FH
+\ELANBegin 462.920
+\ELANEnd 466.800
+\tx chumley               ta  dungu  petu     konnon                   ta  iglesia
+\mb chum  -le    -y       ta  dungu  petu     kon    -no       -n     ta  iglesia
+\ge cómo -ESTAT -IND.[3] DET asunto todavía entrar -NEG2     -NMRZ1 DET iglesia
+\ps pro   -tam-e -per     det nombre adverbio verbo  -adverbio -nmrz  det nombre
+
+\ft cómo estaban las cosas antes de que entrara la iglesia?
+\mm Conversación_CH_20112012.wav 462.920 466.800
+
+\ref 120
+\ELANParticipant CH
+\ELANBegin 466.760
+\ELANEnd 474.040
+\tx petu     konnolu                   ta  iglesia ta  che,   fey  ta  niey           weshake
+\mb petu     kon    -no       -lu     ta  iglesia ta  che    fey  ta  nie   -y       wesha -ke
+\ge todavía entrar -NEG2     -advr.1 DET iglesia DET gente  DEM2 DET tener -IND.[3] malo  -DIST
+\ps adverbio verbo  -adverbio -advr   det nombre  det nombre pro  det verbo -per     adj   -det
+
+\tx rakiduam,   wedwed   rakiduam
+\mb rakiduam    wedwed   rakiduam
+\ge pensamiento loco     pensamiento
+\ps nombre      adjetivo nombre
+
+\ft cuando todavá no entraba la iglesia, entonces tenían malos pensamientos, pensamientos locos
+\mm Conversación_CH_20112012.wav 466.760 474.040
+
+\ref 121
+\ELANParticipant CH
+\ELANBegin 474.040
+\ELANEnd 476.480
+\tx wenüyafiel                ta  pu  weñefe
+\mb wenüy -a     -fi   -el    ta  pu  weñe -fe
+\ge amigo  -FUT   -3.OP -NMRZ2 DET COL robar -AG
+\ps nombre -tam-e -per  -nmzr  det det verbo -der
+
+\ft para hacerse amigo de los ladrones
+\mm Conversación_CH_20112012.wav 474.040 476.480
+
+\ref 122
+\ELANParticipant CH
+\ELANBegin 476.480
+\ELANEnd 480.240
+\tx wenüyafiel                ta  weshake     rakiduam    nielu
+\mb wenüy -a     -fi   -el    ta  wesha -ke   rakiduam    nie   -lu
+\ge amigo  -FUT   -3.OP -NMRZ2 DET malo  -DIST pensamiento tener -advr.1
+\ps nombre -tam-e -per  -nmzr  det adj   -det  nombre      verbo -advr
+
+\ft hacerse amigo de los que tenían malos pensamientos
+\mm Conversación_CH_20112012.wav 476.480 480.240
+
+\ref 123
+\ELANParticipant CH
+\ELANBegin 480.240
+\ELANEnd 489.560
+\tx fey  ti   chi  weshake     rakiduam    nielu         chi  pikunuy               müten
+\mb fey  ti   chi  wesha -ke   rakiduam    nie   -lu     chi  pi    -kunu  -y       müten
+\ge DEM2 DET2 DEM2 malo  -DIST pensamiento tener -advr.1 DEM2 decir -PRPS  -IND.[3] no.más
+\ps pro  det  dem  adj   -det  nombre      verbo -advr   dem  verbo -tam-e -per     adverbio
+
+\tx iñche may      ta ti   po   kayñe
+\mb iñche may      ta ti   po   kayñe
+\ge 1SG    si       DETDET2 pues enemigo
+\ps pro    adverbio detdet  part nombre
+
+\ft los que tenían malos pensamientos "deja dicho no más, yo no más po" enemigos se hacían
+\mm Conversación_CH_20112012.wav 480.240 489.560
+
+\ref 124
+\ELANParticipant CH
+\ELANBegin 489.560
+\ELANEnd 490.560
+\tx ya
+\mb ya
+\ge ya
+\ps interjección
+
+\ft
+\mm Conversación_CH_20112012.wav 489.560 490.560
+
+\ref 125
+\ELANParticipant CH
+\ELANBegin 490.560
+\ELANEnd 496.840
+\tx chumkunuael                rume,    kulpangeael,
+\mb chum  -kunu  -a     -el    rume     kulpa  -nge -a     -el
+\ge cómo -PRPS  -FUT   -NMRZ2 siquiera culpar -PAS -FUT   -NMRZ2
+\ps pro   -tam-e -tam-e -nmzr  adverbio verbo  -per -tam-e -nmzr
+
+\tx kutrantukunuael,                       kutrantuael
+\mb kutran     -tu    -kunu  -a     -el    kutran     -tu    -a     -el
+\ge enfermedad -APPL3 -PRPS  -FUT   -NMRZ2 enfermedad -APPL3 -FUT   -NMRZ2
+\ps nombre     -per   -tam-e -tam-e -nmzr  nombre     -per   -tam-e -nmzr
+
+\ft para dejarse de cualquier forma, para culparse (de estar borracho), para hacerse sufrir
+\mm Conversación_CH_20112012.wav 490.560 496.840
+
+\ref 126
+\ELANParticipant CH
+\ELANBegin 496.840
+\ELANEnd 499.600
+\tx feychi     dungu  niey           fey  ti   chi  nielu         weshake     rakiduam
+\mb fey  -chi  dungu  nie   -y       fey  ti   chi  nie   -lu     wesha -ke   rakiduam
+\ge DEM2 -adjr asunto tener -IND.[3] DEM2 DET2 DEM2 tener -advr.1 malo  -DIST pensamiento
+\ps pro  -***  nombre verbo -per     pro  det  dem  verbo -advr   adj   -det  nombre
+
+\ft ese asunto tenían los que tenían malos pensamientos
+\mm Conversación_CH_20112012.wav 496.840 499.600
+
+\ref 127
+\ELANParticipant CH
+\ELANBegin 499.720
+\ELANEnd 501.600
+\tx nielay               küme    rakiduam    po
+\mb nie   -la   -y       küme    rakiduam    po
+\ge tener -NEG1 -IND.[3] bien     pensamiento pues
+\ps verbo -neg  -per     adverbio nombre      part
+
+\ft no tenían buenos pensamientos
+\mm Conversación_CH_20112012.wav 499.720 501.600
+
+\ref 128
+\ELANParticipant CH
+\ELANBegin 501.600
+\ELANEnd 506.560
+\tx kutran     piwke    yelay                 ta  che
+\mb kutran     piwke    ye     -la   -y       ta  che
+\ge enfermedad corazón llevar -NEG1 -IND.[3] DET gente
+\ps nombre     nombre   verbo  -neg  -per     det nombre
+
+\ft no tenían lástima a la gente
+\mm Conversación_CH_20112012.wav 501.600 506.560
+
+\ref 129
+\ELANParticipant CH
+\ELANBegin 506.560
+\ELANEnd 510.720
+\tx kutran     piwke    yelay                 ta  wentru, domo
+\mb kutran     piwke    ye     -la   -y       ta  wentru  domo
+\ge enfermedad corazón llevar -NEG1 -IND.[3] DET hombre  mujer
+\ps nombre     nombre   verbo  -neg  -per     det nombre  nombre
+
+\ft no le tiene lastima a los hombres, a las mujeres
+\mm Conversación_CH_20112012.wav 506.560 510.720
+
+\ref 130
+\ELANParticipant CH
+\ELANBegin 510.720
+\ELANEnd 516.880
+\tx leli           tañi        wedwedkalekafiel
+\mb lel   -i       ta  -ñi    wedwed   -ka    -le    -ka    -fi   -el
+\ge mirar -IND.[3] DET -3.POSS loco     -CONT  -PRO   -CONT  -3.OP -NMRZ2
+\ps verbo -per     det -pro    adjetivo -tam-e -tam-e -tam-e -per  -nmzr
+
+\ft andan mirando para hacer maldades
+\mm Conversación_CH_20112012.wav 510.720 516.880
+
+\ref 131
+\ELANParticipant CH
+\ELANBegin 516.880
+\ELANEnd 521.800
+\tx kulliñ                    peñmafiel,               kulliñ weñeñmafiel,
+\mb *ku -l     -l     -iñ     pe    -ñma  -fi   -el    kulliñ weñe -ñma  -fi   -el
+\ge *** -APPL3 -APPL3 -IND.1PL ver   -APPL1 -3.OP -NMRZ2 animal  robar -APPL1 -3.OP -NMRZ2
+\ps *** -per   -per   -per     verbo -per   -per  -nmzr  nombre  verbo -per   -per  -nmzr
+
+\tx entregayafiel
+\mb entrega  -ya    -fi   -el
+\ge entregar -FUT   -3.OP -NMRZ2
+\ps verbo    -tam-e -per  -nmzr
+
+\ft para andar mirando los animales, para robarse los animales, para entregarlos
+\mm Conversación_CH_20112012.wav 516.880 521.800
+
+\ref 132
+\ELANParticipant CH
+\ELANBegin 521.800
+\ELANEnd 527.600
+\tx fey  ka   müten,  re       feychi     rakiduam    niey           ta  che,   femngechi
+\mb fey  ka   müten   re       fey  -chi  rakiduam    nie   -y       ta  che    femngechi
+\ge DEM2 y    no.más  solo     DEM2 -adjr pensamiento tener -IND.[3] DET gente  así
+\ps pro  conj adverbio adverbio pro  -***  nombre      verbo -per     det nombre adverbio
+
+\tx che
+\mb che
+\ge gente
+\ps nombre
+
+\ft eso no más, ese pensamiento tiene la gente, esa gente
+\mm Conversación_CH_20112012.wav 521.800 527.600
+
+\ref 133
+\ELANParticipant FH
+\ELANBegin 527.560
+\ELANEnd 533.880
+\tx müna    weda     dungu
+\mb müna    weda     dungu
+\ge mucho    malo     asunto
+\ps adverbio adjetivo nombre
+
+\ft muy mala cosa
+\mm Conversación_CH_20112012.wav 527.560 533.880
+
+\ref 134
+\ELANParticipant FH
+\ELANBegin 533.880
+\ELANEnd 551.600
+\tx fey  santiago waria  mew  aleko     feypikeenew                            ta  ñi
+\mb fey  santiago waria  mew  aleko     fey  -pi    -ke    -e   -n       -ew  ta  ñi
+\ge DEM2 Santiago ciudad PPOS Alejandro DEM2 -decir -HAB   -INV -IND.1SG -OBL DET 3.POSS
+\ps pro  nombre   nombre ppos nombre    pro  -verbo -tam-e -per -per     -per det pro
+
+\tx pu  awela  kimelfi        mapudungun
+\mb pu  awela  kimel    -fi   mapudungun
+\ge COL abuela enseñar -3.OP mapudungun
+\ps det nombre verbo    -per  nombre
+
+\ft En Santiago, Alejo siempre me dice que su abuela le enseñó mapudungun
+\mm Conversación_CH_20112012.wav 533.880 551.600
+
+\ref 135
+\ELANParticipant FH
+\ELANBegin 551.600
+\ELANEnd 556.000
+\tx fey  tami          ñuke  iney   pingey
+\mb fey  ta  -mi       ñuke  iney   pi    -nge -y
+\ge DEM2 DET -2SG.POSS madre  quién decir -PAS -IND.[3]
+\ps pro  det -pro      nombre pro    verbo -per -per
+
+\ft entonces, ¿tu mamá como se llama?
+\mm Conversación_CH_20112012.wav 551.600 556.000
+
+\ref 136
+\ELANParticipant CH
+\ELANBegin 555.960
+\ELANEnd 557.280
+\tx Isabel pingefuy
+\mb Isabel pi    -nge -fu    -y
+\ge Isabel decir -PAS -AP    -IND.[3]
+\ps nombre verbo -per -tam-e -per
+
+\ft se llamaba Isabel
+\mm Conversación_CH_20112012.wav 555.960 557.280
+
+\ref 137
+\ELANParticipant CH
+\ELANBegin 557.280
+\ELANEnd 562.240
+\tx Neculhual, kimpapeltulafuy
+\mb Neculhual  kim   -papel  -tu   -la   -fu    -y
+\ge Neculhual  saber -papel  -VERB -NEG1 -AP    -IND.[3]
+\ps nombre     verbo -nombre -der  -neg  -tam-e -per
+
+\ft Neculhual, no sabía leer
+\mm Conversación_CH_20112012.wav 557.280 562.240
+
+\ref 138
+\ELANParticipant CH
+\ELANBegin 562.240
+\ELANEnd 570.160
+\tx kimwingkadungulay,                     amutuy              ñi
+\mb kim   -wingkadungu     -la   -y       amu   -tu  -y       ñi
+\ge saber -hablar.español -NEG1 -IND.[3] ir    -RE  -IND.[3] 3.POSS
+\ps verbo -verbo           -neg  -per     verbo -dir -per     pro
+
+\tx kimwingkadungunon,                        lay,           perdey
+\mb kim   -wingkadungu     -no       -n     la    -y       perde  -y
+\ge saber -hablar.español -NEG2     -NMRZ1 morir -IND.[3] perder -IND.[3]
+\ps verbo -verbo           -adverbio -nmrz  verbo -per     verbo  -per
+
+\ft no sabía español, se fue sin saber español, murió
+\mm Conversación_CH_20112012.wav 562.240 570.160
+
+\ref 139
+\ELANParticipant CH
+\ELANBegin 570.160
+\ELANEnd 572.200
+\tx mapungetuy
+\mb mapu   -nge   -tu  -y
+\ge tierra -COP   -RE  -IND.[3]
+\ps nombre -verbo -dir -per
+
+\ft se volvió tierra
+\mm Conversación_CH_20112012.wav 570.160 572.200
+
+\ref 140
+\ELANParticipant FH
+\ELANBegin 572.160
+\ELANEnd 576.560
+\tx ka   tami          ñuke  kimi           ta  kom      lawen,           kom      dungu
+\mb ka   ta  -mi       ñuke  kim   -i       ta  kom      lawen            kom      dungu
+\ge y    DET -2SG.POSS madre  saber -IND.[3] DET todo     hierba.medicinal todo     asunto
+\ps conj det -pro      nombre verbo -per     det adverbio nombre           adverbio nombre
+
+\ft ¿y tu mamá sabía todos los remedios, todos los asuntos?
+\mm Conversación_CH_20112012.wav 572.160 576.560
+
+\ref 141
+\ELANParticipant CH
+\ELANBegin 576.520
+\ELANEnd 579.560
+\tx lawen            pichiñ  kimlafuy,                   kim   lawenlafuy
+\mb lawen            pichiñ  kim   -la   -fu    -y       kim   lawen            -la   -fu    -y
+\ge hierba.medicinal poco     saber -NEG1 -AP    -IND.[3] saber hierba.medicinal -NEG1 -AP    -IND.[3]
+\ps nombre           adverbio verbo -neg  -tam-e -per     verbo nombre           -neg  -tam-e -per
+
+\tx tañi          ñuke
+\mb ta  -ñi      ñuke
+\ge DET -1SG.POSS madre
+\ps det -pro      nombre
+
+\ft sabía poco de remedios, no conocía los remedios mi mamá
+\mm Conversación_CH_20112012.wav 576.520 579.560
+
+\ref 142
+\ELANParticipant CH
+\ELANBegin 579.560
+\ELANEnd 589.560
+\tx porque femngechi dungu  müley         mapu   mew, kiñekentu       doy
+\mb porque femngechi dungu  müle -y       mapu   mew  kiñe -ke   -ntu doy
+\ge porque así      asunto estar -IND.[3] tierra PPOS un    -DIST -COL más
+\ps sub    adverbio  nombre verbo -per     nombre ppos art   -det  -det adverbio
+
+\tx kimi,          kiñekentu       doy      kimlay,              ka   kiñekentu
+\mb kim   -i       kiñe -ke   -ntu doy      kim   -la   -y       ka   kiñe -ke   -ntu
+\ge saber -IND.[3] un    -DIST -COL más     saber -NEG1 -IND.[3] y    un    -DIST -COL
+\ps verbo -per     art   -det  -det adverbio verbo -neg  -per     conj art   -det  -det
+
+\tx adumuwkelay
+\mb adum    -*u  -w    -ke    -la   -y
+\ge manejar -*** -REFL -HAB   -NEG1 -IND.[3]
+\ps verbo   -*** -per  -tam-e -neg  -per
+
+\ft porque así es la cosa en la tierra, algunos saben, algunos no saben, algunos se manejan
+\mm Conversación_CH_20112012.wav 579.560 589.560
+
+\ref 143
+\ELANParticipant CH
+\ELANBegin 589.560
+\ELANEnd 591.440
+\tx ka   müley         che    küme    adumuwlu
+\mb ka   müle -y       che    küme    adum    -*u  -w    -lu
+\ge y    estar -IND.[3] gente  bien     manejar -*** -REFL -advr.1
+\ps conj verbo -per     nombre adverbio verbo   -*** -per  -advr
+
+\ft hay gente que se maneja bien
+\mm Conversación_CH_20112012.wav 589.560 591.440
+
+\ref 144
+\ELANParticipant CH
+\ELANBegin 591.440
+\ELANEnd 597.520
+\tx kom      che    feley,            domo,  wentru, kom      feley
+\mb kom      che    fele     -y       domo   wentru  kom      fele     -y
+\ge todo     gente  ser así -IND.[3] mujer  hombre  todo     ser así -IND.[3]
+\ps adverbio nombre verbo    -per     nombre nombre  adverbio verbo    -per
+
+\ft de toda la gente hay, mujeres, hombres, todos están así
+\mm Conversación_CH_20112012.wav 591.440 597.520
+
+\ref 145
+\ELANParticipant FH
+\ELANBegin 597.480
+\ELANEnd 600.160
+\tx welu tami          ñuke  küme    domo
+\mb welu ta  -mi       ñuke  küme    domo
+\ge pero DET -2SG.POSS madre  bien     mujer
+\ps conj det -pro      nombre adverbio nombre
+
+\ft pero tu mamá era una buena mujer
+\mm Conversación_CH_20112012.wav 597.480 600.160
+
+\ref 146
+\ELANParticipant FH
+\ELANBegin 600.160
+\ELANEnd 603.520
+\tx müna    küme    domo
+\mb müna    küme    domo
+\ge mucho    bien     mujer
+\ps adverbio adverbio nombre
+
+\ft era una muy buena mujer
+\mm Conversación_CH_20112012.wav 600.160 603.520
+
+\ref 147
+\ELANParticipant CH
+\ELANBegin 603.480
+\ELANEnd 605.800
+\tx siempre  acordaniekefuy
+\mb siempre  acorda  -nie   -ke    -fu    -y
+\ge siempre  acordar -PERF  -HAB   -AP    -IND.[3]
+\ps adverbio verbo   -tam-e -tam-e -tam-e -per
+
+\ft siempre se acuerdan de ella (con buenas palabras)
+\mm Conversación_CH_20112012.wav 603.480 605.800
+
+\ref 148
+\ELANParticipant CH
+\ELANBegin 605.800
+\ELANEnd 612.520
+\tx tami          ñuke  yem    tuwkefuy                        pingeken
+\mb ta  -mi       ñuke  yem    tuw      -ke    -fu    -y       pi    -nge -ke    -n
+\ge DET -2SG.POSS madre  finado provenir -HAB   -AP    -IND.[3] decir -PAS -HAB   -IND.1SG
+\ps det -pro      nombre interj verbo    -tam-e -tam-e -per     verbo -per -tam-e -per
+
+\ft "tu mamá se conportaba bien" siempre me dicen
+\mm Conversación_CH_20112012.wav 605.800 612.520
+
+\ref 149
+\ELANParticipant CH
+\ELANBegin 612.520
+\ELANEnd 615.040
+\tx ka   che    kimfiyu              iñche
+\mb ka   che    kim   -fi   -yu      iñche
+\ge y    gente  saber -3.OP -IND.1DU 1SG
+\ps conj nombre verbo -per  -per     pro
+
+\ft por otra gente se conoce uno
+\mm Conversación_CH_20112012.wav 612.520 615.040
+
+\ref 150
+\ELANParticipant FH
+\ELANBegin 615.000
+\ELANEnd 616.800
+\tx ka   re       mapudungun müten
+\mb ka   re       mapudungun müten
+\ge y    solo     mapudungun no.más
+\ps conj adverbio nombre     adverbio
+
+\ft y (hablaba) solo mapudungun
+\mm Conversación_CH_20112012.wav 615.000 616.800
+
+\ref 151
+\ELANParticipant CH
+\ELANBegin 616.760
+\ELANEnd 618.280
+\tx re       mapuchedungukefuy                       müten
+\mb re       mapuche -dungu  -ke    -fu    -y       müten
+\ge solo     mapuche -asunto -HAB   -AP    -IND.[3] no.más
+\ps adverbio nombre  -nombre -tam-e -tam-e -per     adverbio
+
+\ft solo hablaba mapudungun no más
+\mm Conversación_CH_20112012.wav 616.760 618.280
+
+\ref 152
+\ELANParticipant CH
+\ELANBegin 618.280
+\ELANEnd 626.520
+\tx de       repente
+\mb 
+
+\tx küme    duamküley               nütramkakefuy                   pichiken               itrofill
+\mb küme    duam     -küle -y       nütramka -ke    -fu    -y       pichi    -ke    -n     itrofill
+\ge bien     entender -PROG  -IND.[3] conversar -HAB   -AP    -IND.[3] pequeño -HAB   -NMRZ1 de todo
+\ps adverbio verbo    -tam-e -per     verbo     -tam-e -tam-e -per     adj      -tam-e -nmrz  adverbio
+
+\tx dungu  kuyfi        chumlekefuel                      ta  füchake     che
+\mb dungu  kuyfi        chum  -le    -ke    -fu    -el    ta  fücha  -ke  ch  -e
+\ge asunto antiguamente cómo -ESTAT -HAB   -AP    -NMRZ2 DET anciano -DIST    -3SG
+\ps nombre adv          pro   -tam-e -tam-e -tam-e -nmzr  det nombre  -det     -per
+
+\ft de repente cuanda anda de buen ánimo conversaba un poco de todas las cosas de cómo estaban los füchakeche
+\mm Conversación_CH_20112012.wav 618.280 626.520
+
+\ref 153
+\ELANParticipant CH
+\ELANBegin 626.520
+\ELANEnd 627.760
+\tx nütramkakefuy
+\mb nütramka -ke    -fu    -y
+\ge conversar -HAB   -AP    -IND.[3]
+\ps verbo     -tam-e -tam-e -per
+
+\ft conversaba
+\mm Conversación_CH_20112012.wav 626.520 627.760
+
+\ref 154
+\ELANParticipant FH
+\ELANBegin 627.720
+\ELANEnd 632.360
+\tx ka   eymi pichikalu               eymi re       mapudunguymi               müten
+\mb ka   eymi pichi    -ka    -lu     eymi re       mapudungu         -ymi     müten
+\ge y    tú  pequeño -CONT  -advr.1 tú  solo     hablar mapudungun -IND.2SG no.más
+\ps conj pro  adj      -tam-e -advr   pro  adverbio verbo             -per     adverbio
+
+\ft ¿Y cuándo tú eras pequeño, hablabas solo mapudungun?
+\mm Conversación_CH_20112012.wav 627.720 632.360
+
+\ref 155
+\ELANParticipant CH
+\ELANBegin 632.320
+\ELANEnd 638.640
+\tx iñche re       mapuchedungukefun                       müten   fey  ta  mama
+\mb iñche re       mapuche -dungu  -ke    -fu    -n       müten   fey  ta  mama
+\ge 1SG    solo     mapuche -asunto -HAB   -AP    -IND.1SG no.más  DEM2 DET mamá
+\ps pro    adverbio nombre  -nombre -tam-e -tam-e -per     adverbio pro  det nombre
+
+\tx wingkadungukefunolu,                           chumngechi
+\mb wingkadungu     -ke-fu-no              -lu     chumngechi
+\ge hablar.español -tam-e-tam-e-adverbio -advr.1 cómo
+\ps verbo           -HAB-AP-NEG            -advr   pro
+
+\tx kimwingkadunguafun                             ta  iñche
+\mb kim   -wingkadungu     -a     -fu    -n       ta  iñche
+\ge saber -hablar.español -FUT   -AP    -IND.1SG DET 1SG
+\ps verbo -verbo           -tam-e -tam-e -per     det pro
+
+\ft yo hablaba puro mapuche,como mi mamá no hablaba mapudungun, cómo iba a hablar español yo
+\mm Conversación_CH_20112012.wav 632.320 638.640
+
+\ref 156
+\ELANParticipant FH
+\ELANBegin 638.600
+\ELANEnd 644.920
+\tx ka   chumngechi eymi adumimi          wingkadungun
+\mb ka   chumngechi eymi adum    -imi     wingkadungu     -n
+\ge y    cómo      tú  manejar -IND.2SG hablar.español -NMRZ1
+\ps conj pro        pro  verbo   -per     verbo           -nmrz
+
+\ft ¿Y cómo aprendiste a hablar español?
+\mm Conversación_CH_20112012.wav 638.600 644.920
+
+\ref 157
+\ELANParticipant CH
+\ELANBegin 644.880
+\ELANEnd 647.680
+\tx wingkadungun           ta  adumün                ta  escuela mew
+\mb wingkadungu     -n     ta  adum    -*ü -n       ta  escuela mew
+\ge hablar.español -NMRZ1 DET manejar -*** -IND.1SG DET escuela PPOS
+\ps verbo           -nmrz  det verbo   -*** -per     det nombre  ppos
+
+\ft el español lo aprendí en la escuela
+\mm Conversación_CH_20112012.wav 644.880 647.680
+
+\ref 158
+\ELANParticipant CH
+\ELANBegin 647.680
+\ELANEnd 654.240
+\tx escuela mew  konlu          ta  iñche ka   despues  fey  ka
+\mb escuela mew  kon    -lu     ta  iñche ka   despues  fey  ka
+\ge escuela PPOS entrar -advr.1 DET 1SG    y    despues  DEM2 y
+\ps nombre  ppos verbo  -advr   det pro    conj adverbio pro  conj
+
+\tx dirigentekunungen                comunidad mew  fey
+\mb dirigente -kunu  -nge   -n       comunidad mew  fey
+\ge dirigente -PRPS  -COP   -IND.1SG comunidad PPOS DEM2
+\ps nombre    -tam-e -verbo -per     nombre    ppos pro
+
+\ft cuando entré a la escuela, después fui dirigente en la comunidad, entonces
+\mm Conversación_CH_20112012.wav 647.680 654.240
+
+\ref 159
+\ELANParticipant CH
+\ELANBegin 654.240
+\ELANEnd 663.320
+\tx femngechi viajeyawlu                  pueblo mew, femngechi ta
+\mb femngechi viaje  -ya    -w    -lu     pueblo mew  femngechi ta
+\ge así      viajar -FUT   -REFL -advr.1 pueblo PPOS así      DET
+\ps adverbio  verbo  -tam-e -per  -advr   nombre ppos adverbio  det
+
+\tx kimurpun                   tañi          kimün       ta  inawentufin
+\mb kim   -*u  -rpu  -n       ta  -ñi      kim   -ün   ta  inawen -tu    -fi   -n
+\ge saber -*** -DIR4 -IND.1SG DET -1SG.POSS saber -NMRZ1 DET imitar -APPL3 -3.OP -IND.1SG
+\ps verbo -*** -dir  -per     det -pro      verbo -nmrz  det verbo  -per   -per  -per
+
+\tx ta  wingka
+\mb ta  wingka
+\ge DET no.mapuche
+\ps det nombre
+
+\ft como andaba viajando al pueblo, así fui aprendiendo su conocimiento, imitaba al wingka
+\mm Conversación_CH_20112012.wav 654.240 663.320
+
+\ref 160
+\ELANParticipant CH
+\ELANBegin 663.320
+\ELANEnd 667.760
+\tx inawentufin                  ka   iñche kay  interesayael              tañi
+\mb inawen -tu    -fi   -n       ka   iñche kay  interesa    -ya    -el    ta  -ñi
+\ge imitar -APPL3 -3.OP -IND.1SG y    1SG    y    interesarse -FUT   -NMRZ2 DET -1SG.POSS
+\ps verbo  -per   -per  -per     conj pro    conj verbo       -tam-e -nmzr  det -pro
+
+\tx kimael
+\mb kim   -a     -el
+\ge saber -FUT   -NMRZ2
+\ps verbo -tam-e -nmzr
+
+\ft lo imitaba, como estaba interesado en saber
+\mm Conversación_CH_20112012.wav 663.320 667.760
+
+\ref 161
+\ELANParticipant CH
+\ELANBegin 667.760
+\ELANEnd 675.720
+\tx doy      küme    tañi          kimael,             ta  falin
+\mb doy      küme    ta  -ñi      kim   -a     -el    ta  fali  -n
+\ge más     bien     DET -1SG.POSS saber -FUT   -NMRZ2 DET valer -NMRZ1
+\ps adverbio adverbio det -pro      verbo -tam-e -nmzr  det verbo -nmrz
+
+\tx chengeael                   ta
+\mb che    -nge   -a     -el    ta
+\ge gente  -COP   -FUT   -NMRZ2 DET
+\ps nombre -verbo -tam-e -nmzr  det
+
+\ft para saber mejor, para ser una persona que vale
+\mm Conversación_CH_20112012.wav 667.760 675.720
+
+\ref 162
+\ELANParticipant CH
+\ELANBegin 675.720
+\ELANEnd 682.200
+\tx
+\ft
+\mm Conversación_CH_20112012.wav 675.720 682.200
+
+\ref 163
+\ELANParticipant FH
+\ELANBegin 682.160
+\ELANEnd 688.480
+\tx welu kolekio mew, chumlekefuy                        ta  kolekio pichikalu
+\mb welu kolekio mew  chum  -le    -ke   -fu    -y       ta  kolekio pichi    -ka    -lu
+\ge pero colegio PPOS cómo -ESTAT -DIST -AP    -IND.[3] DET colegio pequeño -CONT  -advr.1
+\ps conj nombre  ppos pro   -tam-e -det  -tam-e -per     det nombre  adj      -tam-e -advr
+
+\tx eymi
+\mb eymi
+\ge tú
+\ps pro
+
+\ft pero en el colegio, ¿cómo era el colegio cuando eras pequeño?
+\mm Conversación_CH_20112012.wav 682.160 688.480
+
+\ref 164
+\ELANParticipant FH
+\ELANBegin 688.480
+\ELANEnd 691.200
+\tx weda     dungu, küme    dungu
+\mb weda     dungu  küme    dungu
+\ge malo     asunto bien     asunto
+\ps adjetivo nombre adverbio nombre
+
+\ft ¿mal asunto, buen asunto?
+\mm Conversación_CH_20112012.wav 688.480 691.200
+
+\ref 165
+\ELANParticipant CH
+\ELANBegin 691.160
+\ELANEnd 692.360
+\tx mülekefuy                   ta  colegio mew
+\mb müle -ke    -fu    -y       ta  colegio mew
+\ge estar -HAB   -AP    -IND.[3] DET colegio PPOS
+\ps verbo -tam-e -tam-e -per     det nombre  ppos
+
+\ft ¿Había en el colegio?
+\mm Conversación_CH_20112012.wav 691.160 692.360
+
+\ref 166
+\ELANParticipant FH
+\ELANBegin 692.320
+\ELANEnd 695.440
+\tx may      chumlekefuy
+\mb may      chum  -le    -ke   -fu    -y
+\ge si       cómo -ESTAT -DIST -AP    -IND.[3]
+\ps adverbio pro   -tam-e -det  -tam-e -per
+
+\ft SI, ¿Cómo era?
+\mm Conversación_CH_20112012.wav 692.320 695.440
+
+\ref 167
+\ELANParticipant CH
+\ELANBegin 695.400
+\ELANEnd 698.920
+\tx kümekefuy
+\mb küme    -ke    -fu    -y
+\ge bien     -HAB   -AP    -IND.[3]
+\ps adverbio -tam-e -tam-e -per
+
+\ft Era bueno
+\mm Conversación_CH_20112012.wav 695.400 698.920
+
+\ref 168
+\ELANParticipant FH
+\ELANBegin 698.880
+\ELANEnd 705.560
+\tx may,     chumngechi kimelkefuy                      ta  kimelfe    mülelu       kolekio mew
+\mb may      chumngechi kimel    -ke    -fu    -y       ta  kimelfe    müle -lu     kolekio mew
+\ge si       cómo      enseñar -HAB   -AP    -IND.[3] DET sustantivo estar -advr.1 colegio PPOS
+\ps adverbio pro        verbo    -tam-e -tam-e -per     det nombre     verbo -advr   nombre  ppos
+
+\ft si, ¿Cómo enseñaban los profesores que estaban en el colegio?
+\mm Conversación_CH_20112012.wav 698.880 705.560
+
+\ref 169
+\ELANParticipant CH
+\ELANBegin 705.520
+\ELANEnd 711.280
+\tx feychi     chi  pu  profesor, wüne    pu  profesor akulu               am   newe
+\mb fey  -chi  chi  pu  profesor  wüne    pu  profesor aku         -lu     am   newe
+\ge DEM2 -adjr DEM2 COL profesor  primero  COL profesor llegar.acá -advr.1 INT  poco
+\ps pro  -***  dem  det nombre    adjetivo det nombre   verbo       -advr   part adverbio
+
+\tx kimkelafuy
+\mb kim   -ke    -la   -fu    -y
+\ge saber -HAB   -NEG1 -AP    -IND.[3]
+\ps verbo -tam-e -neg  -tam-e -per
+
+\ft esos profesores que llegaron primero no sabían mucho
+\mm Conversación_CH_20112012.wav 705.520 711.280
+
+\ref 170
+\ELANParticipant CH
+\ELANBegin 711.280
+\ELANEnd 713.320
+\tx profesor basico   ngey                ta ti
+\mb profesor basico   *   -nge   -y       ta ti
+\ge profesor basico   *** -COP   -IND.[3] DETDET2
+\ps nombre   adjetivo *** -verbo -per     detdet
+
+\ft eran profesores básicos
+\mm Conversación_CH_20112012.wav 711.280 713.320
+
+\ref 171
+\ELANParticipant CH
+\ELANBegin 713.320
+\ELANEnd 720.400
+\tx chem curso  puwyelu                      engün ta  newe     kimkelafuy
+\mb chem curso  puw          -ye     -lu     engün ta  newe     kim   -ke    -la   -fu    -y
+\ge qué curso  llegar.allá -llevar -advr.1 3.PL   DET poco     saber -HAB   -NEG1 -AP    -IND.[3]
+\ps pro  nombre verbo        -tam-e  -advr   per    det adverbio verbo -tam-e -neg  -tam-e -per
+
+\ft no se sabe a que curso llegaron ellos por eso no saben mucho
+\mm Conversación_CH_20112012.wav 713.320 720.400
+
+\ref 172
+\ELANParticipant CH
+\ELANBegin 720.400
+\ELANEnd 736.440
+\tx lo  que      enseñaban                     no       más, matemáticas y copia, ese   ka müten,
+kimkelafuy ta  rendimiento como prueba   pikey ta pu profesor
+\ft lo que enseñaban no más, matemáticas y copia, eso no más, no conocían el rendimiento como prueba, dicen los
+profesores
+\mm Conversación_CH_20112012.wav 720.400 736.440
+
+\ref 173
+\ELANParticipant CH
+\ELANBegin 736.440
+\ELANEnd 740.080
+\tx ese iñchiñ nunca pasamos en ese colegio, yo duré hasta los 6 años
+\ft ese nosotros nunca lo pasamos en ese colegio, yo duré hastal os 6 años
+\mm Conversación_CH_20112012.wav 736.440 740.080
+
+\ref 174
+\ELANParticipant FH
+\ELANBegin 740.040
+\ELANEnd 743.440
+\tx ka   re       wingkadungun           müten   kimelkefuy
+\mb ka   re       wingkadungu     -n     müten   kimel    -ke    -fu    -y
+\ge y    solo     hablar.español -NMRZ1 no.más  enseñar -HAB   -AP    -IND.[3]
+\ps conj adverbio verbo           -nmrz  adverbio verbo    -tam-e -tam-e -per
+
+\ft ¿Y se enseñaba solo en español?
+\mm Conversación_CH_20112012.wav 740.040 743.440
+
+\ref 175
+\ELANParticipant CH
+\ELANBegin 743.400
+\ELANEnd 750.320
+\tx si pu ñi wingkadungual ka, no müte no eran exigentes en eso, no eran exigentes en
+eso tañi wingkadungual
+\ft Si po, para aprender español, no eran exigentes en eso, no eran exigentes en que nosotros hablaramos español
+\mm Conversación_CH_20112012.wav 743.400 750.320
+
+\ref 176
+\ELANParticipant CH
+\ELANBegin 750.320
+\ELANEnd 755.080
+\tx pero kake       kolekio mew  piam     ta  fey  ta  pichike       che    ta
+\mb pero ka   -ke   kolekio mew  piam     ta  fey  ta  pichi    -ke  che    ta
+\ge pero y    -DIST colegio PPOS EVID.REP DET DEM2 DET pequeño -DISTgente  DET
+\ps conj conj -det  nombre  ppos part     det pro  det adj      -det nombre det
+
+\tx mapuchedunguy             ulelngekefuy
+\mb mapuche -dungu  -y       ulel    -nge -ke    -fu    -y
+\ge mapuche -asunto -IND.[3] golpear -PAS -HAB   -AP    -IND.[3]
+\ps nombre  -nombre -per     verbo   -per -tam-e -tam-e -per
+
+\ft pero dicen que en otro colegio los niños hablaban mapuche, les pegaban
+\mm Conversación_CH_20112012.wav 750.320 755.080
+
+\ref 177
+\ELANParticipant CH
+\ELANBegin 755.080
+\ELANEnd 758.840
+\tx iñche chew   estudian        mew  tañi          colegio femlay                  dungu
+\mb iñche chew   estudia  -n     mew  ta  -ñi      colegio fem      -la   -y       dungu
+\ge 1SG    dónde estudiar -NMRZ1 PPOS DET -1SG.POSS colegio ser.así -NEG1 -IND.[3] asunto
+\ps pro    pro    verbo    -nmrz  ppos det -pro      nombre  verbo    -neg  -per     nombre
+
+\ft donde yo estudié no era así la cosa
+\mm Conversación_CH_20112012.wav 755.080 758.840
+
+\ref 178
+\ELANParticipant CH
+\ELANBegin 758.840
+\ELANEnd 760.280
+\tx feychi     kimngelay
+\mb fey  -chi  kim   -nge -la   -y
+\ge DEM2 -adjr saber -PAS -NEG1 -IND.[3]
+\ps pro  -***  verbo -per -neg  -per
+
+\ft eso no se conocía
+\mm Conversación_CH_20112012.wav 758.840 760.280
+
+\ref 179
+\ELANParticipant FH
+\ELANBegin 760.240
+\ELANEnd 762.200
+\tx amukeymün            müten
+\mb amu   -ke    -ymün   müten
+\ge ir    -HAB   -IND.2PL no.más
+\ps verbo -tam-e -per     adverbio
+
+\ft iban no más
+\mm Conversación_CH_20112012.wav 760.240 762.200
+
+\ref 180
+\ELANParticipant CH
+\ELANBegin 762.160
+\ELANEnd 763.160
+\tx amukeiñ              müten
+\mb amu   -ke    -iñ     müten
+\ge ir    -HAB   -IND.1PL no.más
+\ps verbo -tam-e -per     adverbio
+
+\ft ibamos no más
+\mm Conversación_CH_20112012.wav 762.160 763.160
+
+\ref 181
+\ELANParticipant CH
+\ELANBegin 763.160
+\ELANEnd 767.840
+\tx puwiñ                ta  escuela mew
+\mb puw          -iñ     ta  escuela mew
+\ge llegar.allá -IND.1PL DET escuela PPOS
+\ps verbo        -per     det nombre  ppos
+
+\ft llegabamos a la escuela
+\mm Conversación_CH_20112012.wav 763.160 767.840
+
+\ref 182
+\ELANParticipant CH
+\ELANBegin 767.840
+\ELANEnd 773.920
+\tx va a empezar la clase usted va a inventar un problema, ese era su trabajo, inventar
+problemas
+\ft va a empezar la clase usted va a inventar un problema, ese era su trabajo, inventar problemas
+\mm Conversación_CH_20112012.wav 767.840 773.920
+
+\ref 183
+\ELANParticipant CH
+\ELANBegin 773.920
+\ELANEnd 779.440
+\tx feymew   tripan         sexto año   septimo año   mew  kangelu             escuela
+\mb feymew   tripa -n       sexto año   septimo año   mew  ka   -nge   -lu     escuela
+\ge entonces salir -IND.1SG sexto año   septimo año   PPOS y    -COP   -advr.1 escuela
+\ps conj     verbo -per     ***   nombre ***     nombre ppos conj -verbo -advr   nombre
+
+\tx mew  yengen
+\mb mew  ye     -nge   -n
+\ge PPOS llevar -COP   -IND.1SG
+\ps ppos verbo  -verbo -per
+
+\ft entonces salí de sexto año, en séptimo año me llevaron a otra escuela
+\mm Conversación_CH_20112012.wav 773.920 779.440
+
+\ref 184
+\ELANParticipant CH
+\ELANBegin 779.440
+\ELANEnd 781.960
+\tx allá hablaron de prueba po
+\ft allá hablaron de prueba po
+\mm Conversación_CH_20112012.wav 779.440 781.960
+
+\ref 185
+\ELANParticipant CH
+\ELANBegin 781.960
+\ELANEnd 785.520
+\tx ¿qué será eso prueba? yo no sabía po
+\ft ¿qué será eso prueba? yo no sabía po
+\mm Conversación_CH_20112012.wav 781.960 785.520
+
+\ref 186
+\ELANParticipant CH
+\ELANBegin 785.520
+\ELANEnd 791.440
+\tx despues  prueba pingeiñ,           elungeiñ           hoja        iñche turpu
+\mb despues  prueba pi    -nge -iñ     elu   -nge -iñ     *hoj -a     iñche turpu
+\ge despues  prueba decir -PAS -IND.1PL dar   -PAS -IND.1PL ***  -FUT   1SG    nunca
+\ps adverbio nombre verbo -per -per     verbo -per -per     ***  -tam-e pro    adverbio
+
+\tx kimlan
+\mb kim   -la   -n
+\ge saber -NEG1 -IND.1SG
+\ps verbo -neg  -per
+
+\ft después nos dijeron prueba y nos dieron hojas, yo no sabía nada
+\mm Conversación_CH_20112012.wav 785.520 791.440
+
+\ref 187
+\ELANParticipant CH
+\ELANBegin 791.440
+\ELANEnd 793.680
+\tx nada   nada   kimlan
+\mb nada   nada   kim   -la   -n
+\ge nada   nada   saber -NEG1 -IND.1SG
+\ps nombre nombre verbo -neg  -per
+
+\ft nada, nada, no sabía
+\mm Conversación_CH_20112012.wav 791.440 793.680
+
+\ref 188
+\ELANParticipant CH
+\ELANBegin 793.680
+\ELANEnd 799.120
+\tx kiñe nota                   rume     tukungelan                porque
+\mb kiñe no       -t     -a     rume     tuku  -nge -la   -n       porque
+\ge un    NEG2     -NMRZ3 -FUT   siquiera poner -PAS -NEG1 -IND.1SG porque
+\ps art   adverbio -nmrz  -tam-e adverbio tam-e -per -neg  -per     sub
+
+\tx dewmalan             tañi          prueba estudialan              ta  materia
+\mb dewma -la   -n       ta  -ñi      prueba estudia  -la   -n       ta  materia
+\ge hacer -NEG1 -IND.1SG DET -1SG.POSS prueba estudiar -NEG1 -IND.1SG DET materia
+\ps verbo -neg  -per     det -pro      nombre verbo    -neg  -per     det nombre
+
+\ft una buena nota no me pusieron porque no hice mi prueba, no estudié la materia
+\mm Conversación_CH_20112012.wav 793.680 799.120
+
+\ref 189
+\ELANParticipant CH
+\ELANBegin 799.120
+\ELANEnd 802.400
+\tx porque iñche faw      escuela mew  niekenofulu                         kay  ta ti
+\mb porque iñche faw      escuela mew  nie   -ke-no -fu            -lu     kay  ta ti
+\ge porque 1SG    acá     escuela PPOS tener -HAB-NEG-AP           -advr.1 y    DETDET2
+\ps sub    pro    adverbio nombre  ppos verbo -tam-e-adverbio-tam-e -advr   conj detdet
+
+\ft porque yo en la escuela de acá no la había tenido
+\mm Conversación_CH_20112012.wav 799.120 802.400
+
+\ref 190
+\ELANParticipant CH
+\ELANBegin 802.400
+\ELANEnd 804.280
+\tx femngechi
+\mb femngechi
+\ge así
+\ps adverbio
+
+\ft así
+\mm Conversación_CH_20112012.wav 802.400 804.280
+
+\ref 191
+\ELANParticipant FH
+\ELANBegin 804.240
+\ELANEnd 813.440
+\tx ka   chumngechi eymi adumimi          ñi      küdawael              ta  mapu
+\mb ka   chumngechi eymi adum    -imi     ñi      küdaw   -a     -el    ta  mapu
+\ge y    cómo      tú  manejar -IND.2SG 1SG.POSS trabajar -FUT   -NMRZ2 DET tierra
+\ps conj pro        pro  verbo   -per     pro      verbo    -tam-e -nmzr  det nombre
+
+\ft ¿Cómo aprendiste a trabajar la tierra?
+\mm Conversación_CH_20112012.wav 804.240 813.440
+
+\ref 192
+\ELANParticipant CH
+\ELANBegin 813.400
+\ELANEnd 817.800
+\tx inawentufin                  ta  wüne    küdawlelu
+\mb inawen -tu    -fi   -n       ta  wüne    küdaw   -le    -lu
+\ge imitar -APPL3 -3.OP -IND.1SG DET primero  trabajar -PRO   -advr.1
+\ps verbo  -per   -per  -per     det adjetivo verbo    -tam-e -advr
+
+\ft imitando a los que trabajaban primero
+\mm Conversación_CH_20112012.wav 813.400 817.800
+
+\ref 193
+\ELANParticipant CH
+\ELANBegin 817.800
+\ELANEnd 822.680
+\tx pichike        che    müna    inteligentengey             fütra   müten   adumi
+\mb pichi    -ke   che    müna    inteligente -nge   -y       fütra   müten   adum    -i
+\ge pequeño -DIST gente  mucho    inteligente -COP   -IND.[3] gran     no.más  manejar -IND.[3]
+\ps adj      -det  nombre adverbio adjetivo    -verbo -per     adverbio adverbio verbo   -per
+
+\ft los niños son muy inteligentes, al tiro aprenden
+\mm Conversación_CH_20112012.wav 817.800 822.680
+
+\ref 194
+\ELANParticipant CH
+\ELANBegin 822.680
+\ELANEnd 830.000
+\tx y            tambien  cuando uno    kurengey,              niey           familia obligacion
+\mb *   -y       tambien  cuando uno    kure   -nge   -y       nie   -y       familia obligacion
+\ge *** -IND.[3] tambien  cuando uno    esposa -COP   -IND.[3] tener -IND.[3] familia obligacion
+\ps *** -per     adverbio sub    nombre nombre -verbo -per     verbo -per     nombre  nombre
+
+\tx ñi      küdawael
+\mb ñi      küdaw   -a     -el
+\ge 1SG.POSS trabajar -FUT   -NMRZ2
+\ps pro      verbo    -tam-e -nmzr
+
+\ft y también cuando uno se casa, tiene familia, es obligación trabjar
+\mm Conversación_CH_20112012.wav 822.680 830.000
+
+\ref 195
+\ELANParticipant CH
+\ELANBegin 830.000
+\ELANEnd 836.160
+\tx iney   kay  alimentayafueyew,                          iney   kay
+\mb iney   kay  alimenta  -ya    -fu    -e   -y       -ew  iney   kay
+\ge quién y    alimentar -FUT   -AP    -3SG -IND.[3] -OBL quién y
+\ps pro    conj verbo     -tam-e -tam-e -per -per     -per pro    conj
+
+\tx küpalelefueyew                               kiñe saco   kachilla kiñe saco   rüngo
+\mb küpa -le    -le    -fu    -e   -y       -ew  kiñe saco   kachilla kiñe saco   rüngo
+\ge venir -APPL4 -PROG  -AP    -INV -IND.[3] -OBL un    saco   trigo    un    saco   harina
+\ps verbo -per   -tam-e -tam-e -per -per     -per art   nombre nombre   art   nombre nombre
+
+\tx tañi        iyael
+\mb ta  -ñi    iyael
+\ge DET -3.POSS comida
+\ps det -pro    nombre
+
+\ft ¿Quién los va a alimentar? ¿Quién les va a dar un saco de trigo, un saco de harina para comer?
+\mm Conversación_CH_20112012.wav 830.000 836.160
+
+\ref 196
+\ELANParticipant CH
+\ELANBegin 836.160
+\ELANEnd 837.840
+\tx ngelay               feychi     dungu
+\mb nge   -la   -y       fey  -chi  dungu
+\ge haber -NEG1 -IND.[3] DEM2 -adjr asunto
+\ps verbo -neg  -per     pro  -***  nombre
+
+\ft no existe ese asunto
+\mm Conversación_CH_20112012.wav 836.160 837.840
+
+\ref 197
+\ELANParticipant CH
+\ELANBegin 837.840
+\ELANEnd 840.040
+\tx kisu     müley         tañi        küdawael              ta  che
+\mb kisu     müle -y       ta  -ñi    küdaw   -a     -el    ta  che
+\ge solo     estar -IND.[3] DET -3.POSS trabajar -FUT   -NMRZ2 DET gente
+\ps adverbio verbo -per     det -pro    verbo    -tam-e -nmzr  det nombre
+
+\ft Sola no más tiene que trabajar la gente
+\mm Conversación_CH_20112012.wav 837.840 840.040
+
+\ref 198
+\ELANParticipant FH
+\ELANBegin 840.000
+\ELANEnd 845.280
+\tx müley         ñi    ngillayael            iyael  tami          ruka   mew
+\mb müle -y       ñi    ngilla  -ya    -el    iyael  ta  -mi       ruka   mew
+\ge estar -IND.[3] 3.POSS comprar -FUT   -NMRZ2 comida DET -2SG.POSS casa   PPOS
+\ps verbo -per     pro    verbo   -tam-e -nmzr  nombre det -pro      nombre ppos
+
+\ft hay que comprar comida para tu casa
+\mm Conversación_CH_20112012.wav 840.000 845.280
+
+\ref 199
+\ELANParticipant CH
+\ELANBegin 845.240
+\ELANEnd 848.320
+\tx müley         ñi    müleael            iyael
+\mb müle -y       ñi    müle -a     -el    iyael
+\ge estar -IND.[3] 3.POSS estar -FUT   -NMRZ2 comida
+\ps verbo -per     pro    verbo -tam-e -nmzr  nombre
+
+\ft tiene que haber comida
+\mm Conversación_CH_20112012.wav 845.240 848.320
+
+\ref 200
+\ELANParticipant CH
+\ELANBegin 848.320
+\ELANEnd 855.520
+\tx ka   müley         ñi    ngillangeael               itrofill asucura, hierba
+\mb ka   müle -y       ñi    ngilla  -nge -a     -el    itrofill asucura  hierba
+\ge y    estar -IND.[3] 3.POSS comprar -PAS -FUT   -NMRZ2 de todo  azucar   hierba
+\ps conj verbo -per     pro    verbo   -per -tam-e -nmzr  adverbio nombre   nombre
+
+\tx matetuael                  puliwen
+\mb mate   -tu   -a     -el    puliwen
+\ge mate   -VERB -FUT   -NMRZ2 mañana
+\ps nombre -der  -tam-e -nmzr  nombre
+
+\ft y hay que comprar de todo, azucar, hierba para tomar mate en la mañana
+\mm Conversación_CH_20112012.wav 848.320 855.520
+
+\ref 201
+\ELANParticipant CH
+\ELANBegin 855.520
+\ELANEnd 858.360
+\tx yafutukunuy            che    puliwen fey  tripay         küdawalu
+\mb yafutu -kunu  -y       che    puliwen fey  tripa -y       küdaw   -a     -lu
+\ge comer  -PRPS  -IND.[3] gente  mañana DEM2 salir -IND.[3] trabajar -FUT   -advr.1
+\ps verbo  -tam-e -per     nombre nombre  pro  verbo -per     verbo    -tam-e -advr
+
+\ft se fortalecen (a través de la comida) en la mañana (desayuno) y salen a trabajar
+\mm Conversación_CH_20112012.wav 855.520 858.360
+
+\ref 202
+\ELANParticipant CH
+\ELANBegin 858.360
+\ELANEnd 861.520
+\tx sino anuley                   müten
+\mb sino anu      -le    -y       müten
+\ge sino sentarse -ESTAT -IND.[3] no.más
+\ps conj verbo    -tam-e -per     adverbio
+
+\ft sino está sentado no más
+\mm Conversación_CH_20112012.wav 858.360 861.520
+
+\ref 203
+\ELANParticipant FH
+\ELANBegin 861.480
+\ELANEnd 869.240
+\tx kachakefulmi                    po   nielay               iyael
+\mb kacha  -ke    -fu    -l    -mi  po   nie   -la   -y       iyael
+\ge cachar -HAB   -AP    -COND -2SG pues tener -NEG1 -IND.[3] comida
+\ps verbo  -tam-e -tam-e -mod  -per part verbo -neg  -per     nombre
+
+\ft tendría que cachar que no hay comida
+\mm Conversación_CH_20112012.wav 861.480 869.240
+
+\ref 204
+\ELANParticipant CH
+\ELANBegin 869.200
+\ELANEnd 872.320
+\tx nielay               iyael  chofungele            che    küdawkelay
+\mb nie   -la   -y       iyael  chofu  -nge -l-e      che    küdaw   -ke    -la   -y
+\ge tener -NEG1 -IND.[3] comida flojo  -PAS -COND-3SG gente  trabajar -HAB   -NEG1 -IND.[3]
+\ps verbo -neg  -per     nombre nombre -per -mod-per  nombre verbo    -tam-e -neg  -per
+
+\tx che
+\mb che
+\ge gente
+\ps nombre
+
+\ft no hay comida, si la gente es floja, no trabaja
+\mm Conversación_CH_20112012.wav 869.200 872.320
+
+\ref 205
+\ELANParticipant FH
+\ELANBegin 872.280
+\ELANEnd 879.040
+\tx pichikalu               eymi mülekefuy                   ülkantun
+\mb pichi    -ka    -lu     eymi müle -ke    -fu    -y       ülkantu -n
+\ge pequeño -CONT  -advr.1 tú  estar -HAB   -AP    -IND.[3] cantar   -NMRZ1
+\ps adj      -tam-e -advr   pro  verbo -tam-e -tam-e -per     verbo    -nmrz
+
+\ft ¿Cuándo tú eras niño habían ülkantun?
+\mm Conversación_CH_20112012.wav 872.280 879.040
+
+\ref 206
+\ELANParticipant FH
+\ELANBegin 879.040
+\ELANEnd 880.320
+\tx ñi    pichiche          ülkantun
+\mb ñi    pichi    -che    ülkantu -n
+\ge 3.POSS pequeño -gente  cantar   -NMRZ1
+\ps pro    adj      -nombre verbo    -nmrz
+
+\ft
+\mm Conversación_CH_20112012.wav 879.040 880.320
+
+\ref 207
+\ELANParticipant CH
+\ELANBegin 880.280
+\ELANEnd 886.160
+\tx putulu             che    ruka   mew  füchake     che    ngollin
+\mb putu       -lu     che    ruka   mew  fücha  -ke  che    ngolli        -n
+\ge tomar.vino -advr.1 gente  casa   PPOS anciano -DISTgente  emborracharse -NMRZ1
+\ps verbo      -advr   nombre nombre ppos nombre  -det nombre verbo         -nmrz
+
+\tx ülkantukefuy
+\mb ülkantu -ke    -fu    -y
+\ge cantar   -HAB   -AP    -IND.[3]
+\ps verbo    -tam-e -tam-e -per
+
+\ft cuando tomaba la gente en la casa, los ancianos se curaban y cantaban
+\mm Conversación_CH_20112012.wav 880.280 886.160
+
+\ref 208
+\ELANParticipant CH
+\ELANBegin 886.160
+\ELANEnd 899.200
+\tx "ñañañañ"  pikefuy                      tañi        ülkantun
+\mb *ñañañañ   pi    -ke    -fu    -y       ta  -ñi    ülkantu -n
+\ge ***            decir -HAB   -AP    -IND.[3] DET -3.POSS cantar   -NMRZ1
+\ps ***            verbo -tam-e -tam-e -per     det -pro    verbo    -nmrz
+
+\ft "ñañañañ" decìa su ülkantun
+\mm Conversación_CH_20112012.wav 886.160 899.200
+
+\ref 209
+\ELANParticipant FH
+\ELANBegin 899.160
+\ELANEnd 903.840
+\tx ka   eymi ayefiymi,             ayelafiymi
+\mb ka   eymi aye    -fi   -ymi     aye    -la   -fi   -ymi
+\ge y    tú  gustar -3.OP -IND.2SG gustar -NEG1 -3.OP -IND.2SG
+\ps conj pro  verbo  -per  -per     verbo  -neg  -per  -per
+
+\ft ¿A ti te gustaba o no te gustaba?
+\mm Conversación_CH_20112012.wav 899.160 903.840
+
+\ref 210
+\ELANParticipant CH
+\ELANBegin 903.800
+\ELANEnd 908.320
+\tx si       ayukefun                              iñche ülkantukefun                   ka   después
+\mb si       ayu            -ke    -fu    -n       iñche ülkantu -ke    -fu    -n       ka   después
+\ge si       querer, gustar -HAB   -AP    -IND.1SG 1SG    cantar   -HAB   -AP    -IND.1SG y    después
+\ps adverbio verbo          -tam-e -tam-e -per     pro    verbo    -tam-e -tam-e -per     conj advebio
+
+\ft si, me gustaba, yo también cantaba después
+\mm Conversación_CH_20112012.wav 903.800 908.320
+
+\ref 211
+\ELANParticipant CH
+\ELANBegin 908.320
+\ELANEnd 911.560
+\tx kiñe rupa   allkün           kiñe pichi    ülkantun
+\mb kiñe rupa   allkü   -n       kiñe pichi    ülkantu -n
+\ge un    vez    escuchar -IND.1SG un    pequeño cantar   -NMRZ1
+\ps art   nombre verbo    -per     art   adj      verbo    -nmrz
+
+\ft una vez escuché un pequeño ülkantun
+\mm Conversación_CH_20112012.wav 908.320 911.560
+
+\ref 212
+\ELANParticipant CH
+\ELANBegin 911.560
+\ELANEnd 917.120
+\tx feymew   fey  ti   chi, chem pingey              ama
+\mb feymew   fey  ti   chi  chem pi    -nge -y       ama
+\ge entonces DEM2 DET2 DEM2 qué decir -PAS -IND.[3] INT
+\ps conj     pro  det  dem  pro  verbo -per -per     part
+
+\ft entonces, ¿Cómo se llamaba?
+\mm Conversación_CH_20112012.wav 911.560 917.120
+
+\ref 213
+\ELANParticipant CH
+\ELANBegin 917.120
+\ELANEnd 923.760
+\tx makina  rulpangey           kiñe pichi    tornillo mew  ñi    disco
+\mb makina  rulpa -nge -y       kiñe pichi    tornillo mew  ñi    disco
+\ge maquina pasar -PAS -IND.[3] un    pequeño tornillo PPOS 3.POSS disco
+\ps nombre  verbo -per -per     art   adj      nombre   ppos pro    nombre
+
+\tx chiwudchiwudngey                      chi  disco  kantalekefuy                         pichi
+\mb chiwud     -chiwud     -nge -y       chi  disco  kanta  -le    -ke    -fu    -y       pichi
+\ge dar.vuelta -dar.vuelta -PAS -IND.[3] DEM2 disco  cantar -PROG  -HAB   -AP    -IND.[3] pequeño
+\ps verbo      -verbo      -per -per     dem  nombre verbo  -tam-e -tam-e -tam-e -per     adj
+
+\tx wingka
+\mb wingka
+\ge no.mapuche
+\ps nombre
+
+\ft la máquina pasaba un tornillito, el disco daba vueltas y vueltas, cantaba el pichi wingka
+\mm Conversación_CH_20112012.wav 917.120 923.760
+
+\ref 214
+\ELANParticipant CH
+\ELANBegin 923.760
+\ELANEnd 930.840
+\tx feychi     pu  wüne    aceptalu        ta  evangelio
+\mb fey  -chi  pu  wüne    acepta  -lu     ta  evangelio
+\ge DEM2 -adjr COL primero  aceptar -advr.1 DET evangelio
+\ps pro  -***  det adjetivo verbo   -advr   det nombre
+
+\ft entonces, cuando primero aceptaron el evangelio
+\mm Conversación_CH_20112012.wav 923.760 930.840
+
+\ref 215
+\ELANParticipant CH
+\ELANBegin 930.840
+\ELANEnd 935.880
+\tx niekefuy                     ta  grabacion  ka
+\mb nie   -ke    -fu    -y       ta  grabacion  ka
+\ge tener -HAB   -AP    -IND.[3] DET grabación y
+\ps verbo -tam-e -tam-e -per     det nombre     conj
+
+\ft tenía grabación
+\mm Conversación_CH_20112012.wav 930.840 935.880
+
+\ref 216
+\ELANParticipant CH
+\ELANBegin 935.880
+\ELANEnd 946.200
+\tx chem pingey              ama, viejita, chem pingey              ama,
+\mb chem pi    -nge -y       ama  viejita  chem pi    -nge -y       ama
+\ge qué decir -PAS -IND.[3] INT  viejita  qué decir -PAS -IND.[3] INT
+\ps pro  verbo -per -per     part nombre   pro  verbo -per -per     part
+
+\tx miyawülkey                        Sinvoroso, despues  tambien
+\mb miyaw -*ü -l     -ke    -y       Sinvoroso  despues  tambien
+\ge andar -*** -APPL3 -HAB   -IND.[3] Sinvoroso  despues  tambien
+\ps verbo -*** -per   -tam-e -per     nombre     adverbio adverbio
+
+\tx     andaba        vendiendo
+\mb 
+
+\ft ¿Cómo se llamaba? Viejita, ¿Cómo se llamaba eso que andaba trayendo Sinforoso, después también andaba vendiendo?
+\mm Conversación_CH_20112012.wav 935.880 946.200
+
+\ref 217
+\ELANParticipant CH
+\ELANBegin 946.200
+\ELANEnd 949.880
+\tx un instrumento era, cómo se llamaba
+\ft un insturmento era, cómo se llamaba
+\mm Conversación_CH_20112012.wav 946.200 949.880
+
+\ref 218
+\ELANParticipant CH
+\ELANBegin 949.880
+\ELANEnd 951.520
+\tx se acuerda
+\ft se acuerda
+\mm Conversación_CH_20112012.wav 949.880 951.520
+
+\ref 219
+\ELANParticipant CH
+\ELANBegin 951.520
+\ELANEnd 955.160
+\tx el que cantaba, salía de todo
+\ft el que cantaba, salía de todo
+\mm Conversación_CH_20112012.wav 951.520 955.160
+
+\ref 220
+\ELANParticipant CH
+\ELANBegin 955.160
+\ELANEnd 959.600
+\tx un disco, con aguja funcionaba
+\ft un disco, con aguja funcionaba
+\mm Conversación_CH_20112012.wav 955.160 959.600
+
+\ref 221
+\ELANParticipant CH
+\ELANBegin 959.600
+\ELANEnd 962.520
+\tx (no me acuerdo)
+\ft (no me acuerdo)
+\mm Conversación_CH_20112012.wav 959.600 962.520
+
+\ref 222
+\ELANParticipant CH
+\ELANBegin 962.520
+\ELANEnd 971.560
+\tx pichi    instrumento, allküngey             pichi    ülkantun       evangelio si       po,
+\mb pichi    instrumento  allkü   -nge -y       pichi    ülkantu -n     evangelio si       po
+\ge pequeño instrumento  escuchar -PAS -IND.[3] pequeño cantar   -NMRZ1 evangelio si       pues
+\ps adj      nombre       verbo    -per -per     adj      verbo    -nmrz  nombre    adverbio part
+
+\tx relacionado                 con          la
+
+\tx palabra
+\mb palabra
+\ge palabra
+\ps nombre
+
+\ft un pequeño instrumento, se escuchaban pequeños ülkantun del evangelio si po, relacionado con la palabra
+\mm Conversación_CH_20112012.wav 962.520 971.560
+
+\ref 223
+\ELANParticipant CH
+\ELANBegin 971.560
+\ELANEnd 977.400
+\tx "montulenew,                    montulenew
+\mb montu  -l-e       -n       -ew  montu  -l-e       -n       -ew
+\ge salvar -APPL2-INV -IND.1SG -OBL salvar -APPL2-INV -IND.1SG -OBL
+\ps verbo  -per-per- -per     -per verbo  -per-per- -per     -per
+
+\ft me salvó, me salvó
+\mm Conversación_CH_20112012.wav 971.560 977.400
+
+\ref 224
+\ELANParticipant CH
+\ELANBegin 977.400
+\ELANEnd 982.640
+\tx tañi          küme    jesus, wekufu  ñi    lasu   mew
+\mb ta  -ñi      küme    jesus  wekufu  ñi    lasu   mew
+\ge DET -1SG.POSS bien     jesus  huecufe 3.POSS lazo   PPOS
+\ps det -pro      adverbio nombre nombre  pro    nombre ppos
+
+\ft mi buen Jesús, del lazo del wekufü
+\mm Conversación_CH_20112012.wav 977.400 982.640
+
+\ref 225
+\ELANParticipant CH
+\ELANBegin 982.640
+\ELANEnd 985.480
+\tx wekufu  ñi    trampa mew
+\mb wekufu  ñi    trampa mew
+\ge huecufe 3.POSS trampa PPOS
+\ps nombre  pro    nombre ppos
+
+\ft de la trampa del wekufü
+\mm Conversación_CH_20112012.wav 982.640 985.480
+
+\ref 226
+\ELANParticipant CH
+\ELANBegin 985.480
+\ELANEnd 987.920
+\tx witran       entumetuenew
+\mb witra -n     entu  -me   -tu    -e   -n       -ew
+\ge tirar -NMRZ1 sacar -DIR3 -APPL3 -3SG -IND.1SG -OBL
+\ps verbo -nmrz  verbo -dir  -per   -per -per     -per
+
+\ft me fue a rescatar allá
+\mm Conversación_CH_20112012.wav 985.480 987.920
+
+\ref 227
+\ELANParticipant CH
+\ELANBegin 987.920
+\ELANEnd 990.800
+\tx chew   rume     chew   rume
+\mb chew   rume     chew   rume
+\ge dónde siquiera dónde siquiera
+\ps pro    adverbio pro    adverbio
+
+\ft ¿dónde, dónde
+\mm Conversación_CH_20112012.wav 987.920 990.800
+
+\ref 228
+\ELANParticipant CH
+\ELANBegin 990.800
+\ELANEnd 993.480
+\tx miyawley              miyawley
+\mb miyaw -le    -y       miyaw -le    -y
+\ge andar -PROG  -IND.[3] andar -PROG  -IND.[3]
+\ps verbo -tam-e -per     verbo -tam-e -per
+
+\ft andaría, andaría
+\mm Conversación_CH_20112012.wav 990.800 993.480
+
+\ref 229
+\ELANParticipant CH
+\ELANBegin 993.480
+\ELANEnd 996.320
+\tx kompañkiyawlafin
+\mb kompañ    -kiyaw -la   -fi   -n
+\ge acompañar -AND   -NEG1 -3.OP -IND.1SG
+\ps verbo      -dir   -neg  -per  -per
+
+\ft si no lo hubiera acompañado
+\mm Conversación_CH_20112012.wav 993.480 996.320
+
+\ref 230
+\ELANParticipant CH
+\ELANBegin 996.320
+\ELANEnd 1001.120
+\tx nütramkayawlafin,                  longko mew  miyawlafin
+\mb nütramka -yaw -la   -fi   -n       longko mew  miyaw -la   -fi   -n
+\ge conversar -AND -NEG1 -3.OP -IND.1SG cabeza PPOS andar -NEG1 -3.OP -IND.1SG
+\ps verbo     -dir -neg  -per  -per     nombre ppos verbo -neg  -per  -per
+
+\ft si no le hubiera conversado, si no lo llevara en mi cabeza
+\mm Conversación_CH_20112012.wav 996.320 1001.120
+
+\ref 231
+\ELANParticipant CH
+\ELANBegin 1001.120
+\ELANEnd 1005.560
+\tx tañi          küme    jesus, tañi          küme    jesus
+\mb ta  -ñi      küme    jesus  ta  -ñi      küme    jesus
+\ge DET -1SG.POSS bien     jesus  DET -1SG.POSS bien     jesus
+\ps det -pro      adverbio nombre det -pro      adverbio nombre
+
+\ft a mi buen Jesús, a mi buen Jesús
+\mm Conversación_CH_20112012.wav 1001.120 1005.560
+
+\ref 232
+\ELANParticipant CH
+\ELANBegin 1005.560
+\ELANEnd 1007.800
+\tx decía el piti wingka en mapuche ülkantukefuy
+\ft decía el pequeño wingka po, en mapuche cantaba
+\mm Conversación_CH_20112012.wav 1005.560 1007.800
+
+\ref 233
+\ELANParticipant CH
+\ELANBegin 1007.800
+\ELANEnd 1019.640
+\tx después fey  ka   tripakefuy                   feychi     ta  aflu             ta
+\mb después fey  ka   tripa -ke    -fu    -y       fey  -chi  ta  af       -lu     ta
+\ge después DEM2 y    salir -HAB   -AP    -IND.[3] DEM2 -adjr DET terminar -advr.1 DET
+\ps advebio  pro  conj verbo -tam-e -tam-e -per     pro  -***  det verbo    -advr   det
+
+\tx aflu             Chaw   dios   ta  apümi        ta  mapu   ta  ko     mew  diluvio
+\mb af       -lu     chaw   dios   ta  apü     -m-i ta  mapu   ta  ko     mew  diluvio
+\ge terminar -advr.1 padre  Dios   DET terminar -CAUSDET tierra DET agua   PPOS diluvio
+\ps verbo    -advr   nombre nombre det verbo    -per-det nombre det nombre ppos nombre
+
+\ft después también sacaba ese cuando se acabó, cuando se acabó, cuando el Padre Dios  llenó la tierra de agua, el diluvio
+\mm Conversación_CH_20112012.wav 1007.800 1019.640
+
+\ref 234
+\ELANParticipant CH
+\ELANBegin 1019.640
+\ELANEnd 1026.240
+\tx kiñe wentru mülekerkefuy                       ta  fülkülelu             ta  Chaw
+\mb kiñe wentru müle -ke    -rke   -fu    -y       ta  fül     -küle -lu     ta  chaw
+\ge un    hombre estar -HAB   -EVID  -AP    -IND.[3] DET cerca    -ESTAT -advr.1 DET padre
+\ps art   nombre verbo -tam-e -tam-e -tam-e -per     det adverbio -tam-e -advr   det nombre
+
+\tx Ngünechen mew  ka
+\mb Ngünechen mew  ka
+\ge Ngünechen PPOS y
+\ps nombre     ppos conj
+
+\ft Dicen que había un hombre que estaba cerca de Chaw Ngünechen
+\mm Conversación_CH_20112012.wav 1019.640 1026.240
+
+\ref 235
+\ELANParticipant CH
+\ELANBegin 1026.240
+\ELANEnd 1033.440
+\tx fente    küme    ruf      piwke    mew  inafilu              ta  Chaw   Ngünechen Noe
+\mb fente    küme    ruf      piwke    mew  ina    -fi   -lu     ta  chaw   Ngünechen Noe
+\ge así     bien     verdad   corazón PPOS seguir -3.OP -advr.1 DET padre  Ngünechen Noe
+\ps adverbio adverbio adverbio nombre   ppos verbo  -per  -advr   det nombre nombre     nombre
+
+\tx pingerkey
+\mb pi    -nge -rke   -y
+\ge decir -PAS -EVID  -IND.[3]
+\ps verbo -per -tam-e -per
+
+\ft de todo corazóin siguió a Dios y dicen que se llamaba Noe
+\mm Conversación_CH_20112012.wav 1026.240 1033.440
+
+\ref 236
+\ELANParticipant CH
+\ELANBegin 1033.440
+\ELANEnd 1037.800
+\tx Feymew   Noe    dewmayaymi            kiñe fütra   arca
+\mb feymew   Noe    dewma -ya    -ymi     kiñe fütra   arca
+\ge entonces Noe    hacer -FUT   -IND.2SG un    gran     arca
+\ps conj     nombre verbo -tam-e -per     art   adverbio nombre
+
+\ft Entonces "Noe, haràs una gran arca"
+\mm Conversación_CH_20112012.wav 1033.440 1037.800
+
+\ref 237
+\ELANParticipant CH
+\ELANBegin 1037.800
+\ELANEnd 1042.160
+\tx feymew   konpay                 che    montuam              iñche kiñe fütra
+\mb feymew   kon    -pa    -y       che    montu  -a     -m     iñche kiñe fütra
+\ge entonces entrar -DIR.1 -IND.[3] gente  salvar -FUT   -ADVR2 1SG    un    gran
+\ps conj     verbo  -dir   -per     nombre verbo  -tam-e -advr  pro    art   adverbio
+
+\tx mawün        küpalan                  tüfa
+\mb mawü  -n     küpa -l-a       -n       tüfa
+\ge llover -NMRZ1 venir -CAUS1-FUT -IND.1SG DEM1
+\ps verbo  -nmrz  verbo -per-per   -per     pro
+
+\ft "entonces entra la gente para salvarse, yo mandaré una gran lluvia"
+\mm Conversación_CH_20112012.wav 1037.800 1042.160
+
+\ref 238
+\ELANParticipant CH
+\ELANBegin 1042.160
+\ELANEnd 1050.480
+\tx mawüay,               fentren  mawüay                apoy            ta  mapu
+\mb mawü  -a     -y       fentren  mawü  -a     -y       apo    -y       ta  mapu
+\ge llover -FUT   -IND.[3] mucho    llover -FUT   -IND.[3] llenar -IND.[3] DET tierra
+\ps verbo  -tam-e -per     adverbio verbo  -tam-e -per     verbo  -per     det nombre
+
+\tx montulay              ta  che    kom      che    ta  layay,                layay
+\mb montu  -la   -y       ta  che    kom      che    ta  la    -ya    -y       la    -ya    -y
+\ge salvar -NEG1 -IND.[3] DET gente  todo     gente  DET morir -FUT   -IND.[3] morir -FUT   -IND.[3]
+\ps verbo  -neg  -per     det nombre adverbio nombre det verbo -tam-e -per     verbo -tam-e -per
+
+\tx ta
+\mb ta
+\ge DET
+\ps det
+
+\ft "lloverá, lloverá mucho, se llenará la tierra, no se salvará la tierra, toda la gente morirá, morirán
+\mm Conversación_CH_20112012.wav 1042.160 1050.480
+
+\ref 239
+\ELANParticipant CH
+\ELANBegin 1050.480
+\ELANEnd 1061.280
+\tx üñüm layay                 ta  ngürü layay                 ta  trapial, layay
+\mb üñüm la    -ya    -y       ta  ngürü la    -ya    -y       ta  trapial  la    -ya    -y
+\ge pájaro morir -FUT   -IND.[3] DET zorro   morir -FUT   -IND.[3] DET león    morir -FUT   -IND.[3]
+\ps nombre  verbo -tam-e -per     det nombre  verbo -tam-e -per     det nombre   verbo -tam-e -per
+
+\tx ta  itrofill kulliñ mülelu       mapu   mew  kom      afay                     porque
+\mb ta  itrofill kulliñ müle -lu     mapu   mew  kom      af       -a     -y       porque
+\ge DET de todo  animal  estar -advr.1 tierra PPOS todo     terminar -FUT   -IND.[3] porque
+\ps det adverbio nombre  verbo -advr   nombre ppos adverbio verbo    -tam-e -per     sub
+
+\tx tüfachi    dew      aguantawelafin
+\mb tüfa -chi  dew      aguanta  -we    -la   -fi   -n
+\ge DEM1  -adjr ya       aguantar -INC   -NEG1 -3.OP -IND.1SG
+\ps pro   -***  adverbio verbo    -tam-E -neg  -per  -per
+
+\ft los pájaros, morirán los leones, morirán todos los animales que están en la tierra, todos se acabarán porque ya no lo
+aguantó más"
+\mm Conversación_CH_20112012.wav 1050.480 1061.280
+
+\ref 240
+\ELANParticipant CH
+\ELANBegin 1061.280
+\ELANEnd 1066.760
+\tx rume     weda     wedwedi           ñi    piwke    engün re       wedwed   ka
+\mb rume     weda     wedwed   -i       ñi    piwke    engün re       wedwed   ka
+\ge mucho    malo     loco     -IND.[3] 3.POSS corazón 3.PL   solo     loco     y
+\ps adverbio adjetivo adjetivo -per     pro    nombre   per    adverbio adjetivo conj
+
+\tx mekey                  engün mejor    apümafin                             pikey
+\mb meke          -y       engün mejor    apü     -m     -a     -fi   -n       pi    -ke    -y
+\ge estar.ocupado -IND.[3] 3.PL   mejor    terminar -CAUS2 -FUT   -3.OP -IND.1SG decir -HAB   -IND.[3]
+\ps verbo         -per     per    adverbio verbo    -per   -tam-e -per  -per     verbo -tam-e -per
+
+\tx ta  Chaw   Dios
+\mb ta  chaw   dios
+\ge DET padre  Dios
+\ps det nombre nombre
+
+\ft "muy loco está su corazón, hacen puras cosas malas, mejor los acabo" dijo el Padre Dios
+\mm Conversación_CH_20112012.wav 1061.280 1066.760
+
+\ref 241
+\ELANParticipant CH
+\ELANBegin 1066.760
+\ELANEnd 1072.280
+\tx dewmayafiymi                chi  ruka,  fey ti   chi  tami
+\mb dewma -ya    -fi   -ymi     chi  ruka   fey ti   chi  ta  -mi
+\ge hacer -FUT   -3.OP -IND.2SG DEM2 casa   DEM2DET2 DEM2 DET -2SG.POSS
+\ps verbo -tam-e -per  -per     dem  nombre pro det  dem  det -pro
+
+\tx feyentuetew              feyentuetew              fey  montuay
+\mb feyentu -e   -t     -ew  feyentu -e   -t     -ew  fey  montu  -a     -y
+\ge creer   -INV -NMRZ3 -OBL creer   -INV -NMRZ3 -OBL DEM2 salvar -FUT   -IND.[3]
+\ps verbo   -per -nmrz  -per verbo   -per -nmrz  -per pro  verbo  -tam-e -per
+
+\ft "vas a hacer la casa, entonces lo que te crean, los que te crean se van a salvar"
+\mm Conversación_CH_20112012.wav 1066.760 1072.280
+
+\ref 242
+\ELANParticipant CH
+\ELANBegin 1072.280
+\ELANEnd 1074.400
+\tx pingerkey                  dewmay         ta  chi  Noe
+\mb pi    -nge -rke   -y       dewma -y       ta  chi  Noe
+\ge decir -PAS -EVID  -IND.[3] hacer -IND.[3] DET DEM2 Noe
+\ps verbo -per -tam-e -per     verbo -per     det dem  nombre
+
+\ft le fue dicho, lo hizo Noe
+\mm Conversación_CH_20112012.wav 1072.280 1074.400
+
+\ref 243
+\ELANParticipant CH
+\ELANBegin 1074.400
+\ELANEnd 1076.440
+\tx feyentuy         Noe
+\mb feyentu -y       Noe
+\ge creer   -IND.[3] Noe
+\ps verbo   -per     nombre
+
+\ft obedeció Noe
+\mm Conversación_CH_20112012.wav 1074.400 1076.440
+
+\ref 244
+\ELANParticipant CH
+\ELANBegin 1076.440
+\ELANEnd 1079.840
+\tx Fey  ta  amuy           kom      mapu   nütramkayafilu                tüfachi    dungu
+\mb fey  ta  amu   -y       kom      mapu   nütramka -ya    -fi   -lu     tüfa -chi  dungu
+\ge DEM2 DET ir    -IND.[3] todo     tierra conversar -FUT   -3.OP -advr.1 DEM1  -adjr asunto
+\ps pro  det verbo -per     adverbio nombre verbo     -tam-e -per  -advr   pro   -***  nombre
+
+\ft Entonces, se fue por toda la tierra conversando este asunto
+\mm Conversación_CH_20112012.wav 1076.440 1079.840
+
+\ref 245
+\ELANParticipant CH
+\ELANBegin 1079.840
+\ELANEnd 1084.920
+\tx chem piyawi              ta  loco,    wedwed,  puwi                  tañi
+\mb chem pi    -yaw -i       ta  loco     wedwed   puw          -i       ta  -ñi
+\ge qué decir -AND -IND.[3] DET loco     loco     llegar.allá -IND.[3] DET -3.POSS
+\ps pro  verbo -dir -per     det adjetivo adjetivo verbo        -per     det -pro
+
+\tx kimün         ta  Noe    pikey                 ta  che
+\mb kim     -ün   ta  Noe    pi    -ke    -y       ta  che
+\ge saber   -NMRZ1 DET Noe    decir -HAB   -IND.[3] DET gente
+\ps verbo   -nmrz  det nombre verbo -tam-e -per     det nombre
+
+\ft ¿qué anda diciendo este loco? llegaba el conocimiento de Noe, decía la gente
+\mm Conversación_CH_20112012.wav 1079.840 1084.920
+
+\ref 246
+\ELANParticipant CH
+\ELANBegin 1084.920
+\ELANEnd 1094.320
+\tx No       femlay                  apuen                          felealu                 ta  dungu,
+\mb no       fem      -la   -y       *   -a     -pu   -e   -n       fele     -a     -lu     ta  dungu
+\ge NEG2     ser.así -NEG1 -IND.[3] *** -FUT   -DIR2 -3SG -IND.1SG ser así -FUT   -advr.1 DET asunto
+\ps adverbio verbo    -neg  -per     *** -tam-e -dir  -per -per     verbo    -tam-e -advr   det nombre
+
+\tx mawüalu,             kiñe fütra   mawün        küpaley
+\mb mawü  -a     -lu     kiñe fütra   mawü  -n     küpa -le    -y
+\ge llover -FUT   -advr.1 un    gran     llover -NMRZ1 venir -PROG  -IND.[3]
+\ps verbo  -tam-e -advr   art   adverbio verbo  -nmrz  verbo -tam-e -per
+
+\tx apümngealu                         ta  che
+\mb apü     -m     -nge -a     -lu     ta  che
+\ge terminar -CAUS2 -PAS -FUT   -advr.1 DET gente
+\ps verbo    -per   -per -tam-e -advr   det nombre
+
+\ft Va a ser así, va a llover, una gran lluvia está viniendo para acabar con la gente
+\mm Conversación_CH_20112012.wav 1084.920 1094.320
+
+\ref 247
+\ELANParticipant CH
+\ELANBegin 1094.320
+\ELANEnd 1100.640
+\tx pichi    katrun
+\mb pichi    katru  -n
+\ge pequeño cortar -NMRZ1
+\ps adj      verbo  -nmrz
+
+\ft ¿Cortemos un poquito?
+\mm Conversación_CH_20112012.wav 1094.320 1100.640
+
+\ref 248
+\ELANParticipant CH
+\ELANBegin 1100.640
+\ELANEnd 1106.800
+\tx
+\ft
+\mm Conversación_CH_20112012.wav 1100.640 1106.800
+
+\ref 249
+\ELANParticipant CH
+\ELANBegin 1106.800
+\ELANEnd 1113.840
+\tx
+\ft
+\mm Conversación_CH_20112012.wav 1106.800 1113.840
+
+\ref 250
+\ELANParticipant FH
+\ELANBegin 1113.800
+\ELANEnd 1129.680
+\tx fey  ta  chi  pu  che    küdawkelu              iglesia entukefuy                    ñi
+\mb fey  ta  chi  pu  che    küdaw   -ke    -lu     iglesia entu  -ke    -fu    -y       ñi
+\ge DEM2 DET DEM2 COL gente  trabajar -HAB   -advr.1 iglesia sacar -HAB   -AP    -IND.[3] 3.POSS
+\ps pro  det dem  det nombre verbo    -tam-e -advr   nombre  verbo -tam-e -tam-e -per     pro
+
+\tx dungu  mapudungun mew  ka
+\mb dungu  mapudungun mew  ka
+\ge asunto mapudungun PPOS y
+\ps nombre nombre     ppos conj
+
+\ft ¿entonces, las personas que trabajaban en la iglesia sacaban su asunto en mapudungun también?
+\mm Conversación_CH_20112012.wav 1113.800 1129.680
+
+\ref 251
+\ELANParticipant CH
+\ELANBegin 1129.640
+\ELANEnd 1133.640
+\tx vitrola, vitrola pingey              ta
+\mb vitrola  vitrola pi    -nge -y       ta
+\ge vitrola  vitrola decir -PAS -IND.[3] DET
+\ps nombre   nombre  verbo -per -per     det
+
+\ft vitrola, vitrola se llamaa ese
+\mm Conversación_CH_20112012.wav 1129.640 1133.640
+
+\ref 252
+\ELANParticipant CH
+\ELANBegin 1133.640
+\ELANEnd 1137.880
+\tx feymew   mülekefuy                   fentren  disco  miyawkefuy                   pu  hermano
+\mb feymew   müle -ke    -fu    -y       fentren  disco  miyaw -ke    -fu    -y       pu  hermano
+\ge entonces estar -HAB   -AP    -IND.[3] mucho    disco  andar -HAB   -AP    -IND.[3] COL hermano
+\ps conj     verbo -tam-e -tam-e -per     adverbio nombre verbo -tam-e -tam-e -per     det nombre
+
+\ft entonces habían muchos discos, andaban los hermanos
+\mm Conversación_CH_20112012.wav 1133.640 1137.880
+
+\ref 253
+\ELANParticipant CH
+\ELANBegin 1137.880
+\ELANEnd 1143.000
+\tx tañi        interesayael              ta  che    ta  kintuafiel                 ta
+\mb ta  -ñi    interesa    -ya    -el    ta  che    ta  kintu  -a     -fi   -el    ta
+\ge DET -3.POSS interesarse -FUT   -NMRZ2 DET gente  DET buscar -FUT   -3.OP -NMRZ2 DET
+\ps det -pro    verbo       -tam-e -nmzr  det nombre det verbo  -tam-e -per  -nmzr  det
+
+\tx Chaw   Dios
+\mb chaw   dios
+\ge padre  Dios
+\ps nombre nombre
+
+\ft para interesar a la gente para que conozca al Padre Dios
+\mm Conversación_CH_20112012.wav 1137.880 1143.000
+
+\ref 254
+\ELANParticipant CH
+\ELANBegin 1143.000
+\ELANEnd 1149.560
+\tx iñche allkutulekefun                         feyme      fey  akuy                 ta  chi
+\mb iñche allkutu  -le    -ke    -fu    -n       fey  -me   fey  aku         -y       ta  chi
+\ge 1SG    escuchar -PROG  -HAB   -AP    -IND.1SG DEM2 -DIR3 DEM2 llegar.acá -IND.[3] DET DEM2
+\ps pro    verbo    -tam-e -tam-e -tam-e -per     pro  -dir  pro  verbo       -per     det dem
+
+\tx mawün        ka   diluvio pipiyu                 nga
+\mb mawü  -n     ka   diluvio pi    -pi    -yu      nga
+\ge llover -NMRZ1 y    diluvio decir -decir -IND.1DU pues
+\ps verbo  -nmrz  conj nombre  verbo -verbo -per     md
+
+\ft yo los escuchaba, entonces llegó la lluvía, el diluvio te estaba diciendo
+\mm Conversación_CH_20112012.wav 1143.000 1149.560
+
+\ref 255
+\ELANParticipant CH
+\ELANBegin 1149.560
+\ELANEnd 1158.240
+\tx mawüy          fütra   mawüy          fey  ta  akuy                 ta
+\mb mawü  -y       fütra   mawü  -y       fey  ta  aku         -y       ta
+\ge llover -IND.[3] gran     llover -IND.[3] DEM2 DET llegar.acá -IND.[3] DET
+\ps verbo  -per     adverbio verbo  -per     pro  det verbo       -per     det
+
+\tx kuruftukumawün                fey  ti   chi  disco  amulekefuy
+\mb kuruf  -tuku  -mawü  -n     fey  ti   chi  disco  amu   -le    -ke    -fu    -y
+\ge viento -poner -llover -NMRZ1 DEM2 DET2 DEM2 disco  ir    -PROG  -HAB   -AP    -IND.[3]
+\ps nombre -tam-e -verbo  -nmrz  pro  det  dem  nombre verbo -tam-e -tam-e -tam-e -per
+
+\tx po   y    como
+\mb po   y    como
+\ge pues y    como
+\ps part conj adverbio
+
+\tx sonaba        el    viento
+\mb 
+
+\ft llovió, una gran lluvia,  entonces hubo una gran lluvia con viento, entonces el disco iba yendo y cómo sonaba el viento
+\mm Conversación_CH_20112012.wav 1149.560 1158.240
+
+\ref 256
+\ELANParticipant CH
+\ELANBegin 1158.240
+\ELANEnd 1164.280
+\tx decía el viento y la lluviua como se sentía, feymew
+\ft (ruido de viento) decía el viento y la lluvia como se sentía, entonces
+\mm Conversación_CH_20112012.wav 1158.240 1164.280
+
+\ref 257
+\ELANParticipant CH
+\ELANBegin 1164.280
+\ELANEnd 1168.720
+\tx iñchiñ               amatukeiñ,             feyentukeiñ,
+\mb i     -*ñch -iñ     amatu   -ke    -iñ     feyentu -ke    -iñ
+\ge comer -***   -IND.1PL admirar -HAB   -IND.1PL creer   -HAB   -IND.1PL
+\ps verbo -***   -per     verbo   -tam-e -per     verbo   -tam-e -per
+
+\tx feyentukeiñ            po
+\mb feyentu -ke    -iñ     po
+\ge creer   -HAB   -IND.1PL pues
+\ps verbo   -tam-e -per     part
+
+\ft nosotros admirabamos, creíamos, creíamos po
+\mm Conversación_CH_20112012.wav 1164.280 1168.720
+
+\ref 258
+\ELANParticipant CH
+\ELANBegin 1168.720
+\ELANEnd 1178.040
+\tx feymew   fey  Noe,   Noe,   amukalu              mawün        amukalu
+\mb feymew   fey  Noe    Noe    amu   -ka    -lu     mawü  -n     amu   -ka    -lu
+\ge entonces DEM2 Noe    Noe    ir    -CONT  -advr.1 llover -NMRZ1 ir    -CONT  -advr.1
+\ps conj     pro  nombre nombre verbo -tam-e -advr   verbo  -nmrz  verbo -tam-e -advr
+
+\tx mawün        petu     apoy            mapu   fey
+\mb mawü  -n     petu     apo    -y       mapu   fey
+\ge llover -NMRZ1 todavía llenar -IND.[3] tierra DEM2
+\ps verbo  -nmrz  adverbio verbo  -per     nombre pro
+
+\ft entonces Noe, Noe, cuando estaba yendo la lluvia, se estaba llenando la tierra
+\mm Conversación_CH_20112012.wav 1168.720 1178.040
+
+\ref 259
+\ELANParticipant CH
+\ELANBegin 1178.040
+\ELANEnd 1183.640
+\tx acordatuy               ta  che    Noe    feypi        nga  mawüalu
+\mb acorda  -tu    -y       ta  che    Noe    fey  -pi    nga  mawü  -a     -lu
+\ge acordar -APPL3 -IND.[3] DET gente  Noe    DEM2 -decir pues llover -FUT   -advr.1
+\ps verbo   -per   -per     det nombre nombre pro  -verbo md   verbo  -tam-e -advr
+
+\tx piy            afay                     ta  mapu   piy            nga  Noe
+\mb pi    -y       af       -a     -y       ta  mapu   pi    -y       nga  Noe
+\ge decir -IND.[3] terminar -FUT   -IND.[3] DET tierra decir -IND.[3] pues Noe
+\ps verbo -per     verbo    -tam-e -per     det nombre verbo -per     md   nombre
+
+\ft se acordó la gente de lo que dijo Noe "va a llover" dijo "se va a acabar la tierra" dijo Noe
+\mm Conversación_CH_20112012.wav 1178.040 1183.640
+
+\ref 260
+\ELANParticipant CH
+\ELANBegin 1183.640
+\ELANEnd 1187.160
+\tx feyngerkechi             feypiy                nga  che    piy
+\mb fey  -nge   -rke   -chi  fey  -pi    -y       nga  che    pi    -y
+\ge DEM2 -COP   -EVID  -adjr DEM2 -decir -IND.[3] pues gente  decir -IND.[3]
+\ps pro  -verbo -tam-e -***  pro  -verbo -per     md   nombre verbo -per
+
+\ft Entonces resultó ser así dijo la gente dijo
+\mm Conversación_CH_20112012.wav 1183.640 1187.160
+
+\ref 261
+\ELANParticipant CH
+\ELANBegin 1187.160
+\ELANEnd 1194.000
+\tx feymew   fey  amuy           nga  amuyngün             Noe,   kintuñmangey
+\mb feymew   fey  amu   -y       nga  amu   -y       -ngün Noe    kintu  -ñma  -nge -y
+\ge entonces DEM2 ir    -IND.[3] pues ir    -IND.[3] -3.PL  Noe    buscar -APPL1 -PAS -IND.[3]
+\ps conj     pro  verbo -per     md   verbo -per     -per   nombre verbo  -per   -per -per
+
+\tx tañi        ruka   ta  Noe,   pepuyngün                  fey
+\mb ta  -ñi    ruka   ta  Noe    pe    -pu   -y       -ngün fey
+\ge DET -3.POSS casa   DET Noe    ver   -DIR2 -IND.[3] -3.PL  DEM2
+\ps det -pro    nombre det nombre verbo -dir  -per     -per   pro
+
+\ft entonces fueron, fueron donde Noe, fue buscada la casa de Noe, lo encontraron allá
+\mm Conversación_CH_20112012.wav 1187.160 1194.000
+
+\ref 262
+\ELANParticipant CH
+\ELANBegin 1194.000
+\ELANEnd 1201.000
+\tx fey  ti   chi  ruka   piam     puraley               wenu,    femngechi
+\mb fey  ti   chi  ruka   piam     pura  -le    -y       wenu     femngechi
+\ge DEM2 DET2 DEM2 casa   EVID.REP subir -PROG  -IND.[3] arriba   así
+\ps pro  det  dem  nombre part     verbo -tam-e -per     adverbio adverbio
+
+\tx puraley
+\mb pura  -le    -y
+\ge subir -PROG  -IND.[3]
+\ps verbo -tam-e -per
+
+\tx wenu     mientras  la    tierra
+\mb wenu     
+
+\tx iba                llenando  con
+
+\tx agua        po
+
+\ft Esa casa, dicen, subió arriba, así subió arriba, mientras la tierra iba llenando con agua
+\mm Conversación_CH_20112012.wav 1194.000 1201.000
+
+\ref 263
+\ELANParticipant CH
+\ELANBegin 1201.000
+\ELANEnd 1206.280
+\tx amuy ta che como pudo llegaron en esa arca
+\ft fue la gente, como pudo llegaron en esa arca
+\mm Conversación_CH_20112012.wav 1201.000 1206.280
+
+\ref 264
+\ELANParticipant CH
+\ELANBegin 1206.280
+\ELANEnd 1211.520
+\tx Noe,   Noe,   ngulalelmuiñ                ta  puerta pipurkey                    nga
+\mb Noe    Noe    ngula -lel   -mu  -iñ     ta  puerta pi    -pu   -rke   -y       nga
+\ge Noe    Noe    abrir -APPL5 -IMP -IND.1PL DET puerta decir -DIR2 -EVID  -IND.[3] pues
+\ps nombre nombre verbo -per   -mod -per     det nombre verbo -dir  -tam-e -per     md
+
+\tx che
+\mb che
+\ge gente
+\ps nombre
+
+\ft Noe, Noe, abrenos la puerta, dicen que dijeron la gente allá
+\mm Conversación_CH_20112012.wav 1206.280 1211.520
+
+\ref 265
+\ELANParticipant CH
+\ELANBegin 1211.520
+\ELANEnd 1215.960
+\tx feymew   fey  Noe    dungun        entuy          wekun`
+\mb feymew   fey  Noe    dungu  -n     entu  -y       wekun
+\ge entonces DEM2 Noe    asunto -NMRZ1 sacar -IND.[3] afuera
+\ps conj     pro  nombre nombre -nmrz  verbo -per     adverbio
+
+\ft entonces Noe sacó su asunto afuera
+\mm Conversación_CH_20112012.wav 1211.520 1215.960
+
+\ref 266
+\ELANParticipant CH
+\ELANBegin 1215.960
+\ELANEnd 1218.160
+\tx iñche ta  ngulalayafun                       ta  puerta
+\mb iñche ta  ngula -la   -ya    -fu    -n       ta  puerta
+\ge 1SG    DET abrir -NEG1 -FUT   -AP    -IND.1SG DET puerta
+\ps pro    det verbo -neg  -tam-e -tam-e -per     det nombre
+
+\ft como voy a abrir la puerta
+\mm Conversación_CH_20112012.wav 1215.960 1218.160
+
+\ref 267
+\ELANParticipant CH
+\ELANBegin 1218.160
+\ELANEnd 1223.400
+\tx kisu     cerray          ta  puerta ngulalayatun                       ta ti
+\mb kisu     cerra  -y       ta  puerta ngula -la   -ya    -tu    -n       ta ti
+\ge solo     cerrar -IND.[3] DET puerta abrir -NEG1 -FUT   -APPL3 -IND.1SG DETDET2
+\ps adverbio verbo  -per     det nombre verbo -neg  -tam-e -per   -per     detdet
+
+\tx pirkey                ta  Noe
+\mb pi    -rke   -y       ta  Noe
+\ge decir -EVID  -IND.[3] DET Noe
+\ps verbo -tam-e -per     det nombre
+
+\ft ellos solos cerraron la puerta, no la abriría dicen que dijo Noe
+\mm Conversación_CH_20112012.wav 1218.160 1223.400
+
+\ref 268
+\ELANParticipant CH
+\ELANBegin 1223.400
+\ELANEnd 1227.720
+\tx wakeñküley           ta  che    wekun,   wakeñküley           ngüman
+\mb wakeñ -küle -y       ta  che    wekun    wakeñ -küle -y       ngüma -n
+\ge gemir  -PROG  -IND.[3] DET gente  afuera   gemir  -PROG  -IND.[3] llorar -NMRZ1
+\ps verbo  -tam-e -per     det nombre adverbio verbo  -tam-e -per     verbo  -nmrz
+
+\ft están llorando con gemidos la gente afuera
+\mm Conversación_CH_20112012.wav 1223.400 1227.720
+
+\ref 269
+\ELANParticipant CH
+\ELANBegin 1227.720
+\ELANEnd 1232.480
+\tx mientras mekey                  mawün        fülfülküley
+\mb mientras meke          -y       mawü  -n     fül     -fül     -küle -y
+\ge mientras estar.ocupado -IND.[3] llover -NMRZ1 cerca    -cerca    -ESTAT -IND.[3]
+\ps adverbio verbo         -per     verbo  -nmrz  adverbio -adverbio -tam-e -per
+
+\tx mawün        kuruftukumawün
+\mb mawü  -n     kuruf  -tuku  -mawü  -n
+\ge llover -NMRZ1 viento -poner -llover -NMRZ1
+\ps verbo  -nmrz  nombre -tam-e -verbo  -nmrz
+
+\ft mientras estaba dele lloviendo, una lluvia muy fuerte, una lluvia con viento
+\mm Conversación_CH_20112012.wav 1227.720 1232.480
+
+\ref 270
+\ELANParticipant CH
+\ELANBegin 1232.480
+\ELANEnd 1234.480
+\tx y    Noe    Noe    Noe
+\mb y    Noe    Noe    Noe
+\ge y    Noe    Noe    Noe
+\ps conj nombre nombre nombre
+
+\ft Noe, Noe, Nose
+\mm Conversación_CH_20112012.wav 1232.480 1234.480
+
+\ref 271
+\ELANParticipant CH
+\ELANBegin 1234.480
+\ELANEnd 1242.720
+\tx ngülamuiñ        ta  puerta feychi     wula     feyentuiñ       tami
+\mb *ngülamu -iñ     ta  puerta fey  -chi  wula     feyentu -iñ     ta  -mi
+\ge ***       -IND.1PL DET puerta DEM2 -adjr después creer   -IND.1PL DET -2SG.POSS
+\ps ***       -per     det nombre pro  -***  adverbio verbo   -per     det -pro
+
+\tx piel         nga  tami          piel         nga  piy
+\mb pi    -el    nga  ta  -mi       pi    -el    nga  pi    -y
+\ge decir -NMRZ2 pues DET -2SG.POSS decir -NMRZ2 pues decir -IND.[3]
+\ps verbo -nmzr  md   det -pro      verbo -nmzr  md   verbo -per
+
+\ft abrenos la puerta, ahora creemos en lo que dijiste, lo que dijiste, dijeron
+\mm Conversación_CH_20112012.wav 1234.480 1242.720
+
+\ref 272
+\ELANParticipant CH
+\ELANBegin 1242.720
+\ELANEnd 1248.760
+\tx Noe    dew      ngelay               tati,               dew      cerray          ta  puerta
+\mb Noe    dew      nge   -la   -y       ta  -t     -i       dew      cerra  -y       ta  puerta
+\ge Noe    ya       haber -NEG1 -IND.[3] DET -NMRZ3 -IND.[3] ya       cerrar -IND.[3] DET puerta
+\ps nombre adverbio verbo -neg  -per     det -nmrz  -per     adverbio verbo  -per     det nombre
+
+\tx kom      ta  layaymün             ta ti   pirkey                ta  Noe
+\mb kom      ta  la    -ya    -ymün   ta ti   pi    -rke   -y       ta  Noe
+\ge todo     DET morir -FUT   -IND.2PL DETDET2 decir -EVID  -IND.[3] DET Noe
+\ps adverbio det verbo -tam-e -per     detdet  verbo -tam-e -per     det nombre
+
+\ft No, no hay (posibilidad_, ya cerró la puerta, todos ustedes morirán, dicen que dijo Noe
+\mm Conversación_CH_20112012.wav 1242.720 1248.760
+
+\ref 273
+\ELANParticipant CH
+\ELANBegin 1249.160
+\ELANEnd 1258.280
+\tx Noe    ponwitu  niey           re       kurewenke          üñüm niey           feymew
+\mb Noe    ponwitu  nie   -y       re       kure   -wen  -ke   üñüm nie   -y       feymew
+\ge Noe    adentro  tener -IND.[3] solo     esposa -DI   -DIST pájaro tener -IND.[3] entonces
+\ps nombre adverbio verbo -per     adverbio nombre -modi -det  nombre  verbo -per     conj
+
+\tx vilu,     serpiente, gansu, achawall, itrofill
+\mb vilu      serpiente  gansu  achawall  itrofill
+\ge serpiente serpiente  ganzo  gallina   de todo
+\ps nombre    nombre     nombre nombre    adverbio
+
+\ft Noe adentro tenía parejas de pájaros, tenía parejas de serpientes, ganzos, gallinas, de todo
+\mm Conversación_CH_20112012.wav 1249.160 1258.280
+
+\ref 274
+\ELANParticipant CH
+\ELANBegin 1258.280
+\ELANEnd 1261.880
+\tx itrofill kulliñ niey           Noe    arca   mew
+\mb itrofill kulliñ nie   -y       Noe    arca   mew
+\ge de todo  animal  tener -IND.[3] Noe    arca   PPOS
+\ps adverbio nombre  verbo -per     nombre nombre ppos
+
+\ft de todos los animales tenía Noe en su arca
+\mm Conversación_CH_20112012.wav 1258.280 1261.880
+
+\ref 275
+\ELANParticipant CH
+\ELANBegin 1261.880
+\ELANEnd 1268.320
+\tx fütra   mawüy,         fütra   mawüy,         apoy            ta  mapu   fey  solamente
+\mb fütra   mawü  -y       fütra   mawü  -y       apo    -y       ta  mapu   fey  solamente
+\ge gran     llover -IND.[3] gran     llover -IND.[3] llenar -IND.[3] DET tierra DEM2 solamente
+\ps adverbio verbo  -per     adverbio verbo  -per     verbo  -per     det nombre pro  adverbio
+
+\tx ta  montuy          ta  chi  arca   dewmalu       Noe
+\mb ta  montu  -y       ta  chi  arca   dewma -lu     Noe
+\ge DET salvar -IND.[3] DET DEM2 arca   hacer -advr.1 Noe
+\ps det verbo  -per     det dem  nombre verbo -advr   nombre
+
+\ft una gran lluvia, una gran lluvia, se lleno la tierra y solamente se salvó el arca que hizo Noe
+\mm Conversación_CH_20112012.wav 1261.880 1268.320
+
+\ref 276
+\ELANParticipant CH
+\ELANBegin 1268.320
+\ELANEnd 1270.240
+\tx feymew   allkükefuiñ                   vitrola mew
+\mb feymew   allkü   -ke    -fu    -iñ     vitrola mew
+\ge entonces escuchar -HAB   -AP    -IND.1PL vitrola PPOS
+\ps conj     verbo    -tam-e -tam-e -per     nombre  ppos
+
+\ft eso escuchabamos en esa vitrola
+\mm Conversación_CH_20112012.wav 1268.320 1270.240
+
+\ref 277
+\ELANParticipant FH
+\ELANBegin 1270.200
+\ELANEnd 1273.720
+\tx pelicula reke
+\mb pelicula reke
+\ge pelicula COMP
+\ps nombre   ppos
+
+\ft como una película
+\mm Conversación_CH_20112012.wav 1270.200 1273.720
+
+\ref 278
+\ELANParticipant CH
+\ELANBegin 1274.040
+\ELANEnd 1278.520
+\tx kiñe fütra   wentru Sinvoroso pingekefuy                        kiñe fütra   evangeliko
+\mb kiñe fütra   wentru Sinvoroso pi    -nge -ke    -fu    -y       kiñe fütra   evangeliko
+\ge un    gran     hombre Sinvoroso decir -PAS -HAB   -AP    -IND.[3] un    gran     evangelico
+\ps art   adverbio nombre nombre    verbo -per -tam-e -tam-e -per     art   adverbio nombre
+
+\tx ngekefuy
+\mb nge   -ke    -fu    -y
+\ge haber -HAB   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -per
+
+\ft un gran hombre, se llamaba Sinforoso, un gran evangelico era
+\mm Conversación_CH_20112012.wav 1274.040 1278.520
+
+\ref 279
+\ELANParticipant CH
+\ELANBegin 1278.520
+\ELANEnd 1280.960
+\tx fey  feychi     ta  visitayawülkefuy                                 che
+\mb fey  fey  -chi  ta  visita  -yaw -*ü -l     -ke    -fu    -y       che
+\ge DEM2 DEM2 -adjr DET visitar -AND -*** -APPL3 -HAB   -AP    -IND.[3] gente
+\ps pro  pro  -***  det verbo   -dir -*** -per   -tam-e -tam-e -per     nombre
+
+\ft ese andaba visitando a la gente
+\mm Conversación_CH_20112012.wav 1278.520 1280.960
+
+\ref 280
+\ELANParticipant CH
+\ELANBegin 1280.960
+\ELANEnd 1285.400
+\tx welu iney   rume     llowñmakelaeyew                                 ñi    nütram
+\mb welu iney   rume     llow      -ñma  -ke    -la   -e   -y       -ew  ñi    nütram
+\ge pero quién siquiera responder -APPL1 -HAB   -NEG1 -3SG -IND.[3] -OBL 3.POSS historia
+\ps conj pro    adverbio verbo     -per   -tam-e -neg  -per -per     -per pro    sustantivo
+
+\tx Noekechi      yawi
+\mb Noe    -kechi yaw -i
+\ge Noe    -COMP  AND -IND.[3]
+\ps nombre -tam-e dir -per
+
+\ft pero nadie recibía su historia, andaba como Noe
+\mm Conversación_CH_20112012.wav 1280.960 1285.400
+
+\ref 281
+\ELANParticipant CH
+\ELANBegin 1285.400
+\ELANEnd 1287.200
+\tx feyentungelay
+\mb feyentu -nge -la   -y
+\ge creer   -PAS -NEG1 -IND.[3]
+\ps verbo   -per -neg  -per
+
+\ft no le creían
+\mm Conversación_CH_20112012.wav 1285.400 1287.200
+
+\ref 282
+\ELANParticipant CH
+\ELANBegin 1287.200
+\ELANEnd 1288.480
+\tx
+\ft
+\mm Conversación_CH_20112012.wav 1287.200 1288.480
+
+\ref 283
+\ELANParticipant CH
+\ELANBegin 1288.560
+\ELANEnd 1295.840
+\tx küme    dungu  niey           tati,               küme    nütram    niey
+\mb küme    dungu  nie   -y       ta  -t     -i       küme    nütram    nie   -y
+\ge bien     asunto tener -IND.[3] DET -NMRZ3 -IND.[3] bien     historia   tener -IND.[3]
+\ps adverbio nombre verbo -per     det -nmrz  -per     adverbio sustantivo verbo -per
+
+\tx tati                pilay                che,
+\mb ta  -t     -i       pi    -la   -y       che
+\ge DET -NMRZ3 -IND.[3] decir -NEG1 -IND.[3] gente
+\ps det -nmrz  -per     verbo -neg  -per     nombre
+
+\tx sino que      la gente siguieron                   no       mas con          su  wezake             rakiduam
+\mb                                                                 
+\ft buen asunto tiene, buena historia tiene no decía la gente, sino que la gente siguieron no más con sus malos pensamientos
+\mm Conversación_CH_20112012.wav 1288.560 1295.840
+
+\ref 284
+\ELANParticipant CH
+\ELANBegin 1295.840
+\ELANEnd 1302.120
+\tx si       po   Noe    ta  feyentungelay               despues  dew      cerralu        chi
+\mb si       po   Noe    ta  feyentu -nge -la   -y       despues  dew      cerra  -lu     chi
+\ge si       pues Noe    DET creer   -PAS -NEG1 -IND.[3] despues  ya       cerrar -advr.1 DEM2
+\ps adverbio part nombre det verbo   -per -neg  -per     adverbio adverbio verbo  -advr   dem
+
+\tx puerta Noe    piyawtuyngün
+\mb puerta Noe    pi    -yaw -tu    -y       -ngün
+\ge puerta Noe    decir -AND -APPL3 -IND.[3] -3.PL
+\ps nombre nombre verbo -dir -per   -per     -per
+
+\ft si po a Noe tampoco le creyeron, después de que se cerró la puerta Noe andaban diciendo
+\mm Conversación_CH_20112012.wav 1295.840 1302.120
+
+\ref 285
+\ELANParticipant CH
+\ELANBegin 1302.120
+\ELANEnd 1306.440
+\tx femngechi aprenden          kimün
+\mb femngechi aprende  -n       kim   -*ü -n
+\ge así      aprender -IND.1SG saber -*** -IND.1SG
+\ps adverbio  verbo    -per     verbo -*** -per
+
+\ft así, aprendí, supe
+\mm Conversación_CH_20112012.wav 1302.120 1306.440
+
+\ref 286
+\ELANParticipant FH
+\ELANBegin 1306.400
+\ELANEnd 1318.240
+\tx Ka   welu pichikalu               eymi müley         awkantun       awar
+\mb ka   welu pichi    -ka    -lu     eymi müle -y       awkantu -n     awar
+\ge y    pero pequeño -CONT  -advr.1 tú  estar -IND.[3] jugar   -NMRZ1 haba
+\ps conj conj adj      -tam-e -advr   pro  verbo -per     verbo   -nmrz  nombre
+
+\tx kuden                 reke
+\mb kude           -n     reke
+\ge apostar, jugar -NMRZ1 COMP
+\ps verbo          -nmrz  ppos
+
+\ft ¿cuando eras niño habían juegos, como el awar kuden?
+\mm Conversación_CH_20112012.wav 1306.400 1318.240
+
+\ref 287
+\ELANParticipant CH
+\ELANBegin 1318.240
+\ELANEnd 1322.120
+\tx mama,  hermana Celinda mama   nütramkakefuy
+\mb mama   hermana Celinda mama   nütramka -ke    -fu    -y
+\ge mamá  hermana Celinda mamá  conversar -HAB   -AP    -IND.[3]
+\ps nombre nombre  nombre  nombre verbo     -tam-e -tam-e -per
+
+\ft mama, hermana Celinda conversaba
+\mm Conversación_CH_20112012.wav 1318.240 1322.120
+
+\ref 288
+\ELANParticipant CH
+\ELANBegin 1322.120
+\ELANEnd 1330.440
+\tx entretencion          pi    ta  wingka,    tañi        rupapunam
+\mb *entretencio -n       pi    ta  wingka     ta  -ñi    rupa   -pun       -a     -m
+\ge ***          -IND.1SG decir DET no.mapuche DET -3.POSS vez    -noche-FUT        -ADVR2
+\ps ***          -per     verbo det nombre     det -pro    nombre -dir  -per -tam-e -advr
+
+\tx engün
+\mb engün
+\ge 3.PL
+\ps per
+
+\ft entretención dice el wingka para pasar la noche
+\mm Conversación_CH_20112012.wav 1322.120 1330.440
+
+\ref 289
+\ELANParticipant CH
+\ELANBegin 1330.440
+\ELANEnd 1337.240
+\tx awar   piam     lupümngekefuy                              kiñe parte  kiñe püle
+\mb awar   piam     lup    -üm   -nge   -ke    -fu    -y       kiñe parte  kiñe püle
+\ge haba   EVID.REP quemar -CAUS2 -COP   -HAB   -AP    -IND.[3] un    parte  un    hacia
+\ps nombre part     verbo  -per   -verbo -tam-e -tam-e -per     art   nombre art   adv
+
+\tx lupümngekefuy,                             kurülekefuy
+\mb lup    -üm     -nge -ke    -fu    -y       kurü    -le    -ke    -fu    -y
+\ge quemar -CAUS2   -PAS -HAB   -AP    -IND.[3] negro    -ESTAT -HAB   -AP    -IND.[3]
+\ps verbo  -per     -per -tam-e -tam-e -per     adjetivo -tam-e -tam-e -tam-e -per
+
+\ft haba decían se quemaba una parte, una parte se quemaba, se dejaba negra
+\mm Conversación_CH_20112012.wav 1330.440 1337.240
+
+\ref 290
+\ELANParticipant CH
+\ELANBegin 1337.240
+\ELANEnd 1341.280
+\tx pero iñche awkantulan,            kimlan,              kimlan               turpu
+\mb pero iñche awkantu -la   -n       kim   -la   -n       kim   -la   -n       turpu
+\ge pero 1SG    jugar   -NEG1 -IND.1SG saber -NEG1 -IND.1SG saber -NEG1 -IND.1SG nunca
+\ps conj pro    verbo   -neg  -per     verbo -neg  -per     verbo -neg  -per     adverbio
+
+\tx iñche
+\mb iñche
+\ge 1SG
+\ps pro
+
+\ft pero yo no jugué, nunca supe eso yo
+\mm Conversación_CH_20112012.wav 1337.240 1341.280
+
+\ref 291
+\ELANParticipant CH
+\ELANBegin 1341.280
+\ELANEnd 1349.400
+\tx awar   kudewulu,                    awarkudewulu                          pikefuy
+\mb awar   kude           -*wu -lu     awar   -kude           -*wu -lu     pi    -ke    -fu    -y
+\ge haba   apostar, jugar -*** -advr.1 haba   -apostar, jugar -*** -advr.1 decir -HAB   -AP    -IND.[3]
+\ps nombre verbo          -*** -advr   nombre -verbo          -*** -advr   verbo -tam-e -tam-e -per
+
+\tx chumngechi femngekelafuy                                engün amfe
+\mb chumngechi fem      -nge   -ke    -la   -fu    -y       engün amfe
+\ge cómo      ser.así -COP   -HAB   -NEG1 -AP    -IND.[3] 3.PL   INT
+\ps pro        verbo    -verbo -tam-e -neg  -tam-e -per     per    part
+
+\ft "awarkudewulu, awarkudewulu" decían, cómo habrá sido el asunto
+\mm Conversación_CH_20112012.wav 1341.280 1349.400
+
+\ref 292
+\ELANParticipant CH
+\ELANBegin 1349.400
+\ELANEnd 1353.480
+\tx awarkudewulu                          awarkudewulu
+\mb awar   -kude           -*wu -lu     awar   -kude           -*wu -lu
+\ge haba   -apostar, jugar -*** -advr.1 haba   -apostar, jugar -*** -advr.1
+\ps nombre -verbo          -*** -advr   nombre -verbo          -*** -advr
+
+\tx pipingekerkefuy                                  fey
+\mb pi    -pi    -nge -ke    -rke   -fu    -y       fey
+\ge decir -decir -PAS -HAB   -EVID  -AP    -IND.[3] DEM2
+\ps verbo -verbo -per -tam-e -tam-e -tam-e -per     pro
+
+\ft awarkudewellu awarkudweulu dicen que andaba diciendo la gente entonces
+\mm Conversación_CH_20112012.wav 1349.400 1353.480
+
+\ref 293
+\ELANParticipant CH
+\ELANBegin 1353.480
+\ELANEnd 1360.960
+\tx feychi     awar   piam     kisu     chiwudkefuy
+\mb fey  -chi  awar   piam     kisu     chiwud     -ke    -fu    -y
+\ge DEM2 -adjr haba   EVID.REP solo     dar.vuelta -HAB   -AP    -IND.[3]
+\ps pro  -***  nombre part     adverbio verbo      -tam-e -tam-e -per
+
+\tx pingerkefuy                       tañi        kurüngelu              kangelu             ta
+\mb pi    -nge -rke   -fu    -y       ta  -ñi    kurü    -nge   -lu     ka   -nge   -lu     ta
+\ge decir -PAS -EVID  -AP    -IND.[3] DET -3.POSS negro    -COP   -advr.1 y    -COP   -advr.1 DET
+\ps verbo -per -tam-e -tam-e -per     det -pro    adjetivo -verbo -advr   conj -verbo -advr   det
+
+\tx fülangkülekefuy
+\mb fülang  -küle -ke    -fu    -y
+\ge blanco   -ESTAT -HAB   -AP    -IND.[3]
+\ps adjetivo -tam-e -tam-e -tam-e -per
+
+\ft entonces dicen que las habas giraban dicen que se decía "cuando es negro y el otro está blanco"
+\mm Conversación_CH_20112012.wav 1353.480 1360.960
+
+\ref 294
+\ELANParticipant CH
+\ELANBegin 1360.960
+\ELANEnd 1363.000
+\tx chuwi ta wew pilen engün fey ta kimlan
+\ft no sé quien era el que ganaba
+\mm Conversación_CH_20112012.wav 1360.960 1363.000
+
+\ref 295
+\ELANParticipant FH
+\ELANBegin 1363.000
+\ELANEnd 1364.320
+\tx
+\ft
+\mm Conversación_CH_20112012.wav 1363.000 1364.320
+
+\ref 296
+\ELANParticipant CH
+\ELANBegin 1364.240
+\ELANEnd 1367.760
+\tx fey  Chichay kimniepelafuy                             fey
+\mb fey  chichay kim   -nie   -pe    -la   -fu    -y       fey
+\ge DEM2 chichay saber -PERF  -CERT  -NEG1 -AP    -IND.[3] DEM2
+\ps pro  nombre  verbo -tam-e -tam-e -neg  -tam-e -per     pro
+
+\ft ese Chichay debe saber
+\mm Conversación_CH_20112012.wav 1364.240 1367.760
+
+\ref 297
+\ELANParticipant CH
+\ELANBegin 1367.760
+\ELANEnd 1369.680
+\tx kiñe antü  nütramkameafiyu
+\mb kiñe antü  nütramka -me   -a     -fi   -yu
+\ge un    día   conversar -DIR3 -FUT   -3.OP -IND.1DU
+\ps art   nombre verbo     -dir  -tam-e -per  -per
+
+\ft un día le iremos a conversar los dos
+\mm Conversación_CH_20112012.wav 1367.760 1369.680
+
+\ref 298
+\ELANParticipant CH
+\ELANBegin 1369.680
+\ELANEnd 1372.080
+\tx fey  ta  kimi           ta  ti
+\mb fey  ta  kim   -i       ta  ti
+\ge DEM2 DET saber -IND.[3] DET DET2
+\ps pro  det verbo -per     det det
+
+\ft ese sabe
+\mm Conversación_CH_20112012.wav 1369.680 1372.080
+
+\ref 299
+\ELANParticipant CH
+\ELANBegin 1372.080
+\ELANEnd 1376.240
+\tx welu newe     allküwelay                    newe     adumtukelay
+\mb welu newe     allkü   -we    -la   -y       newe     adum    -tu    -ke    -la   -y
+\ge pero poco     escuchar -INC   -NEG1 -IND.[3] poco     manejar -APPL3 -HAB   -NEG1 -IND.[3]
+\ps conj adverbio verbo    -tam-E -neg  -per     adverbio verbo   -per   -tam-e -neg  -per
+
+\tx cuando ramtungey
+\mb cuando ramtu     -nge -y
+\ge cuando preguntar -PAS -IND.[3]
+\ps sub    verbo     -per -per
+
+\ft pero ya no escucha, ya no entiende cuando se le pregunta
+\mm Conversación_CH_20112012.wav 1372.080 1376.240
+
+\ref 300
+\ELANParticipant CH
+\ELANBegin 1376.240
+\ELANEnd 1379.640
+\tx ese problema no más tiene
+\ft ese problema no más tiene
+\mm Conversación_CH_20112012.wav 1376.240 1379.640
+
+\ref 301
+\ELANParticipant FH
+\ELANBegin 1379.600
+\ELANEnd 1383.320
+\tx
+\ft
+\mm Conversación_CH_20112012.wav 1379.600 1383.320
+
+\ref 302
+\ELANParticipant CH
+\ELANBegin 1383.280
+\ELANEnd 1385.520
+\tx a propósito kutranküley ka
+\ft a propósito está enfermo
+\mm Conversación_CH_20112012.wav 1383.280 1385.520
+
+\ref 303
+\ELANParticipant CH
+\ELANBegin 1385.520
+\ELANEnd 1393.320
+\tx may      niey           kiñe fotüm                       müley         pital    mew
+\mb may      nie   -y       kiñe fotüm                       müle -y       pital    mew
+\ge si       tener -IND.[3] un    hijo hombre de ego masculino estar -IND.[3] hospital PPOS
+\ps adverbio verbo -per     art   nombre                       verbo -per     nombre   ppos
+
+\tx katruñmangey               kiñe changall namun
+\mb katru  -ñma  -nge -y       kiñe changall namun
+\ge cortar -APPL1 -PAS -IND.[3] un    dedo     pie
+\ps verbo  -per   -per -per     art   nombre   nombre
+
+\ft si, tiene un hijo en el hospital, le cortaron un dedo del pie
+\mm Conversación_CH_20112012.wav 1385.520 1393.320
+
+\ref 304
+\ELANParticipant FH
+\ELANBegin 1393.280
+\ELANEnd 1394.600
+\tx chumley               tüfa mew?
+\mb chum  -le    -y       tüfa mew
+\ge cómo -ESTAT -IND.[3] DEM1  PPOS
+\ps pro   -tam-e -per     pro   ppos
+
+\ft ¿cómo está ahora?
+\mm Conversación_CH_20112012.wav 1393.280 1394.600
+
+\ref 305
+\ELANParticipant CH
+\ELANBegin 1394.560
+\ELANEnd 1395.840
+\tx kümelkaletuy                               pichiñ
+\mb küme    -l     -ka    -le    -tu  -y       pichiñ
+\ge bien     -APPL3 -CONT  -ESTAT -RE  -IND.[3] poco
+\ps adverbio -per   -tam-e -tam-e -dir -per     adverbio
+
+\ft Ya se recuperó un poco
+\mm Conversación_CH_20112012.wav 1394.560 1395.840
+
+\ref 306
+\ELANParticipant FH
+\ELANBegin 1395.800
+\ELANEnd 1400.080
+\tx welu müley         pital    mew  kam  müley         ruka   mew?
+\mb welu müle -y       pital    mew  kam  müle -y       ruka   mew
+\ge pero estar -IND.[3] hospital PPOS o    estar -IND.[3] casa   PPOS
+\ps conj verbo -per     nombre   ppos conj verbo -per     nombre ppos
+
+\ft ¿pero está en el hospital o en su casa?
+\mm Conversación_CH_20112012.wav 1395.800 1400.080
+
+\ref 307
+\ELANParticipant CH
+\ELANBegin 1400.040
+\ELANEnd 1401.600
+\tx no       pital    mülepuy             Temuco
+\mb no       pital    müle -pu   -y       Temuco
+\ge NEG2     hospital estar -DIR2 -IND.[3] Temuco
+\ps adverbio nombre   verbo -dir  -per     nombre
+
+\ft no, en el hospital allá en Temuco
+\mm Conversación_CH_20112012.wav 1400.040 1401.600
+
+\ref 308
+\ELANParticipant CH
+\ELANBegin 1401.600
+\ELANEnd 1405.520
+\tx wiya                      pemefin                    ta  tio         Chichay,
+\mb *   -w    -i       -ya    pe    -me   -fi   -n       ta  ti   -o    chichay
+\ge *** -REFL -IND.[3] -FUT   ver   -DIR3 -3.OP -IND.1SG DET DET2 -o    chichay
+\ps *** -per  -per     -tam-e verbo -dir  -per  -per     det det  -conj nombre
+
+\tx ngümakonküley
+\mb ngüma -kon    -küle -y
+\ge llorar -entrar -ESTAT -IND.[3]
+\ps verbo  -verbo  -tam-e -per
+
+\ft ayer fui a ver al tío Chichay, está muy triste
+\mm Conversación_CH_20112012.wav 1401.600 1405.520
+
+\ref 309
+\ELANParticipant CH
+\ELANBegin 1405.520
+\ELANEnd 1409.960
+\tx fentepuy                ta  nütram    matetupelay                        engün ta ti
+\mb fente    -pu   -y       ta  nütram    mate   -tu   -pe    -la   -y       engün ta ti
+\ge así     -DIR2 -IND.[3] DET historia   mate   -VERB -CERT  -NEG1 -IND.[3] 3.PL   DETDET2
+\ps adverbio -dir  -per     det sustantivo nombre -der  -tam-e -neg  -per     per    detdet
+
+\ft se acabó nuestro nütram parece, no tomaremos mate
+\mm Conversación_CH_20112012.wav 1405.520 1409.960
+
+
+\ELANMediaURL file:///Users/FelipeHasler/Dropbox/Trabajo de campo_21052013/trabajo de campo noviembre 2012_110mins/Conversación_CH_20112012.wav
+\ELANMediaMIME audio/x-wav
+
+\id chum
+\ref
+\tx
+\ft
+\nt
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx    
+\mb    
+\ge    
+\ps    
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ELANMediaURL
+\ELANMediaMIME
+
+\id la
+\ref
+\tx
+\ft
+\nt
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx    
+\mb    
+\ge    
+\ps    
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ELANMediaURL
+\ELANMediaMIME
+
+\id matita
+\ref
+\tx
+\ft
+\nt
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx    
+\mb    
+\ge    
+\ps    
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx   
+\mb   
+\ge   
+\ps   
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx
+\mb
+\ge
+\ps
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx  
+\mb  
+\ge  
+\ps  
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ref
+\ref
+\tx
+\ft
+\ELANMediaURL
+\ELANMediaMIME

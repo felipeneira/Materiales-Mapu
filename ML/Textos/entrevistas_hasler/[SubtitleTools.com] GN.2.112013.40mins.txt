@@ -1,0 +1,6786 @@
+﻿\_sh v3.0  400  Text
+
+\id
+\ref
+\tx
+\ft
+\nt 
+
+
+\ref 001
+\ELANParticipant GN
+\ELANBegin 00:00:00.720
+\ELANEnd 00:00:03.800
+\tx lamngen iñche
+\mb lamngen iñche
+\ge hermano 1SG
+\ps nombre  pro
+
+\tx kimün
+\mb kim     -ün
+\ge saber   -IND.1SG
+\ps verbo   -per
+
+\ft hermano yo sé
+\mm LamngenGraciela 2.wav 0.720 3.800
+
+\ref 002
+\ELANParticipant GN
+\ELANBegin 00:00:03.800
+\ELANEnd 00:00:09.040
+\tx ñi      chaw
+\mb ñi      chaw
+\ge 1SG.POSS padre
+\ps pro      nombre
+
+\tx mapudungukefuy                           ñi
+\mb mapudungu         -ke    -fu    -y       ñi
+\ge hablar mapudungun -HAB   -AP    -IND.[3] 1SG.POSS
+\ps verbo             -tam-e -tam-e -per     pro
+
+\tx ñuke  ñi      kuku           iney   rume
+\mb ñuke  ñi      kuku           iney   rume
+\ge madre  1SG.POSS abuela.paterna quién siquiera
+\ps nombre pro      nombre         pro    adverbio
+
+\tx wingkadungukelafuy
+\mb wingkadungu     -ke    -la   -fu    -y
+\ge hablar.español -HAB   -NEG1 -AP    -IND.[3]
+\ps verbo           -tam-e -neg  -tam-e -per
+
+\ft mi papá hablaba mapudungun, mi mamá, mi abuela paterna nadie hablaba español
+\mm LamngenGraciela 2.wav 3.800 9.040
+
+\ref 003
+\ELANParticipant GN
+\ELANBegin 00:00:09.040
+\ELANEnd 00:00:11.480
+\tx ñi      chaw   feypikefuy
+\mb ñi      chaw   fey  -pi    -ke    -fu    -y
+\ge 1SG.POSS padre  DEM2 -decir -HAB   -AP    -IND.[3]
+\ps pro      nombre pro  -verbo -tam-e -tam-e -per
+
+\ft mi papá decía
+\mm LamngenGraciela 2.wav 9.040 11.480
+
+\ref 004
+\ELANParticipant GN
+\ELANBegin 00:00:11.480
+\ELANEnd 00:00:15.600
+\tx wingka     kimün       wingka
+\mb wingka     kim   -ün   wingka
+\ge no.mapuche saber -NMRZ1 no.mapuche
+\ps nombre     verbo -nmrz  nombre
+
+\tx dungun        ta  rume     falilay
+\mb dungu  -n     ta  rume     fali  -la   -y
+\ge asunto -NMRZ1 DET siquiera valer -NEG1 -IND.[3]
+\ps nombre -nmrz  det adverbio verbo -neg  -per
+
+\ft el conocimiento wingka, el español no vale nada
+\mm LamngenGraciela 2.wav 11.480 15.600
+
+\ref 005
+\ELANParticipant GN
+\ELANBegin 00:00:15.600
+\ELANEnd 00:00:21.040
+\tx wüne    kimaymün             ta  mapudungun
+\mb wüne    kim   -a     -ymün   ta  mapudungun
+\ge primero  saber -FUT   -IND.2PL DET mapudungun
+\ps adjetivo verbo -tam-e -per     det nombre
+
+\tx rume     ngüneaymün            ta
+\mb rume     ngüne  -a     -ymün   ta
+\ge mucho    manejar -FUT   -IND.2PL DET
+\ps adverbio verbo   -tam-e -per     det
+
+\tx mapudungun fey  wula     ta
+\mb mapudungun fey  wula     ta
+\ge mapudungun DEM2 después DET
+\ps nombre     pro  adverbio det
+
+\tx amuaymün
+\mb amu   -a     -ymün
+\ge ir    -FUT   -IND.2PL
+\ps verbo -tam-e -per
+
+\ft primero aprenderan a hablar mapudungun, dominarán bien el mapudungun, después irán
+\mm LamngenGraciela 2.wav 15.600 21.040
+
+\ref 006
+\ELANParticipant GN
+\ELANBegin 00:00:21.040
+\ELANEnd 00:00:24.720
+\tx chillkatuael            ta  wingka
+\mb chillkatu -a     -el    ta  wingka
+\ge estudiar  -FUT   -NMRZ2 DET no.mapuche
+\ps verbo     -tam-e -nmzr  det nombre
+
+\tx chillka mew
+\mb chillka mew
+\ge estudio PPOS
+\ps nombre  ppos
+
+\tx pingekefuiñ
+\mb pi    -nge -ke    -fu    -iñ
+\ge decir -PAS -HAB   -AP    -IND.1PL
+\ps verbo -per -tam-e -tam-e -per
+
+\ft a estudiar a la escuela, nos decían
+\mm LamngenGraciela 2.wav 21.040 24.720
+
+\ref 007
+\ELANParticipant GN
+\ELANBegin 00:00:24.720
+\ELANEnd 00:00:27.320
+\tx fey  may      ta  iñchiñ re
+\mb fey  may      ta  iñchiñ re
+\ge DEM2 si       DET nosotros solo
+\ps pro  adverbio det pro      adverbio
+
+\tx mapudungukefuiñ
+\mb mapudungu         -ke    -fu    -iñ
+\ge hablar mapudungun -HAB   -AP    -IND.1PL
+\ps verbo             -tam-e -tam-e -per
+
+\ft entonces nosotros hablabamos puro mapudungun
+\mm LamngenGraciela 2.wav 24.720 27.320
+
+\ref 008
+\ELANParticipant GN
+\ELANBegin 00:00:27.320
+\ELANEnd 00:00:36.640
+\tx chumngechi lladküiñ       ngümaiñ
+\mb chumngechi lladkü -iñ     ngüma -iñ
+\ge cómo      enojar  -IND.1PL llorar -IND.1PL
+\ps pro        verbo   -per     verbo  -per
+
+\tx re       mapudungun mew
+\mb re       mapudungun mew
+\ge solo     mapudungun PPOS
+\ps adverbio nombre     ppos
+
+\tx entukefuy                    lladkün
+\mb entu  -ke    -fu    -y       lladkü -n
+\ge sacar -HAB   -AP    -IND.[3] enojar  -NMRZ1
+\ps verbo -tam-e -tam-e -per     verbo   -nmrz
+
+\ft cuando nos enojabamos o estabamos tristes en mapudungun sacabamos el enojo
+\mm LamngenGraciela 2.wav 27.320 36.640
+
+\ref 009
+\ELANParticipant GN
+\ELANBegin 00:00:36.640
+\ELANEnd 00:00:42.520
+\tx entukefuiñ                  pinoel
+\mb entu  -ke    -fu    -iñ     pi    -no       -el
+\ge sacar -HAB   -AP    -IND.1PL decir -NEG2     -NMRZ2
+\ps verbo -tam-e -tam-e -per     verbo -adverbio -nmzr
+
+\tx amunge         pingekefuiñ
+\mb amu   -nge     pi    -nge -ke    -fu    -iñ
+\ge ir    -IMP.2SG decir -PAS -HAB   -AP    -IND.1PL
+\ps verbo -mod     verbo -per -tam-e -tam-e -per
+
+\ft sacabamos el no querer cuando nos decían vayan
+\mm LamngenGraciela 2.wav 36.640 42.520
+
+\ref 010
+\ELANParticipant GN
+\ELANBegin 00:00:42.520
+\ELANEnd 00:00:46.360
+\tx kulliñ mew  küpanolu                iñchiñ re
+\mb kulliñ mew  küpa -no       -lu     iñchiñ re
+\ge animal  PPOS venir -NEG2     -advr.1 nosotros solo
+\ps nombre  ppos verbo -adverbio -advr   pro      adverbio
+
+\tx mapudungun müten
+\mb mapudungun müten
+\ge mapudungun no.más
+\ps nombre     adverbio
+
+\ft cuando los animales no venían, solo en mapudungun
+\mm LamngenGraciela 2.wav 42.520 46.360
+
+\ref 011
+\ELANParticipant GN
+\ELANBegin 00:00:46.360
+\ELANEnd 00:00:47.840
+\tx feymew   ta  kimiñ
+\mb feymew   ta  kim   -iñ
+\ge entonces DET saber -IND.1PL
+\ps conj     det verbo -per
+
+\ft por eso sabemos
+\mm LamngenGraciela 2.wav 46.360 47.840
+
+\ref 012
+\ELANParticipant GN
+\ELANBegin 00:00:47.840
+\ELANEnd 00:00:51.160
+\tx allkütuleiñ                   chumngechi ñi
+\mb allkü   -tu    -le    -iñ     chumngechi ñi
+\ge escuchar -APPL3 -PROG  -IND.1PL cómo      3.POSS
+\ps verbo    -per   -tam-e -per     pro        pro
+
+\tx dunguken             ñi      kuku           em
+\mb dungu  -ke    -n     ñi      kuku           em
+\ge asunto -HAB   -NMRZ1 1SG.POSS abuela.paterna finado
+\ps nombre -tam-e -nmrz  pro      nombre         interj
+
+\ft escuchabamos como hablaba mi abuela paterna
+\mm LamngenGraciela 2.wav 47.840 51.160
+
+\ref 013
+\ELANParticipant GN
+\ELANBegin 00:00:51.160
+\ELANEnd 00:00:53.800
+\tx ñi      chaw   em     ñi      ñuke  em
+\mb ñi      chaw   em     ñi      ñuke  em
+\ge 1SG.POSS padre  finado 1SG.POSS madre  finado
+\ps pro      nombre interj pro      nombre interj
+
+\tx kom
+\mb kom
+\ge todo
+\ps adverbio
+
+\ft mi papá, mi mamá, todos
+\mm LamngenGraciela 2.wav 51.160 53.800
+
+\ref 014
+\ELANParticipant GN
+\ELANBegin 00:00:53.800
+\ELANEnd 00:00:57.200
+\tx welu awe tukungelaiñ ti wingka chillkatuwe mew
+\ft xxxxx
+\mm LamngenGraciela 2.wav 53.800 57.200
+
+\ref 015
+\ELANParticipant GN
+\ELANBegin 00:00:57.200
+\ELANEnd 00:00:59.440
+\tx rume     fali  tañi        kimün
+\mb rume     fali  ta  -ñi    kim     -ün
+\ge mucho    valer DET -3.POSS saber   -NMRZ1
+\ps adverbio verbo det -pro    verbo   -nmrz
+
+\ft mucho vale su conocimiento
+\mm LamngenGraciela 2.wav 57.200 59.440
+
+\ref 016
+\ELANParticipant GN
+\ELANBegin 00:00:59.440
+\ELANEnd 00:01:02.320
+\tx küme    mapudunguaymün                   fey
+\mb küme    mapudungu         -a     -ymün   fey
+\ge bien     hablar mapudungun -FUT   -IND.2PL DEM2
+\ps adverbio verbo             -tam-e -per     pro
+
+\tx wula     amuaymün
+\mb wula     amu   -a     -ymün
+\ge después ir    -FUT   -IND.2PL
+\ps adverbio verbo -tam-e -per
+
+\tx pingekefuiñ
+\mb pi    -nge -ke    -fu    -iñ
+\ge decir -PAS -HAB   -AP    -IND.1PL
+\ps verbo -per -tam-e -tam-e -per
+
+\ft hablaras bien mapudungun y después irás nos decían
+\mm LamngenGraciela 2.wav 59.440 62.320
+
+\ref 017
+\ELANParticipant GN
+\ELANBegin 00:01:02.360
+\ELANEnd 00:01:04.800
+\tx feleiñ,          feymew   peno
+\mb fele     -iñ     feymew   peno
+\ge ser así -IND.1PL entonces DUB
+\ps verbo    -per     conj     part
+
+\tx ngoymalan              turpu
+\mb ngoyma  -la   -n       turpu
+\ge olvidar -NEG1 -IND.1SG nunca
+\ps verbo   -neg  -per     adverbio
+
+\ft así lo hicimos cierto?, no me olvidé nunca
+\mm LamngenGraciela 2.wav 62.360 64.800
+
+\ref 018
+\ELANParticipant GN
+\ELANBegin 00:01:04.800
+\ELANEnd 00:01:07.360
+\tx iñche may      tukungen
+\mb iñche may      tuku  -nge -n
+\ge 1SG    si       poner -PAS -IND.1SG
+\ps pro    adverbio tam-e -per -per
+
+\tx kimün
+\mb kim     -ün
+\ge saber   -NMRZ1
+\ps verbo   -nmrz
+
+\ft a mi me pusieron conocimiento
+\mm LamngenGraciela 2.wav 64.800 67.360
+
+\ref 019
+\ELANParticipant GN
+\ELANBegin 00:01:07.360
+\ELANEnd 00:01:10.640
+\tx feymew   ta  yentukunufin
+\mb feymew   ta  ye     -n-tu-kunu-fi-n
+\ge entonces DET llevar -NMRZ1-APPL3      -PRPS  -3.OP -IND.1SG
+\ps conj     det verbo  -nmrz-per-tam-e-per-per
+
+\tx ngoymakerkelay                       ta  chem
+\mb ngoyma  -ke    -rke   -la   -y       ta  chem
+\ge olvidar -HAB   -EVID  -NEG1 -IND.[3] DET qué
+\ps verbo   -tam-e -tam-e -neg  -per     det pro
+
+\ft entonces yo lo llevó, dicen que nunca se olvida
+\mm LamngenGraciela 2.wav 67.360 70.640
+
+\ref 020
+\ELANParticipant GN
+\ELANBegin 00:01:10.640
+\ELANEnd 00:01:12.760
+\tx welu müley         ñi
+\mb welu müle -y       ñi
+\ge pero estar -IND.[3] 3.POSS
+\ps conj verbo -per     pro
+
+\tx dunguleael
+\mb dungu  -le    -a     -el
+\ge asunto -PROG  -FUT   -NMRZ2
+\ps nombre -tam-e -tam-e -nmzr
+
+\ft pero hay que hablar también
+\mm LamngenGraciela 2.wav 70.640 72.760
+
+\ref 021
+\ELANParticipant GN
+\ELANBegin 00:01:12.760
+\ELANEnd 00:01:15.720
+\tx dungunofuli                          fey  ta
+\mb dungu  -no       -fu    -l     -i   fey  ta
+\ge asunto -NEG2     -AP    -APPL3 -1SG DEM2 DET
+\ps nombre -adverbio -tam-e -per   -per pro  det
+
+\tx ngoymanieafun
+\mb ngoyma  -nie   -a     -fu    -n
+\ge olvidar -PERF  -FUT   -AP    -IND.1SG
+\ps verbo   -tam-e -tam-e -tam-e -per
+
+\ft si no lo hablara, entonces se me olvidaría
+\mm LamngenGraciela 2.wav 72.760 75.720
+
+\ref 022
+\ELANParticipant GN
+\ELANBegin 00:01:15.720
+\ELANEnd 00:01:18.760
+\tx feymew   llemay
+\mb feymew   llemay
+\ge entonces pues
+\ps conj     part
+
+\tx epu     koñi  wentru nien
+\mb epu     koñi  wentru nie   -n
+\ge dos     hijo   hombre tener -IND.1SG
+\ps número nombre nombre verbo -per
+
+\ft entonces pues, yo tengo dos hijos hombres
+\mm LamngenGraciela 2.wav 75.720 78.760
+
+\ref 023
+\ELANParticipant GN
+\ELANBegin 00:01:18.760
+\ELANEnd 00:01:21.560
+\tx ñi      epu     püñeñ               re       mapuche
+\mb ñi      epu     püñeñ               re       mapuche
+\ge 1SG.POSS dos     hijo (de ego femenino) solo     mapuche
+\ps pro      número nombre                 adverbio nombre
+
+\tx üy    niey
+\mb üy    nie   -y
+\ge nombre tener -IND.[3]
+\ps nombre verbo -per
+
+\ft mis dos hijos tienen solo nombres mapuches
+\mm LamngenGraciela 2.wav 78.760 81.560
+
+\ref 024
+\ELANParticipant GN
+\ELANBegin 00:01:21.560
+\ELANEnd 00:01:25.680
+\tx kiñe Wentelaf Rupayan
+\mb kiñe wentelaf rupayan
+\ge un    Wentelaf Rupayan
+\ps art   nombre   nombre
+
+\tx pingey              we
+\mb pi    -nge -y       we
+\ge decir -PAS -IND.[3] recien
+\ps verbo -per -per     adverbio
+
+\tx dungupen               ingeniero
+\mb dungu  -pe    -n       ingeniero
+\ge asunto -REC   -IND.1SG ingeniero
+\ps nombre -tam-e -per     nombre
+
+\ft uno se llama Wentelaf Rupayan, recien dije que es ingeniero
+\mm LamngenGraciela 2.wav 81.560 85.680
+
+\ref 025
+\ELANParticipant GN
+\ELANBegin 00:01:25.680
+\ELANEnd 00:01:28.520
+\tx kangelu             fey  Chewkalen
+\mb ka   -nge   -lu     fey  chewkalen
+\ge y    -COP   -advr.1 DEM2 Chewkalen
+\ps conj -verbo -advr   pro  nombre
+
+\tx Antillanca
+\mb Antillanca
+\ge Antillanca
+\ps nombre
+
+\ft el otro se llama Chewkelen Antillanca
+\mm LamngenGraciela 2.wav 85.680 88.520
+
+\ref 026
+\ELANParticipant GN
+\ELANBegin 00:01:28.520
+\ELANEnd 00:01:31.400
+\tx kisu     ñi    üy    nielu         kay  iñchiñ
+\mb kisu     ñi    üy    nie   -lu     kay  iñchiñ
+\ge solo     3.POSS nombre tener -advr.1 y    nosotros
+\ps adverbio pro    nombre verbo -advr   conj pro
+
+\tx lamngen
+\mb lamngen
+\ge hermano
+\ps nombre
+
+\ft porque nosotros tenemos nuestros propios nombres lamngen
+\mm LamngenGraciela 2.wav 88.520 91.400
+
+\ref 027
+\ELANParticipant GN
+\ELANBegin 00:01:31.400
+\ELANEnd 00:01:33.920
+\tx aretuüykiyawpeafun
+\mb aretu          -üy    -kiyaw -pe    -a     -fu    -n
+\ge pedir prestado -nombre -AND   -CERT  -FUT   -AP    -IND.1SG
+\ps verbo          -nombre -dir   -tam-e -tam-e -tam-e -per
+
+\tx kay
+\mb kay
+\ge y
+\ps conj
+
+\ft para que vamos a andar pidiendo prestado
+\mm LamngenGraciela 2.wav 91.400 93.920
+
+\ref 028
+\ELANParticipant GN
+\ELANBegin 00:01:33.920
+\ELANEnd 00:01:37.960
+\tx kisu     niey           üy    pu  wentru pu
+\mb kisu     nie   -y       üy    pu  wentru pu
+\ge solo     tener -IND.[3] nombre COL hombre COL
+\ps adverbio verbo -per     nombre det nombre det
+
+\tx püñeñ               kisu     niey           üy
+\mb püñeñ               kisu     nie   -y       üy
+\ge hijo (de ego femenino) solo     tener -IND.[3] nombre
+\ps nombre                 adverbio verbo -per     nombre
+
+\ft ellos tienen nombres, mis hijos tienen sus propios nombres
+\mm LamngenGraciela 2.wav 93.920 97.960
+
+\ref 029
+\ELANParticipant GN
+\ELANBegin 00:01:37.960
+\ELANEnd 00:01:41.200
+\tx pu  pichike
+\mb pu  pichi    -ke
+\ge COL pequeño -DIST
+\ps det adj      -det
+
+\tx malen            ka
+\mb malen            ka
+\ge niña (afectivo) y
+\ps nombre           conj
+
+\tx müley         üy
+\mb müle -y       üy
+\ge estar -IND.[3] nombre
+\ps verbo -per     nombre
+
+\ft las niñitas también tienen nombre
+\mm LamngenGraciela 2.wav 97.960 101.200
+
+\ref 030
+\ELANParticipant GN
+\ELANBegin 00:01:41.200
+\ELANEnd 00:01:45.080
+\tx feymew   mapuche üy    niey           ñi
+\mb feymew   mapuche üy    nie   -y       ñi
+\ge entonces mapuche nombre tener -IND.[3] 1SG.POSS
+\ps conj     nombre  nombre verbo -per     pro
+
+\tx epu     püñeñ
+\mb epu     püñeñ
+\ge dos     hijo (de ego femenino)
+\ps número nombre
+
+\ft entonces nombres mapuches tienen mis dos hijos
+\mm LamngenGraciela 2.wav 101.200 105.080
+
+\ref 031
+\ELANParticipant GN
+\ELANBegin 00:01:45.080
+\ELANEnd 00:01:48.440
+\tx ka   ñi      pichi    kuku           mapuche üy
+\mb ka   ñi      pichi    kuku           mapuche üy
+\ge y    1SG.POSS pequeño abuela.paterna mapuche nombre
+\ps conj pro      adj      nombre         nombre  nombre
+
+\tx niey
+\mb nie   -y
+\ge tener -IND.[3]
+\ps verbo -per
+
+\ft y mi nietito también tiene nombre mapuche
+\mm LamngenGraciela 2.wav 105.080 108.440
+
+\ref 032
+\ELANParticipant GN
+\ELANBegin 00:01:48.440
+\ELANEnd 00:01:52.040
+\tx lincoyan pingey
+\mb lincoyan pi    -nge -y
+\ge lincoyan decir -PAS -IND.[3]
+\ps nombre   verbo -per -per
+
+\tx lincoyan wentelaf
+\mb lincoyan wentelaf
+\ge lincoyan Wentelaf
+\ps nombre   nombre
+
+\ft se llama Lincoyan, Lincoyan Wentelaf
+\mm LamngenGraciela 2.wav 108.440 112.040
+
+\ref 033
+\ELANParticipant GN
+\ELANBegin 00:01:52.040
+\ELANEnd 00:01:53.520
+\tx asi    que feymew
+\mb asi    que feymew
+\ge asi    que entonces
+\ps nombre sub conj
+
+\ft así que, entonces
+\mm LamngenGraciela 2.wav 112.040 113.520
+
+\ref 034
+\ELANParticipant FH
+\ELANBegin 00:01:53.480
+\ELANEnd 00:01:58.520
+\tx pewmangen chi
+\mb pewmangen chi
+\ge ojalá    DEM2
+\ps interj    dem
+
+\tx pichi    che    kimmapudunguay
+\mb pichi    che    kim   -mapudungu         -a     -y
+\ge pequeño gente  saber -hablar mapudungun -FUT   -IND.[3]
+\ps adj      nombre verbo -verbo             -tam-e -per
+
+\ft ojalá que el niño sepa hablar mapudungun
+\mm LamngenGraciela 2.wav 113.480 118.520
+
+\ref 035
+\ELANParticipant FH
+\ELANBegin 00:01:58.520
+\ELANEnd 00:02:01.560
+\tx pichikalu
+\mb pichi    -ka    -lu
+\ge pequeño -CONT  -advr.1
+\ps adj      -tam-e -advr
+
+\ft cuando es niño
+\mm LamngenGraciela 2.wav 118.520 121.560
+
+\ref 036
+\ELANParticipant JN
+\ELANBegin 00:02:01.520
+\ELANEnd 00:02:04.840
+\tx chi  pichi    wentru mapudunguy
+\mb chi  pichi    wentru mapudungu         -y
+\ge DEM2 pequeño hombre hablar mapudungun -IND.[3]
+\ps dem  adj      nombre verbo             -per
+
+\ft el niño hablará mapudungun
+\mm LamngenGraciela 2.wav 121.520 124.840
+
+\ref 037
+\ELANParticipant GN
+\ELANBegin 00:02:04.800
+\ELANEnd 00:02:08.200
+\tx mapudunguael                    ka   iñche
+\mb mapudungu         -a     -el    ka   iñche
+\ge hablar mapudungun -FUT   -NMRZ2 y    1SG
+\ps verbo             -tam-e -nmzr  conj pro
+
+\tx chumngechi ñi      kimelngen              ka
+\mb chumngechi ñi      kimel    -nge   -n     ka
+\ge cómo      1SG.POSS enseñar -COP   -NMRZ1 y
+\ps pro        pro      verbo    -verbo -nmrz  conj
+
+\ft para que hable mapudungun como a mi me enseñaron
+\mm LamngenGraciela 2.wav 124.800 128.200
+
+\ref 038
+\ELANParticipant GN
+\ELANBegin 00:02:08.200
+\ELANEnd 00:02:12.520
+\tx re       mapudungun allkülele
+\mb re       mapudungun allkü   -le    -l-e
+\ge solo     mapudungun escuchar -PROG  -CON-3SG
+\ps adverbio nombre     verbo    -tam-e -mod-per
+
+\tx mütay   müten
+\mb mütay   müten
+\ge al rato  no.más
+\ps adverbio adverbio
+
+\tx kimkeyngün
+\mb kim   -ke    -y       -ngün
+\ge saber -HAB   -IND.[3] -3.PL
+\ps verbo -tam-e -per     -per
+
+\ft si escuchan solo mapudungun, rapidamente saben
+\mm LamngenGraciela 2.wav 128.200 132.520
+
+\ref 039
+\ELANParticipant JN
+\ELANBegin 00:02:12.480
+\ELANEnd 00:02:14.160
+\tx müta        müten   kimkey
+\mb müta        müten   kim   -ke    -y
+\ge rápidamente no.más  saber -HAB   -IND.[3]
+\ps adverbio     adverbio verbo -tam-e -per
+
+\tx chi  pichike       che
+\mb chi  pichi    -ke  che
+\ge DEM2 pequeño -DISTgente
+\ps dem  adj      -det nombre
+
+\ft rápidamente saben los niños
+\mm LamngenGraciela 2.wav 132.480 134.160
+
+\ref 040
+\ELANParticipant JN
+\ELANBegin 00:02:14.160
+\ELANEnd 00:02:19.920
+\tx doy      küme    longko niey           ta
+\mb doy      küme    longko nie   -y       ta
+\ge más     bien     cabeza tener -IND.[3] DET
+\ps adverbio adverbio nombre verbo -per     det
+
+\tx pichike        che
+\mb pichi    -ke   che
+\ge pequeño -DIST gente
+\ps adj      -det  nombre
+
+\ft mejor cabeza tienen los niños
+\mm LamngenGraciela 2.wav 134.160 139.920
+
+\ref 041
+\ELANParticipant GN
+\ELANBegin 00:02:19.880
+\ELANEnd 00:02:23.440
+\tx yen-tukuniey
+\mb ye     -n-tuku     -nie   -y
+\ge llevar -NMRZ1poner -PERF  -IND.[3]
+\ps verbo  -nmrz tam-e -tam-e -per
+
+\tx yen-tukuniey                             ñi    longko mew
+\mb ye     -n        -tuku  -nie   -y       ñi    longko mew
+\ge llevar -NMRZ1 do -poner -PERF  -IND.[3] 3.POSS cabeza PPOS
+\ps verbo  -nmrz  rj -tam-e -tam-e -per     pro    nombre ppos
+
+\ft lo van llevando en la cabeza
+\mm LamngenGraciela 2.wav 139.880 143.440
+
+\ref 042
+\ELANParticipant GN
+\ELANBegin 00:02:23.440
+\ELANEnd 00:02:27.720
+\tx fey  pichi    wentru chayi
+\mb fey  pichi    wentru chayi
+\ge DEM2 pequeño hombre hace.un.rato
+\ps pro  adj      nombre adverbio
+
+\tx trafmepeyu                     nga  pichi
+\mb traf     -me   -pe    -yu      nga  pichi
+\ge juntarse -DIR3 -REC   -IND.1DU pues pequeño
+\ps verbo    -dir  -tam-e -per     md   adj
+
+\tx karukatu
+\mb karukatu
+\ge vecino
+\ps nombre
+
+\ft ese niño nos juntamos hace poquito, mi vecinito
+\mm LamngenGraciela 2.wav 143.440 147.720
+
+\ref 043
+\ELANParticipant GN
+\ELANBegin 00:02:27.720
+\ELANEnd 00:02:29.360
+\tx inaful   mülelu
+\mb inaful   müle -lu
+\ge cerca    estar -advr.1
+\ps adverbio verbo -advr
+
+\ft que está cerca
+\mm LamngenGraciela 2.wav 147.720 149.360
+
+\ref 044
+\ELANParticipant GN
+\ELANBegin 00:02:29.360
+\ELANEnd 00:02:32.280
+\tx doy      pichilu          küpakefuy
+\mb doy      pichi    -lu     küpa -ke    -fu    -y
+\ge más     pequeño -advr.1 venir -HAB   -AP    -IND.[3]
+\ps adverbio adj      -advr   verbo -tam-e -tam-e -per
+
+\tx faw      iñche kimelkefin
+\mb faw      iñche kimel    -ke    -fi   -n
+\ge acá     1SG    enseñar -HAB   -3.OP -IND.1SG
+\ps adverbio pro    verbo    -tam-e -per  -per
+
+\ft cuando era más pequeño vino acá para que yo le enseñara
+\mm LamngenGraciela 2.wav 149.360 152.280
+
+\ref 045
+\ELANParticipant GN
+\ELANBegin 00:02:32.280
+\ELANEnd 00:02:35.240
+\tx ülkantun       kimelkefin
+\mb ülkantu -n     kimel    -ke    -fi   -n
+\ge cantar   -NMRZ1 enseñar -HAB   -3.OP -IND.1SG
+\ps verbo    -nmrz  verbo    -tam-e -per  -per
+
+\tx purrun
+\mb purru  -n
+\ge bailar -NMRZ1
+\ps verbo  -nmrz
+
+\ft ülkantun que le enseñara purrum
+\mm LamngenGraciela 2.wav 152.280 155.240
+
+\ref 046
+\ELANParticipant GN
+\ELANBegin 00:02:35.240
+\ELANEnd 00:02:38.640
+\tx kimelkefin                     rakiñ kom
+\mb kimel    -ke    -fi   -n       rakiñ kom
+\ge enseñar -HAB   -3.OP -IND.1SG contar todo
+\ps verbo    -tam-e -per  -per     verbo  adverbio
+
+\tx kimfuy
+\mb kim   -fu    -y
+\ge saber -AP    -IND.[3]
+\ps verbo -tam-e -per
+
+\ft que le enseñara a contar, todo sabía
+\mm LamngenGraciela 2.wav 155.240 158.640
+
+\ref 047
+\ELANParticipant GN
+\ELANBegin 00:02:38.640
+\ELANEnd 00:02:46.600
+\tx fewla    doy      küpafuy
+\mb fewla    doy      küpa -fu    -y
+\ge ahora    más     venir -AP    -IND.[3]
+\ps adverbio adverbio verbo -tam-e -per
+
+\tx küpawelay                  fey  niey
+\mb küpa -we    -la   -y       fey  nie   -y
+\ge venir -INC   -NEG1 -IND.[3] DEM2 tener -IND.[3]
+\ps verbo -tam-E -neg  -per     pro  verbo -per
+
+\tx kiñe kuku           fey  mapuche iñche
+\mb kiñe kuku           fey  mapuche iñche
+\ge un    abuela.paterna DEM2 mapuche 1SG
+\ps art   nombre         pro  nombre  pro
+
+\tx feypikelay
+\mb fey  -pi    -ke    -la   -y
+\ge DEM2 -decir -HAB   -NEG1 -IND.[3]
+\ps pro  -verbo -tam-e -neg  -per
+
+\ft ahora no vino más, tiene una abuela que no se considera mapuche
+\mm LamngenGraciela 2.wav 158.640 166.600
+
+\ref 048
+\ELANParticipant GN
+\ELANBegin 00:02:46.600
+\ELANEnd 00:02:48.760
+\tx mapuche iñche pikepelay
+\mb mapuche iñche pi    -ke    -pe    -la   -y
+\ge mapuche 1SG    decir -HAB   -CERT  -NEG1 -IND.[3]
+\ps nombre  pro    verbo -tam-e -tam-e -neg  -per
+
+\tx fey
+\mb fey
+\ge DEM2
+\ps pro
+
+\ft parece que no dice que es mapuche
+\mm LamngenGraciela 2.wav 166.600 168.760
+
+\ref 049
+\ELANParticipant GN
+\ELANBegin 00:02:48.760
+\ELANEnd 00:02:52.520
+\tx mapudungukelaymi
+\mb mapudungu         -ke    -la   -ymi
+\ge hablar mapudungun -HAB   -NEG1 -IND.2SG
+\ps verbo             -tam-e -neg  -per
+
+\tx ayeñmangeafuymi
+\mb aye    -ñma  -nge -a     -fu    -ymi
+\ge gustar -APPL1 -PAS -FUT   -AP    -IND.2SG
+\ps verbo  -per   -per -tam-e -tam-e -per
+
+\ft no vas a hablar mapudungun, se burlarían de ti
+\mm LamngenGraciela 2.wav 168.760 172.520
+
+\ref 050
+\ELANParticipant GN
+\ELANBegin 00:02:52.520
+\ELANEnd 00:02:56.120
+\tx pienew                   ñi      chuchu
+\mb pi    -e   -n       -ew  ñi      chuchu
+\ge decir -INV -IND.1SG -OBL 1SG.POSS abuela.materna
+\ps verbo -per -per     -per pro      nombre
+
+\tx piy            ka
+\mb pi    -y       ka
+\ge decir -IND.[3] y
+\ps verbo -per     conj
+
+\ft me dijo mi abuela dijo
+\mm LamngenGraciela 2.wav 172.520 176.120
+
+\ref 051
+\ELANParticipant GN
+\ELANBegin 00:02:56.120
+\ELANEnd 00:02:58.560
+\tx chumngelu küpawelaymi
+\mb chumngelu küpa -we    -la   -ymi
+\ge por qué  venir -INC   -NEG1 -IND.2SG
+\ps pro       verbo -tam-E -neg  -per
+
+\tx trafia müley         faw
+\mb trafia müle -y       faw
+\ge anoche estar -IND.[3] acá
+\ps nombre verbo -per     adverbio
+
+\ft ¿Por qué no viniste más? anoche estuvo acá
+\mm LamngenGraciela 2.wav 176.120 178.560
+
+\ref 052
+\ELANParticipant GN
+\ELANBegin 00:02:58.560
+\ELANEnd 00:03:03.320
+\tx witran-tupaenew                          feymew
+\mb witran  -tu    -pa    -e   -n       -ew  feymew
+\ge visitar -APPL3 -DIR.1 -3SG -IND.1SG -OBL entonces
+\ps verbo   -per   -dir   -per -per     -per conj
+
+\tx chumngelu küpawelaymi
+\mb chumngelu küpa -we    -la   -ymi
+\ge por qué  venir -INC   -NEG1 -IND.2SG
+\ps pro       verbo -tam-E -neg  -per
+
+\tx chacha pifin                fey
+\mb chacha pi    -fi   -n       fey
+\ge chacha decir -3.OP -IND.1SG DEM2
+\ps nombre verbo -per  -per     pro
+
+\ft me visitó, entonces por qué no viniste más chacha le dije
+\mm LamngenGraciela 2.wav 178.560 183.320
+
+\ref 053
+\ELANParticipant GN
+\ELANBegin 00:03:03.320
+\ELANEnd 00:03:07.840
+\tx chumngelu am   küme
+\mb chumngelu am   küme
+\ge por qué  INT  bien
+\ps pro       part adverbio
+
+\tx kimpalaymi                  mapudungun küpa
+\mb kim   -pa    -la   -ymi     mapudungun küpa
+\ge saber -DIR.1 -NEG1 -IND.2SG mapudungun querer
+\ps verbo -dir   -neg  -per     nombre     aux
+
+\tx kimwelaymi                  am?
+\mb kim   -we    -la   -ymi     am   
+\ge saber -INC   -NEG1 -IND.2SG INT  
+\ps verbo -tam-E -neg  -per     part 
+
+\ft por qué no llegaste a saber bien mapudungun, ya no quieres saber más?
+\mm LamngenGraciela 2.wav 183.320 187.840
+
+\ref 054
+\ELANParticipant GN
+\ELANBegin 00:03:07.840
+\ELANEnd 00:03:11.000
+\tx müley         kiñe conjunto
+\mb müle -y       kiñe conjunto
+\ge estar -IND.[3] un    conjunto
+\ps verbo -per     art   nombre
+
+\tx purrukeyngün                 folklore
+\mb purru  -ke    -y       -ngün folklore
+\ge bailar -HAB   -IND.[3] -3.PL  folklore
+\ps verbo  -tam-e -per     -per   nombre
+
+\ft Hay un cojunto, bailan folclore
+\mm LamngenGraciela 2.wav 187.840 191.000
+
+\ref 055
+\ELANParticipant GN
+\ELANBegin 00:03:11.000
+\ELANEnd 00:03:13.280
+\tx mapuche purrun        kimimi
+\mb mapuche purru  -n     kim   -imi
+\ge mapuche bailar -NMRZ1 saber -IND.2SG
+\ps nombre  verbo  -nmrz  verbo -per
+
+\tx pifin
+\mb pi    -fi   -n
+\ge decir -3.OP -IND.1SG
+\ps verbo -per  -per
+
+\ft ¿conoces el purrun mapuche? le dije
+\mm LamngenGraciela 2.wav 191.000 193.280
+
+\ref 056
+\ELANParticipant GN
+\ELANBegin 00:03:13.280
+\ELANEnd 00:03:17.480
+\tx no       taiñ        chillkatufe    profesor
+\mb no       ta  -iñ     chillkatu -fe  profesor
+\ge NEG2     DET -IND.1PL estudiar  -AG  profesor
+\ps adverbio det -per     verbo     -der nombre
+
+\tx kimlay               kimfuli
+\mb kim   -la   -y       kim   -fu    -l    -i
+\ge saber -NEG1 -IND.[3] saber -AP    -COND -1SG
+\ps verbo -neg  -per     verbo -tam-e -mod  -per
+
+\ft no, nuestro profesor no sabe, si supiera
+\mm LamngenGraciela 2.wav 193.280 197.480
+
+\ref 057
+\ELANParticipant GN
+\ELANBegin 00:03:17.480
+\ELANEnd 00:03:19.760
+\tx wüne    purruafuy
+\mb wüne    purru  -a     -fu    -y
+\ge primero  bailar -FUT   -AP    -IND.[3]
+\ps adjetivo verbo  -tam-e -tam-e -per
+
+\tx pikefuy
+\mb pi    -ke    -fu    -y
+\ge decir -HAB   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -per
+
+\ft primero purrucaríamos, dijp
+\mm LamngenGraciela 2.wav 197.480 199.760
+
+\ref 058
+\ELANParticipant GN
+\ELANBegin 00:03:19.760
+\ELANEnd 00:03:23.200
+\tx ngelay               chew   ñi
+\mb nge   -la   -y       chew   ñi
+\ge haber -NEG1 -IND.[3] dónde 3.POSS
+\ps verbo -neg  -per     pro    pro
+
+\tx kimael              fey  feymew
+\mb kim   -a     -el    fey  feymew
+\ge saber -FUT   -NMRZ2 DEM2 entonces
+\ps verbo -tam-e -nmzr  pro  conj
+
+\tx kimelngelaiñ                piy
+\mb kimel    -nge -la   -iñ     pi    -y
+\ge enseñar -PAS -NEG1 -IND.1PL decir -IND.[3]
+\ps verbo    -per -neg  -per     verbo -per
+
+\ft no hay donde saber entonces no nos enseñan dijo
+\mm LamngenGraciela 2.wav 199.760 203.200
+
+\ref 059
+\ELANParticipant GN
+\ELANBegin 00:03:23.200
+\ELANEnd 00:03:31.280
+\tx welu kom      pu  purrun
+\mb welu kom      pu  purru  -n
+\ge pero todo     COL bailar -NMRZ1
+\ps conj adverbio det verbo  -nmrz
+
+\tx kimiñ         piy            mapuche purrun
+\mb kim   -iñ     pi    -y       mapuche purru  -n
+\ge saber -IND.1PL decir -IND.[3] mapuche bailar -NMRZ1
+\ps verbo -per     verbo -per     nombre  verbo  -nmrz
+
+\tx wüne    kimafuel                   piy
+\mb wüne    kim   -a     -fu    -el    pi    -y
+\ge primero  saber -FUT   -AP    -NMRZ2 decir -IND.[3]
+\ps adjetivo verbo -tam-e -tam-e -nmzr  verbo -per
+
+\ft pero todos los bailes conocemos, dijo, el purrun mapuche deberíamos saber primero, dijo
+\mm LamngenGraciela 2.wav 203.200 211.280
+
+\ref 060
+\ELANParticipant GN
+\ELANBegin 00:03:31.280
+\ELANEnd 00:03:36.400
+\tx fey  llemay vecina
+\mb fey  llemay vecina
+\ge DEM2 pues   vecina
+\ps pro  part   nombre
+
+\tx pienew                   welu profe  ta
+\mb pi    -e   -n       -ew  welu profe  ta
+\ge decir -INV -IND.1SG -OBL pero profe  DET
+\ps verbo -per -per     -per conj nombre det
+
+\tx kimlay
+\mb kim   -la   -y
+\ge saber -NEG1 -IND.[3]
+\ps verbo -neg  -per
+
+\ft entonces, vecina me dijo, pero el profesor no sabe
+\mm LamngenGraciela 2.wav 211.280 216.400
+
+\ref 061
+\ELANParticipant GN
+\ELANBegin 00:03:36.400
+\ELANEnd 00:03:39.080
+\tx miyawün             ñi    kintun        chew
+\mb miyaw -*ü -n       ñi    kintu  -n     chew
+\ge andar -*** -IND.1SG 3.POSS buscar -NMRZ1 dónde
+\ps verbo -*** -per     pro    verbo  -nmrz  pro
+
+\tx ñi    kimelngeael                 piy
+\mb ñi    kimel    -nge -a     -el    pi    -y
+\ge 3.POSS enseñar -PAS -FUT   -NMRZ2 decir -IND.[3]
+\ps pro    verbo    -per -tam-e -nmzr  verbo -per
+
+\ft ando buscando donde me pueden enseñar dijo
+\mm LamngenGraciela 2.wav 216.400 219.080
+
+\ref 062
+\ELANParticipant GN
+\ELANBegin 00:03:39.080
+\ELANEnd 00:03:43.960
+\tx purrun,       kimle           wula     fewla
+\mb purru  -n     kim   -l-e      wula     fewla
+\ge bailar -NMRZ1 saber -COND-3SG después ahora
+\ps verbo  -nmrz  verbo -mod-per  adverbio adverbio
+
+\tx kimelngealu                  iñchiñ piy
+\mb kimel    -nge -a     -lu     iñchiñ pi    -y
+\ge enseñar -PAS -FUT   -advr.1 nosotros decir -IND.[3]
+\ps verbo    -per -tam-e -advr   pro      verbo -per
+
+\ft si supiera, entonces nos enseñaría a nosotros dijo
+\mm LamngenGraciela 2.wav 219.080 223.960
+
+\ref 063
+\ELANParticipant GN
+\ELANBegin 00:03:43.960
+\ELANEnd 00:03:49.320
+\tx re       wingka
+\mb re       wingka
+\ge solo     no.mapuche
+\ps adverbio nombre
+
+\tx purrunkiyawfuymi                     fey
+\mb purru  -n     -kiyaw -fu    -ymi     fey
+\ge bailar -NMRZ1 -AND   -AP    -IND.2SG DEM2
+\ps verbo  -nmrz  -dir   -tam-e -per     pro
+
+\tx mapuche purrun        ta  kimaymi
+\mb mapuche purru  -n     ta  kim   -a     -ymi
+\ge mapuche bailar -NMRZ1 DET saber -FUT   -IND.2SG
+\ps nombre  verbo  -nmrz  det verbo -tam-e -per
+
+\tx po
+\mb po
+\ge pues
+\ps part
+
+\ft pero andas baiilando solo bailes wignka, tienes que saber bailes mapuches
+\mm LamngenGraciela 2.wav 223.960 229.320
+
+\ref 064
+\ELANParticipant GN
+\ELANBegin 00:03:49.320
+\ELANEnd 00:03:50.320
+\tx mari    mari    piy
+\mb mari    mari    pi    -y
+\ge diez    diez    decir -IND.[3]
+\ps número número verbo -per
+
+\ft mari mari dijo
+\mm LamngenGraciela 2.wav 229.320 230.320
+
+\ref 065
+\ELANParticipant GN
+\ELANBegin 00:03:50.320
+\ELANEnd 00:03:53.680
+\tx mari    mari    piy            epe
+\mb mari    mari    pi    -y       epe
+\ge diez    diez    decir -IND.[3] casi
+\ps número número verbo -per     adverbio
+
+\tx ngoymafun               dungukenolu
+\mb ngoyma  -fu    -n       dungu  -ke-no          -lu
+\ge olvidar -AP    -IND.1SG asunto -HAB-NEG2       -advr.1
+\ps verbo   -tam-e -per     nombre -tam-e-adverbio -advr
+
+\tx am   iñche pienew
+\mb am   iñche pi    -e   -n       -ew
+\ge INT  1SG    decir -INV -IND.1SG -OBL
+\ps part pro    verbo -per -per     -per
+
+\ft mari mari dijo, casi se me olvido como no lo hablo me dijo
+\mm LamngenGraciela 2.wav 230.320 233.680
+
+\ref 066
+\ELANParticipant GN
+\ELANBegin 00:03:53.680
+\ELANEnd 00:03:58.160
+\tx ñi      chuchu         tüfa
+\mb ñi      chuchu         tüfa
+\ge 1SG.POSS abuela.materna DEM1
+\ps pro      nombre         pro
+
+\tx mapudungukelaaymi
+\mb mapudungu         -ke    -la   -a     -ymi
+\ge hablar mapudungun -HAB   -NEG1 -FUT   -IND.2SG
+\ps verbo             -tam-e -neg  -tam-e -per
+
+\ft mi abuela "no vas a hablar mapudungun"
+\mm LamngenGraciela 2.wav 233.680 238.160
+
+\ref 067
+\ELANParticipant GN
+\ELANBegin 00:03:58.160
+\ELANEnd 00:04:00.920
+\tx ayeñmangeafuymi
+\mb aye    -ñma  -nge -a     -fu    -ymi
+\ge gustar -APPL1 -PAS -FUT   -AP    -IND.2SG
+\ps verbo  -per   -per -tam-e -tam-e -per
+
+\tx pikeenew                        piy
+\mb pi    -ke    -e   -n       -ew  pi    -y
+\ge decir -HAB   -INV -IND.1SG -OBL decir -IND.[3]
+\ps verbo -tam-e -per -per     -per verbo -per
+
+\ft se van a burlar de ti me dijo dijo
+\mm LamngenGraciela 2.wav 238.160 240.920
+
+\ref 068
+\ELANParticipant GN
+\ELANBegin 00:04:00.920
+\ELANEnd 00:04:11.680
+\tx welu ñi      ñuke
+\mb welu ñi      ñuke
+\ge pero 1SG.POSS madre
+\ps conj pro      nombre
+
+\tx feypienew
+\mb fey  -pi    -e   -n       -ew
+\ge DEM2 -decir -INV -IND.1SG -OBL
+\ps pro  -verbo -per -per     -per
+
+\tx feypikeaymi                         müten
+\mb fey  -pi    -ke    -a     -ymi     müten
+\ge DEM2 -decir -HAB   -FUT   -IND.2SG no.más
+\ps pro  -verbo -tam-e -tam-e -per     adverbio
+
+\tx mollfün ta  yenieiñ               pu
+\mb mollfün ta  ye     -nie   -iñ     pu
+\ge sangre   DET llevar -PERF  -IND.1PL COL
+\ps nombre   det verbo  -tam-e -per     det
+
+\tx vena   mew
+\mb vena   mew
+\ge vena   PPOS
+\ps nombre ppos
+
+\tx vena   mew  amuy           ta
+\mb vena   mew  amu   -y       ta
+\ge vena   PPOS ir    -IND.[3] DET
+\ps nombre ppos verbo -per     det
+
+\tx mapuche mollfün
+\mb mapuche mollfün
+\ge mapuche sangre
+\ps nombre  nombre
+
+\ft pero mi mamá me dijo "hablarás no màs" llevamos sabre en las venas,  en las venas va sangre mapuche
+\mm LamngenGraciela 2.wav 240.920 251.680
+
+\ref 069
+\ELANParticipant GN
+\ELANBegin 00:04:11.680
+\ELANEnd 00:04:17.760
+\tx müley         tami
+\mb müle -y       ta  -mi
+\ge estar -IND.[3] DET -2SG.POSS
+\ps verbo -per     det -pro
+
+\tx ayiwküleael
+\mb ayi       -w    -küle -a     -el
+\ge alegrarse -REFL -ESTAT -FUT   -NMRZ2
+\ps verbo     -per  -tam-e -tam-e -nmzr
+
+\tx pienew                   ñi      ñuke  piy
+\mb pi    -e   -n       -ew  ñi      ñuke  pi    -y
+\ge decir -INV -IND.1SG -OBL 1SG.POSS madre  decir -IND.[3]
+\ps verbo -per -per     -per pro      nombre verbo -per
+
+\tx welu ñi      chuchu
+\mb welu ñi      chuchu
+\ge pero 1SG.POSS abuela.materna
+\ps conj pro      nombre
+
+\tx feypikelaymi
+\mb fey  -pi    -ke    -la   -ymi
+\ge DEM2 -decir -HAB   -NEG1 -IND.2SG
+\ps pro  -verbo -tam-e -neg  -per
+
+\tx mapudungukelaymi
+\mb mapudungu         -ke    -la   -ymi
+\ge hablar mapudungun -HAB   -NEG1 -IND.2SG
+\ps verbo             -tam-e -neg  -per
+
+\ft tienes que estar contento, me dijo mi mamá, dijo, pero mi abuela "no
+dirás, no hablarás mapudungun"
+\mm LamngenGraciela 2.wav 251.680 257.760
+
+\ref 070
+\ELANParticipant GN
+\ELANBegin 00:04:17.760
+\ELANEnd 00:04:21.960
+\tx yewen      tukuenew                 piy            fey
+\mb yewen      tuku  -e   -n       -ew  pi    -y       fey
+\ge vergüenza poner -INV -IND.1SG -OBL decir -IND.[3] DEM2
+\ps nombre     tam-e -per -per     -per verbo -per     pro
+
+\tx llemay
+\mb llemay
+\ge pues
+\ps part
+
+\ft me avergonzò dijo entonces
+\mm LamngenGraciela 2.wav 257.760 261.960
+
+\ref 071
+\ELANParticipant GN
+\ELANBegin 00:04:21.960
+\ELANEnd 00:04:24.640
+\tx mekey                  ñi      dungu  mütay
+\mb meke          -y       ñi      dungu  mütay
+\ge estar.ocupado -IND.[3] 1SG.POSS asunto al rato
+\ps verbo         -per     pro      nombre adverbio
+
+\tx müten   kimfuy
+\mb müten   kim   -fu    -y
+\ge no.más  saber -AP    -IND.[3]
+\ps adverbio verbo -tam-e -per
+
+\ft se ocupa del asunto, rapidamente aprendió
+\mm LamngenGraciela 2.wav 261.960 264.640
+
+\ref 072
+\ELANParticipant GN
+\ELANBegin 00:04:24.640
+\ELANEnd 00:04:28.160
+\tx ülkantumekey              piam
+\mb ülkantu -meke    -y       piam
+\ge cantar   -PROG.AG -IND.[3] EVID.REP
+\ps verbo    -tam-e   -per     part
+
+\tx Valdivia fey  püle fey
+\mb Valdivia fey  püle fey
+\ge Valdivia DEM2 hacia DEM2
+\ps nombre   pro  adv   pro
+
+\ft dicen que están sacando ülkantun en Valdivia, hacia allá
+\mm LamngenGraciela 2.wav 264.640 268.160
+
+\ref 073
+\ELANParticipant GN
+\ELANBegin 00:04:28.160
+\ELANEnd 00:04:33.720
+\tx ya            ülkantupelayan
+\mb ya            ülkantu -pe    -la   -ya    -n
+\ge ya            cantar   -CERT  -NEG1 -FUT   -IND.1SG
+\ps interjección verbo    -tam-e -neg  -tam-e -per
+
+\tx kullingeli
+\mb kulli -nge   -l    -i
+\ge pagar -COP   -COND -1SG
+\ps verbo -verbo -mod  -per
+
+\tx ülkantuan,
+\mb ülkantu -a     -n
+\ge cantar   -FUT   -IND.1SG
+\ps verbo    -tam-e -per
+
+\tx kullingenoli
+\mb kulli -nge   -no       -l    -i
+\ge pagar -haber -NEG2     -COND -1SG
+\ps verbo -verbo -adverbio -mod  -per
+
+\tx ülkantulayan
+\mb ülkantu -la   -ya    -n
+\ge cantar   -NEG1 -FUT   -IND.1SG
+\ps verbo    -neg  -tam-e -per
+
+\ft ya, parece que vamos a cantar, si me pagan voy a cantar, si no me pagan no voy a cantar
+\mm LamngenGraciela 2.wav 268.160 273.720
+
+\ref 074
+\ELANParticipant GN
+\ELANBegin 00:04:33.720
+\ELANEnd 00:04:39.560
+\tx elungey             plata  piam
+\mb elu   -nge -y       plata  piam
+\ge dar   -PAS -IND.[3] plata  EVID.REP
+\ps verbo -per -per     nombre part
+
+\tx ülkantukefuy
+\mb ülkantu -ke    -fu    -y
+\ge cantar   -HAB   -AP    -IND.[3]
+\ps verbo    -tam-e -tam-e -per
+
+\ft les daban plata, dicen, entonces cantaban
+\mm LamngenGraciela 2.wav 273.720 279.560
+
+\ref 075
+\ELANParticipant GN
+\ELANBegin 00:04:39.560
+\ELANEnd 00:04:45.520
+\tx ...parece que dunguwelay
+\mb parece    que dungu  -we    -la   -y
+\ge parece    que asunto -INC   -NEG1 -IND.[3]
+\ps verbo     sub nombre -tam-E -neg  -per
+
+\tx mapudungun che
+\mb mapudungun che
+\ge mapudungun gente
+\ps nombre     nombre
+
+\ft parece que la gente ya no habla mapudungun la gente
+\mm LamngenGraciela 2.wav 279.560 285.520
+
+\ref 076
+\ELANParticipant GN
+\ELANBegin 00:04:45.520
+\ELANEnd 00:04:50.360
+\tx fey  ti   pichi    wentru
+\mb fey  ti   pichi    wentru
+\ge DEM2 DET2 pequeño hombre
+\ps pro  det  adj      nombre
+
+\tx inayawülngey                             ñi
+\mb ina    -yaw -*ü -l     -nge   -y       ñi
+\ge seguir -AND -*** -APPL3 -COP   -IND.[3] 1SG.POSS
+\ps verbo  -dir -*** -per   -verbo -per     pro
+
+\tx ülkantufengeael
+\mb ülkantu -fe  -nge   -a     -el
+\ge cantar   -AG  -COP   -FUT   -NMRZ2
+\ps verbo    -der -verbo -tam-e -nmzr
+
+\tx pingey              iñche kimelfengen
+\mb pi    -nge -y       iñche kimelfe    -nge   -n
+\ge decir -PAS -IND.[3] 1SG    sustantivo -COP   -NMRZ1
+\ps verbo -per -per     pro    nombre     -verbo -nmrz
+
+\ft ese niño sigue su ser ülkantufe dicen, yo soy profesor
+\mm LamngenGraciela 2.wav 285.520 290.360
+
+\ref 077
+\ELANParticipant GN
+\ELANBegin 00:04:50.360
+\ELANEnd 00:04:53.960
+\tx kimi       müchay   müten...
+\mb kim   -i   müchay   müten
+\ge saber -1SG más.rato no.más
+\ps verbo -per adverbio  adverbio
+
+\ft sabe rápidamente
+\mm LamngenGraciela 2.wav 290.360 293.960
+
+\ref 078
+\ELANParticipant GN
+\ELANBegin 00:04:53.960
+\ELANEnd 00:04:58.600
+\tx fey  ka   kimfuy
+\mb fey  ka   kim   -fu    -y
+\ge DEM2 y    saber -AP    -IND.[3]
+\ps pro  conj verbo -tam-e -per
+
+\tx chalin         kom      mari
+\mb chali   -n     kom      mari
+\ge saludar -NMRZ1 todo     diez
+\ps verbo   -nmrz  adverbio número
+
+\tx mari    rakiñ
+\mb mari    rakiñ
+\ge diez    contar
+\ps número verbo
+
+\ft entocnes sabía saludar, todo, contar
+\mm LamngenGraciela 2.wav 293.960 298.600
+
+\ref 079
+\ELANParticipant GN
+\ELANBegin 00:04:58.600
+\ELANEnd 00:05:01.200
+\tx kom      kimfuy                fewla
+\mb kom      kim   -fu    -y       fewla
+\ge todo     saber -AP    -IND.[3] ahora
+\ps adverbio verbo -tam-e -per     adverbio
+
+\tx ngoymatun               piy
+\mb ngoyma  -tu    -n       pi    -y
+\ge olvidar -APPL3 -IND.1SG decir -IND.[3]
+\ps verbo   -per   -per     verbo -per
+
+\ft todo sabía, ahora me olvidé dijo
+\mm LamngenGraciela 2.wav 298.600 301.200
+
+\ref 080
+\ELANParticipant GN
+\ELANBegin 00:05:01.200
+\ELANEnd 00:05:06.240
+\tx küpawenolu                         kay  faw      fey
+\mb küpa -we       -no       -lu     kay  faw      fey
+\ge venir -recien   -NEG2     -advr.1 y    acá     DEM2
+\ps verbo -adverbio -adverbio -advr   conj adverbio pro
+
+\tx amuy           ñi    ñuke  ta  fütangey
+\mb amu   -y       ñi    ñuke  ta  füta  -nge   -y
+\ge ir    -IND.[3] 3.POSS madre  DET esposo -COP   -IND.[3]
+\ps verbo -per     pro    nombre det nombre -verbo -per
+
+\ft como no vino más acá, su mamá se fue, se casó
+\mm LamngenGraciela 2.wav 301.200 306.240
+
+\ref 081
+\ELANParticipant GN
+\ELANBegin 00:05:06.240
+\ELANEnd 00:05:13.880
+\tx ka   abrazo. de.      maipu pingey
+\mb ka   *abrazo *d  -e   *maip pi    -nge -y
+\ge y    ***     *** -3SG ***   decir -PAS -IND.[3]
+\ps conj ***     *** -per ***   verbo -per -per
+
+\tx chew   ñi    mülen       ka   fey  ñi
+\mb chew   ñi    müle -n     ka   fey  ñi
+\ge dónde 3.POSS estar -NMRZ1 y    DEM2 3.POSS
+\ps pro    pro    verbo -nmrz  conj pro  pro
+
+\tx ñuke  engu müley
+\mb ñuke  engu müle -y
+\ge madre  3DU  estar -IND.[3]
+\ps nombre per  verbo -per
+
+\ft Abrazo de Maipú se llama donde está, está con su mamá
+\mm LamngenGraciela 2.wav 306.240 313.880
+
+\ref 082
+\ELANParticipant GN
+\ELANBegin 00:05:13.880
+\ELANEnd 00:05:16.560
+\tx kiñekewün             findesemana
+\mb kiñe -*kewü -n       findesemana
+\ge un    -***    -IND.1SG fin de semana
+\ps art   -***    -per     nombre
+
+\tx küpakey              ñi    chuchu         mew
+\mb küpa -ke    -y       ñi    chuchu         mew
+\ge venir -HAB   -IND.[3] 3.POSS abuela.materna PPOS
+\ps verbo -tam-e -per     pro    nombre         ppos
+
+\ft algunos fin de semana viene adonde su abuela
+\mm LamngenGraciela 2.wav 313.880 316.560
+
+\ref 083
+\ELANParticipant GN
+\ELANBegin 00:05:16.560
+\ELANEnd 00:05:23.400
+\tx fewla    welu feypienew
+\mb fewla    welu fey  -pi    -e   -n       -ew
+\ge ahora    pero DEM2 -decir -INV -IND.1SG -OBL
+\ps adverbio conj pro  -verbo -per -per     -per
+
+\tx chayi        vecina iñche mülepali
+\mb chayi        vecina iñche müle -pa    -l    -i
+\ge hace.un.rato vecina 1SG    estar -DIR.1 -COND -1SG
+\ps adverbio     nombre pro    verbo -dir   -mod  -per
+
+\tx faw
+\mb faw
+\ge acá
+\ps adverbio
+
+\ft ahora pero me dijo hace un rato, vecina, si yo estoy acá
+\mm LamngenGraciela 2.wav 316.560 323.400
+
+\ref 084
+\ELANParticipant GN
+\ELANBegin 00:05:23.440
+\ELANEnd 00:05:30.880
+\tx chem dungu  rume     nielmi
+\mb chem dungu  rume     nie   -l    -mi
+\ge qué asunto siquiera tener -COND -2SG.POSS
+\ps pro  nombre adverbio verbo -mod  -pro
+
+\tx werküael
+\mb werkü -a     -el
+\ge mandar -FUT   -NMRZ2
+\ps verbo  -tam-e -nmzr
+
+\tx yenolmi
+\mb ye     -no       -l    -mi
+\ge llevar -NEG2     -COND -2SG.POSS
+\ps verbo  -adverbio -mod  -pro
+
+\tx nienolmi                         iney   ñi
+\mb nie   -no       -l    -mi       iney   ñi
+\ge tener -NEG2     -COND -2SG.POSS quién 3.POSS
+\ps verbo -adverbio -mod  -pro      pro    pro
+
+\tx ngillañmaetew
+\mb ngilla  -ñma  -e   -t     -ew
+\ge comprar -APPL1 -INV -NMRZ3 -OBL
+\ps verbo   -per   -per -nmrz  -per
+
+\tx kofke  iñche feman
+\mb kofke  iñche fem      -a     -n
+\ge pan    1SG    ser.así -FUT   -IND.1SG
+\ps nombre pro    verbo    -tam-e -per
+
+\tx welu kimelan                  mapudungun
+\mb welu kimel    -a     -n       mapudungun
+\ge pero enseñar -FUT   -IND.1SG mapudungun
+\ps conj verbo    -tam-e -per     nombre
+
+\tx pipeenew
+\mb pi    -pe    -e   -n       -ew
+\ge decir -CERT  -INV -IND.1SG -OBL
+\ps verbo -tam-e -per -per     -per
+
+\ft cualquier cosa que tengas para mandar, si no tienes a nadie que te vaya a comprar el pan, yo lo haré, pero me enseñaras mapudungun, me dijo recien
+\mm LamngenGraciela 2.wav 323.440 330.880
+
+\ref 085
+\ELANParticipant GN
+\ELANBegin 00:05:30.880
+\ELANEnd 00:05:32.720
+\tx ya            pifin
+\mb ya            pi    -fi   -n
+\ge ya            decir -3.OP -IND.1SG
+\ps interjección verbo -per  -per
+
+\ft ya le dije
+\mm LamngenGraciela 2.wav 330.880 332.720
+
+\ref 086
+\ELANParticipant GN
+\ELANBegin 00:05:32.720
+\ELANEnd 00:05:38.680
+\tx iñche kimelaeyu                     chachay
+\mb iñche kimel    -a     -e   -yu      chachay
+\ge 1SG    enseñar -FUT   -INV -IND.1DU viejo (afectivo)
+\ps pro    verbo    -tam-e -per -per     nombre
+
+\tx mapudungun welu ya            chem rume
+\mb mapudungun welu ya            chem rume
+\ge mapudungun pero ya            qué siquiera
+\ps nombre     conj interjección pro  adverbio
+
+\tx werküalmi
+\mb werkü -a     -l    -mi
+\ge mandar -FUT   -COND -2SG.POSS
+\ps verbo  -tam-e -mod  -pro
+
+\tx ngillalmi               iñche amuan
+\mb ngilla  -l    -mi       iñche amu   -a     -n
+\ge comprar -COND -2SG.POSS 1SG    ir    -FUT   -IND.1SG
+\ps verbo   -mod  -pro      pro    verbo -tam-e -per
+
+\ft yo te voy a enseñar, chachay, pero cualquier cosa para mandar, si compro, yo iré
+\mm LamngenGraciela 2.wav 332.720 338.680
+
+\ref 087
+\ELANParticipant GN
+\ELANBegin 00:05:38.680
+\ELANEnd 00:05:40.320
+\tx welu kimelan                  mapudungun
+\mb welu kimel    -a     -n       mapudungun
+\ge pero enseñar -FUT   -IND.1SG mapudungun
+\ps conj verbo    -tam-e -per     nombre
+
+\ft pero te enseñaré mapudungun
+\mm LamngenGraciela 2.wav 338.680 340.320
+
+\ref 088
+\ELANParticipant GN
+\ELANBegin 00:05:40.320
+\ELANEnd 00:05:43.480
+\tx fey  trafia rakiduamün
+\mb fey  trafia rakiduam    -*ü -n
+\ge DEM2 anoche pensamiento -*** -IND.1SG
+\ps pro  nombre nombre      -*** -per
+
+\ft entonces anoche pensé
+\mm LamngenGraciela 2.wav 340.320 343.480
+
+\ref 089
+\ELANParticipant GN
+\ELANBegin 00:05:43.480
+\ELANEnd 00:05:46.080
+\tx puwtulu                   ruka   mew  iñche
+\mb puw          -tu  -lu     ruka   mew  iñche
+\ge llegar.allá -RE  -advr.1 casa   PPOS 1SG
+\ps verbo        -dir -advr   nombre ppos pro
+
+\tx rakiduamün                fey
+\mb rakiduam    -*ü -n       fey
+\ge pensamiento -*** -IND.1SG DEM2
+\ps nombre      -*** -per     pro
+
+\ft cuando llegué a mi casa de vuelta, pensé
+\mm LamngenGraciela 2.wav 343.480 346.080
+
+\ref 090
+\ELANParticipant GN
+\ELANBegin 00:05:46.080
+\ELANEnd 00:05:47.800
+\tx ka   kimtuan                    ñi      mapudungun
+\mb ka   kim   -tu  -a     -n       ñi      mapudungun
+\ge y    saber -RE  -FUT   -IND.1SG 1SG.POSS mapudungun
+\ps conj verbo -dir -tam-e -per     pro      nombre
+
+\ft Yo volveré a conocer mi mapudungun
+\mm LamngenGraciela 2.wav 346.080 347.800
+
+\ref 091
+\ELANParticipant GN
+\ELANBegin 00:05:47.800
+\ELANEnd 00:05:51.520
+\tx chem pewelafin                         ñi
+\mb chem pe    -we    -la   -fi   -n       ñi
+\ge qué ver   -INC   -NEG1 -3.OP -IND.1SG 3.POSS
+\ps pro  verbo -tam-E -neg  -per  -per     pro
+
+\tx chuchu
+\mb chuchu
+\ge abuela.materna
+\ps nombre
+
+\ft no vi más a su abuela
+\mm LamngenGraciela 2.wav 347.800 351.520
+
+\ref 092
+\ELANParticipant GN
+\ELANBegin 00:05:51.520
+\ELANEnd 00:05:55.000
+\tx feyke      llemay
+\mb fey  -ke   llemay
+\ge DEM2 -DIST pues
+\ps pro  -det  part
+
+\tx feypiafin                          ñi      küme
+\mb fey  -pi    -a     -fi   -n       ñi      küme
+\ge DEM2 -decir -FUT   -3.OP -IND.1SG 1SG.POSS bien
+\ps pro  -verbo -tam-e -per  -per     pro      adverbio
+
+\tx nieaetew
+\mb nie   -a     -e   -t     -ew
+\ge tener -FUT   -INV -NMRZ3 -OBL
+\ps verbo -tam-e -per -nmrz  -per
+
+\ft así es pues, le voy a decir para que me tenga buena
+\mm LamngenGraciela 2.wav 351.520 355.000
+
+\ref 093
+\ELANParticipant GN
+\ELANBegin 00:05:55.000
+\ELANEnd 00:06:00.480
+\tx fey  ñi
+\mb fey  ñi
+\ge DEM2 3.POSS
+\ps pro  pro
+
+\tx katrun        tukumekeael                  ñi
+\mb katru  -n     tuku  -meke    -a     -el    ñi
+\ge cortar -NMRZ1 poner -PROG.AG -FUT   -NMRZ2 3.POSS
+\ps verbo  -nmrz  tam-e -tam-e   -tam-e -nmzr  pro
+
+\tx kimael              iñche pipeenew
+\mb kim   -a     -el    iñche pi    -pe    -e   -n       -ew
+\ge saber -FUT   -NMRZ2 1SG    decir -CERT  -INV -IND.1SG -OBL
+\ps verbo -tam-e -nmzr  pro    verbo -tam-e -per -per     -per
+
+\ft para que esté cortando mi saber me dijo
+\mm LamngenGraciela 2.wav 355.000 360.480
+
+\ref 094
+\ELANParticipant GN
+\ELANBegin 00:06:00.480
+\ELANEnd 00:06:03.440
+\tx feypipeenew                            chayi
+\mb fey  -pi    -pe    -e   -n       -ew  chayi
+\ge DEM2 -decir -REC   -INV -IND.1SG -OBL hace.un.rato
+\ps pro  -verbo -tam-e -per -per     -per adverbio
+
+\tx küpaymi       müten   pifin
+\mb küpa -ymi     müten   pi    -fi   -n
+\ge venir -IND.2SG no.más  decir -3.OP -IND.1SG
+\ps verbo -per     adverbio verbo -per  -per
+
+\ft me dijo hace un rato, ven no más, le dije
+\mm LamngenGraciela 2.wav 360.480 363.440
+
+\ref 095
+\ELANParticipant GN
+\ELANBegin 00:06:03.440
+\ELANEnd 00:06:10.000
+\tx verano mew  tripanoli
+\mb verano mew  tripa -no       -l    -i
+\ge verano PPOS salir -NEG2     -COND -1SG
+\ps nombre ppos verbo -adverbio -mod  -per
+
+\tx amunoli                     chew   rume
+\mb amu   -no       -l    -i   chew   rume
+\ge ir    -NEG2     -COND -1SG dónde siquiera
+\ps verbo -adverbio -mod  -per pro    adverbio
+
+\tx amunoli                     ka   vecina
+\mb amu   -no       -l    -i   ka   vecina
+\ge ir    -NEG2     -COND -1SG y    vecina
+\ps verbo -adverbio -mod  -per conj nombre
+
+\tx müleli          kimelan
+\mb müle -l    -i   kimel    -a     -n
+\ge estar -COND -1SG enseñar -FUT   -IND.1SG
+\ps verbo -mod  -per verbo    -tam-e -per
+
+\ft en el verano, si no salgo, si no voy a ningún lado, si estoy, me enseñaras
+\mm LamngenGraciela 2.wav 363.440 370.000
+
+\ref 096
+\ELANParticipant GN
+\ELANBegin 00:06:10.000
+\ELANEnd 00:06:12.840
+\tx marzu  kiman                 mapudungun
+\mb marzu  kim   -a     -n       mapudungun
+\ge marzo  saber -FUT   -IND.1SG mapudungun
+\ps nombre verbo -tam-e -per     nombre
+
+\tx femayu                   pifin
+\mb fem      -a     -yu      pi    -fi   -n
+\ge ser.así -FUT   -IND.1DU decir -3.OP -IND.1SG
+\ps verbo    -tam-e -per     verbo -per  -per
+
+\ft en marzo sabré mapudungun, así lo haremos le dije
+\mm LamngenGraciela 2.wav 370.000 372.840
+
+\ref 097
+\ELANParticipant GN
+\ELANBegin 00:06:12.840
+\ELANEnd 00:06:16.280
+\tx feypienew
+\mb fey  -pi    -e   -n       -ew
+\ge DEM2 -decir -INV -IND.1SG -OBL
+\ps pro  -verbo -per -per     -per
+
+\ft me dijo
+\mm LamngenGraciela 2.wav 372.840 376.280
+
+\ref 098
+\ELANParticipant GN
+\ELANBegin 00:06:16.280
+\ELANEnd 00:06:23.840
+\tx vecina por favor me enseña me dijo quiero aprender más porque anoche estuve pensando tengo que aprender más
+\ft vecina por favor me enseña me dijo quiero aprender más porque anoche estuve pensando tengo que aprender más
+\mm LamngenGraciela 2.wav 376.280 383.840
+
+\ref 099
+\ELANParticipant GN
+\ELANBegin 00:06:23.840
+\ELANEnd 00:06:25.600
+\tx fey  llemay
+\mb fey  llemay
+\ge DEM2 pues
+\ps pro  part
+
+\ft así es pues
+\mm LamngenGraciela 2.wav 383.840 385.600
+
+\ref 100
+\ELANParticipant GN
+\ELANBegin 00:06:25.600
+\ELANEnd 00:06:30.080
+\tx müley         kiñe wentru uyew     mew
+\mb müle -y       kiñe wentru uyew     mew
+\ge estar -IND.[3] un    hombre allá    PPOS
+\ps verbo -per     art   nombre adverbio ppos
+
+\tx feypirkefuy
+\mb fey  -pi    -rke   -fu    -y
+\ge DEM2 -decir -EVID  -AP    -IND.[3]
+\ps pro  -verbo -tam-e -tam-e -per
+
+\ft hay un hombre allá que dicen que decía
+\mm LamngenGraciela 2.wav 385.600 390.080
+
+\ref 101
+\ELANParticipant GN
+\ELANBegin 00:06:30.080
+\ELANEnd 00:06:34.280
+\tx iñche kimmapudungun                      eymi
+\mb iñche kim   -mapudungu         -n       eymi
+\ge 1SG    saber -hablar mapudungun -IND.1SG tú
+\ps pro    verbo -verbo             -per     pro
+
+\tx kimlaymi             am   mapuche eymi welu
+\mb kim   -la   -ymi     am   mapuche eymi welu
+\ge saber -NEG1 -IND.2SG INT  mapuche tú  pero
+\ps verbo -neg  -per     part nombre  pro  conj
+
+\tx kimlaymi             pienew
+\mb kim   -la   -ymi     pi    -e   -n       -ew
+\ge saber -NEG1 -IND.2SG decir -INV -IND.1SG -OBL
+\ps verbo -neg  -per     verbo -per -per     -per
+
+\ft yo se mapudungun, tú no sabes, eres mapuche pero no sabes me dijo
+\mm LamngenGraciela 2.wav 390.080 394.280
+
+\ref 102
+\ELANParticipant GN
+\ELANBegin 00:06:34.280
+\ELANEnd 00:06:39.040
+\tx fey  mapudungukeaymi
+\mb fey  mapudungu         -ke    -a     -ymi
+\ge DEM2 hablar mapudungun -HAB   -FUT   -IND.2SG
+\ps pro  verbo             -tam-e -tam-e -per
+
+\tx anay iñche
+\mb anay iñche
+\ge pues 1SG
+\ps part pro
+
+\tx kimün         iñche
+\mb kim   -ün     iñche
+\ge saber -IND.1SG 1SG
+\ps verbo -per     pro
+
+\tx kimelaeyu                     rume
+\mb kimel    -a     -e   -yu      rume
+\ge enseñar -FUT   -INV -IND.1DU mucho
+\ps verbo    -tam-e -per -per     adverbio
+
+\ft entonces, vas a saber mapudungun, yo sé, yo te voy a enseñar
+\mm LamngenGraciela 2.wav 394.280 399.040
+
+\ref 103
+\ELANParticipant GN
+\ELANBegin 00:06:39.040
+\ELANEnd 00:06:44.960
+\tx chem kimn           pienew
+\mb chem kim   -n       pi    -e   -n       -ew
+\ge qué saber -IND.1SG decir -INV -IND.1SG -OBL
+\ps pro  verbo -per     verbo -per -per     -per
+
+\tx fey  iñche ka   chemli
+\mb fey  iñche ka   chem -l    -i
+\ge DEM2 1SG    y    qué -COND -1SG
+\ps pro  pro    conj pro  -mod  -per
+
+\tx traftuafun                             mapudungun
+\mb traf     -tu    -a     -fu    -n       mapudungun
+\ge juntarse -APPL3 -FUT   -AP    -IND.1SG mapudungun
+\ps verbo    -per   -tam-e -tam-e -per     nombre
+
+\tx mew
+\mb mew
+\ge PPOS
+\ps ppos
+
+\ft qué conocimiento me dijo, si yo aprendiera quedaríamos en la misma condición en mapudungun
+\mm LamngenGraciela 2.wav 399.040 404.960
+
+\ref 104
+\ELANParticipant FH
+\ELANBegin 00:06:44.920
+\ELANEnd 00:06:48.680
+\tx tunten  tripantü niey           tüfachi
+\mb tunten  tripantü nie   -y       tüfa -chi
+\ge cuánto año      tener -IND.[3] DEM1  -adjr
+\ps pro     nombre    verbo -per     pro   -***
+
+\tx pichiwentru?
+\mb pichi    -wentru
+\ge pequeño -hombre
+\ps adj      -nombre
+
+\ft ¿Cuántos años tiene el niño?
+\mm LamngenGraciela 2.wav 404.920 408.680
+
+\ref 105
+\ELANParticipant GN
+\ELANBegin 00:06:48.640
+\ELANEnd 00:06:49.600
+\tx tunten  piy            ama  trafia
+\mb tunten  pi    -y       ama  trafia
+\ge cuánto decir -IND.[3] INT  anoche
+\ps pro     verbo -per     part nombre
+
+\ft ¿cuántos dijo anoche?
+\mm LamngenGraciela 2.wav 408.640 409.600
+
+\ref 106
+\ELANParticipant JN
+\ELANBegin 00:06:49.560
+\ELANEnd 00:06:51.080
+\tx mari    epu
+\mb mari    epu
+\ge diez    dos
+\ps número número
+
+\ft doce
+\mm LamngenGraciela 2.wav 409.560 411.080
+
+\ref 107
+\ELANParticipant FH
+\ELANBegin 00:06:51.160
+\ELANEnd 00:06:54.360
+\tx mari    epu,    pichiche
+\mb mari    epu     pichi    -che
+\ge diez    dos     pequeño -gente
+\ps número número adj      -nombre
+
+\ft doce, es un niño
+\mm LamngenGraciela 2.wav 411.160 414.360
+
+\ref 108
+\ELANParticipant GN
+\ELANBegin 00:06:54.320
+\ELANEnd 00:06:56.920
+\tx no ve que lo andabamos esperando él venía del pan
+\ft no ve que lo andabamos esperando él venía del pan
+\mm LamngenGraciela 2.wav 414.320 416.920
+
+\ref 109
+\ELANParticipant GN
+\ELANBegin 00:06:56.920
+\ELANEnd 00:06:59.240
+\tx y entonces le dije
+\ft y entocnes le dije
+\mm LamngenGraciela 2.wav 416.920 419.240
+
+\ref 110
+\ELANParticipant GN
+\ELANBegin 00:06:59.240
+\ELANEnd 00:07:02.800
+\tx chachay esperate ando esperando una visita le dije
+\ft chachay esperate ando esperando una visita le dije
+\mm LamngenGraciela 2.wav 419.240 422.800
+
+\ref 111
+\ELANParticipant GN
+\ELANBegin 00:07:02.800
+\ELANEnd 00:07:04.440
+\tx que me dijo que estaba aquí
+\ft que me dijo que estaba aquí
+\mm LamngenGraciela 2.wav 422.800 424.440
+
+\ref 112
+\ELANParticipant GN
+\ELANBegin 00:07:04.440
+\ELANEnd 00:07:08.800
+\tx y me dijo cuál, allí viene uno tía y venia un joven con una mochila pensabamos que era usted
+\ft y me dijo cuál, allí viene uno tía y venia un joven con una mochila pensabamos que era usted
+\mm LamngenGraciela 2.wav 424.440 428.800
+
+\ref 113
+\ELANParticipant GN
+\ELANBegin 00:07:08.800
+\ELANEnd 00:07:11.800
+\tx y usted apareció de por acá usted pasó derecho de largo
+\ft y usted apareció de por acá usted pasó derecho de largo
+\mm LamngenGraciela 2.wav 428.800 431.800
+
+\ref 114
+\ELANParticipant GN
+\ELANBegin 00:07:11.800
+\ELANEnd 00:07:17.520
+\tx iñche nien           kulpa  kiñe kuadra
+\mb iñche nie   -n       kulpa  kiñe kuadra
+\ge 1SG    tener -IND.1SG culpar un    cuadra
+\ps pro    verbo -per     verbo  art   nombre
+
+\tx müten   pilaeyu
+\mb müten   pi    -la   -e   -yu
+\ge no.más  decir -NEG1 -INV -IND.1DU
+\ps adverbio verbo -neg  -per -per
+
+\ft yo tengo la culpa, una cuadra no más no te dije
+\mm LamngenGraciela 2.wav 431.800 437.520
+
+\ref 115
+\ELANParticipant GN
+\ELANBegin 00:07:17.520
+\ELANEnd 00:07:19.680
+\tx kiñe kuadra müten   pieliyu
+\mb kiñe kuadra müten   pi    -e-l      -i   -yu
+\ge un    cuadra no.más  decir -INV-COND -1SG -IND.1DU
+\ps art   nombre adverbio verbo -per-mod  -per -per
+
+\ft si te hubiera dicho una cuadra no más
+\mm LamngenGraciela 2.wav 437.520 439.680
+
+\ref 116
+\ELANParticipant GN
+\ELANBegin 00:07:19.680
+\ELANEnd 00:07:21.640
+\tx punor
+\mb pun    -o    -*r
+\ge noche  -o    -***
+\ps nombre -conj -***
+
+\tx konpafemafuymi
+\mb kon    -pa    -fem   -a     -fu    -ymi
+\ge entrar -DIR.1 -INMD  -FUT   -AP    -IND.2SG
+\ps verbo  -dir   -tam-e -tam-e -tam-e -per
+
+\ft a un paso habrías llegado de inmediato
+\mm LamngenGraciela 2.wav 439.680 441.640
+
+\ref 117
+\ELANParticipant GN
+\ELANBegin 00:07:21.640
+\ELANEnd 00:07:23.960
+\tx kiñe füta  palmera
+\mb kiñe füta  palmera
+\ge un    grande palmera
+\ps art   adj    nombre
+
+\tx mülefuy              fey  ñi      ruka   mew
+\mb müle -fu    -y       fey  ñi      ruka   mew
+\ge estar -AP    -IND.[3] DEM2 1SG.POSS casa   PPOS
+\ps verbo -tam-e -per     pro  pro      nombre ppos
+
+\ft una gran palmera hay en mi casa
+\mm LamngenGraciela 2.wav 441.640 443.960
+
+\ref 118
+\ELANParticipant GN
+\ELANBegin 00:07:23.960
+\ELANEnd 00:07:28.320
+\tx fey  ñi    rel      kom      che
+\mb fey  ñi    rel      kom      che
+\ge DEM2 3.POSS derecho  todo     gente
+\ps pro  pro    adverbio adverbio nombre
+
+\tx feychi     kintukey               ti   palmera fey
+\mb fey  -chi  kintu  -ke    -y       ti   palmera fey
+\ge DEM2 -adjr buscar -HAB   -IND.[3] DET2 palmera DEM2
+\ps pro  -***  verbo  -tam-e -per     det  nombre  pro
+
+\ft entonces toda la gente busca la palmera
+\mm LamngenGraciela 2.wav 443.960 448.320
+
+\ref 119
+\ELANParticipant GN
+\ELANBegin 00:07:28.320
+\ELANEnd 00:07:30.720
+\tx relkülelu              am   iñchiñ fey
+\mb rel      -küle -lu     am   iñchiñ fey
+\ge derecho  -ESTAT -advr.1 INT  nosotros DEM2
+\ps adverbio -tam-e -advr   part pro      pro
+
+\tx akukey
+\mb aku         -ke    -y
+\ge llegar.acá -HAB   -IND.[3]
+\ps verbo       -tam-e -per
+
+\ft así como estamos derecho nosotros, entonces llegan
+\mm LamngenGraciela 2.wav 448.320 450.720
+
+\ref 120
+\ELANParticipant FH
+\ELANBegin 00:07:30.680
+\ELANEnd 00:07:38.080
+\tx iñche ñamyawün                  kom      chi  Sur
+\mb iñche ñam   -yaw -*ü -n       kom      chi   Sur
+\ge 1SG    perder -AND -*** -IND.1SG todo     DEM2
+\ps pro    verbo  -dir -*** -per     adverbio dem
+
+\tx de Chile
+\mb de Chile
+\ge 
+
+\tx mew
+\mb mew
+\ge PPOS
+\ps ppos
+
+\ft yo anduve perdido por todo el Sur de Chile
+\mm LamngenGraciela 2.wav 450.680 458.080
+
+\ref 121
+\ELANParticipant FH
+\ELANBegin 00:07:38.080
+\ELANEnd 00:07:45.440
+\tx ñamyawün Curico, Concepción, Punta Arenas, kom chi Sur de Chile mew
+\ft anduve perdido por Curicó, Concepción, Punta Arenas, por todo el Sur de Chile
+\mm LamngenGraciela 2.wav 458.080 465.440
+
+\ref 122
+\ELANParticipant GN
+\ELANBegin 00:07:45.400
+\ELANEnd 00:07:47.760
+\tx fey  llemay lamngen müna    wesha
+\mb fey  llemay lamngen müna    wesha
+\ge DEM2 pues   hermano mucho    malo
+\ps pro  part   nombre  adverbio adj
+
+\ft así pues, hermano, qué mal
+\mm LamngenGraciela 2.wav 465.400 467.760
+
+\ref 123
+\ELANParticipant GN
+\ELANBegin 00:07:47.760
+\ELANEnd 00:07:53.960
+\tx lamngen
+\mb lamngen
+\ge hermano
+\ps nombre
+
+\tx küpacerezatulaymi?
+\mb küpa  -cereza -tu   -la   -ymi
+\ge querer -cereza -VERB -NEG1 -IND.2SG
+\ps aux    -nombre -der  -neg  -per
+
+\tx jalea  ka   müley
+\mb jalea  ka   müle -y
+\ge jalea  y    estar -IND.[3]
+\ps nombre conj verbo -per
+
+\ft hermano, no quieres comer cereza? hay jalea también
+\mm LamngenGraciela 2.wav 467.760 473.960
+
+\ref 124
+\ELANParticipant FH
+\ELANBegin 00:07:53.960
+\ELANEnd 00:07:59.920
+\tx
+\ft
+\mm LamngenGraciela 2.wav 473.960 479.920
+
+\ref 125
+\ELANParticipant FH
+\ELANBegin 00:07:59.920
+\ELANEnd 00:08:10.560
+\tx mapudunguliñ                    kümeafuy                       iñche küpa  doy      küme    mapudungun
+\mb mapudungu         -l    -iñ     küme    -a     -fu    -y       iñche küpa  doy      küme    mapudungun
+\ge hablar mapudungun -COND -IND.1PL bien     -FUT   -AP    -IND.[3] 1SG    querer más     bien     mapudungun
+\ps verbo             -mod  -per     adverbio -tam-e -tam-e -per     pro    aux    adverbio adverbio nombre
+
+\ft si hablaramos mapudungun sería bueno, yo quiero hablar mejor mapudungun
+\mm LamngenGraciela 2.wav 479.920 490.560
+
+\ref 126
+\ELANParticipant FH
+\ELANBegin 00:08:10.640
+\ELANEnd 00:08:22.720
+\tx iñche duamün mapudunguken müten iñche dew chillkatun mapuchedungun gramatica mapuche, fonología mapuche, fey iñche duam chew ñi amun
+\ft yo necesito, yo hablo mapudungun, ya estudié mapudungun, gramática mapuche, fonología mapuche, entonces yo necesito
+\mm LamngenGraciela 2.wav 490.640 502.720
+
+\ref 127
+\ELANParticipant FH
+\ELANBegin 00:08:22.720
+\ELANEnd 00:08:24.760
+\tx mapuchedunguken                müten
+\mb mapuche -dungu  -ke    -n     müten
+\ge mapuche -asunto -HAB   -NMRZ1 no.más
+\ps nombre  -nombre -tam-e -nmrz  adverbio
+
+\ft hablar mapudungun
+\mm LamngenGraciela 2.wav 502.720 504.760
+
+\ref 128
+\ELANParticipant FH
+\ELANBegin 00:08:24.760
+\ELANEnd 00:08:28.800
+\tx iñche duam      ün            practica
+\mb iñche duam-ün                 practica
+\ge 1SG    necesitar-IND.1SGpractica
+\ps pro    verbo     per            nombre
+
+\ft necesito práctica
+\mm LamngenGraciela 2.wav 504.760 508.800
+
+\ref 129
+\ELANParticipant JN
+\ELANBegin 00:08:28.760
+\ELANEnd 00:08:31.120
+\tx femngechi amule-lmi
+\mb femngechi amu   -le-l-mi
+\ge así      ir    -PROG-COND -2SG.POSS
+\ps adverbio  verbo -tam-e-mod -pro
+
+\tx peñi
+\mb peñi
+\ge hermano (de ego masculino)
+\ps nombre
+
+\ft si sigues así hermano
+\mm LamngenGraciela 2.wav 508.760 511.120
+
+\ref 130
+\ELANParticipant JN
+\ELANBegin 00:08:31.120
+\ELANEnd 00:08:32.360
+\tx kimaymi               ta ti
+\mb kim   -a     -ymi     ta ti
+\ge saber -FUT   -IND.2SG DETDET2
+\ps verbo -tam-e -per     detdet
+
+\ft vas a saber
+\mm LamngenGraciela 2.wav 511.120 512.360
+
+\ref 131
+\ELANParticipant GN
+\ELANBegin 00:08:32.320
+\ELANEnd 00:08:34.240
+\tx weupifengeaymi
+\mb weupi         -fe  -nge   -a     -ymi
+\ge dar.discursos -AG  -COP   -FUT   -IND.2SG
+\ps verbo         -der -verbo -tam-e -per
+
+\ft serás un wewpife
+\mm LamngenGraciela 2.wav 512.320 514.240
+
+\ref 132
+\ELANParticipant GN
+\ELANBegin 00:08:34.240
+\ELANEnd 00:08:37.040
+\tx ya            lamngen
+\mb ya            lamngen
+\ge ya            hermano
+\ps interjección nombre
+
+\ft ya hermano
+\mm LamngenGraciela 2.wav 514.240 517.040
+
+\ref 133
+\ELANParticipant GN
+\ELANBegin 00:08:43.080
+\ELANEnd 00:08:49.280
+\tx
+\ft
+\mm LamngenGraciela 2.wav 523.080 529.280
+
+\ref 134
+\ELANParticipant GN
+\ELANBegin 00:08:49.280
+\ELANEnd 00:08:59.920
+\tx
+\ft
+\mm LamngenGraciela 2.wav 529.280 539.920
+
+\ref 135
+\ELANParticipant FH
+\ELANBegin 00:09:00.280
+\ELANEnd 00:09:03.600
+\tx
+\ft
+\mm LamngenGraciela 2.wav 540.280 543.600
+
+\ref 136
+\ELANParticipant FH
+\ELANBegin 00:09:03.600
+\ELANEnd 00:09:09.880
+\tx fey  kom      tripantü mew  iñche
+\mb fey  kom      tripantü mew  iñche
+\ge DEM2 todo     año      PPOS 1SG
+\ps pro  adverbio nombre    ppos pro
+
+\tx küdawken                welu
+\mb küdaw   -ke    -n       welu
+\ge trabajar -HAB   -IND.1SG pero
+\ps verbo    -tam-e -per     conj
+
+\ft trabajo todo el año pero
+\mm LamngenGraciela 2.wav 543.600 549.880
+
+\ref 137
+\ELANParticipant FH
+\ELANBegin 00:09:09.880
+\ELANEnd 00:09:16.400
+\tx enero  küyen mew  ka
+\mb enero  küyen mew  ka
+\ge enero  mes    PPOS y
+\ps nombre nombre ppos conj
+
+\tx febrero küyen mew  iñche
+\mb febrero küyen mew  iñche
+\ge febrero mes    PPOS 1SG
+\ps nombre  nombre ppos pro
+
+\tx urkutulean
+\mb urku     -tu  -le    -a     -n
+\ge cansarse -RE  -PROG  -FUT   -IND.1SG
+\ps verbo    -dir -tam-e -tam-e -per
+
+\ft en enero, febrero, voy a descansar
+\mm LamngenGraciela 2.wav 549.880 556.400
+
+\ref 138
+\ELANParticipant FH
+\ELANBegin 00:09:16.400
+\ELANEnd 00:09:18.720
+\tx niean                 fentren  tiempo
+\mb nie   -a     -n       fentren  ti   -em     -po
+\ge tener -FUT   -IND.1SG mucho    DET2 -finado -pues
+\ps verbo -tam-e -per     adverbio det  -interj -part
+
+\tx ñi      chillkatuael
+\mb ñi      chillkatu -a     -el
+\ge 1SG.POSS estudiar  -FUT   -NMRZ2
+\ps pro      verbo     -tam-e -nmzr
+
+\ft tendré tiempo para estudiar
+\mm LamngenGraciela 2.wav 556.400 558.720
+
+\ref 139
+\ELANParticipant FH
+\ELANBegin 00:09:18.720
+\ELANEnd 00:09:22.320
+\tx mapuchedungun           mew
+\mb mapuche -dungu  -n     mew
+\ge mapuche -asunto -NMRZ1 PPOS
+\ps nombre  -nombre -nmrz  ppos
+
+\ft en mapudungun
+\mm LamngenGraciela 2.wav 558.720 562.320
+
+\ref 140
+\ELANParticipant GN
+\ELANBegin 00:09:26.600
+\ELANEnd 00:09:30.080
+\tx faw      müley         tukuam              ütrar
+\mb faw      müle -y       tuku  -a     -m     ütrar
+\ge acá     estar -IND.[3] poner -FUT   -ADVR2 pepa
+\ps adverbio verbo -per     tam-e -tam-e -advr  nombre
+
+\ft acá está para que pongan las pepas
+\mm LamngenGraciela 2.wav 566.600 570.080
+
+\ref 141
+\ELANParticipant GN
+\ELANBegin 00:09:30.080
+\ELANEnd 00:09:33.520
+\tx ütrar pingey              tüfachi    chem
+\mb ütrar pi    -nge -y       tüfa -chi  chem
+\ge pepa   decir -PAS -IND.[3] DEM1  -adjr qué
+\ps nombre verbo -per -per     pro   -***  pro
+
+\ft ütrar se dice este, cómo se llama
+\mm LamngenGraciela 2.wav 570.080 573.520
+
+\ref 142
+\ELANParticipant GN
+\ELANBegin 00:09:33.520
+\ELANEnd 00:09:45.280
+\tx pepa   pingey
+\mb pepa   pi    -nge -y
+\ge pepa   decir -PAS -IND.[3]
+\ps nombre verbo -per -per
+
+\tx wingkadungun           mew
+\mb wingkadungu     -n     mew
+\ge hablar.español -NMRZ1 PPOS
+\ps verbo           -nmrz  ppos
+
+\ft pepa se llama en español
+\mm LamngenGraciela 2.wav 573.520 585.280
+
+\ref 143
+\ELANParticipant FH
+\ELANBegin 00:09:45.240
+\ELANEnd 00:09:46.840
+\tx ütrar
+\ft pepa
+\mm LamngenGraciela 2.wav 585.240 586.840
+
+\ref 144
+\ELANParticipant FH
+\ELANBegin 00:09:46.840
+\ELANEnd 00:09:56.480
+\tx tüfachi    pichiche          karukatu niey
+\mb tüfa -chi  pichi    -che    karukatu nie   -y
+\ge DEM1  -adjr pequeño -gente  vecino   tener -IND.[3]
+\ps pro   -***  adj      -nombre nombre   verbo -per
+
+\tx mari    epu     tripantü
+\mb mari    epu     tripantü
+\ge diez    dos     año
+\ps número número nombre
+
+\ft este vecinito tiene doce años
+\mm LamngenGraciela 2.wav 586.840 596.480
+
+\ref 145
+\ELANParticipant FH
+\ELANBegin 00:09:56.480
+\ELANEnd 00:10:03.040
+\tx doy      küme    edad   ñi    kimael
+\mb doy      küme    edad   ñi    kim   -a     -el
+\ge más     bien     edad   3.POSS saber -FUT   -NMRZ2
+\ps adverbio adverbio nombre pro    verbo -tam-e -nmzr
+
+\tx kiñe idioma
+\mb kiñe idioma
+\ge un    idioma
+\ps art   nombre
+
+\ft la mejor edad para saber un idioma
+\mm LamngenGraciela 2.wav 596.480 603.040
+
+\ref 146
+\ELANParticipant GN
+\ELANBegin 00:10:03.000
+\ELANEnd 00:10:03.040
+\tx
+\ft
+\mm LamngenGraciela 2.wav 603.000 603.040
+
+\ref 147
+\ELANParticipant GN
+\ELANBegin 00:10:03.360
+\ELANEnd 00:10:06.160
+\tx kayu          tripantü niey           iñche
+\mb ka   -yu      tripantü nie   -y       iñche
+\ge y    -IND.1DU año      tener -IND.[3] 1SG
+\ps conj -per     nombre    verbo -per     pro
+
+\tx kimelfin
+\mb kimel    -fi   -n
+\ge enseñar -3.OP -IND.1SG
+\ps verbo    -per  -per
+
+\ft seis años tenía, yo le enseñé
+\mm LamngenGraciela 2.wav 603.360 606.160
+
+\ref 148
+\ELANParticipant GN
+\ELANBegin 00:10:06.160
+\ELANEnd 00:10:15.200
+\tx ülkantukey,             purrukey               ka
+\mb ülkantu -ke    -y       purru  -ke    -y       ka
+\ge cantar   -HAB   -IND.[3] bailar -HAB   -IND.[3] y
+\ps verbo    -tam-e -per     verbo  -tam-e -per     conj
+
+\tx dungukey               feymew
+\mb dungu  -ke    -y       feymew
+\ge asunto -HAB   -IND.[3] entonces
+\ps nombre -tam-e -per     conj
+
+\ft canta, hacia purrun y hablaba también
+\mm LamngenGraciela 2.wav 606.160 615.200
+
+\ref 149
+\ELANParticipant FH
+\ELANBegin 00:10:15.160
+\ELANEnd 00:10:21.160
+\tx chi  pichiche          pekey
+\mb chi  pichi    -che    pe    -ke    -y
+\ge DEM2 pequeño -gente  ver   -HAB   -IND.[3]
+\ps dem  adj      -nombre verbo -tam-e -per
+
+\tx tüfachi    dungu  awkantun       reke
+\mb tüfa -chi  dungu  awkantu -n     reke
+\ge DEM1  -adjr asunto jugar   -NMRZ1 COMP
+\ps pro   -***  nombre verbo   -nmrz  ppos
+
+\ft el niño ve esto como un juego
+\mm LamngenGraciela 2.wav 615.160 621.160
+
+\ref 150
+\ELANParticipant FH
+\ELANBegin 00:10:21.160
+\ELANEnd 00:10:24.440
+\tx may      may
+\mb may      may
+\ge si       si
+\ps adverbio adverbio
+
+\ft si, si
+\mm LamngenGraciela 2.wav 621.160 624.440
+
+\ref 151
+\ELANParticipant FH
+\ELANBegin 00:10:24.440
+\ELANEnd 00:10:28.920
+\tx chillkatun       reke
+\mb chillkatu -n     reke
+\ge estudiar  -NMRZ1 COMP
+\ps verbo     -nmrz  ppos
+
+\tx pekelafiy
+\mb pe    -ke    -la   -fi   -y
+\ge ver   -HAB   -NEG1 -3.OP -IND.[3]
+\ps verbo -tam-e -neg  -per  -per
+
+\ft no lo ve como un estudio
+\mm LamngenGraciela 2.wav 624.440 628.920
+
+\ref 152
+\ELANParticipant GN
+\ELANBegin 00:10:28.880
+\ELANEnd 00:10:30.920
+\tx fey  llemay fey
+\mb fey  llemay fey
+\ge DEM2 pues   DEM2
+\ps pro  part   pro
+
+\ft así es pues
+\mm LamngenGraciela 2.wav 628.880 630.920
+
+\ref 153
+\ELANParticipant GN
+\ELANBegin 00:10:30.920
+\ELANEnd 00:10:35.000
+\tx feymew   llemay müchay
+\mb feymew   llemay müchay
+\ge entonces pues   más.rato
+\ps conj     part   adverbio
+
+\tx kimkeyngün
+\mb kim   -ke    -y       -ngün
+\ge saber -HAB   -IND.[3] -3.PL
+\ps verbo -tam-e -per     -per
+
+\ft así es pues, inmediatamente saben
+\mm LamngenGraciela 2.wav 630.920 635.000
+
+\ref 154
+\ELANParticipant FH
+\ELANBegin 00:10:44.720
+\ELANEnd 00:10:52.800
+\tx ka   nieymi         kiñeke     epew
+\mb ka   nie   -ymi     kiñe -ke   epew
+\ge y    tener -IND.2SG un    -DIST epew
+\ps conj verbo -per     art   -det  nombre
+
+\tx ñi      entuael             tañi
+\mb ñi      entu  -a     -el    ta  -ñi
+\ge 1SG.POSS sacar -FUT   -NMRZ2 DET -3.POSS
+\ps pro      verbo -tam-e -nmzr  det -pro
+
+\tx kuku
+\mb kuku
+\ge abuela.paterna
+\ps nombre
+
+\ft ¿tienes algún epew para decirle a tu nieto?
+\mm LamngenGraciela 2.wav 644.720 652.800
+
+\ref 155
+\ELANParticipant FH
+\ELANBegin 00:10:52.800
+\ELANEnd 00:10:55.960
+\tx nieymi         kiñeke     epew
+\mb nie   -ymi     kiñe -ke   epew
+\ge tener -IND.2SG un    -DIST epew
+\ps verbo -per     art   -det  nombre
+
+\ft ¿tienes algún epew?
+\mm LamngenGraciela 2.wav 652.800 655.960
+
+\ref 156
+\ELANParticipant GN
+\ELANBegin 00:10:55.920
+\ELANEnd 00:11:00.080
+\tx epew,  chem pingey,             cuento
+\mb epew   chem pi    -nge -y       cuento
+\ge epew   qué decir -PAS -IND.[3] cuento
+\ps nombre pro  verbo -per -per     nombre
+
+\ft ¿epew? ¿Qué significa? ¿cuento?
+\mm LamngenGraciela 2.wav 655.920 660.080
+
+\ref 157
+\ELANParticipant GN
+\ELANBegin 00:11:00.080
+\ELANEnd 00:11:06.800
+\tx müley         lamngen ka   epe
+\mb müle -y       lamngen ka   epe
+\ge estar -IND.[3] hermano y    casi
+\ps verbo -per     nombre  conj adverbio
+
+\tx ngoyman          ka
+\mb ngoyma  -n       ka
+\ge olvidar -IND.1SG y
+\ps verbo   -per     conj
+
+\ft hay, hermano, pero ya casi los olvidé
+\mm LamngenGraciela 2.wav 660.080 666.800
+
+\ref 158
+\ELANParticipant FH
+\ELANBegin 00:11:06.760
+\ELANEnd 00:11:12.680
+\tx wiya   Ñuñoa mülelu
+\mb wiya   Ñuñoa müle -lu
+\ge ayer   Ñuñoa estar -advr.1
+\ps nombre nombre  verbo -advr
+
+\tx kiñe matetun              mew
+\mb kiñe mate   -tu    -n     mew
+\ge un    mate   -APPL3 -NMRZ1 PPOS
+\ps art   nombre -per   -nmrz  ppos
+
+\ft Ayer, cuando hubo un matetun en Ñuñoa
+\mm LamngenGraciela 2.wav 666.760 672.680
+
+\ref 159
+\ELANParticipant FH
+\ELANBegin 00:11:12.680
+\ELANEnd 00:11:17.240
+\tx kiñeke     epew   ka   kimi
+\mb kiñe -ke   epew   ka   kim   -i
+\ge un    -DIST epew   y    saber -IND.[3]
+\ps art   -det  nombre conj verbo -per
+
+\ft algunos cuentos saben
+\mm LamngenGraciela 2.wav 672.680 677.240
+
+\ref 160
+\ELANParticipant FH
+\ELANBegin 00:11:17.240
+\ELANEnd 00:11:20.120
+\tx welu entulay
+\mb welu entu  -la   -y
+\ge pero sacar -NEG1 -IND.[3]
+\ps conj verbo -neg  -per
+
+\ft pero no sacaron
+\mm LamngenGraciela 2.wav 677.240 680.120
+
+\ref 161
+\ELANParticipant FH
+\ELANBegin 00:11:20.120
+\ELANEnd 00:11:23.800
+\tx entulay              ngoymay          chi  epew
+\mb entu  -la   -y       ngoyma  -y       chi  epew
+\ge sacar -NEG1 -IND.[3] olvidar -IND.[3] DEM2 epew
+\ps verbo -neg  -per     verbo   -per     dem  nombre
+
+\tx ka
+\mb ka
+\ge y
+\ps conj
+
+\ft no sacaron, olvidaron los epew también
+\mm LamngenGraciela 2.wav 680.120 683.800
+
+\ref 162
+\ELANParticipant FH
+\ELANBegin 00:11:23.800
+\ELANEnd 00:11:36.600
+\tx chi  pichiche,         chi  mapuche
+\mb chi  pichi    -che    chi  mapuche
+\ge DEM2 pequeño -gente  DEM2 mapuche
+\ps dem  adj      -nombre dem  nombre
+
+\tx pichiche          interesakelay
+\mb pichi    -che    interesa    -ke    -la   -y
+\ge pequeño -gente  interesarse -HAB   -NEG1 -IND.[3]
+\ps adj      -nombre verbo       -tam-e -neg  -per
+
+\tx chi  epew   mapuche
+\mb chi  epew   mapuche
+\ge DEM2 epew   mapuche
+\ps dem  nombre nombre
+
+\ft los niños ya parece que no les interesan los epew mapuche
+\mm LamngenGraciela 2.wav 683.800 696.600
+
+\ref 163
+\ELANParticipant GN
+\ELANBegin 00:11:36.560
+\ELANEnd 00:11:41.640
+\tx welu kimelngelay                  feymew   pe
+\mb welu kimel    -nge -la   -y       feymew   pe
+\ge pero enseñar -PAS -NEG1 -IND.[3] entonces ver
+\ps conj verbo    -per -neg  -per     conj     verbo
+
+\tx no
+\mb no
+\ge NEG2
+\ps adverbio
+
+\ft pero tampoco se les enseña, no es cierto?
+\mm LamngenGraciela 2.wav 696.560 701.640
+
+\ref 164
+\ELANParticipant FH
+\ELANBegin 00:11:41.600
+\ELANEnd 00:11:54.640
+\tx welu chi  mapuche pichi    küpa
+\mb welu chi  mapuche pichi    küpa
+\ge pero DEM2 mapuche pequeño querer
+\ps conj dem  nombre  adj      aux
+
+\tx allkütulafiy                        chi  epew
+\mb allkü   -tu    -la   -fi   -y       chi  epew
+\ge escuchar -APPL3 -NEG1 -3.OP -IND.[3] DEM2 epew
+\ps verbo    -per   -neg  -per  -per     dem  nombre
+
+\tx nütramkakelu            chi
+\mb nütramka -ke    -lu     chi
+\ge conversar -HAB   -advr.1 DEM2
+\ps verbo     -tam-e -advr   dem
+
+\tx papay
+\mb papay
+\ge viejita (afectivo)
+\ps nombre
+
+\ft pero los niños mapuches no quieren escuchar los epew que conversan las viejitas
+\mm LamngenGraciela 2.wav 701.600 714.640
+
+\ref 165
+\ELANParticipant FH
+\ELANBegin 00:11:54.640
+\ELANEnd 00:12:05.800
+\tx chi  papay              entukelay
+\mb chi  papay              entu  -ke    -la   -y
+\ge DEM2 viejita (afectivo) sacar -HAB   -NEG1 -IND.[3]
+\ps dem  nombre             verbo -tam-e -neg  -per
+
+\tx ñi    epew   fey  ngoymakey
+\mb ñi    epew   fey  ngoyma  -ke    -y
+\ge 3.POSS epew   DEM2 olvidar -HAB   -IND.[3]
+\ps pro    nombre pro  verbo   -tam-e -per
+
+\ft las viejitas no sacan su epew y entonces se olvidan
+\mm LamngenGraciela 2.wav 714.640 725.800
+
+\ref 166
+\ELANParticipant FH
+\ELANBegin 00:12:12.200
+\ELANEnd 00:12:23.440
+\tx re       tele        müten
+\mb re       tele        müten
+\ge solo     televisión no.más
+\ps adverbio nombre      adverbio
+
+\tx inaniey                fewla    chi  waria  mew
+\mb ina    -nie   -y       fewla    chi  waria  mew
+\ge seguir -PERF  -IND.[3] ahora    DEM2 ciudad PPOS
+\ps verbo  -tam-e -per     adverbio dem  nombre ppos
+
+\ft la tele no más siguen en la ciudad
+\mm LamngenGraciela 2.wav 732.200 743.440
+
+\ref 167
+\ELANParticipant FH
+\ELANBegin 00:12:23.880
+\ELANEnd 00:12:32.800
+\tx chumngechi, chem dungu  müley         chi
+\mb chumngechi  chem dungu  müle -y       chi
+\ge cómo       qué asunto estar -IND.[3] DEM2
+\ps pro         pro  nombre verbo -per     dem
+
+\tx mapuche ruka   mew  kuyfi
+\mb mapuche ruka   mew  kuyfi
+\ge mapuche casa   PPOS antiguamente
+\ps nombre  nombre ppos adv
+
+\ft ¿cómo, qué cosa había antes en la ruka mapuche?
+\mm LamngenGraciela 2.wav 743.880 752.800
+
+\ref 168
+\ELANParticipant FH
+\ELANBegin 00:12:32.800
+\ELANEnd 00:12:40.400
+\tx chumngechi ngekefuy                     chi
+\mb chumngechi nge   -ke    -fu    -y       chi
+\ge cómo      haber -HAB   -AP    -IND.[3] DEM2
+\ps pro        verbo -tam-e -tam-e -per     dem
+
+\tx mapuche ruka
+\mb mapuche ruka
+\ge mapuche casa
+\ps nombre  nombre
+
+\tx willi  mapu   mew
+\mb willi  mapu   mew
+\ge sur    tierra PPOS
+\ps nombre nombre ppos
+
+\ft ¿cómo era la casa mapuche en el sur?
+\mm LamngenGraciela 2.wav 752.800 760.400
+
+\ref 169
+\ELANParticipant GN
+\ELANBegin 00:12:40.360
+\ELANEnd 00:12:43.560
+\tx küna  ruka   kam  famngechi ruka
+\mb küna  ruka   kam  famngechi ruka
+\ge paja   casa   o    así      casa
+\ps nombre nombre conj adverbio  nombre
+
+\ft Ruka de paja o las casas así (como estas)
+\mm LamngenGraciela 2.wav 760.360 763.560
+
+\ref 170
+\ELANParticipant FH
+\ELANBegin 00:12:43.480
+\ELANEnd 00:12:44.720
+\tx kuyfi        ruka
+\mb kuyfi        ruka
+\ge antiguamente casa
+\ps adv          nombre
+
+\ft Las casas antiguas
+\mm LamngenGraciela 2.wav 763.480 764.720
+
+\ref 171
+\ELANParticipant GN
+\ELANBegin 00:12:48.040
+\ELANEnd 00:12:57.480
+\tx mülekefuy                   fütake      ruka   welu
+\mb müle -ke    -fu    -y       füta  -ke   ruka   welu
+\ge estar -HAB   -AP    -IND.[3] grande -DIST casa   pero
+\ps verbo -tam-e -tam-e -per     adj    -det  nombre conj
+
+\tx ñi    ngülawe
+\mb ñi    ngüla -we
+\ge 3.POSS abrir  -LOC
+\ps pro    verbo  -nmrz
+
+\tx mülekefuy
+\mb müle -ke    -fu    -y
+\ge estar -HAB   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -per
+
+\tx leliniekefuy                        chem,
+\mb leli  -nie   -ke    -fu    -y       chem
+\ge mirar -PERF  -HAB   -AP    -IND.[3] qué
+\ps verbo -tam-e -tam-e -tam-e -per     pro
+
+\tx puel   mapu
+\mb puel   mapu
+\ge este   tierra
+\ps nombre nombre
+
+\ft Habían grandes casas, pero su puerta estaba, miraba hacia el Este
+\mm LamngenGraciela 2.wav 768.040 777.480
+
+\ref 172
+\ELANParticipant JN
+\ELANBegin 00:12:57.440
+\ELANEnd 00:13:04.440
+\tx puel   mapu   mew  ngekefuy                     kiñe
+\mb puel   mapu   mew  nge   -ke    -fu    -y       kiñe
+\ge este   tierra PPOS haber -HAB   -AP    -IND.[3] un
+\ps nombre nombre ppos verbo -tam-e -tam-e -per     art
+
+\tx tripawe     kiñe rüpüwe     ka
+\mb tripa -we   kiñe rüpü -we   ka
+\ge salir -LOC  un    camino -LOC  y
+\ps verbo -nmrz art   nombre -nmrz conj
+
+\ft hacia el Este, había una salida hacia el camino también
+\mm LamngenGraciela 2.wav 777.440 784.440
+
+\ref 173
+\ELANParticipant GN
+\ELANBegin 00:13:04.400
+\ELANEnd 00:13:08.520
+\tx ngillatun       mew  ka   che    kom
+\mb ngillatu -n     mew  ka   che    kom
+\ge pedir    -NMRZ1 PPOS y    gente  todo
+\ps verbo    -nmrz  ppos conj nombre adverbio
+
+\tx lelikefuy                    uyew     püle
+\mb leli  -ke    -fu    -y       uyew     püle
+\ge mirar -HAB   -AP    -IND.[3] allá    hacia
+\ps verbo -tam-e -tam-e -per     adverbio adv
+
+\ft en el ngillatun también toda la gente miraba hacia el Este
+\mm LamngenGraciela 2.wav 784.400 788.520
+
+\ref 174
+\ELANParticipant GN
+\ELANBegin 00:13:08.520
+\ELANEnd 00:13:14.840
+\tx ka   lukutun              mew  ka
+\mb ka   luku    -tu   -n     mew  ka
+\ge y    rodilla -VERB -NMRZ1 PPOS y
+\ps conj nombre  -der  -nmrz  ppos conj
+
+\tx lelitukefuy
+\mb leli  -tu    -ke    -fu    -y
+\ge mirar -APPL3 -HAB   -AP    -IND.[3]
+\ps verbo -per   -tam-e -tam-e -per
+
+\tx kom      puel   mapu
+\mb kom      puel   mapu
+\ge todo     este   tierra
+\ps adverbio nombre nombre
+
+\ft y cuando se arrodillaban, todos miraban hacia el Este
+\mm LamngenGraciela 2.wav 788.520 794.840
+
+\ref 175
+\ELANParticipant GN
+\ELANBegin 00:13:14.840
+\ELANEnd 00:13:21.800
+\tx tripawe     antü  fey  lelikefuy
+\mb tripa -we   antü  fey  leli  -ke    -fu    -y
+\ge salir -LOC  sol    DEM2 mirar -HAB   -AP    -IND.[3]
+\ps verbo -nmrz nombre pro  verbo -tam-e -tam-e -per
+
+\tx che    ngillatukefuy                   ka
+\mb che    ngillatu -ke    -fu    -y       ka
+\ge gente  pedir    -HAB   -AP    -IND.[3] y
+\ps nombre verbo    -tam-e -tam-e -per     conj
+
+\ft hacia la salida del sur miraba la gente, oraba
+\mm LamngenGraciela 2.wav 794.840 801.800
+
+\ref 176
+\ELANParticipant GN
+\ELANBegin 00:13:21.800
+\ELANEnd 00:13:23.640
+\tx ka   ngülawe     ruka
+\mb ka   ngüla -we   ruka
+\ge y    abrir  -LOC  casa
+\ps conj verbo  -nmrz nombre
+
+\ft y la puerta de la casa
+\mm LamngenGraciela 2.wav 801.800 803.640
+
+\ref 177
+\ELANParticipant GN
+\ELANBegin 00:13:23.640
+\ELANEnd 00:13:29.360
+\tx puerta pingey              wingkadungun
+\mb puerta pi    -nge -y       wingkadungu     -n
+\ge puerta decir -PAS -IND.[3] hablar.español -NMRZ1
+\ps nombre verbo -per -per     verbo           -nmrz
+
+\tx mew  ka   femngechi niey           ka
+\mb mew  ka   femngechi nie   -y       ka
+\ge PPOS y    así      tener -IND.[3] y
+\ps ppos conj adverbio  verbo -per     conj
+
+\tx relkülekefuy
+\mb rel      -küle -ke    -fu    -y
+\ge derecho  -ESTAT -HAB   -AP    -IND.[3]
+\ps adverbio -tam-e -tam-e -tam-e -per
+
+\ft la puerta se dice en español, así tenía, estaba directo (hacia el sol)
+\mm LamngenGraciela 2.wav 803.640 809.360
+
+\ref 178
+\ELANParticipant GN
+\ELANBegin 00:13:29.360
+\ELANEnd 00:13:35.320
+\tx tripawe     antü  ñi
+\mb tripa -we   antü  ñi
+\ge salir -LOC  sol    3.POSS
+\ps verbo -nmrz nombre pro
+
+\tx relkülekefuy
+\mb rel      -küle -ke    -fu    -y
+\ge derecho  -ESTAT -HAB   -AP    -IND.[3]
+\ps adverbio -tam-e -tam-e -tam-e -per
+
+\ft hacia la salida del sol estaba mirando directo
+\mm LamngenGraciela 2.wav 809.360 815.320
+
+\ref 179
+\ELANParticipant FH
+\ELANBegin 00:13:35.280
+\ELANEnd 00:13:43.320
+\tx ka   chew   müley         chi
+\mb ka   chew   müle -y       chi
+\ge y    dónde estar -IND.[3] DEM2
+\ps conj pro    verbo -per     dem
+
+\tx kütralwe     tami          ruka
+\mb kütral -we   ta  -mi       ruka
+\ge fuego   -LOC  DET -2SG.POSS casa
+\ps nombre  -nmrz det -pro      nombre
+
+\tx mew
+\mb mew
+\ge PPOS
+\ps ppos
+
+\ft ¿y dónde estaba el fogón en tu ruka?
+\mm LamngenGraciela 2.wav 815.280 823.320
+
+\ref 180
+\ELANParticipant GN
+\ELANBegin 00:13:43.360
+\ELANEnd 00:13:51.160
+\tx iñche ñi      ruka   mew
+\mb iñche ñi      ruka   mew
+\ge 1SG    1SG.POSS casa   PPOS
+\ps pro    pro      nombre ppos
+
+\tx mülekefuy                   rangiñ ruka
+\mb müle -ke    -fu    -y       rangiñ ruka
+\ge estar -HAB   -AP    -IND.[3] medio   casa
+\ps verbo -tam-e -tam-e -per     nombre  nombre
+
+\tx femngekefuy                            ti   kütralwe
+\mb fem      -nge   -ke    -fu    -y       ti   kütral -we
+\ge ser.así -COP   -HAB   -AP    -IND.[3] DET2 fuego   -LOC
+\ps verbo    -verbo -tam-e -tam-e -per     det  nombre  -nmrz
+
+\ft En mi casa estaba en la mitad de la casa, así era el fogón
+\mm LamngenGraciela 2.wav 823.360 831.160
+
+\ref 181
+\ELANParticipant GN
+\ELANBegin 00:13:51.160
+\ELANEnd 00:14:03.040
+\tx fey  müley         ñi      kuku
+\mb fey  müle -y       ñi      kuku
+\ge DEM2 estar -IND.[3] 1SG.POSS abuela.paterna
+\ps pro  verbo -per     pro      nombre
+
+\tx walloñmekefuy                   kom
+\mb walloñ -meke    -fu    -y       kom
+\ge rodear  -PROG.AG -AP    -IND.[3] todo
+\ps verbo   -tam-e   -tam-e -per     adverbio
+
+\tx mülekefuy                   pu  iñchiñ pu  ñi
+\mb müle -ke    -fu    -y       pu  iñchiñ pu  ñi
+\ge estar -HAB   -AP    -IND.[3] COL nosotros COL 1SG.POSS
+\ps verbo -tam-e -tam-e -per     det pro      det pro
+
+\tx kuse    kuku           yem
+\mb kuse    kuku           yem
+\ge anciana abuela.paterna finado
+\ps adj     nombre         interj
+
+\ft entonces estaba mi mamá, rodeaban todos, estaban todos, nosotros, mi abuelita
+\mm LamngenGraciela 2.wav 831.160 843.040
+
+\ref 182
+\ELANParticipant GN
+\ELANBegin 00:14:03.040
+\ELANEnd 00:14:05.280
+\tx akukefuy
+\mb aku         -ke    -fu    -y
+\ge llegar.acá -HAB   -AP    -IND.[3]
+\ps verbo       -tam-e -tam-e -per
+
+\tx witranngekefuy
+\mb witran  -nge -ke    -fu    -y
+\ge visitar -PAS -HAB   -AP    -IND.[3]
+\ps verbo   -per -tam-e -tam-e -per
+
+\ft llegaban, nos visitaban
+\mm LamngenGraciela 2.wav 843.040 845.280
+
+\ref 183
+\ELANParticipant GN
+\ELANBegin 00:14:05.640
+\ELANEnd 00:14:11.000
+\tx nütramkakepafueyñmew
+\mb nütramka -ke    -pa    -fu    -e   -yñ     -mew
+\ge conversar -HAB   -DIR.1 -AP    -INV -IND.1PL -OBL
+\ps verbo     -tam-e -dir   -tam-e -per -per     -per
+
+\tx nütramkakefuy
+\mb nütramka -ke    -fu    -y
+\ge conversar -HAB   -AP    -IND.[3]
+\ps verbo     -tam-e -tam-e -per
+
+\ft Nos venían a conversar, conversaban
+\mm LamngenGraciela 2.wav 845.640 851.000
+
+\ref 184
+\ELANParticipant GN
+\ELANBegin 00:14:11.320
+\ELANEnd 00:14:14.280
+\tx chem rume
+\mb chem rume
+\ge qué siquiera
+\ps pro  adverbio
+
+\tx dallukefueyñmew
+\mb dallu     -ke    -fu    -e   -yñ     -mew
+\ge presentar -HAB   -AP    -INV -IND.1PL -OBL
+\ps verbo     -tam-e -tam-e -per -per     -per
+
+\ft nos presentaban
+\mm LamngenGraciela 2.wav 851.320 854.280
+
+\ref 185
+\ELANParticipant GN
+\ELANBegin 00:14:14.280
+\ELANEnd 00:14:19.360
+\tx epew   ka   chumngechi rume
+\mb epew   ka   chumngechi rume
+\ge epew   y    cómo      siquiera
+\ps nombre conj pro        adverbio
+
+\tx ngülamkefueyñmew
+\mb ngülam   -ke    -fu    -e   -yñ     -mew
+\ge aconsejar -HAB   -AP    -INV -IND.1PL -OBL
+\ps verbo     -tam-e -tam-e -per -per     -per
+
+\ft epew y nos aconsejaban
+\mm LamngenGraciela 2.wav 854.280 859.360
+
+\ref 186
+\ELANParticipant GN
+\ELANBegin 00:14:19.360
+\ELANEnd 00:14:23.200
+\tx ka   antü  dewmalmün        iyael  pu
+\mb ka   antü  dewma -l    -mün iyael  pu
+\ge y    día   hacer -COND -2PL  comida COL
+\ps conj nombre verbo -mod  -per  nombre det
+
+\tx papay
+\mb papay
+\ge viejita (afectivo)
+\ps nombre
+
+\ft "otro día cuando hagan comida, papay
+\mm LamngenGraciela 2.wav 859.360 863.200
+
+\ref 187
+\ELANParticipant GN
+\ELANBegin 00:14:23.200
+\ELANEnd 00:14:26.320
+\tx nielmün          ruka   fütangelmün
+\mb nie   -l    -mün ruka   füta  -nge   -l    -mün
+\ge tener -COND -2PL  casa   esposo -COP   -COND -2PL
+\ps verbo -mod  -per  nombre nombre -verbo -mod  -per
+
+\ft cuando tengan una casa, cuando se casen
+\mm LamngenGraciela 2.wav 863.200 866.320
+
+\ref 188
+\ELANParticipant GN
+\ELANBegin 00:14:26.320
+\ELANEnd 00:14:30.320
+\tx lladkün
+\mb lladkü -n
+\ge enojar  -NMRZ1
+\ps verbo   -nmrz
+
+\tx dewmakelayaymün                   chem rume
+\mb dewma -ke    -la   -ya    -ymün   chem rume
+\ge hacer -HAB   -NEG1 -FUT   -IND.2PL qué siquiera
+\ps verbo -tam-e -neg  -tam-e -per     pro  adverbio
+
+\tx iyael
+\mb iyael
+\ge comida
+\ps nombre
+
+\ft no harán la comida enojadas
+\mm LamngenGraciela 2.wav 866.320 870.320
+
+\ref 189
+\ELANParticipant GN
+\ELANBegin 00:14:30.320
+\ELANEnd 00:14:35.560
+\tx konalu                kalul  mew
+\mb kon    -a     -lu     kalul  mew
+\ge entrar -FUT   -advr.1 cuerpo PPOS
+\ps verbo  -tam-e -advr   nombre ppos
+
+\tx pikefuy                      rume     tuchi
+\mb pi    -ke    -fu    -y       rume     tu      -chi
+\ge decir -HAB   -AP    -IND.[3] mucho    agarrar -adjr
+\ps verbo -tam-e -tam-e -per     adverbio verbo   -***
+
+\tx ilu           ti   iyael
+\mb i     -lu     ti   iyael
+\ge comer -advr.1 DET2 comida
+\ps verbo -advr   det  nombre
+
+\ft porque eso entra al cuerpo, decían,  cuando se come la comida
+\mm LamngenGraciela 2.wav 870.320 875.560
+
+\ref 190
+\ELANParticipant GN
+\ELANBegin 00:14:35.560
+\ELANEnd 00:14:38.040
+\tx lladküdungulu           mew  dewmangeel
+\mb lladkü -dungu  -lu     mew  dewma -nge -el
+\ge enojar  -asunto -advr.1 PPOS hacer -PAS -NMRZ2
+\ps verbo   -nombre -advr   ppos verbo -per -nmzr
+
+\ft al ser hecho enojado
+\mm LamngenGraciela 2.wav 875.560 878.040
+
+\ref 191
+\ELANParticipant GN
+\ELANBegin 00:14:38.040
+\ELANEnd 00:14:40.320
+\tx kümelay                pikefuy
+\mb küme    -la   -y       pi    -ke    -fu    -y
+\ge bien     -NEG1 -IND.[3] decir -HAB   -AP    -IND.[3]
+\ps adverbio -neg  -per     verbo -tam-e -tam-e -per
+
+\ft no es buena, decìan
+\mm LamngenGraciela 2.wav 878.040 880.320
+
+\ref 192
+\ELANParticipant GN
+\ELANBegin 00:14:40.320
+\ELANEnd 00:14:47.760
+\tx ayükülekeaymün                       piwke
+\mb ayü      -küle -ke    -a     -ymün   piwke
+\ge alegrarse -ESTAT -HAB   -FUT   -IND.2PL corazón
+\ps verbo     -tam-e -tam-e -tam-e -per     nombre
+
+\tx dewmayael           iyael  eymün
+\mb dewma -ya    -el    iyael  eymün
+\ge hacer -FUT   -NMRZ2 comida ustedes
+\ps verbo -tam-e -nmzr  nombre pro
+
+\tx awkantun       reke
+\mb awkantu -n     reke
+\ge jugar   -NMRZ1 COMP
+\ps verbo   -nmrz  ppos
+
+\ft estará contento su corazón cuando hagan comida, como si fuera un juego
+\mm LamngenGraciela 2.wav 880.320 887.760
+
+\ref 193
+\ELANParticipant GN
+\ELANBegin 00:14:47.760
+\ELANEnd 00:14:48.600
+\tx pikefuy
+\mb pi    -ke    -fu    -y
+\ge decir -HAB   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -per
+
+\ft decían
+\mm LamngenGraciela 2.wav 887.760 888.600
+
+\ref 194
+\ELANParticipant GN
+\ELANBegin 00:14:48.600
+\ELANEnd 00:14:52.000
+\tx re       küme    chem newen
+\mb re       küme    chem newen
+\ge solo     bien     qué energía
+\ps adverbio adverbio pro  nombre
+
+\tx niekeymün            fey
+\mb nie   -ke    -ymün   fey
+\ge tener -HAB   -IND.2PL DEM2
+\ps verbo -tam-e -per     pro
+
+\ft solo buena energía tendrán entonces
+\mm LamngenGraciela 2.wav 888.600 892.000
+
+\ref 195
+\ELANParticipant GN
+\ELANBegin 00:14:52.000
+\ELANEnd 00:14:55.120
+\tx tuchi         ilu           ti   iyael  ka
+\mb tu      -chi  i     -lu     ti   iyael  ka
+\ge agarrar -adjr comer -advr.1 DET2 comida y
+\ps verbo   -***  verbo -advr   det  nombre conj
+
+\tx felekey                  ka
+\mb fele     -ke    -y       ka
+\ge ser así -HAB   -IND.[3] y
+\ps verbo    -tam-e -per     conj
+
+\ft el que come la comida así también está
+\mm LamngenGraciela 2.wav 892.000 895.120
+
+\ref 196
+\ELANParticipant GN
+\ELANBegin 00:14:55.120
+\ELANEnd 00:14:57.160
+\tx femngechi llowkey                   ñi
+\mb femngechi llow      -ke    -y       ñi
+\ge así      responder -HAB   -IND.[3] 1SG.POSS
+\ps adverbio  verbo     -tam-e -per     pro
+
+\tx kalul  pikefuy
+\mb kalul  pi    -ke    -fu    -y
+\ge cuerpo decir -HAB   -AP    -IND.[3]
+\ps nombre verbo -tam-e -tam-e -per
+
+\ft así recibe mi cuerpo decía
+\mm LamngenGraciela 2.wav 895.120 897.160
+
+\ref 197
+\ELANParticipant GN
+\ELANBegin 00:14:57.160
+\ELANEnd 00:14:59.040
+\tx ñi      kuku           em
+\mb ñi      kuku           em
+\ge 1SG.POSS abuela.paterna finado
+\ps pro      nombre         interj
+
+\ft mi abuelita
+\mm LamngenGraciela 2.wav 897.160 899.040
+
+\ref 198
+\ELANParticipant GN
+\ELANBegin 00:14:59.040
+\ELANEnd 00:15:03.040
+\tx kom      kimelkefueyñmew
+\mb kom      kimel    -ke    -fu    -e   -yñ     -mew
+\ge todo     enseñar -HAB   -AP    -INV -IND.1PL -OBL
+\ps adverbio verbo    -tam-e -tam-e -per -per     -per
+
+\tx chumngechi entuael
+\mb chumngechi entu  -a     -el
+\ge cómo      sacar -FUT   -NMRZ2
+\ps pro        verbo -tam-e -nmzr
+
+\tx mansana
+\mb mansana
+\ge manzana
+\ps nombre
+
+\ft todo eso nos enseñaban, cómo sacar manzanas
+\mm LamngenGraciela 2.wav 899.040 903.040
+
+\ref 199
+\ELANParticipant GN
+\ELANBegin 00:15:03.040
+\ELANEnd 00:15:06.040
+\tx chumngechi
+\mb chumngechi
+\ge cómo
+\ps pro
+
+\tx küpafkangekelafuy
+\mb küpaf         -ka    -nge -ke    -la   -fu    -y
+\ge dar.varillazos -CONT  -PAS -HAB   -NEG1 -AP    -IND.[3]
+\ps verbo          -tam-e -per -tam-e -neg  -tam-e -per
+
+\ft cómo no se apaleaban
+\mm LamngenGraciela 2.wav 903.040 906.040
+
+\ref 200
+\ELANParticipant GN
+\ELANBegin 00:15:06.040
+\ELANEnd 00:15:08.560
+\tx niekefuy                     kiñe fütra   rungi
+\mb nie   -ke    -fu    -y       kiñe fütra   rungi
+\ge tener -HAB   -AP    -IND.[3] un    gran     colihue
+\ps verbo -tam-e -tam-e -per     art   adverbio nombre
+
+\tx fey
+\mb fey
+\ge DEM2
+\ps pro
+
+\ft tenían un gran colihue, entonces
+\mm LamngenGraciela 2.wav 906.040 908.560
+
+\ref 201
+\ELANParticipant GN
+\ELANBegin 00:15:08.560
+\ELANEnd 00:15:15.880
+\tx walloñ femngechi turpu    lanza
+\mb walloñ femngechi turpu    la    -*nz -a
+\ge rodear  así      nunca    morir -*** -FUT
+\ps verbo   adverbio  adverbio verbo -*** -tam-e
+
+\tx reke niekelafuy                         turpu
+\mb reke nie   -ke    -la   -fu    -y       turpu
+\ge COMP tener -HAB   -NEG1 -AP    -IND.[3] nunca
+\ps ppos verbo -tam-e -neg  -tam-e -per     adverbio
+
+\tx allfülaael
+\mb allfü -la   -a     -el
+\ge herir  -NEG1 -FUT   -NMRZ2
+\ps verbo  -neg  -tam-e -nmzr
+
+\tx turpu
+\mb turpu
+\ge nunca
+\ps adverbio
+
+\ft sin punta así nunca como lanza se hacía para no herrila nunca
+\mm LamngenGraciela 2.wav 908.560 915.880
+
+\ref 202
+\ELANParticipant GN
+\ELANBegin 00:15:15.880
+\ELANEnd 00:15:20.120
+\tx re       famngechi re       laf    fey  kiñe
+\mb re       famngechi re       laf    fey  kiñe
+\ge solo     así      solo     giro   DEM2 un
+\ps adverbio adverbio  adverbio nombre pro  art
+
+\tx chumkakunukefuy
+\mb chum  -ka    -kunu  -ke    -fu    -y
+\ge cómo -CONT  -PRPS  -HAB   -AP    -IND.[3]
+\ps pro   -tam-e -tam-e -tam-e -tam-e -per
+
+\ft así con un giro no más así lo hacían
+\mm LamngenGraciela 2.wav 915.880 920.120
+
+\ref 203
+\ELANParticipant GN
+\ELANBegin 00:15:20.120
+\ELANEnd 00:15:22.880
+\tx ka   tranakefuy
+\mb ka   trana    -ke    -fu    -y
+\ge y    tenderse -HAB   -AP    -IND.[3]
+\ps conj verbo    -tam-e -tam-e -per
+
+\tx mansana welu
+\mb mansana welu
+\ge manzana pero
+\ps nombre  conj
+
+\ft así se caían las manzanas
+\mm LamngenGraciela 2.wav 920.120 922.880
+
+\ref 204
+\ELANParticipant GN
+\ELANBegin 00:15:22.880
+\ELANEnd 00:15:33.520
+\tx chem rume     küme    llowngey
+\mb chem rume     küme    llow      -nge -y
+\ge qué mucho    bien     responder -PAS -IND.[3]
+\ps pro  adverbio adverbio verbo     -per -per
+
+\tx elngekefuy                        ka   kiñe chem
+\mb el    -nge -ke    -fu    -y       ka   kiñe chem
+\ge dejar -PAS -HAB   -AP    -IND.[3] y    un    qué
+\ps verbo -per -tam-e -tam-e -per     conj art   pro
+
+\tx pingefuy                   ama  lamngen kiñe
+\mb pi    -nge -fu    -y       ama  lamngen kiñe
+\ge decir -PAS -AP    -IND.[3] INT  hermano un
+\ps verbo -per -tam-e -per     part nombre  art
+
+\tx küme    ñi    challa fey
+\mb küme    ñi    challa fey
+\ge bien     3.POSS olla   DEM2
+\ps adverbio pro    nombre pro
+
+\ft se recibían bien, se dejaban en una cuestión, cómo se llamaba hermano, para meterlo bien en una olla
+\mm LamngenGraciela 2.wav 922.880 933.520
+
+\ref 205
+\ELANParticipant GN
+\ELANBegin 00:15:33.520
+\ELANEnd 00:15:35.520
+\tx chew   ñi    llowam                  ti
+\mb chew   ñi    llow      -a     -m     ti
+\ge dónde 3.POSS responder -FUT   -ADVR2 DET2
+\ps pro    pro    verbo     -tam-e -advr  det
+
+\tx mansana
+\mb mansana
+\ge manzana
+\ps nombre
+
+\ft donde se reciben las manzanas
+\mm LamngenGraciela 2.wav 933.520 935.520
+
+\ref 206
+\ELANParticipant GN
+\ELANBegin 00:15:35.520
+\ELANEnd 00:15:39.160
+\tx amukelafuy                         mapu   mew
+\mb amu   -ke    -la   -fu    -y       mapu   mew
+\ge ir    -HAB   -NEG1 -AP    -IND.[3] tierra PPOS
+\ps verbo -tam-e -neg  -tam-e -per     nombre ppos
+
+\tx ñi    challofnon
+\mb ñi    challof    -no       -n
+\ge 3.POSS machucarse -NEG2     -NMRZ1
+\ps pro    verbo      -adverbio -nmrz
+
+\ft no se iba a la tierra para que no se machacara
+\mm LamngenGraciela 2.wav 935.520 939.160
+
+\ref 207
+\ELANParticipant GN
+\ELANBegin 00:15:39.160
+\ELANEnd 00:15:43.680
+\tx kiñe pontro reke kiñe fütra   chem
+\mb kiñe pontro reke kiñe fütra   chem
+\ge un    poncho COMP un    gran     qué
+\ps art   nombre ppos art   adverbio pro
+
+\tx kepito
+\mb kepito
+\ge quepito
+\ps nombre
+
+\ft como un gran poncho, un gran quepito
+\mm LamngenGraciela 2.wav 939.160 943.680
+
+\ref 208
+\ELANParticipant GN
+\ELANBegin 00:15:43.680
+\ELANEnd 00:15:48.160
+\tx feymew   relkülekefuy                          fey
+\mb feymew   rel      -küle -ke    -fu    -y       fey
+\ge entonces derecho  -ESTAT -HAB   -AP    -IND.[3] DEM2
+\ps conj     adverbio -tam-e -tam-e -tam-e -per     pro
+
+\tx nakümngekefuy                              ta
+\mb *nakü -m     -nge   -ke    -fu    -y       ta
+\ge ***    -ADVR2 -COP   -HAB   -AP    -IND.[3] DET
+\ps ***    -advr  -verbo -tam-e -tam-e -per     det
+
+\tx mansana
+\mb mansana
+\ge manzana
+\ps nombre
+
+\ft entonces así directo estaba y así se bajaban las manzanas
+\mm LamngenGraciela 2.wav 943.680 948.160
+
+\ref 209
+\ELANParticipant GN
+\ELANBegin 00:15:48.160
+\ELANEnd 00:15:52.760
+\tx ka   tukukan             ka   niefuy
+\mb ka   tuku  -ka    -n     ka   nie   -fu    -y
+\ge y    poner -CONT  -NMRZ1 y    tener -AP    -IND.[3]
+\ps conj tam-e -tam-e -nmrz  conj verbo -tam-e -per
+
+\tx ñi    ad     chumngechi ñi
+\mb ñi    ad     chumngechi ñi
+\ge 3.POSS imagen cómo      3.POSS
+\ps pro    nombre pro        pro
+
+\tx entungeael
+\mb entu  -nge -a     -el
+\ge sacar -PAS -FUT   -NMRZ2
+\ps verbo -per -tam-e -nmzr
+
+\ft otras siembras tienen su forma de como se sacan
+\mm LamngenGraciela 2.wav 948.160 952.760
+
+\ref 210
+\ELANParticipant GN
+\ELANBegin 00:15:52.760
+\ELANEnd 00:15:58.080
+\tx ti   pu  cebolla ka
+\mb ti   pu  cebolla ka
+\ge DET2 COL cebolla y
+\ps det  det nombre  conj
+
+\tx chemkülelu
+\mb chem -küle -lu
+\ge qué -ESTAT -advr.1
+\ps pro  -tam-e -advr
+
+\tx katrumelayafimün
+\mb katru  -me   -la   -ya    -fi   -mün
+\ge cortar -DIR3 -NEG1 -FUT   -3.OP -2PL.POS
+\ps verbo  -dir  -neg  -tam-e -per  -pro
+
+\tx pikefuy
+\mb pi    -ke    -fu    -y
+\ge decir -HAB   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -per
+
+\ft cuando la cebolla está plantada, no la van a ir a cortar
+\mm LamngenGraciela 2.wav 952.760 958.080
+
+\ref 211
+\ELANParticipant GN
+\ELANBegin 00:15:58.080
+\ELANEnd 00:16:00.840
+\tx nuaymün                kiñe tapül
+\mb nu      -a     -ymün   kiñe tapül
+\ge agarrar -FUT   -IND.2PL un    hoja
+\ps verbo   -tam-e -per     art   nombre
+
+\ft van a agarrar una hoja
+\mm LamngenGraciela 2.wav 958.080 960.840
+
+\ref 212
+\ELANParticipant GN
+\ELANBegin 00:16:00.840
+\ELANEnd 00:16:05.960
+\tx famnakümafimün                          fey
+\mb fam      -naküm      -a     -fi   -mün fey
+\ge así     -hacer.bajar -FUT   -3.OP -2PL  DEM2
+\ps adverbio -verbo       -tam-e -per  -per  pro
+
+\tx wula     witrakeafimün                  fey  ta
+\mb wula     witra -ke    -a     -fi   -mün fey  ta
+\ge después tirar -HAB   -FUT   -3.OP -2PL  DEM2 DET
+\ps adverbio verbo -tam-e -tam-e -per  -per  pro  det
+
+\tx pilkatu pingey
+\mb pilkatu pi    -nge -y
+\ge pilkatu decir -PAS -IND.[3]
+\ps verbo   verbo -per -per
+
+\tx pingekefuy
+\mb pi    -nge -ke    -fu    -y
+\ge decir -PAS -HAB   -AP    -IND.[3]
+\ps verbo -per -tam-e -tam-e -per
+
+\ft así tiene que hacerlo bajar y después lo va a levantar, pilkatu se llama eso, se decía
+\mm LamngenGraciela 2.wav 960.840 965.960
+
+\ref 213
+\ELANParticipant GN
+\ELANBegin 00:16:05.960
+\ELANEnd 00:16:09.840
+\tx katrukelaafimün
+\mb katru  -ke    -la   -a     -fi   -mün
+\ge cortar -HAB   -NEG1 -FUT   -3.OP -2PL
+\ps verbo  -tam-e -neg  -tam-e -per  -per
+
+\tx pilkatukeafimün
+\mb pilkatu -ke    -a     -fi   -mün
+\ge pilkatu -HAB   -FUT   -3.OP -2PL
+\ps verbo   -tam-e -tam-e -per  -per
+
+\tx pingekey
+\mb pi    -nge -ke    -y
+\ge decir -PAS -HAB   -IND.[3]
+\ps verbo -per -tam-e -per
+
+\ft no lo van a cortar, van a hacer pilkatu se decía
+\mm LamngenGraciela 2.wav 965.960 969.840
+
+\ref 214
+\ELANParticipant GN
+\ELANBegin 00:16:09.840
+\ELANEnd 00:16:15.080
+\tx felerkey                 iñchiñ
+\mb fele     -rke   -y       iñchiñ
+\ge ser así -EVID  -IND.[3] nosotros
+\ps verbo    -tam-e -per     pro
+
+\tx mekefiiñ                    ti
+\mb meke          -fi   -iñ     ti
+\ge estar.ocupado -3.OP -IND.1PL DET2
+\ps verbo         -per  -per     det
+
+\tx pafulpaful
+\mb *   -pa    -fu    -l    -pa    -fu    -l
+\ge *** -DIR.1 -AP    -COND -DIR.1 -AP    -COND
+\ps *** -dir   -tam-e -mod  -dir   -tam-e -mod
+
+\tx famngechi fey  ka
+\mb famngechi fey  ka
+\ge así      DEM2 y
+\ps adverbio  pro  conj
+
+\tx witrakefiiñ                fey
+\mb witra -ke    -fi   -iñ     fey
+\ge tirar -HAB   -3.OP -IND.1PL DEM2
+\ps verbo -tam-e -per  -per     pro
+
+\ft así era, nosotros le corríamos las hojas así y entonces lo levantabamos
+\mm LamngenGraciela 2.wav 969.840 975.080
+
+\ref 215
+\ELANParticipant GN
+\ELANBegin 00:16:15.080
+\ELANEnd 00:16:18.320
+\tx küme    tremkey                turpu
+\mb küme    trem   -ke    -y       turpu
+\ge bien     crecer -HAB   -IND.[3] nunca
+\ps adverbio verbo  -tam-e -per     adverbio
+
+\tx müna    küme
+\mb müna    küme
+\ge mucho    bien
+\ps adverbio adverbio
+
+\tx tremkületukey
+\mb trem   -küle -tu    -ke    -y
+\ge crecer -PROG  -APPL3 -HAB   -IND.[3]
+\ps verbo  -tam-e -per   -tam-e -per
+
+\ft así crece bien, así siempre crece muy bien
+\mm LamngenGraciela 2.wav 975.080 978.320
+
+\ref 216
+\ELANParticipant GN
+\ELANBegin 00:16:18.320
+\ELANEnd 00:16:21.280
+\tx kallpitun
+\mb kallpitu -n
+\ge recoger  -NMRZ1
+\ps verbo    -nmrz
+
+\tx kallpitungey
+\mb kallpitu -nge -y
+\ge recoger  -PAS -IND.[3]
+\ps verbo    -per -per
+
+\ft se recoge, son recogidas (uno por uno, por ejemplo las arvejas o las habas)
+\mm LamngenGraciela 2.wav 978.320 981.280
+
+\ref 217
+\ELANParticipant GN
+\ELANBegin 00:16:21.280
+\ELANEnd 00:16:27.040
+\tx turpu,   koni            huerta mew
+\mb turpu    kon    -i       huerta mew
+\ge nunca    entrar -IND.[3] huerta PPOS
+\ps adverbio verbo  -per     nombre ppos
+
+\tx re       amukatrukelafuiñ
+\mb re       amu   -katru  -ke    -la   -fu    -iñ
+\ge solo     ir    -cortar -HAB   -NEG1 -AP    -IND.1PL
+\ps adverbio verbo -verbo  -tam-e -neg  -tam-e -per
+
+\tx chem rume
+\mb chem rume
+\ge qué siquiera
+\ps pro  adverbio
+
+\ft entraba a la huerta y no llegabamos y cortabamos nada
+\mm LamngenGraciela 2.wav 981.280 987.040
+
+\ref 218
+\ELANParticipant GN
+\ELANBegin 00:16:27.040
+\ELANEnd 00:16:31.440
+\tx chem rume     fey  kom      iñchiñ kuku
+\mb chem rume     fey  kom      iñchiñ kuku
+\ge qué siquiera DEM2 todo     nosotros abuela.paterna
+\ps pro  adverbio pro  adverbio pro      nombre
+
+\tx ñi      chaw   ñi      ñuke
+\mb ñi      chaw   ñi      ñuke
+\ge 1SG.POSS padre  1SG.POSS madre
+\ps pro      nombre pro      nombre
+
+\tx kimelkefueyñmew
+\mb kimel    -ke    -fu    -e   -yñ     -mew
+\ge enseñar -HAB   -AP    -INV -IND.1PL -OBL
+\ps verbo    -tam-e -tam-e -per -per     -per
+
+\ft todo esto a nosotros, mi abuela, la mamá de mi papá, nos enseñaba
+\mm LamngenGraciela 2.wav 987.040 991.440
+
+\ref 219
+\ELANParticipant GN
+\ELANBegin 00:16:31.440
+\ELANEnd 00:16:35.680
+\tx ka   afle               ko     pun
+\mb ka   af       -l-e      ko     pun
+\ge y    terminar -COND-3SG agua   noche
+\ps conj verbo    -mod-per  nombre nombre
+
+\ft y cuando se acabe el agua en la noche
+\mm LamngenGraciela 2.wav 991.440 995.680
+
+\ref 220
+\ELANParticipant GN
+\ELANBegin 00:16:35.680
+\ELANEnd 00:16:38.200
+\tx amulmün          yemeael
+\mb amu   -l    -mün ye     -me   -a     -el
+\ge ir    -COND -2PL  llevar -DIR3 -FUT   -NMRZ2
+\ps verbo -mod  -per  verbo  -dir  -tam-e -nmzr
+
+\tx ko
+\mb ko
+\ge agua
+\ps nombre
+
+\ft cuando vayan a buscar agua
+\mm LamngenGraciela 2.wav 995.680 998.200
+
+\ref 221
+\ELANParticipant GN
+\ELANBegin 00:16:38.200
+\ELANEnd 00:16:42.640
+\tx pikefuy                      yeaymün
+\mb pi    -ke    -fu    -y       ye     -a     -ymün
+\ge decir -HAB   -AP    -IND.[3] llevar -FUT   -IND.2PL
+\ps verbo -tam-e -tam-e -per     verbo  -tam-e -per
+
+\tx metawe   fey
+\mb metawe   fey
+\ge cántaro DEM2
+\ps nombre   pro
+
+\tx amulkeafimün                          ti   ko
+\mb amu   -l     -ke    -a     -fi   -mün ti   ko
+\ge ir    -APPL3 -HAB   -FUT   -3.OP -2PL  DET2 agua
+\ps verbo -per   -tam-e -tam-e -per  -per  det  nombre
+
+\ft decían llevaràn un cantaro y van a hacer correr el agua
+\mm LamngenGraciela 2.wav 998.200 1002.640
+
+\ref 222
+\ELANParticipant GN
+\ELANBegin 00:16:42.640
+\ELANEnd 00:16:47.440
+\tx pikefuy                      famngechi famngechi
+\mb pi    -ke    -fu    -y       famngechi famngechi
+\ge decir -HAB   -AP    -IND.[3] así      así
+\ps verbo -tam-e -tam-e -per     adverbio  adverbio
+
+\tx fey
+\mb fey
+\ge DEM2
+\ps pro
+
+\ft decía, así, así, entonces
+\mm LamngenGraciela 2.wav 1002.640 1007.440
+
+\ref 223
+\ELANParticipant GN
+\ELANBegin 00:16:47.440
+\ELANEnd 00:16:51.240
+\tx pun    may      ko     pun    may      ko     kiñe
+\mb pun    may      ko     pun    may      ko     kiñe
+\ge noche  si       agua   noche  si       agua   un
+\ps nombre adverbio nombre nombre adverbio nombre art
+
+\tx püle kiñe püle künunge       ko
+\mb püle kiñe püle künu -nge     ko
+\ge hacia un    hacia dejar -IMP.2SG agua
+\ps adv   art   adv   verbo -mod     nombre
+
+\ft buenas noches agua, buenas noches agua, hagase un lado dueño del agua
+\mm LamngenGraciela 2.wav 1007.440 1011.240
+
+\ref 224
+\ELANParticipant GN
+\ELANBegin 00:16:51.240
+\ELANEnd 00:16:52.680
+\tx pikeaymün                   wüne
+\mb pi    -ke    -a     -ymün   wüne
+\ge decir -HAB   -FUT   -IND.2PL primero
+\ps verbo -tam-e -tam-e -per     adjetivo
+
+\ft van a decir primero
+\mm LamngenGraciela 2.wav 1011.240 1012.680
+
+\ref 225
+\ELANParticipant GN
+\ELANBegin 00:16:52.680
+\ELANEnd 00:16:54.840
+\tx fey  wula     entukeaymün                 ko
+\mb fey  wula     entu  -ke    -a     -ymün   ko
+\ge DEM2 después sacar -HAB   -FUT   -IND.2PL agua
+\ps pro  adverbio verbo -tam-e -tam-e -per     nombre
+
+\ft entonces después van a sacar el agua
+\mm LamngenGraciela 2.wav 1012.680 1014.840
+
+\ref 226
+\ELANParticipant GN
+\ELANBegin 00:16:54.840
+\ELANEnd 00:17:03.200
+\tx turpu    puwlmün                 ko     mew  turpu
+\mb turpu    puw          -l    -mün ko     mew  turpu
+\ge nunca    llegar.allá -COND -2PL  agua   PPOS nunca
+\ps adverbio verbo        -mod  -per  nombre ppos adverbio
+
+\tx ngekelaymün                purrüm      ka
+\mb nge   -ke    -la   -ymün   purrüm      ka
+\ge haber -HAB   -NEG1 -IND.2PL de.inmediato y
+\ps verbo -tam-e -neg  -per     adverbio     conj
+
+\tx entufuel            man     mew
+\mb entu  -fu    -el    man     mew
+\ge sacar -AP    -NMRZ2 derecha PPOS
+\ps verbo -tam-e -nmzr  nombre  ppos
+
+\ft nunca cuando lleguen al agua, nunca estarán allá y de inmediato van a sacar
+\mm LamngenGraciela 2.wav 1014.840 1023.200
+
+\ref 227
+\ELANParticipant GN
+\ELANBegin 00:17:03.200
+\ELANEnd 00:17:06.880
+\tx fey  pikeaymün                   iñche kom
+\mb fey  pi    -ke    -a     -ymün   iñche kom
+\ge DEM2 decir -HAB   -FUT   -IND.2PL 1SG    todo
+\ps pro  verbo -tam-e -tam-e -per     pro    adverbio
+
+\tx kimfin               femngechi
+\mb kim   -fi   -n       femngechi
+\ge saber -3.OP -IND.1SG así
+\ps verbo -per  -per     adverbio
+
+\ft entonces van a decir, todo eso yo lo sé, así
+\mm LamngenGraciela 2.wav 1023.200 1026.880
+
+\ref 228
+\ELANParticipant GN
+\ELANBegin 00:17:06.880
+\ELANEnd 00:17:10.160
+\tx pun    may      ko     kiñe püle künunge
+\mb pun    may      ko     kiñe püle künu -nge
+\ge noche  si       agua   un    hacia dejar -IMP.2SG
+\ps nombre adverbio nombre art   adv   verbo -mod
+
+\tx ngen   ko
+\mb ngen   ko
+\ge dueño agua
+\ps nombre nombre
+
+\ft buenas noches, agua, hacete un lado, dueño del agua
+\mm LamngenGraciela 2.wav 1026.880 1030.160
+
+\ref 229
+\ELANParticipant GN
+\ELANBegin 00:17:10.160
+\ELANEnd 00:17:11.640
+\tx fey  wula     entukefin
+\mb fey  wula     entu  -ke    -fi   -n
+\ge DEM2 después sacar -HAB   -3.OP -IND.1SG
+\ps pro  adverbio verbo -tam-e -per  -per
+
+\ft entonces después sacaba
+\mm LamngenGraciela 2.wav 1030.160 1031.640
+
+\ref 230
+\ELANParticipant GN
+\ELANBegin 00:17:11.640
+\ELANEnd 00:17:15.520
+\tx kom      kimelkefueyñmew
+\mb kom      kimel    -ke    -fu    -e   -yñ     -mew
+\ge todo     enseñar -HAB   -AP    -INV -IND.1PL -OBL
+\ps adverbio verbo    -tam-e -tam-e -per -per     -per
+
+\tx ñi      kuku           em
+\mb ñi      kuku           em
+\ge 1SG.POSS abuela.paterna finado
+\ps pro      nombre         interj
+
+\ft todo eso nos enseñaba mi abuela
+\mm LamngenGraciela 2.wav 1031.640 1035.520
+
+\ref 231
+\ELANParticipant GN
+\ELANBegin 00:17:15.520
+\ELANEnd 00:17:17.560
+\tx iñche ñi      chaw   ñi      ñuke
+\mb iñche ñi      chaw   ñi      ñuke
+\ge 1SG    1SG.POSS padre  1SG.POSS madre
+\ps pro    pro      nombre pro      nombre
+
+\ft la mamá de mi papá
+\mm LamngenGraciela 2.wav 1035.520 1037.560
+
+\ref 232
+\ELANParticipant GN
+\ELANBegin 00:17:17.560
+\ELANEnd 00:17:23.360
+\tx fey  llemay ka   chumngechi rume     iñchiñ
+\mb fey  llemay ka   chumngechi rume     iñchiñ
+\ge DEM2 pues   y    cómo      siquiera nosotros
+\ps pro  part   conj pro        adverbio pro
+
+\tx kulpaiñ        chem no       rume
+\mb kulpa  -iñ     chem no       rume
+\ge culpar -IND.1PL qué NEG2     siquiera
+\ps verbo  -per     pro  adverbio adverbio
+
+\ft ka de cualquier forma cometíamos alguna falta
+\mm LamngenGraciela 2.wav 1037.560 1043.360
+
+\ref 233
+\ELANParticipant GN
+\ELANBegin 00:17:23.360
+\ELANEnd 00:17:26.080
+\tx ñi      ñuke
+\mb ñi      ñuke
+\ge 1SG.POSS madre
+\ps pro      nombre
+
+\tx lladkütufueyñmew                       ka
+\mb lladkü -tu    -fu    -e   -yñ     -mew ka
+\ge enojar  -APPL3 -AP    -INV -IND.1PL -OBL y
+\ps verbo   -per   -tam-e -per -per     -per conj
+
+\ft mi mamá se enojaba mucho con nosotros
+\mm LamngenGraciela 2.wav 1043.360 1046.080
+
+\ref 234
+\ELANParticipant GN
+\ELANBegin 00:17:26.080
+\ELANEnd 00:17:30.400
+\tx wiñmakefueyñmew
+\mb wi      -ñma  -ke    -fu    -e   -yñ     -mew
+\ge golpear -APPL1 -HAB   -AP    -INV -IND.1PL -OBL
+\ps verbo   -per   -tam-e -tam-e -per -per     -per
+
+\tx fey  kuse    kuku           müna
+\mb fey  kuse    kuku           müna
+\ge DEM2 anciana abuela.paterna mucho
+\ps pro  adj     nombre         adverbio
+
+\tx lladkükefuy
+\mb lladkü -ke    -fu    -y
+\ge enojar  -HAB   -AP    -IND.[3]
+\ps verbo   -tam-e -tam-e -per
+
+\ft nos pegaba mi abuelita, se enojaba mucho
+\mm LamngenGraciela 2.wav 1046.080 1050.400
+
+\ref 235
+\ELANParticipant GN
+\ELANBegin 00:17:30.400
+\ELANEnd 00:17:36.320
+\tx chumngelu amta
+\mb chumngelu am   -t     -a
+\ge por qué  INT  -NMRZ3 -FUT
+\ps pro       part -nmrz  -tam-e
+
+\tx ngümangümayefimi
+\mb ngüma -ngüma -ye     -fi   -mi
+\ge llorar -llorar -llevar -3.OP -2SG
+\ps verbo  -verbo  -tam-e  -per  -per
+
+\tx ñi      püñeñ               pütrüley
+\mb ñi      püñeñ               pütrü  -le    -y
+\ge 1SG.POSS hijo (de ego femenino) mucho    -ESTAT -IND.[3]
+\ps pro      nombre                 adverbio -tam-e -per
+
+\tx mongen ñi
+\mb mongen ñi
+\ge vida   1SG.POSS
+\ps nombre pro
+
+\tx ngümayael
+\mb ngüma -ya    -el
+\ge llorar -FUT   -NMRZ2
+\ps verbo  -tam-e -nmzr
+
+\tx pikefuy
+\mb pi    -ke    -fu    -y
+\ge decir -HAB   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -per
+
+\ft ¿por qué está dele llorando tu hijo? Hay mucha vida para llorar, decía
+\mm LamngenGraciela 2.wav 1050.400 1056.320
+
+\ref 236
+\ELANParticipant GN
+\ELANBegin 00:17:36.320
+\ELANEnd 00:17:41.520
+\tx rume     poyekefueyñmew
+\mb rume     poye   -ke    -fu    -e   -yñ     -mew
+\ge mucho    querer -HAB   -AP    -INV -IND.1PL -OBL
+\ps adverbio verbo  -tam-e -tam-e -per -per     -per
+
+\tx re
+\mb re
+\ge solo
+\ps adverbio
+
+\tx famyawlkefueyñmew
+\mb fam      -yaw -l     -ke    -fu    -e   -yñ     -mew
+\ge así     -AND -APPL3 -HAB   -AP    -3SG -IND.1PL -OBL
+\ps adverbio -dir -per   -tam-e -tam-e -per -per     -per
+
+\ft nos quería mucho a nosotros, nos andaba trayendo así
+\mm LamngenGraciela 2.wav 1056.320 1061.520
+
+\ref 237
+\ELANParticipant GN
+\ELANBegin 00:17:41.520
+\ELANEnd 00:17:43.440
+\tx chem pingey              wingkadungun
+\mb chem pi    -nge -y       wingkadungu     -n
+\ge qué decir -PAS -IND.[3] hablar.español -NMRZ1
+\ps pro  verbo -per -per     verbo           -nmrz
+
+\tx mew  "piel"
+\mb mew  piel
+\ge PPOS piel
+\ps ppos nombre
+
+\ft ¿cómo se dice en español? Piel
+\mm LamngenGraciela 2.wav 1061.520 1063.440
+
+\ref 238
+\ELANParticipant GN
+\ELANBegin 00:17:43.440
+\ELANEnd 00:17:49.000
+\tx inafulñmaniefiiñ
+\mb inaful   -ñma  -nie   -fi   -iñ
+\ge cerca    -APPL1 -PERF  -3.OP -IND.1PL
+\ps adverbio -per   -tam-e -per  -per
+
+\tx famkefueyñmew                            longko
+\mb fam      -ke    -fu    -e   -yñ     -mew longko
+\ge así     -HAB   -AP    -INV -IND.1PL -OBL cabeza
+\ps adverbio -tam-e -tam-e -per -per     -per nombre
+
+\ft cuando la teníamos cerca, siempre nos acariciaba la cabeza
+\mm LamngenGraciela 2.wav 1063.440 1069.000
+
+\ref 239
+\ELANParticipant GN
+\ELANBegin 00:17:49.000
+\ELANEnd 00:17:51.880
+\tx famkefueyñmew
+\mb fam      -ke    -fu    -e   -yñ     -mew
+\ge así     -HAB   -AP    -INV -IND.1PL -OBL
+\ps adverbio -tam-e -tam-e -per -per     -per
+
+\tx pangkupangkupamekeiñmew
+\mb pangku  -pangku  -pa    -meke    -iñ     -mew
+\ge abrazar -abrazar -DIR.1 -PROG.AG -IND.1PL -OBL
+\ps verbo   -verbo   -dir   -tam-e   -per     -per
+
+\ft siempre nos hacía así, siempre nos abrazaba a nosotros
+\mm LamngenGraciela 2.wav 1069.000 1071.880
+
+\ref 240
+\ELANParticipant GN
+\ELANBegin 00:17:51.880
+\ELANEnd 00:17:53.920
+\tx rume     poyen             chengefuy
+\mb rume     poyen             che    -nge   -fu    -y
+\ge mucho    cariño, recuerdo gente  -COP   -AP    -IND.[3]
+\ps adverbio nombre            nombre -verbo -tam-e -per
+
+\ft era muy cariñosa
+\mm LamngenGraciela 2.wav 1071.880 1073.920
+
+\ref 241
+\ELANParticipant GN
+\ELANBegin 00:17:53.920
+\ELANEnd 00:17:56.800
+\tx rume     poyen             chengefuy
+\mb rume     poyen             che    -nge   -fu    -y
+\ge mucho    cariño, recuerdo gente  -COP   -AP    -IND.[3]
+\ps adverbio nombre            nombre -verbo -tam-e -per
+
+\tx ñi      kuku           em
+\mb ñi      kuku           em
+\ge 1SG.POSS abuela.paterna finado
+\ps pro      nombre         interj
+
+\ft era mi cariñosa mi abuela
+\mm LamngenGraciela 2.wav 1073.920 1076.800
+
+\ref 242
+\ELANParticipant GN
+\ELANBegin 00:17:56.800
+\ELANEnd 00:18:01.400
+\tx feymew   peno pütrün müna
+\mb feymew   peno pütrün müna
+\ge entonces DUB  mucho    mucho
+\ps conj     part adverbio adverbio
+
+\tx ngümafin           lan          mew
+\mb ngüma -fi   -n     la    -n     mew
+\ge llorar -3.OP -NMRZ1 morir -NMRZ1 PPOS
+\ps verbo  -per  -nmrz  verbo -nmrz  ppos
+
+\ft entonces la lloré mucho cuando murió
+\mm LamngenGraciela 2.wav 1076.800 1081.400
+
+\ref 243
+\ELANParticipant GN
+\ELANBegin 00:18:01.400
+\ELANEnd 00:18:05.200
+\tx feymew   iñchiñ
+\mb feymew   iñchiñ
+\ge entonces nosotros
+\ps conj     pro
+
+\tx konümpafilu           petu
+\mb konümpa -fi   -lu     petu
+\ge recordar -3.OP -advr.1 todavía
+\ps verbo    -per  -advr   adverbio
+
+\tx ngümakeiñ            ka
+\mb ngüma -ke    -iñ     ka
+\ge llorar -HAB   -IND.1PL y
+\ps verbo  -tam-e -per     conj
+
+\ft entonces cuando nos acordamos de ella todavía lloramos
+\mm LamngenGraciela 2.wav 1081.400 1085.200
+
+\ref 244
+\ELANParticipant GN
+\ELANBegin 00:18:05.200
+\ELANEnd 00:18:07.280
+\tx rume     ngümafiiñ
+\mb rume     ngüma -fi   -iñ
+\ge mucho    llorar -3.OP -IND.1PL
+\ps adverbio verbo  -per  -per
+
+\ft mucho la lloramos
+\mm LamngenGraciela 2.wav 1085.200 1087.280
+
+\ref 245
+\ELANParticipant GN
+\ELANBegin 00:18:07.280
+\ELANEnd 00:18:12.680
+\tx lalu          pewelafiiñ
+\mb la    -lu     pe    -we    -la   -fi   -iñ
+\ge morir -advr.1 ver   -INC   -NEG1 -3.OP -IND.1PL
+\ps verbo -advr   verbo -tam-E -neg  -per  -per
+
+\tx kom      ngümakefuiñ
+\mb kom      ngüma -ke    -fu    -iñ
+\ge todo     llorar -HAB   -AP    -IND.1PL
+\ps adverbio verbo  -tam-e -tam-e -per
+
+\ft cuando murió, ya no la vi más, todos la lloramos
+\mm LamngenGraciela 2.wav 1087.280 1092.680
+
+\ref 246
+\ELANParticipant GN
+\ELANBegin 00:18:12.680
+\ELANEnd 00:18:16.560
+\tx fey  miyawi         ofisa              mew  fey
+\mb fey  miyaw -i       o    -*fis -a     mew  fey
+\ge DEM2 andar -IND.[3] o    -***  -FUT   PPOS DEM2
+\ps pro  verbo -per     conj -***  -tam-e ppos pro
+
+\tx amukefuy
+\mb amu   -ke    -fu    -y
+\ge ir    -HAB   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -per
+
+\tx wallñmakepufiiñ
+\mb wall   -ñma  -ke    -pu   -fi   -iñ
+\ge rodear -APPL1 -HAB   -DIR2 -3.OP -IND.1PL
+\ps verbo  -per   -tam-e -dir  -per  -per
+
+\ft cuando andaba cuidando ovejas, la rodeabamos allá
+\mm LamngenGraciela 2.wav 1092.680 1096.560
+
+\ref 247
+\ELANParticipant GN
+\ELANBegin 00:18:16.560
+\ELANEnd 00:18:23.160
+\tx fey  pikefueyñmew
+\mb fey  pi    -ke    -fu    -e   -yñ     -mew
+\ge DEM2 decir -HAB   -AP    -INV -IND.1PL -OBL
+\ps pro  verbo -tam-e -tam-e -per -per     -per
+
+\tx kom      ka   nieelfuy                     üy
+\mb kom      ka   nie   -el    -fu    -y       üy
+\ge todo     y    tener -CAUS1 -AP    -IND.[3] nombre
+\ps adverbio conj verbo -per   -tam-e -per     nombre
+
+\tx ñi    pu  achawall
+\mb ñi    pu  achawall
+\ge 3.POSS COL gallina
+\ps pro    det nombre
+
+\ft entonces ella nos decía, todas las gallinas tenían nombre
+\mm LamngenGraciela 2.wav 1096.560 1103.160
+
+\ref 248
+\ELANParticipant GN
+\ELANBegin 00:18:23.160
+\ELANEnd 00:18:27.480
+\tx kom      üyelkefuy                           ñi
+\mb kom      üy    -el    -ke    -fu    -y       ñi
+\ge todo     nombre -CAUS1 -HAB   -AP    -IND.[3] 3.POSS
+\ps adverbio nombre -per   -tam-e -tam-e -per     pro
+
+\tx pu  achawall ñi    pu  ufisa  kom
+\mb pu  achawall ñi    pu  ufisa  kom
+\ge COL gallina  3.POSS COL oveja  todo
+\ps det nombre   pro    det nombre adverbio
+
+\ft todas las gallinas llevaban nombre, las ovejas, todo
+\mm LamngenGraciela 2.wav 1103.160 1107.480
+
+\ref 249
+\ELANParticipant GN
+\ELANBegin 00:18:27.480
+\ELANEnd 00:18:30.080
+\tx fentren  üy    nierkefuy
+\mb fentren  üy    nie   -rke   -fu    -y
+\ge mucho    nombre tener -EVID  -AP    -IND.[3]
+\ps adverbio nombre verbo -tam-e -tam-e -per
+
+\ft muchos nombres tenían
+\mm LamngenGraciela 2.wav 1107.480 1110.080
+
+\ref 250
+\ELANParticipant GN
+\ELANBegin 00:18:30.080
+\ELANEnd 00:18:36.880
+\tx kimfemkefuy
+\mb kim   -fem   -ke    -fu    -y
+\ge saber -INMD  -HAB   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -tam-e -per
+
+\tx nienolu                  kiñe achawall
+\mb nie   -no       -lu     kiñe achawall
+\ge tener -NEG2     -advr.1 un    gallina
+\ps verbo -adverbio -advr   art   nombre
+
+\tx "aaa ngerkelay
+\mb aaa  nge   -rke   -la   -y
+\ge aaa  haber -EVID  -NEG1 -IND.[3]
+\ps ***  verbo -tam-e -neg  -per
+
+\tx ti"
+\mb ti
+\ge DET2
+\ps det
+
+\ft sabían de inmediato cuando no tenían una gallina "aaa resulta que no está el..."
+\mm LamngenGraciela 2.wav 1110.080 1116.880
+
+\ref 251
+\ELANParticipant GN
+\ELANBegin 00:18:36.880
+\ELANEnd 00:18:41.920
+\tx ngerkelay                   ti   korko
+\mb nge   -rke   -la   -y       ti   korko
+\ge haber -EVID  -NEG1 -IND.[3] DET2 pelado
+\ps verbo -tam-e -neg  -per     det  adjetivo
+
+\tx pel    kom
+\mb pel    kom
+\ge cuello todo
+\ps nombre adverbio
+
+\tx üyelkefuy
+\mb üy    -el    -ke    -fu    -y
+\ge nombre -CAUS1 -HAB   -AP    -IND.[3]
+\ps nombre -per   -tam-e -tam-e -per
+
+\ft no está el cogote pelado, todos les hacían tener un nombre
+\mm LamngenGraciela 2.wav 1116.880 1121.920
+
+\ref 252
+\ELANParticipant GN
+\ELANBegin 00:18:41.920
+\ELANEnd 00:18:44.440
+\tx kimfemkefuy
+\mb kim   -fem   -ke    -fu    -y
+\ge saber -INMD  -HAB   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -tam-e -per
+
+\tx nienon                  mew
+\mb nie   -no       -n     mew
+\ge tener -NEG2     -NMRZ1 PPOS
+\ps verbo -adverbio -nmrz  ppos
+
+\ft se da cuenta altiro cuando no estaba
+\mm LamngenGraciela 2.wav 1121.920 1124.440
+
+\ref 253
+\ELANParticipant GN
+\ELANBegin 00:18:44.440
+\ELANEnd 00:18:49.040
+\tx ka   niefuy                kiñe
+\mb ka   nie   -fu    -y       kiñe
+\ge y    tener -AP    -IND.[3] un
+\ps conj verbo -tam-e -per     art
+
+\tx katan           kura
+\mb kata     -n     kura
+\ge perforar -NMRZ1 piedra
+\ps verbo    -nmrz  nombre
+
+\ft y tenía una piedra perforada
+\mm LamngenGraciela 2.wav 1124.440 1129.040
+
+\ref 254
+\ELANParticipant GN
+\ELANBegin 00:18:49.040
+\ELANEnd 00:18:54.080
+\tx niekefuy                     pu     ruka
+\mb nie   -ke    -fu    -y       pu     ruka
+\ge tener -HAB   -AP    -IND.[3] dentro casa
+\ps verbo -tam-e -tam-e -per     prep   nombre
+
+\tx cocina mew
+\mb cocina mew
+\ge cocina PPOS
+\ps nombre ppos
+
+\ft tenían dentro de la casa, en la cocina
+\mm LamngenGraciela 2.wav 1129.040 1134.080
+
+\ref 255
+\ELANParticipant GN
+\ELANBegin 00:18:54.080
+\ELANEnd 00:18:56.680
+\tx ka   niekefuy
+\mb ka   nie   -ke    -fu    -y
+\ge y    tener -HAB   -AP    -IND.[3]
+\ps conj verbo -tam-e -tam-e -per
+
+\tx koral  kulliñ mew
+\mb koral  kulliñ mew
+\ge corral animal  PPOS
+\ps nombre nombre  ppos
+
+\ft y tenían en el corral de los animales
+\mm LamngenGraciela 2.wav 1134.080 1136.680
+
+\ref 256
+\ELANParticipant GN
+\ELANBegin 00:18:56.680
+\ELANEnd 00:19:00.480
+\tx koral  kulliñ mew  ngülawe     mew
+\mb koral  kulliñ mew  ngüla -we   mew
+\ge corral animal  PPOS abrir  -LOC  PPOS
+\ps nombre nombre  ppos verbo  -nmrz ppos
+
+\tx mülekefuy
+\mb müle -ke    -fu    -y
+\ge estar -HAB   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -per
+
+\ft en el corral de los animales, en la puerta estaba
+\mm LamngenGraciela 2.wav 1136.680 1140.480
+
+\ref 257
+\ELANParticipant GN
+\ELANBegin 00:19:00.480
+\ELANEnd 00:19:02.200
+\tx pultrunniekefuy
+\mb pultrun -nie   -ke    -fu    -y
+\ge colgar  -PERF  -HAB   -AP    -IND.[3]
+\ps verbo   -tam-e -tam-e -tam-e -per
+
+\ft estaba colgado
+\mm LamngenGraciela 2.wav 1140.480 1142.200
+
+\ref 258
+\ELANParticipant GN
+\ELANBegin 00:19:02.200
+\ELANEnd 00:19:04.520
+\tx entukelaafimün
+\mb entu  -ke    -la   -a     -fi   -mün
+\ge sacar -HAB   -NEG1 -FUT   -3.OP -2PL
+\ps verbo -tam-e -neg  -tam-e -per  -per
+
+\tx pikefuy
+\mb pi    -ke    -fu    -y
+\ge decir -HAB   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -per
+
+\ft no la van a sacar, decían
+\mm LamngenGraciela 2.wav 1142.200 1144.520
+
+\ref 259
+\ELANParticipant GN
+\ELANBegin 00:19:04.520
+\ELANEnd 00:19:06.520
+\tx wüne    kimelkunukefueyñmew
+\mb wüne    kimel    -kunu  -ke    -fu    -e   -yñ     -mew
+\ge primero  enseñar -PRPS  -HAB   -AP    -INV -IND.1PL -OBL
+\ps adjetivo verbo    -tam-e -tam-e -tam-e -per -per     -per
+
+\ft primero nos daba a conocer
+\mm LamngenGraciela 2.wav 1144.520 1146.520
+
+\ref 260
+\ELANParticipant GN
+\ELANBegin 00:19:06.520
+\ELANEnd 00:19:17.600
+\tx tüfa ta  kamañ koral  kulliñ kamañ
+\mb tüfa ta  kamañ koral  kulliñ kamañ
+\ge DEM1  DET pastor corral animal  pastor
+\ps pro   det nombre nombre nombre  nombre
+
+\tx kulliñ pun    ta
+\mb kulliñ pun    ta
+\ge animal  noche  DET
+\ps nombre  nombre det
+
+\tx weñengepakalayay
+\mb weñe -nge -pa    -ka    -la   -ya    -y
+\ge robar -PAS -DIR.1 -CONT  -NEG1 -FUT   -IND.[3]
+\ps verbo -per -dir   -tam-e -neg  -tam-e -per
+
+\tx weñengekelay                    ta  kulliñ
+\mb weñe -nge -ke    -la   -y       ta  kulliñ
+\ge robar -PAS -HAB   -NEG1 -IND.[3] DET animal
+\ps verbo -per -tam-e -neg  -per     det nombre
+
+\tx mülen       mew  tüfachi    kura
+\mb müle -n     mew  tüfa -chi  kura
+\ge estar -NMRZ1 PPOS DEM1  -adjr piedra
+\ps verbo -nmrz  ppos pro   -***  nombre
+
+\tx pikefuy
+\mb pi    -ke    -fu    -y
+\ge decir -HAB   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -per
+
+\ft en el corral de los animales en la noche no nos van a venir a robar los animales porque está esta piedra, decían
+\mm LamngenGraciela 2.wav 1146.520 1157.600
+
+\ref 261
+\ELANParticipant GN
+\ELANBegin 00:19:17.600
+\ELANEnd 00:19:21.320
+\tx felepelay                      turpu
+\mb fele     -pe    -la   -y       turpu
+\ge ser así -CERT  -NEG1 -IND.[3] nunca
+\ps verbo    -tam-e -neg  -per     adverbio
+
+\tx weñengekelafuy
+\mb weñe -nge -ke    -la   -fu    -y
+\ge robar -PAS -HAB   -NEG1 -AP    -IND.[3]
+\ps verbo -per -tam-e -neg  -tam-e -per
+
+\ft habrá sido así, nunca nos robaron
+\mm LamngenGraciela 2.wav 1157.600 1161.320
+
+\ref 262
+\ELANParticipant GN
+\ELANBegin 00:19:21.320
+\ELANEnd 00:19:24.000
+\tx ka   ruka   mew  niekefuy                     ruka
+\mb ka   ruka   mew  nie   -ke    -fu    -y       ruka
+\ge y    casa   PPOS tener -HAB   -AP    -IND.[3] casa
+\ps conj nombre ppos verbo -tam-e -tam-e -per     nombre
+
+\tx mew
+\mb mew
+\ge PPOS
+\ps ppos
+
+\ft y en la ruka también tenían en la ruka
+\mm LamngenGraciela 2.wav 1161.320 1164.000
+
+\ref 263
+\ELANParticipant GN
+\ELANBegin 00:19:24.000
+\ELANEnd 00:19:28.000
+\tx ka   weñengekelay                    ruka   mew
+\mb ka   weñe -nge -ke    -la   -y       ruka   mew
+\ge y    robar -PAS -HAB   -NEG1 -IND.[3] casa   PPOS
+\ps conj verbo -per -tam-e -neg  -per     nombre ppos
+
+\tx tüfa mülen       mew  tüfachi    kura   piy
+\mb tüfa müle -n     mew  tüfa -chi  kura   pi    -y
+\ge DEM1  estar -NMRZ1 PPOS DEM1  -adjr piedra decir -IND.[3]
+\ps pro   verbo -nmrz  ppos pro   -***  nombre verbo -per
+
+\ft tampoco robaban en la casa cuando había esta piedra
+\mm LamngenGraciela 2.wav 1164.000 1168.000
+
+\ref 264
+\ELANParticipant GN
+\ELANBegin 00:19:28.000
+\ELANEnd 00:19:32.480
+\tx tüfa nga  furitu           nienon
+\mb tüfa nga  *fur -i   -tu    nie   -no       -n
+\ge DEM1  pues ***  -1SG -APPL3 tener -NEG2     -NMRZ1
+\ps pro   md   ***  -per -per   verbo -adverbio -nmrz
+
+\tx ngetulay                    ta
+\mb nge   -tu    -la   -y       ta
+\ge haber -APPL3 -NEG1 -IND.[3] DET
+\ps verbo -per   -neg  -per     det
+
+\tx weñeñmangeperkelan
+\mb weñe -ñma  -nge -pe    -rke   -la   -n
+\ge robar -APPL1 -PAS -CERT  -EVID  -NEG1 -IND.1SG
+\ps verbo -per   -per -tam-e -tam-e -neg  -per
+
+\ft esto ya no está detrás ahora, quizás me van a robar
+\mm LamngenGraciela 2.wav 1168.000 1172.480
+
+\ref 265
+\ELANParticipant GN
+\ELANBegin 00:19:32.480
+\ELANEnd 00:19:37.880
+\tx fey  iñche nien           kiñe katan
+\mb fey  iñche nie   -n       kiñe kata     -n
+\ge DEM2 1SG    tener -IND.1SG un    perforar -NMRZ1
+\ps pro  pro    verbo -per     art   verbo    -nmrz
+
+\tx kura   welu chew   chi  müley
+\mb kura   welu chew   chi  müle -y
+\ge piedra pero dónde DUB  estar -IND.[3]
+\ps nombre conj pro    part verbo -per
+
+\ft yo también tengo una katan kura pero ¿dónde estará?
+\mm LamngenGraciela 2.wav 1172.480 1177.880
+
+\ref 266
+\ELANParticipant GN
+\ELANBegin 00:19:37.880
+\ELANEnd 00:19:45.640
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1177.880 1185.640
+
+\ref 267
+\ELANParticipant GN
+\ELANBegin 00:19:45.640
+\ELANEnd 00:19:52.160
+\tx ka   mülekafuy                   chi  iñche
+\mb ka   müle -ka    -fu    -y       chi  iñche
+\ge y    estar -CONT  -AP    -IND.[3] DUB  1SG
+\ps conj verbo -tam-e -tam-e -per     part pro
+
+\tx nien           kiñe katan           kura
+\mb nie   -n       kiñe kata     -n     kura
+\ge tener -IND.1SG un    perforar -NMRZ1 piedra
+\ps verbo -per     art   verbo    -nmrz  nombre
+
+\tx lamngen iñche we       akun                 faw
+\mb lamngen iñche we       aku         -n       faw
+\ge hermano 1SG    recien   llegar.acá -IND.1SG acá
+\ps nombre  pro    adverbio verbo       -per     adverbio
+
+\ft estaba acá, yo tengo una katan kura, hermano, cuando recién llegué acá
+\mm LamngenGraciela 2.wav 1185.640 1192.160
+
+\ref 268
+\ELANParticipant GN
+\ELANBegin 00:19:52.160
+\ELANEnd 00:19:55.240
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1192.160 1195.240
+
+\ref 269
+\ELANParticipant GN
+\ELANBegin 00:19:55.240
+\ELANEnd 00:19:59.680
+\tx fey  nien           kiñe katan           kura
+\mb fey  nie   -n       kiñe kata     -n     kura
+\ge DEM2 tener -IND.1SG un    perforar -NMRZ1 piedra
+\ps pro  verbo -per     art   verbo    -nmrz  nombre
+
+\tx niekefin                    faw
+\mb nie   -ke    -fi   -n       faw
+\ge tener -HAB   -3.OP -IND.1SG acá
+\ps verbo -tam-e -per  -per     adverbio
+
+\ft entonces, tengo una katan kura, la tengo acá
+\mm LamngenGraciela 2.wav 1195.240 1199.680
+
+\ref 270
+\ELANParticipant GN
+\ELANBegin 00:19:59.680
+\ELANEnd 00:20:02.960
+\tx turpu    weñengekelaiñ
+\mb turpu    weñe -nge -ke    -la   -iñ
+\ge nunca    robar -PAS -HAB   -NEG1 -IND.1PL
+\ps adverbio verbo -per -tam-e -neg  -per
+
+\ft nunca nos han robado
+\mm LamngenGraciela 2.wav 1199.680 1202.960
+
+\ref 271
+\ELANParticipant GN
+\ELANBegin 00:20:02.960
+\ELANEnd 00:20:09.360
+\tx de   repente
+\mb de   re       -pe    -n       -t     -e
+\ge de   solo     -CERT  -IND.1SG -NMRZ3 -3SG
+\ps prep adverbio -tam-e -per     -nmrz  -per
+
+\tx pikefuy                      chem
+\mb pi    -ke    -fu    -y       chem
+\ge decir -HAB   -AP    -IND.[3] qué
+\ps verbo -tam-e -tam-e -per     pro
+
+\tx felekerkey
+\mb fele     -ke    -rke   -y
+\ge ser así -HAB   -EVID  -IND.[3]
+\ps verbo    -tam-e -tam-e -per
+
+\ft de repente, decían, dicen que es así
+\mm LamngenGraciela 2.wav 1202.960 1209.360
+
+\ref 272
+\ELANParticipant GN
+\ELANBegin 00:20:09.360
+\ELANEnd 00:20:14.760
+\tx fey  pu  karukatufe    fütake
+\mb fey  pu  karukatu -fe  füta  -ke
+\ge DEM2 COL vecino   -AG  grande -DIST
+\ps pro  det nombre   -der adj    -det
+
+\tx puray          koraltu
+\mb pura  -y       koral  -tu
+\ge subir -IND.[3] corral -RE
+\ps verbo -per     nombre -dir
+
+\tx weñengeyngün             ka   fey  engün
+\mb weñe -nge -y       -ngün ka   fey  engün
+\ge robar -PAS -IND.[3] -3.PL  y    DEM2 3.PL
+\ps verbo -per -per     -per   conj pro  per
+
+\ft los vecinos (a pesar de que) tienen su cerco alto, igual les roban
+\mm LamngenGraciela 2.wav 1209.360 1214.760
+
+\ref 273
+\ELANParticipant GN
+\ELANBegin 00:20:14.760
+\ELANEnd 00:20:20.480
+\tx nielu         galondegas    pingekelu
+\mb nie   -lu     galondegas    pi    -nge -ke    -lu
+\ge tener -advr.1 galón.de.gas decir -PAS -HAB   -advr.1
+\ps verbo -advr   nombre        verbo -per -tam-e -advr
+
+\tx entuñmangey               iñche
+\mb entu  -ñma  -nge -y       iñche
+\ge sacar -APPL1 -PAS -IND.[3] 1SG
+\ps verbo -per   -per -per     pro
+
+\tx ngülaley              kom      fey  ti
+\mb ngüla -le    -y       kom      fey  ti
+\ge abrir  -ESTAT -IND.[3] todo     DEM2 DET2
+\ps verbo  -tam-e -per     adverbio pro  det
+
+\ft cuando tengo galon de gas que se llama, está todo abierto
+\mm LamngenGraciela 2.wav 1214.760 1220.480
+
+\ref 274
+\ELANParticipant GN
+\ELANBegin 00:20:20.480
+\ELANEnd 00:20:22.600
+\tx entuñmakelañ chem rume
+\ft no nos sacan nada a nosotros
+\mm LamngenGraciela 2.wav 1220.480 1222.600
+
+\ref 275
+\ELANParticipant GN
+\ELANBegin 00:20:22.600
+\ELANEnd 00:20:26.720
+\tx iñche kuchatuken
+\mb iñche kucha -tu    -ke    -n
+\ge 1SG    lavar -APPL3 -HAB   -IND.1SG
+\ps pro    verbo -per   -tam-e -per
+
+\tx ropa   felen
+\mb ropa   fele     -n
+\ge ropa   ser así -NMRZ1
+\ps nombre verbo    -nmrz
+
+\tx umawkefuy                     turpu
+\mb umaw   -ke    -fu    -y       turpu
+\ge dormir -HAB   -AP    -IND.[3] nunca
+\ps verbo  -tam-e -tam-e -per     adverbio
+
+\tx entuñmamekelay
+\mb entu  -ñma  -meke    -la   -y
+\ge sacar -APPL1 -PROG.AG -NEG1 -IND.[3]
+\ps verbo -per   -tam-e   -neg  -per
+
+\ft lavo la ropa, así no más pasa la noche, nunca nos han robado
+\mm LamngenGraciela 2.wav 1222.600 1226.720
+
+\ref 276
+\ELANParticipant GN
+\ELANBegin 00:20:26.720
+\ELANEnd 00:20:29.000
+\tx welu katan           kura   mülekey
+\mb welu kata     -n     kura   müle -ke    -y
+\ge pero perforar -NMRZ1 piedra estar -HAB   -IND.[3]
+\ps conj verbo    -nmrz  nombre verbo -tam-e -per
+
+\ft pero está la katan kura
+\mm LamngenGraciela 2.wav 1226.720 1229.000
+
+\ref 277
+\ELANParticipant GN
+\ELANBegin 00:20:29.000
+\ELANEnd 00:20:33.600
+\tx fey  ta  pikefuy
+\mb fey  ta  pi    -ke    -fu    -y
+\ge DEM2 DET decir -HAB   -AP    -IND.[3]
+\ps pro  det verbo -tam-e -tam-e -per
+
+\tx pikefuy                      ñi      kuku
+\mb pi    -ke    -fu    -y       ñi      kuku
+\ge decir -HAB   -AP    -IND.[3] 1SG.POSS abuela.paterna
+\ps verbo -tam-e -tam-e -per     pro      nombre
+
+\tx witra-n     entumekefuy                    ta
+\mb witra -n    entu  -meke    -fu    -y       ta
+\ge tirar -NMRZ1sacar -PROG.AG -AP    -IND.[3] DET
+\ps verbo -nmrz verbo -tam-e   -tam-e -per     det
+
+\tx weñefe    pikefuy
+\mb weñe -fe  pi    -ke    -fu    -y
+\ge robar -AG  decir -HAB   -AP    -IND.[3]
+\ps verbo -der verbo -tam-e -tam-e -per
+
+\ft decía mi abuela "está espantando a los ladrones" decía
+\mm LamngenGraciela 2.wav 1229.000 1233.600
+
+\ref 278
+\ELANParticipant GN
+\ELANBegin 00:20:33.600
+\ELANEnd 00:20:38.640
+\tx nielmün          tüfa turpu
+\mb nie   -l    -mün tüfa turpu
+\ge tener -COND -2PL  DEM1  nunca
+\ps verbo -mod  -per  pro   adverbio
+
+\tx weñengelayaymün
+\mb weñe -nge -la   -ya    -ymün
+\ge robar -PAS -NEG1 -FUT   -IND.2PL
+\ps verbo -per -neg  -tam-e -per
+
+\tx pikefuy
+\mb pi    -ke    -fu    -y
+\ge decir -HAB   -AP    -IND.[3]
+\ps verbo -tam-e -tam-e -per
+
+\ft si tienen esto, nunca les van a robar decían
+\mm LamngenGraciela 2.wav 1233.600 1238.640
+
+\ref 279
+\ELANParticipant GN
+\ELANBegin 00:20:38.640
+\ELANEnd 00:20:40.560
+\tx kom      kimelkefueyñmew
+\mb kom      kimel    -ke    -fu    -e   -yñ     -mew
+\ge todo     enseñar -HAB   -AP    -INV -IND.1PL -OBL
+\ps adverbio verbo    -tam-e -tam-e -per -per     -per
+
+\ft todo eso nos enseñaban
+\mm LamngenGraciela 2.wav 1238.640 1240.560
+
+\ref 280
+\ELANParticipant GN
+\ELANBegin 00:20:40.560
+\ELANEnd 00:20:43.880
+\tx fey  iñche nien           kiñe katan
+\mb fey  iñche nie   -n       kiñe kata     -n
+\ge DEM2 1SG    tener -IND.1SG un    perforar -NMRZ1
+\ps pro  pro    verbo -per     art   verbo    -nmrz
+
+\tx kura   tüfa mew  mülelu       trokifin
+\mb kura   tüfa mew  müle -lu     troki   -fi   -n
+\ge piedra DEM1  PPOS estar -advr.1 parecer -3.OP -IND.1SG
+\ps nombre pro   ppos verbo -advr   verbo   -per  -per
+
+\ft entonces yo también tengo una katan kura, acá estaba me parece
+\mm LamngenGraciela 2.wav 1240.560 1243.880
+
+\ref 281
+\ELANParticipant GN
+\ELANBegin 00:20:43.880
+\ELANEnd 00:20:47.240
+\tx pero pepientulafin                        fey
+\mb pero pepi  -e   -ntu -la   -fi   -n       fey
+\ge pero poder -3SG -COL -NEG1 -3.OP -IND.1SG DEM2
+\ps conj aux   -per -det -neg  -per  -per     pro
+
+\ft pero no la puedo sacar
+\mm LamngenGraciela 2.wav 1243.880 1247.240
+
+\ref 282
+\ELANParticipant GN
+\ELANBegin 00:20:47.240
+\ELANEnd 00:20:51.080
+\tx chemkeaymün
+\mb chem -ke    -a     -ymün
+\ge qué -HAB   -FUT   -IND.2PL
+\ps pro  -tam-e -tam-e -per
+
+\tx pikefuy                      ñi      kuku
+\mb pi    -ke    -fu    -y       ñi      kuku
+\ge decir -HAB   -AP    -IND.[3] 1SG.POSS abuela.paterna
+\ps verbo -tam-e -tam-e -per     pro      nombre
+
+\tx em
+\mb em
+\ge finado
+\ps interj
+
+\ft así tienen que hacer decía mi abuela
+\mm LamngenGraciela 2.wav 1247.240 1251.080
+
+\ref 283
+\ELANParticipant GN
+\ELANBegin 00:20:51.080
+\ELANEnd 00:20:58.520
+\tx ka   küyen ka   apolu          mew
+\mb ka   küyen ka   apo    -lu     mew
+\ge y    luna   y    llenar -advr.1 PPOS
+\ps conj nombre conj verbo  -advr   ppos
+
+\tx luna
+\mb luna
+\ge luna
+\ps nombre
+
+\tx llena
+\mb llena
+\ge llena
+\ps adj
+
+\tx pingey              ta  wingka     fey  ka
+\mb pi    -nge -y       ta  wingka     fey  ka
+\ge decir -PAS -IND.[3] DET no.mapuche DEM2 y
+\ps verbo -per -per     det nombre     pro  conj
+
+\tx ngülakeymün
+\mb ngüla -ke    -ymün
+\ge abrir  -HAB   -IND.2PL
+\ps verbo  -tam-e -per
+
+\ft y cuando la luna estaba llena, entonces van a abrir
+\mm LamngenGraciela 2.wav 1251.080 1258.520
+
+\ref 284
+\ELANParticipant GN
+\ELANBegin 00:20:58.520
+\ELANEnd 00:21:01.320
+\tx cocina ruka   ruka   niekelmün
+\mb cocina ruka   ruka   nie   -ke    -l    -mün
+\ge cocina casa   casa   tener -HAB   -COND -2PL
+\ps nombre nombre nombre verbo -tam-e -mod  -per
+
+\tx ka
+\mb ka
+\ge y
+\ps conj
+
+\ft la cocina, si tienen casa
+\mm LamngenGraciela 2.wav 1258.520 1261.320
+
+\ref 285
+\ELANParticipant GN
+\ELANBegin 00:21:01.320
+\ELANEnd 00:21:04.680
+\tx ngillatukeymün          pikefuy
+\mb ngillatu -ke    -ymün   pi    -ke    -fu    -y
+\ge pedir    -HAB   -IND.2PL decir -HAB   -AP    -IND.[3]
+\ps verbo    -tam-e -per     verbo -tam-e -tam-e -per
+
+\tx fey
+\mb fey
+\ge DEM2
+\ps pro
+
+\ft van a orar, decían
+\mm LamngenGraciela 2.wav 1261.320 1264.680
+
+\ref 286
+\ELANParticipant GN
+\ELANBegin 00:21:04.680
+\ELANEnd 00:21:09.000
+\tx elumuan
+\mb elu   -mu  -a     -n
+\ge dar   -IMP -FUT   -IND.1SG
+\ps verbo -mod -tam-e -per
+
+\tx eluniemuiñ                  iyael  chaw
+\mb elu   -nie   -mu  -iñ     iyael  chaw
+\ge dar   -tener -IMP -IND.1PL comida padre
+\ps verbo -verbo -mod -per     nombre nombre
+
+\tx pikeaymün
+\mb pi    -ke    -a     -ymün
+\ge decir -HAB   -FUT   -IND.2PL
+\ps verbo -tam-e -tam-e -per
+
+\ft dame, danos comida, padre, van a decir
+\mm LamngenGraciela 2.wav 1264.680 1269.000
+
+\ref 287
+\ELANParticipant GN
+\ELANBegin 00:21:09.000
+\ELANEnd 00:21:11.160
+\tx mapuche ngillatukeymün          papay
+\mb mapuche ngillatu -ke    -ymün   papay
+\ge mapuche pedir    -HAB   -IND.2PL viejita (afectivo)
+\ps nombre  verbo    -tam-e -per     nombre
+
+\ft van a hacer oración mapuche, papay
+\mm LamngenGraciela 2.wav 1269.000 1271.160
+
+\ref 288
+\ELANParticipant GN
+\ELANBegin 00:21:11.160
+\ELANEnd 00:21:18.480
+\tx pikefuy                      apope
+\mb pi    -ke    -fu    -y       apo    -pe
+\ge decir -HAB   -AP    -IND.[3] llenar -IMP.3SG
+\ps verbo -tam-e -tam-e -per     verbo  -mod
+
+\tx tañi          cocina
+\mb ta  -ñi      cocina
+\ge DET -1SG.POSS cocina
+\ps det -pro      nombre
+
+\tx apope           tañi          challa iyael  mew
+\mb apo    -pe      ta  -ñi      challa iyael  mew
+\ge llenar -IMP.3SG DET -1SG.POSS olla   comida PPOS
+\ps verbo  -mod     det -pro      nombre nombre ppos
+
+\tx apope           tañi          chew   nien
+\mb apo    -pe      ta  -ñi      chew   nie   -n
+\ge llenar -IMP.3SG DET -1SG.POSS dónde tener -NMRZ1
+\ps verbo  -mod     det -pro      pro    verbo -nmrz
+
+\tx mew  kofke
+\mb mew  kofke
+\ge PPOS pan
+\ps ppos nombre
+
+\ft decían, que se llene mi cocina, que se llene mi olla de comida, que se llene donde tengo el pan
+\mm LamngenGraciela 2.wav 1271.160 1278.480
+
+\ref 289
+\ELANParticipant GN
+\ELANBegin 00:21:18.480
+\ELANEnd 00:21:20.320
+\tx apope           tañi          ponsiku
+\mb apo    -pe      ta  -ñi      ponsiku
+\ge llenar -IMP.3SG DET -1SG.POSS bolsillo
+\ps verbo  -mod     det -pro      nombre
+
+\ft que se llene mi bolsillo
+\mm LamngenGraciela 2.wav 1278.480 1280.320
+
+\ref 290
+\ELANParticipant GN
+\ELANBegin 00:21:20.320
+\ELANEnd 00:21:24.080
+\tx plata  mew  kullitu      mew
+\mb plata  mew  kulli -tu    mew
+\ge plata  PPOS pagar -APPL3 PPOS
+\ps nombre ppos verbo -per   ppos
+
+\tx pikeaymün
+\mb pi    -ke    -a     -ymün
+\ge decir -HAB   -FUT   -IND.2PL
+\ps verbo -tam-e -tam-e -per
+
+\tx pikefueyñmew                          kom
+\mb pi    -ke    -fu    -e   -yñ     -mew kom
+\ge decir -HAB   -AP    -INV -IND.1PL -OBL todo
+\ps verbo -tam-e -tam-e -per -per     -per adverbio
+
+\ft de plata, con plata, van a decir, nos decían, todo
+\mm LamngenGraciela 2.wav 1280.320 1284.080
+
+\ref 291
+\ELANParticipant GN
+\ELANBegin 00:21:24.080
+\ELANEnd 00:21:27.200
+\tx iñche femken
+\mb iñche fem      -ke    -n
+\ge 1SG    ser.así -HAB   -IND.1SG
+\ps pro    verbo    -tam-e -per
+
+\tx wefpay                   füta  küyen
+\mb wef      -pa    -y       füta  küyen
+\ge aparecer -DIR.1 -IND.[3] grande luna
+\ps verbo    -dir   -per     adj    nombre
+
+\ft yo lo hago cuando aparece la luna llena
+\mm LamngenGraciela 2.wav 1284.080 1287.200
+
+\ref 292
+\ELANParticipant GN
+\ELANBegin 00:21:27.200
+\ELANEnd 00:21:35.320
+\tx fey  pikellen                     may
+\mb fey  pi    -ke    -lle   -n       may
+\ge DEM2 decir -HAB   -CONF  -IND.1SG si
+\ps pro  verbo -tam-e -tam-e -per     adverbio
+
+\tx kom      yentukunuñmafin                                  ñi
+\mb kom      ye     -n     -tu    -kunu  -ñma  -fi   -n       ñi
+\ge todo     llevar -NMRZ1 -APPL3 -PRPS  -APPL1 -3.OP -IND.1SG 3.POSS
+\ps adverbio verbo  -nmrz  -per   -tam-e -per   -per  -per     pro
+
+\tx dungu  chem tañi        ngülam
+\mb dungu  chem ta  -ñi    ngülam
+\ge asunto qué DET -3.POSS aconsejar
+\ps nombre pro  det -pro    verbo
+
+\tx tañi          kuku           em
+\mb ta  -ñi      kuku           em
+\ge DET -1SG.POSS abuela.paterna finado
+\ps det -pro      nombre         interj
+
+\ft entonces digo así pues he llevado todo el consejo de mi abuela
+\mm LamngenGraciela 2.wav 1287.200 1295.320
+
+\ref 293
+\ELANParticipant GN
+\ELANBegin 00:21:35.320
+\ELANEnd 00:21:40.360
+\tx fey  ruf      dungu  perkeno            lamngen
+\mb fey  ruf      dungu  pe-rke-no          lamngen
+\ge DEM2 verdad   asunto ver-EVID-NEG2      hermano
+\ps pro  adverbio nombre ver-tam-e-adverbio nombre
+
+\tx fey  iñchiñ weñengekelaiñ
+\mb fey  iñchiñ weñe -nge   -ke    -la   -iñ
+\ge DEM2 nosotros robar -COP   -HAB   -NEG1 -IND.1PL
+\ps pro  pro      verbo -verbo -tam-e -neg  -per
+
+\tx faw
+\mb faw
+\ge acá
+\ps adverbio
+
+\ft al último será verdad, a nosotros no nos han robado nunca
+\mm LamngenGraciela 2.wav 1295.320 1300.360
+
+\ref 294
+\ELANParticipant GN
+\ELANBegin 00:21:40.360
+\ELANEnd 00:21:47.080
+\tx turpu    petu     mülelay             ti   fey
+\mb turpu    petu     müle -la   -y       ti   fey
+\ge nunca    todavía estar -NEG1 -IND.[3] DET2 DEM2
+\ps adverbio adverbio verbo -neg  -per     det  pro
+
+\tx ti   wekun    ti   reja
+\mb ti   wekun    ti   reja
+\ge DET2 afuera   DET2 reja
+\ps det  adverbio det  nombre
+
+\ft nunca, y todavía no hay rejas afuera
+\mm LamngenGraciela 2.wav 1300.360 1307.080
+
+\ref 295
+\ELANParticipant GN
+\ELANBegin 00:21:47.080
+\ELANEnd 00:21:48.960
+\tx ngekelafuy
+\mb nge   -ke    -la   -fu    -y
+\ge haber -HAB   -NEG1 -AP    -IND.[3]
+\ps verbo -tam-e -neg  -tam-e -per
+
+\ft no hay
+\mm LamngenGraciela 2.wav 1307.080 1308.960
+
+\ref 296
+\ELANParticipant GN
+\ELANBegin 00:21:48.960
+\ELANEnd 00:21:53.080
+\tx weñefe    miyawi         welu faw
+\mb weñe -fe  miyaw -i       welu faw
+\ge robar -AG  andar -IND.[3] pero acá
+\ps verbo -der verbo -per     conj adverbio
+
+\tx konpakelay
+\mb kon    -pa    -ke    -la   -y
+\ge entrar -DIR.1 -HAB   -NEG1 -IND.[3]
+\ps verbo  -dir   -tam-e -neg  -per
+
+\ft andan los ladrones pero no entran acá
+\mm LamngenGraciela 2.wav 1308.960 1313.080
+
+\ref 297
+\ELANParticipant JN
+\ELANBegin 00:21:53.040
+\ELANEnd 00:21:58.920
+\tx kontukey                    weñefe    welu entungekelaiñ
+\mb kon    -tu  -ke    -y       weñe -fe  welu entu  -nge -ke    -la   -iñ
+\ge entrar -RE  -HAB   -IND.[3] robar -AG  pero sacar -PAS -HAB   -NEG1 -IND.1PL
+\ps verbo  -dir -tam-e -per     verbo -der conj verbo -per -tam-e -neg  -per
+
+\ft entran los ladrones pero no nos sacan nada
+\mm LamngenGraciela 2.wav 1313.040 1318.920
+
+\ref 298
+\ELANParticipant GN
+\ELANBegin 00:21:58.920
+\ELANEnd 00:22:00.760
+\tx eluy           ñi    bicicleta
+\mb elu   -y       ñi    bicicleta
+\ge dar   -IND.[3] 3.POSS bicicleta
+\ps verbo -per     pro    nombre
+
+\tx wekun
+\mb wekun
+\ge afuera
+\ps adverbio
+
+\ft dejó su bicileta afuera
+\mm LamngenGraciela 2.wav 1318.920 1320.760
+
+\ref 299
+\ELANParticipant GN
+\ELANBegin 00:22:00.760
+\ELANEnd 00:22:04.560
+\tx ka   antü  mew  müley         ti   bicicleta
+\mb ka   antü  mew  müle -y       ti   bicicleta
+\ge y    día   PPOS estar -IND.[3] DET2 bicicleta
+\ps conj nombre ppos verbo -per     det  nombre
+
+\tx faw
+\mb faw
+\ge acá
+\ps adverbio
+
+\ft al otro día estaba la bicicleta acá
+\mm LamngenGraciela 2.wav 1320.760 1324.560
+
+\ref 300
+\ELANParticipant GN
+\ELANBegin 00:22:04.560
+\ELANEnd 00:22:08.600
+\tx chumngelu yengelay?
+\mb chumngelu ye     -nge -la   -y
+\ge por qué  llevar -PAS -NEG1 -IND.[3]
+\ps pro       verbo  -per -neg  -per
+
+\tx kimlan
+\mb kim   -la   -n
+\ge saber -NEG1 -IND.1SG
+\ps verbo -neg  -per
+
+\ft ¿por qué no se la llevaron? no lo sé
+\mm LamngenGraciela 2.wav 1324.560 1328.600
+
+\ref 301
+\ELANParticipant GN
+\ELANBegin 00:22:08.600
+\ELANEnd 00:22:11.000
+\tx fey  nieiñ         ti   katan           kura
+\mb fey  nie   -iñ     ti   kata     -n     kura
+\ge DEM2 tener -IND.1PL DET2 perforar -NMRZ1 piedra
+\ps pro  verbo -per     det  verbo    -nmrz  nombre
+
+\ft entonces, nosotros tenemos la katan kura
+\mm LamngenGraciela 2.wav 1328.600 1331.000
+
+\ref 302
+\ELANParticipant GN
+\ELANBegin 00:22:11.000
+\ELANEnd 00:22:14.640
+\tx kiñe famngechi ka   chem perforada
+\mb kiñe famngechi ka   chem perforada
+\ge un    así      y    qué perforada
+\ps art   adverbio  conj pro  adj
+
+\tx pingey
+\mb pi    -nge -y
+\ge decir -PAS -IND.[3]
+\ps verbo -per -per
+
+\ft Una, así, cómo es, perforada se llama
+\mm LamngenGraciela 2.wav 1331.000 1334.640
+
+\ref 303
+\ELANParticipant GN
+\ELANBegin 00:22:14.640
+\ELANEnd 00:22:19.320
+\tx fey  fey  rume     piam     ta
+\mb fey  fey  rume     piam     ta
+\ge DEM2 DEM2 mucho    EVID.REP DET
+\ps pro  pro  adverbio part     det
+
+\tx chemkey
+\mb chem -ke    -y
+\ge qué -HAB   -IND.[3]
+\ps pro  -tam-e -per
+
+\ft dicen que así hace esto
+\mm LamngenGraciela 2.wav 1334.640 1339.320
+
+\ref 304
+\ELANParticipant GN
+\ELANBegin 00:22:19.320
+\ELANEnd 00:22:23.960
+\tx chumngechi weñefe
+\mb chumngechi weñe -fe
+\ge cómo      robar -AG
+\ps pro        verbo -der
+
+\tx küpakekonfuy                         fey
+\mb küpa  -ke    -kon    -fu    -y       fey
+\ge querer -HAB   -entrar -AP    -IND.[3] DEM2
+\ps aux    -tam-e -verbo  -tam-e -per     pro
+
+\ft como los ladrones quieren entrar una y otra vez
+\mm LamngenGraciela 2.wav 1339.320 1343.960
+
+\ref 305
+\ELANParticipant GN
+\ELANBegin 00:22:23.960
+\ELANEnd 00:22:30.040
+\tx chem fey  fam
+\mb chem fey  fam
+\ge qué DEM2 así
+\ps pro  pro  adverbio
+
+\tx entuniengekey
+\mb entu  -nie   -nge -ke    -y
+\ge sacar -PERF  -PAS -HAB   -IND.[3]
+\ps verbo -tam-e -per -tam-e -per
+
+\tx pikefuy                      ñi      ñuke  yem,
+\mb pi    -ke    -fu    -y       ñi      ñuke  yem
+\ge decir -HAB   -AP    -IND.[3] 1SG.POSS madre  finado
+\ps verbo -tam-e -tam-e -per     pro      nombre interj
+
+\tx ñi      kuku           em
+\mb ñi      kuku           em
+\ge 1SG.POSS abuela.paterna finado
+\ps pro      nombre         interj
+
+\ft lo tiene así un lado decía mi abuela
+\mm LamngenGraciela 2.wav 1343.960 1350.040
+
+\ref 306
+\ELANParticipant GN
+\ELANBegin 00:22:30.040
+\ELANEnd 00:22:35.320
+\tx kom      femngechi
+\mb kom      femngechi
+\ge todo     así
+\ps adverbio adverbio
+
+\tx kimelkefueyñmew
+\mb kimel    -ke    -fu    -e   -yñ     -mew
+\ge enseñar -HAB   -AP    -INV -IND.1PL -OBL
+\ps verbo    -tam-e -tam-e -per -per     -per
+
+\ft todo eso nos enseñaron
+\mm LamngenGraciela 2.wav 1350.040 1355.320
+
+\ref 307
+\ELANParticipant FH
+\ELANBegin 00:22:35.280
+\ELANEnd 00:22:39.160
+\tx ka   fewla    eymi kuku
+\mb ka   fewla    eymi kuku
+\ge y    ahora    tú  abuela.paterna
+\ps conj adverbio pro  nombre
+
+\ft y ahora tú eres abuela
+\mm LamngenGraciela 2.wav 1355.280 1359.160
+
+\ref 308
+\ELANParticipant GN
+\ELANBegin 00:22:39.120
+\ELANEnd 00:22:42.040
+\tx ka   iñche kimelafin                      ñi
+\mb ka   iñche kimel    -a     -fi   -n       ñi
+\ge y    1SG    enseñar -FUT   -3.OP -IND.1SG 1SG.POSS
+\ps conj pro    verbo    -tam-e -per  -per     pro
+
+\tx kuku           fey  llemay
+\mb kuku           fey  llemay
+\ge abuela.paterna DEM2 pues
+\ps nombre         pro  part
+
+\ft Yo también le voy a enseñar a mi nieto, así es pues
+\mm LamngenGraciela 2.wav 1359.120 1362.040
+
+\ref 309
+\ELANParticipant GN
+\ELANBegin 00:22:42.040
+\ELANEnd 00:22:51.040
+\tx kimelkefin                     kom      iñche ñi
+\mb kimel    -ke    -fi   -n       kom      iñche ñi
+\ge enseñar -HAB   -3.OP -IND.1SG todo     1SG    1SG.POSS
+\ps verbo    -tam-e -per  -per     adverbio pro    pro
+
+\tx pu  prima  pingey
+\mb pu  prima  pi    -nge -y
+\ge COL prima  decir -PAS -IND.[3]
+\ps det nombre verbo -per -per
+
+\tx wingkadungun           mew
+\mb wingkadungu     -n     mew
+\ge hablar.español -NMRZ1 PPOS
+\ps verbo           -nmrz  ppos
+
+\ft Todo le enseñé a mi prima, se dice en español
+\mm LamngenGraciela 2.wav 1362.040 1371.040
+
+\ref 310
+\ELANParticipant GN
+\ELANBegin 00:22:51.040
+\ELANEnd 00:22:55.240
+\tx lamngen peñiwen
+\mb lamngen peñi                      -wen
+\ge hermano hermano (de ego masculino) -DI
+\ps nombre  nombre                     -mod
+
+\tx yall                    kom      iñche
+\mb yall                    kom      iñche
+\ge hijo (de ego masculino) todo     1SG
+\ps nombre                  adverbio pro
+
+\tx feypikefin
+\mb fey  -pi    -ke    -fi   -n
+\ge DEM2 -decir -HAB   -3.OP -IND.1SG
+\ps pro  -verbo -tam-e -per  -per
+
+\tx femkeaymün
+\mb fem      -ke    -a     -ymün
+\ge ser.así -HAB   -FUT   -IND.2PL
+\ps verbo    -tam-e -tam-e -per
+
+\ft a mi hermano, a los hijos de mis hermanos, les dije "van a hacer asì"
+\mm LamngenGraciela 2.wav 1371.040 1375.240
+
+\ref 311
+\ELANParticipant GN
+\ELANBegin 00:22:55.240
+\ELANEnd 00:22:58.240
+\tx lladkün
+\mb lladkü -n
+\ge enojar  -NMRZ1
+\ps verbo   -nmrz
+
+\tx dewmakelayaymün                   iyael
+\mb dewma -ke    -la   -ya    -ymün   iyael
+\ge hacer -HAB   -NEG1 -FUT   -IND.2PL comida
+\ps verbo -tam-e -neg  -tam-e -per     nombre
+
+\tx pin
+\mb pi    -n
+\ge decir -IND.1SG
+\ps verbo -per
+
+\ft no van a hacer la comida enojadas les dije
+\mm LamngenGraciela 2.wav 1375.240 1378.240
+
+\ref 312
+\ELANParticipant FH
+\ELANBegin 00:22:58.200
+\ELANEnd 00:23:07.160
+\tx may      ka   ñi    kuku           ñi    ñuke
+\mb may      ka   ñi    kuku           ñi    ñuke
+\ge si       y    3.POSS abuela.paterna 3.POSS madre
+\ps adverbio conj pro    nombre         pro    nombre
+
+\tx kimmapudunguy                      ka
+\mb kim   -mapudungu         -y       ka
+\ge saber -hablar mapudungun -IND.[3] y
+\ps verbo -verbo             -per     conj
+
+\ft y la mamá de tu nieto sabe mapudungun?
+\mm LamngenGraciela 2.wav 1378.200 1387.160
+
+\ref 313
+\ELANParticipant FH
+\ELANBegin 00:23:07.160
+\ELANEnd 00:23:13.520
+\tx ñi    kuku           ñi    ñuke
+\mb ñi    kuku           ñi    ñuke
+\ge 3.POSS abuela.paterna 3.POSS madre
+\ps pro    nombre         pro    nombre
+
+\ft la mamá de tu nieto
+\mm LamngenGraciela 2.wav 1387.160 1393.520
+
+\ref 314
+\ELANParticipant GN
+\ELANBegin 00:23:13.480
+\ELANEnd 00:23:17.320
+\tx iñche ñi      nanung
+\mb iñche ñi      nanung
+\ge 1SG    1SG.POSS nuera
+\ps pro    pro      nombre
+
+\ft ¿mi nuera?
+\mm LamngenGraciela 2.wav 1393.480 1397.320
+
+\ref 315
+\ELANParticipant GN
+\ELANBegin 00:23:17.320
+\ELANEnd 00:23:24.360
+\tx fey  ñi    ñuke  kimi
+\mb fey  ñi    ñuke  kim   -i
+\ge DEM2 3.POSS madre  saber -IND.[3]
+\ps pro  pro    nombre verbo -per
+
+\tx Clarita mew
+\mb Clarita mew
+\ge Clarita PPOS
+\ps nombre  ppos
+
+\tx kimmekey                    ka   iñche mew
+\mb kim   -me   -ke    -y       ka   iñche mew
+\ge saber -DIR3 -HAB   -IND.[3] y    1SG    PPOS
+\ps verbo -dir  -tam-e -per     conj pro    ppos
+
+\tx nütramkapakey
+\mb nütramka -pa    -ke    -y
+\ge conversar -DIR.1 -HAB   -IND.[3]
+\ps verbo     -dir   -tam-e -per
+
+\ft Su mamá sabe, va a aprender donde la Clarita y viene a conversar acá conmigo
+\mm LamngenGraciela 2.wav 1397.320 1404.360
+
+\ref 316
+\ELANParticipant GN
+\ELANBegin 00:23:24.360
+\ELANEnd 00:23:27.120
+\tx ka   kimngürey                     ka
+\mb ka   kim   -ngüre        -y       ka
+\ge y    saber -tejer.a.telar -IND.[3] y
+\ps conj verbo -verbo         -per     conj
+
+\ft Y también sabe tejer a telar
+\mm LamngenGraciela 2.wav 1404.360 1407.120
+
+\ref 317
+\ELANParticipant GN
+\ELANBegin 00:23:27.120
+\ELANEnd 00:23:29.760
+\tx miyawkey              ñi    chumün
+\mb miyaw -ke    -y       ñi    chum    -ün
+\ge andar -HAB   -IND.[3] 3.POSS cómo   -NMRZ1
+\ps verbo -tam-e -per     pro    pro     -nmrz
+
+\tx mapudungun mew
+\mb mapudungun mew
+\ge mapudungun PPOS
+\ps nombre     ppos
+
+\ft Anda su aprender mapudungun
+\mm LamngenGraciela 2.wav 1407.120 1409.760
+
+\ref 318
+\ELANParticipant GN
+\ELANBegin 00:23:29.760
+\ELANEnd 00:23:35.040
+\tx rume     fey  ka   rume     feypikey
+\mb rume     fey  ka   rume     fey  -pi    -ke    -y
+\ge mucho    DEM2 y    mucho    DEM2 -decir -HAB   -IND.[3]
+\ps adverbio pro  conj adverbio pro  -verbo -tam-e -per
+
+\ft Siempre dice
+\mm LamngenGraciela 2.wav 1409.760 1415.040
+
+\ref 319
+\ELANParticipant GN
+\ELANBegin 00:23:35.040
+\ELANEnd 00:23:38.840
+\tx ñi      püñeñ               wüne
+\mb ñi      püñeñ               wüne
+\ge 1SG.POSS hijo (de ego femenino) primero
+\ps pro      nombre                 adjetivo
+
+\tx kimay                 mapudungun fey  wula
+\mb kim   -a     -y       mapudungun fey  wula
+\ge saber -FUT   -IND.[3] mapudungun DEM2 después
+\ps verbo -tam-e -per     nombre     pro  adverbio
+
+\tx kimay                 wingkadungun
+\mb kim   -a     -y       wingkadungu     -n
+\ge saber -FUT   -IND.[3] hablar.español -NMRZ1
+\ps verbo -tam-e -per     verbo           -nmrz
+
+\ft Mi hijo primero va a saber mapudungun, después va a saber español
+\mm LamngenGraciela 2.wav 1415.040 1418.840
+
+\ref 320
+\ELANParticipant GN
+\ELANBegin 00:23:38.840
+\ELANEnd 00:23:44.240
+\tx fey  llemay epu     rume     kimün
+\mb fey  llemay epu     rume     kim     -ün
+\ge DEM2 pues   dos     mucho    saber   -NMRZ1
+\ps pro  part   número adverbio verbo   -nmrz
+
+\tx yeniey
+\mb ye     -nie   -y
+\ge llevar -PERF  -IND.[3]
+\ps verbo  -tam-e -per
+
+\ft Así es pues, dos conocimientos lleva
+\mm LamngenGraciela 2.wav 1418.840 1424.240
+
+\ref 321
+\ELANParticipant FH
+\ELANBegin 00:23:44.200
+\ELANEnd 00:23:50.000
+\tx tami          kuku           kiñe
+\mb ta  -mi       kuku           kiñe
+\ge DET -2SG.POSS abuela.paterna un
+\ps det -pro      nombre         art
+
+\tx weupi-fe-ngeay
+\mb weupi         -fe  -nge   -a     -y
+\ge dar.discursos -AG  -COP   -FUT   -IND.[3]
+\ps verbo         -der -verbo -tam-e -per
+
+\ft Tu nieto va a ser un wewpife
+\mm LamngenGraciela 2.wav 1424.200 1430.000
+
+\ref 322
+\ELANParticipant GN
+\ELANBegin 00:23:49.960
+\ELANEnd 00:23:54.440
+\tx pewmangen lamngen
+\mb pewmangen lamngen
+\ge ojalá    hermano
+\ps interj    nombre
+
+\tx weupifengeay
+\mb weupi         -fe  -nge   -a     -y
+\ge dar.discursos -AG  -COP   -FUT   -IND.[3]
+\ps verbo         -der -verbo -tam-e -per
+
+\tx ñi      kuku
+\mb ñi      kuku
+\ge 1SG.POSS abuela.paterna
+\ps pro      nombre
+
+\ft Ojalá hermano sea un wewpife mi nieto
+\mm LamngenGraciela 2.wav 1429.960 1434.440
+
+\ref 323
+\ELANParticipant GN
+\ELANBegin 00:23:54.440
+\ELANEnd 00:24:03.720
+\tx fey  weupife            küpan       ka   fey
+\mb fey  weupi         -fe  küpa -n     ka   fey
+\ge DEM2 dar.discursos -AG  venir -NMRZ1 y    DEM2
+\ps pro  verbo         -der verbo -nmrz  conj pro
+
+\tx niepelayay                         ñi    mollfün
+\mb nie   -pe    -la   -ya    -y       ñi    mollfün
+\ge tener -CERT  -NEG1 -FUT   -IND.[3] 3.POSS sangre
+\ps verbo -tam-e -neg  -tam-e -per     pro    nombre
+
+\tx mew  ka   amulepelayay
+\mb mew  ka   amu   -le    -pe    -la   -ya    -y
+\ge PPOS y    ir    -PROG  -CERT  -NEG1 -FUT   -IND.[3]
+\ps ppos conj verbo -tam-e -tam-e -neg  -tam-e -per
+
+\tx ñi    kimün       ka
+\mb ñi    kim   -ün   ka
+\ge 3.POSS saber -NMRZ1 y
+\ps pro    verbo -nmrz  conj
+
+\ft es descendiente de wewpife, en su sangre tendrá eso, irá a ir su conocimiento
+\mm LamngenGraciela 2.wav 1434.440 1443.720
+
+\ref 324
+\ELANParticipant GN
+\ELANBegin 00:24:03.720
+\ELANEnd 00:24:06.400
+\tx femay                    ta ti   lamngen
+\mb fem      -a     -y       ta ti   lamngen
+\ge ser.así -FUT   -IND.[3] DETDET2 hermano
+\ps verbo    -tam-e -per     detdet  nombre
+
+\ft Así será lamngen
+\mm LamngenGraciela 2.wav 1443.720 1446.400
+
+\ref 325
+\ELANParticipant FH
+\ELANBegin 00:24:06.360
+\ELANEnd 00:24:12.520
+\tx pewmangen kom      chi  pu  dungu  küme
+\mb pewmangen kom      chi  pu  dungu  küme
+\ge ojalá    todo     DEM2 COL asunto bien
+\ps interj    adverbio dem  det nombre adverbio
+
+\tx tripayay
+\mb tripa -ya    -y
+\ge salir -FUT   -IND.[3]
+\ps verbo -tam-e -per
+
+\ft Ojalá todas las cosas salgan bien
+\mm LamngenGraciela 2.wav 1446.360 1452.520
+
+\ref 326
+\ELANParticipant GN
+\ELANBegin 00:24:12.480
+\ELANEnd 00:24:18.280
+\tx küme    amulekafuy                          müten
+\mb küme    amu   -le    -ka    -fu    -y       müten
+\ge bien     ir    -PROG  -CONT  -AP    -IND.[3] no.más
+\ps adverbio verbo -tam-e -tam-e -tam-e -per     adverbio
+
+\tx küme    kom      püle weftule
+\mb küme    kom      püle wef      -tu  -l    -e
+\ge bien     todo     hacia aparecer -RE  -COND -3SG
+\ps adverbio adverbio adv   verbo    -dir -mod  -per
+
+\tx mapudungun
+\mb mapudungun
+\ge mapudungun
+\ps nombre
+
+\ft todo va a andar bien cuando vuelva a aparecer la lengua mapuche
+\mm LamngenGraciela 2.wav 1452.480 1458.280
+
+\ref 327
+\ELANParticipant GN
+\ELANBegin 00:24:18.280
+\ELANEnd 00:24:22.240
+\tx kom      pu  lof
+\mb kom      pu  lof
+\ge todo     COL comunidad
+\ps adverbio det nombre
+
+\tx mapudunguntufule                  lamngen
+\mb mapudungun -tu  -fu    -l    -e   lamngen
+\ge mapudungun -RE  -AP    -COND -3SG hermano
+\ps nombre     -dir -tam-e -mod  -per nombre
+
+\tx rume     kümeafulu
+\mb rume     küme    -a     -fu    -lu
+\ge mucho    bien     -FUT   -AP    -advr.1
+\ps adverbio adverbio -tam-e -tam-e -advr
+
+\ft si todas las comunidades hablaran mapuche sería bueno
+\mm LamngenGraciela 2.wav 1458.280 1462.240
+
+\ref 328
+\ELANParticipant GN
+\ELANBegin 00:24:22.240
+\ELANEnd 00:24:25.360
+\tx re       mapudungun mew  ka
+\mb re       mapudungun mew  ka
+\ge solo     mapudungun PPOS y
+\ps adverbio nombre     ppos conj
+
+\tx mülele          trawün         ka
+\mb müle -l    -e   trawü   -n     ka
+\ge estar -COND -3SG juntarse -NMRZ1 y
+\ps verbo -mod  -per verbo    -nmrz  conj
+
+\ft si hubieran reuniones solo en mapudungun
+\mm LamngenGraciela 2.wav 1462.240 1465.360
+
+\ref 329
+\ELANParticipant GN
+\ELANBegin 00:24:25.400
+\ELANEnd 00:24:27.680
+\tx doy      kümeafuy                       ka
+\mb doy      küme    -a     -fu    -y       ka
+\ge más     bien     -FUT   -AP    -IND.[3] y
+\ps adverbio adverbio -tam-e -tam-e -per     conj
+
+\ft sería mejor
+\mm LamngenGraciela 2.wav 1465.400 1467.680
+
+\ref 330
+\ELANParticipant GN
+\ELANBegin 00:24:27.680
+\ELANEnd 00:24:30.000
+\tx doy küpelkeiñ mapudungun mew lamngen
+\ft me gustaría que fuera en mapudungun hermano
+\mm LamngenGraciela 2.wav 1467.680 1470.000
+
+\ref 331
+\ELANParticipant GN
+\ELANBegin 00:24:30.000
+\ELANEnd 00:24:36.160
+\tx femngechi lladkürumey            che    kiñe
+\mb femngechi lladkü -rume  -y       che    kiñe
+\ge así      enojar  -RPN   -IND.[3] gente  un
+\ps adverbio  verbo   -tam-E -per     nombre art
+
+\tx mapudungun mew  chumngelu
+\mb mapudungun mew  chumngelu
+\ge mapudungun PPOS por qué
+\ps nombre     ppos pro
+
+\tx femmekeymi                 lamngen eymi
+\mb fem      -meke    -ymi     lamngen eymi
+\ge ser.así -PROG.AG -IND.2SG hermano tú
+\ps verbo    -tam-e   -per     nombre  pro
+
+\tx feypingeymi
+\mb fey  -pi    -nge -ymi
+\ge DEM2 -decir -PAS -IND.2SG
+\ps pro  -verbo -per -per
+
+\ft Así, se enoja la gente de repente, en mapudungun, ¿por qué haces así hermano? ¿por qué te dicen así?
+\mm LamngenGraciela 2.wav 1470.000 1476.160
+
+\ref 332
+\ELANParticipant GN
+\ELANBegin 00:24:36.160
+\ELANEnd 00:24:38.360
+\tx chemkey              ñamkey                po
+\mb chem -ke    -y       ñam   -ke    -y       po
+\ge qué -HAB   -IND.[3] perder -HAB   -IND.[3] pues
+\ps pro  -tam-e -per     verbo  -tam-e -per     part
+
+\tx lamngen
+\mb lamngen
+\ge hermano
+\ps nombre
+
+\ft As´es, se pierde pues hermano
+\mm LamngenGraciela 2.wav 1476.160 1478.360
+
+\ref 333
+\ELANParticipant GN
+\ELANBegin 00:24:38.440
+\ELANEnd 00:24:41.720
+\tx mapudungun mew  rume
+\mb mapudungun mew  rume
+\ge mapudungun PPOS siquiera
+\ps nombre     ppos adverbio
+
+\tx tutewkefuiñ                          welu
+\mb tute     -w    -ke    -fu    -iñ     welu
+\ge entender -REFL -HAB   -AP    -IND.1PL pero
+\ps verbo    -per  -tam-e -tam-e -per     conj
+
+\ft en mapudungun nos entendíamos
+\mm LamngenGraciela 2.wav 1478.440 1481.720
+
+\ref 334
+\ELANParticipant GN
+\ELANBegin 00:24:41.720
+\ELANEnd 00:24:45.360
+\tx welu rume     wesha dunguley               ka
+\mb welu rume     wesha dungu  -le    -y       ka
+\ge pero mucho    malo  asunto -PROG  -IND.[3] y
+\ps conj adverbio adj   nombre -tam-e -per     conj
+
+\tx ñi
+\mb ñi
+\ge 3.POSS
+\ps pro
+
+\ft pero muchas malas cosas están hablando
+\mm LamngenGraciela 2.wav 1481.720 1485.360
+
+\ref 335
+\ELANParticipant GN
+\ELANBegin 00:24:45.360
+\ELANEnd 00:24:49.680
+\tx kakelu             lamngen
+\mb ka   -ke   -lu     lamngen
+\ge y    -DIST -advr.1 hermano
+\ps conj -det  -advr   nombre
+
+\tx piwelay                     ñi
+\mb pi    -we    -la   -y       ñi
+\ge decir -INC   -NEG1 -IND.[3] 3.POSS
+\ps verbo -tam-E -neg  -per     pro
+
+\tx mapudunguael                    ka
+\mb mapudungu         -a     -el    ka
+\ge hablar mapudungun -FUT   -NMRZ2 y
+\ps verbo             -tam-e -nmzr  conj
+
+\tx pingeken                   iñche
+\mb pi    -nge -ke    -n       iñche
+\ge decir -PAS -HAB   -IND.1SG 1SG
+\ps verbo -per -tam-e -per     pro
+
+\ft otros hermanos ya no quieren aprender mapudungun y me dicen a mi
+\mm LamngenGraciela 2.wav 1485.360 1489.680
+
+\ref 336
+\ELANParticipant GN
+\ELANBegin 00:24:49.680
+\ELANEnd 00:24:54.280
+\tx re       eymi mapudungukelaymi
+\mb re       eymi mapudungu         -ke    -la   -ymi
+\ge solo     tú  hablar mapudungun -HAB   -NEG1 -IND.2SG
+\ps adverbio pro  verbo             -tam-e -neg  -per
+
+\tx piyawkeymi                 chumngelu
+\mb pi    -yaw -ke    -ymi     chumngelu
+\ge decir -AND -HAB   -IND.2SG por qué
+\ps verbo -dir -tam-e -per     pro
+
+\tx piyawkeymi
+\mb pi    -yaw -ke    -ymi
+\ge decir -AND -HAB   -IND.2SG
+\ps verbo -dir -tam-e -per
+
+\ft tu no hablas mapudungun andas diciendo ¿por qué andas diciendo?
+\mm LamngenGraciela 2.wav 1489.680 1494.280
+
+\ref 337
+\ELANParticipant GN
+\ELANBegin 00:24:54.280
+\ELANEnd 00:24:55.600
+\tx ka   pingeken                   llemay
+\mb ka   pi    -nge -ke    -n       llemay
+\ge y    decir -PAS -HAB   -IND.1SG pues
+\ps conj verbo -per -tam-e -per     part
+
+\ft Así me dicne pues
+\mm LamngenGraciela 2.wav 1494.280 1495.600
+
+\ref 338
+\ELANParticipant GN
+\ELANBegin 00:24:55.600
+\ELANEnd 00:24:58.000
+\tx re       tukukan             niekeiñ
+\mb re       tuku  -ka    -n     nie   -ke    -iñ
+\ge solo     poner -CONT  -NMRZ1 tener -HAB   -IND.1PL
+\ps adverbio tam-e -tam-e -nmrz  verbo -tam-e -per
+
+\tx pu  lamngen
+\mb pu  lamngen
+\ge COL hermano
+\ps det nombre
+
+\ft Pura ropa tienen los hermanos
+\mm LamngenGraciela 2.wav 1495.600 1498.000
+
+\ref 339
+\ELANParticipant GN
+\ELANBegin 00:24:58.000
+\ELANEnd 00:25:01.680
+\tx trarilongko
+\mb trari   -longko
+\ge amarrar -cabeza
+\ps verbo   -nombre
+
+\tx chamall ka   welu
+\mb chamall ka   welu
+\ge manta   y    pero
+\ps nombre  conj conj
+
+\tx hola   piyawkeyngün
+\mb hola   pi    -yaw -ke    -y       -ngün
+\ge hola   decir -AND -HAB   -IND.[3] -3.PL
+\ps interj verbo -dir -tam-e -per     -per
+
+\ft Trari longko, manta, pero "hola" andan diciendo
+\mm LamngenGraciela 2.wav 1498.000 1501.680
+
+\ref 340
+\ELANParticipant GN
+\ELANBegin 00:25:01.680
+\ELANEnd 00:25:04.720
+\tx mapuche nga  no       müten
+\mb mapuche nga  no       müten
+\ge mapuche pues NEG2     no.más
+\ps nombre  md   adverbio adverbio
+
+\ft no es mapuche eso no más po
+\mm LamngenGraciela 2.wav 1501.680 1504.720
+
+\ref 341
+\ELANParticipant FH
+\ELANBegin 00:25:04.680
+\ELANEnd 00:25:09.960
+\tx tüfachi    mapu   mew  kom      pu  che
+\mb tüfa -chi  mapu   mew  kom      pu  che
+\ge DEM1  -adjr tierra PPOS todo     COL gente
+\ps pro   -***  nombre ppos adverbio det nombre
+
+\tx mapuche mollfün niey
+\mb mapuche mollfün nie   -y
+\ge mapuche sangre   tener -IND.[3]
+\ps nombre  nombre   verbo -per
+
+\ft En esta tierra toda la gente tiene sangre mapuche
+\mm LamngenGraciela 2.wav 1504.680 1509.960
+
+\ref 342
+\ELANParticipant GN
+\ELANBegin 00:25:09.920
+\ELANEnd 00:25:13.880
+\tx kom      kimay                 mapudungun eymi
+\mb kom      kim   -a     -y       mapudungun eymi
+\ge todo     saber -FUT   -IND.[3] mapudungun tú
+\ps adverbio verbo -tam-e -per     nombre     pro
+
+\tx reke
+\mb reke
+\ge COMP
+\ps ppos
+
+\ft todos van a saber mapudungun, como tú
+\mm LamngenGraciela 2.wav 1509.920 1513.880
+
+\ref 343
+\ELANParticipant GN
+\ELANBegin 00:25:13.880
+\ELANEnd 00:25:16.800
+\tx eymi fütra   küme    nütramkayu        ti
+\mb eymi fütra   küme    nütramka -yu      ti
+\ge tú  gran     bien     conversar -IND.1DU DET2
+\ps pro  adverbio adverbio verbo     -per     det
+
+\ft nosotros conversamos muy bien
+\mm LamngenGraciela 2.wav 1513.880 1516.800
+
+\ref 344
+\ELANParticipant GN
+\ELANBegin 00:25:16.800
+\ELANEnd 00:25:20.920
+\tx mi       kimel    ka
+\mb mi       kimel    ka
+\ge 2SG.POSS enseñar y
+\ps pro      verbo    conj
+
+\tx felerpulmi                müchay   müten
+\mb fele     -rpu  -l    -mi  müchay   müten
+\ge ser así -DIR4 -COND -2SG más.rato no.más
+\ps verbo    -dir  -mod  -per adverbio  adverbio
+
+\tx kimaymi               lamngen
+\mb kim   -a     -ymi     lamngen
+\ge saber -FUT   -IND.2SG hermano
+\ps verbo -tam-e -per     nombre
+
+\ft tu enseñanzaa, si sigues así, rápidamente vas a saber hermano
+\mm LamngenGraciela 2.wav 1516.800 1520.920
+
+\ref 345
+\ELANParticipant GN
+\ELANBegin 00:25:20.920
+\ELANEnd 00:25:22.840
+\tx wünetuay                      tami          nütram
+\mb wüne    -tu   -a     -y       ta  -mi       nütram
+\ge primero  -VERB -FUT   -IND.[3] DET -2SG.POSS historia
+\ps adjetivo -der  -tam-e -per     det -pro      sustantivo
+
+\ft va a encabezar tu conversación
+\mm LamngenGraciela 2.wav 1520.920 1522.840
+
+\ref 346
+\ELANParticipant GN
+\ELANBegin 00:25:22.840
+\ELANEnd 00:25:27.200
+\tx feymew   chem lof       rume
+\mb feymew   chem lof       rume
+\ge entonces qué comunidad siquiera
+\ps conj     pro  nombre    adverbio
+
+\tx puwlmi                  uyew     willi  mapu
+\mb puw          -l    -mi  uyew     willi  mapu
+\ge llegar.allá -COND -2SG allá    sur    tierra
+\ps verbo        -mod  -per adverbio nombre nombre
+
+\ft entonces, en cualquier comunidad que llegues en el sur
+\mm LamngenGraciela 2.wav 1522.840 1527.200
+
+\ref 347
+\ELANParticipant GN
+\ELANBegin 00:25:27.200
+\ELANEnd 00:25:30.600
+\tx kimülmi         mapudunguymi
+\mb kim   -ül  -mi  mapudungu         -ymi
+\ge saber -COND -2SG hablar mapudungun -IND.2SG
+\ps verbo -mod  -per verbo             -per
+
+\tx iney   rume     chumpapeymi
+\mb iney   rume     chum  -pa    -pe    -ymi
+\ge quién siquiera cómo -DIR.1 -CERT  -IND.2SG
+\ps pro    adverbio pro   -dir   -tam-e -per
+
+\tx pingelayaymi
+\mb pi    -nge -la   -ya    -ymi
+\ge decir -PAS -NEG1 -FUT   -IND.2SG
+\ps verbo -per -neg  -tam-e -per
+
+\ft si sabes mapudungun, hablas mapudungun nadie te va a decir "¿Qué andas haciendo?"
+\mm LamngenGraciela 2.wav 1527.200 1530.600
+
+\ref 348
+\ELANParticipant GN
+\ELANBegin 00:25:30.600
+\ELANEnd 00:25:35.560
+\tx llowngeymi
+\mb llow      -nge -ymi
+\ge responder -PAS -IND.2SG
+\ps verbo     -per -per
+
+\tx mapudungula-fi-mi                  pu  che
+\mb mapudungu         -la   -fi   -mi  pu  che
+\ge hablar mapudungun -NEG1 -3.OP -2SG COL gente
+\ps verbo             -neg  -per  -per det nombre
+
+\tx uyew     mew
+\mb uyew     mew
+\ge allá    PPOS
+\ps adverbio ppos
+
+\ft serás recibido si le hablas mapudungun a la gente allá
+\mm LamngenGraciela 2.wav 1530.600 1535.560
+
+\ref 349
+\ELANParticipant GN
+\ELANBegin 00:25:35.560
+\ELANEnd 00:25:37.920
+\tx re       poyenngekey                              che
+\mb re       poyen             -nge   -ke    -y       che
+\ge solo     cariño, recuerdo -COP   -HAB   -IND.[3] gente
+\ps adverbio nombre            -verbo -tam-e -per     nombre
+
+\tx mapudungun mew  fey
+\mb mapudungun mew  fey
+\ge mapudungun PPOS DEM2
+\ps nombre     ppos pro
+
+\ft es muy cariñosa la gente en mapudungun
+\mm LamngenGraciela 2.wav 1535.560 1537.920
+
+\ref 350
+\ELANParticipant GN
+\ELANBegin 00:25:37.920
+\ELANEnd 00:25:41.200
+\tx kisu     iñ     che    akuy                 kisu
+\mb kisu     iñ     che    aku         -y       kisu
+\ge solo     1PL.POS gente  llegar.acá -IND.[3] solo
+\ps adverbio pro     nombre verbo       -per     adverbio
+
+\tx iñ     mollfün
+\mb iñ     mollfün
+\ge 1PL.POS sangre
+\ps pro     nombre
+
+\tx pingekeyaymi
+\mb pi    -nge -ke    -ya    -ymi
+\ge decir -PAS -HAB   -FUT   -IND.2SG
+\ps verbo -per -tam-e -tam-e -per
+
+\ft es nuestra gente, es nuetra sangre te van a decir
+\mm LamngenGraciela 2.wav 1537.920 1541.200
+
+\ref 351
+\ELANParticipant GN
+\ELANBegin 00:25:41.200
+\ELANEnd 00:25:44.200
+\tx femnolu                     may      ta  doy
+\mb fem      -no       -lu     may      ta  doy
+\ge ser.así -NEG2     -advr.1 si       DET más
+\ps verbo    -adverbio -advr   adverbio det adverbio
+
+\tx chemngekey
+\mb chem -nge -ke    -y
+\ge qué -PAS -HAB   -IND.[3]
+\ps pro  -per -tam-e -per
+
+\ft el que no hace así lo rechazan
+\mm LamngenGraciela 2.wav 1541.200 1544.200
+
+\ref 352
+\ELANParticipant FH
+\ELANBegin 00:25:44.160
+\ELANEnd 00:25:47.800
+\tx kiñeke che rakiduamkey
+\ft algunas personas piensan
+\mm LamngenGraciela 2.wav 1544.160 1547.800
+
+\ref 353
+\ELANParticipant FH
+\ELANBegin 00:25:47.800
+\ELANEnd 00:25:52.640
+\tx iñche nien           mollfün fey  mapuche
+\mb iñche nie   -n       mollfün fey  mapuche
+\ge 1SG    tener -IND.1SG sangre   DEM2 mapuche
+\ps pro    verbo -per     nombre   pro  nombre
+
+\tx iñche welu
+\mb iñche welu
+\ge 1SG    pero
+\ps pro    conj
+
+\ft yo tengo sangre mapuche, entonces yo soy mapuche pero
+\mm LamngenGraciela 2.wav 1547.800 1552.640
+
+\ref 354
+\ELANParticipant FH
+\ELANBegin 00:25:52.640
+\ELANEnd 00:25:58.760
+\tx müley         ñi
+\mb müle -y       ñi
+\ge estar -IND.[3] 3.POSS
+\ps verbo -per     pro
+
+\tx mapudunguael                    ka   müley
+\mb mapudungu         -a     -el    ka   müle -y
+\ge hablar mapudungun -FUT   -NMRZ2 y    estar -IND.[3]
+\ps verbo             -tam-e -nmzr  conj verbo -per
+
+\tx ñi    kimael              mapuche
+\mb ñi    kim   -a     -el    mapuche
+\ge 3.POSS saber -FUT   -NMRZ2 mapuche
+\ps pro    verbo -tam-e -nmzr  nombre
+
+\tx wimuntun               ka
+\mb wimun     -tu   -n     ka
+\ge costumbre -VERB -NMRZ1 y
+\ps nombre    -der  -nmrz  conj
+
+\ft también hay que hablar mapudungun y hay que conocer la costumbre mapuche también
+\mm LamngenGraciela 2.wav 1552.640 1558.760
+
+\ref 355
+\ELANParticipant FH
+\ELANBegin 00:25:58.760
+\ELANEnd 00:26:04.080
+\tx welu re       mollfün müten   mapuche
+\mb welu re       mollfün müten   mapuche
+\ge pero solo     sangre   no.más  mapuche
+\ps conj adverbio nombre   adverbio nombre
+
+\tx nielay
+\mb nie   -la   -y
+\ge tener -NEG1 -IND.[3]
+\ps verbo -neg  -per
+
+\ft pero solo sangre mapuche...
+\mm LamngenGraciela 2.wav 1558.760 1564.080
+
+\ref 356
+\ELANParticipant GN
+\ELANBegin 00:26:04.040
+\ELANEnd 00:26:09.840
+\tx fey  llemay lamngen fütra   kümey
+\mb fey  llemay lamngen fütra   küme    -y
+\ge DEM2 pues   hermano gran     bien     -IND.[3]
+\ps pro  part   nombre  adverbio adverbio -per
+
+\tx tami
+\mb ta  -mi
+\ge DET -2SG.POSS
+\ps det -pro
+
+\ft así es pues hermano, muy bueno lo que dices
+\mm LamngenGraciela 2.wav 1564.040 1569.840
+
+\ref 357
+\ELANParticipant FH
+\ELANBegin 00:26:09.760
+\ELANEnd 00:26:14.160
+\tx chofungelay                  ka   mapuche
+\mb chofu  -nge   -la   -y       ka   mapuche
+\ge flojo  -COP   -NEG1 -IND.[3] y    mapuche
+\ps nombre -verbo -neg  -per     conj nombre
+
+\tx mollfün müten
+\mb mollfün müten
+\ge sangre   no.más
+\ps nombre   adverbio
+
+\ft no hay que ser flojo
+\mm LamngenGraciela 2.wav 1569.760 1574.160
+
+\ref 358
+\ELANParticipant FH
+\ELANBegin 00:26:14.160
+\ELANEnd 00:26:20.040
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1574.160 1580.040
+
+\ref 359
+\ELANParticipant FH
+\ELANBegin 00:26:20.040
+\ELANEnd 00:26:23.560
+\tx welu müley         ñi    küdawael
+\mb welu müle -y       ñi    küdaw   -a     -el
+\ge pero estar -IND.[3] 3.POSS trabajar -FUT   -NMRZ2
+\ps conj verbo -per     pro    verbo    -tam-e -nmzr
+
+\tx chi  pu  mapuche ka
+\mb chi  pu  mapuche ka
+\ge DEM2 COL mapuche y
+\ps dem  det nombre  conj
+
+\ft hay que trabajar por el tema mapuche
+\mm LamngenGraciela 2.wav 1580.040 1583.560
+
+\ref 360
+\ELANParticipant GN
+\ELANBegin 00:26:23.520
+\ELANEnd 00:26:27.320
+\tx fey  llemay müley         ñi
+\mb fey  llemay müle -y       ñi
+\ge DEM2 pues   estar -IND.[3] 3.POSS
+\ps pro  part   verbo -per     pro
+
+\tx küdawael              ñi
+\mb küdaw   -a     -el    ñi
+\ge trabajar -FUT   -NMRZ2 3.POSS
+\ps verbo    -tam-e -nmzr  pro
+
+\tx trapumael                    che    ka
+\mb trapum         -a     -el    che    ka
+\ge hacer.reunión -FUT   -NMRZ2 gente  y
+\ps verbo          -tam-e -nmzr  nombre conj
+
+\ft así es pues hermano, hay que trabajar para juntarse
+\mm LamngenGraciela 2.wav 1583.520 1587.320
+
+\ref 361
+\ELANParticipant GN
+\ELANBegin 00:26:27.320
+\ELANEnd 00:26:35.080
+\tx welu allkütukelayngün
+\mb welu allkü   -tu    -ke    -la   -y       -ngün
+\ge pero escuchar -APPL3 -HAB   -NEG1 -IND.[3] -3.PL
+\ps conj verbo    -per   -tam-e -neg  -per     -per
+
+\tx politico  reke müleyngün
+\mb politico  reke müle -y       -ngün
+\ge político COMP estar -IND.[3] -3.PL
+\ps nombre    ppos verbo -per     -per
+
+\tx inayawleyngün                     müten   ka
+\mb ina    -yaw -le    -y       -ngün müten   ka
+\ge seguir -AND -PROG  -IND.[3] -3.PL  no.más  y
+\ps verbo  -dir -tam-e -per     -per   adverbio conj
+
+\tx ina    re       chem
+\mb ina    re       chem
+\ge seguir solo     qué
+\ps verbo  adverbio pro
+
+\ft pero no escuchan, como políticos están, andan a la siga de que...
+\mm LamngenGraciela 2.wav 1587.320 1595.080
+
+\ref 362
+\ELANParticipant GN
+\ELANBegin 00:26:35.080
+\ELANEnd 00:26:37.440
+\tx chem pingey              ama  lamngen
+\mb chem pi    -nge -y       ama  lamngen
+\ge qué decir -PAS -IND.[3] INT  hermano
+\ps pro  verbo -per -per     part nombre
+
+\ft ¿cómo se llama, hermano?
+\mm LamngenGraciela 2.wav 1595.080 1597.440
+
+\ref 363
+\ELANParticipant GN
+\ELANBegin 00:26:37.440
+\ELANEnd 00:26:41.800
+\tx re       elungenole
+\mb re       elu   -nge   -no       -l    -e
+\ge solo     dar   -haber -NEG2     -COND -3SG
+\ps adverbio verbo -verbo -adverbio -mod  -per
+
+\tx proyecto chem rume
+\mb proyecto chem rume
+\ge proyecto qué siquiera
+\ps nombre   pro  adverbio
+
+\tx chumkelay
+\mb chum  -ke    -la   -y
+\ge cómo -HAB   -NEG1 -IND.[3]
+\ps pro   -tam-e -neg  -per
+
+\ft si no le dan proyecto, no hacen nada
+\mm LamngenGraciela 2.wav 1597.440 1601.800
+
+\ref 364
+\ELANParticipant GN
+\ELANBegin 00:26:41.800
+\ELANEnd 00:26:43.840
+\tx kisu     mülen
+\mb kisu     müle -n
+\ge solo     estar -NMRZ1
+\ps adverbio verbo -nmrz
+
+\tx awkayngün             ka
+\mb awka   -y       -ngün ka
+\ge luchar -IND.[3] -3.PL  y
+\ps verbo  -per     -per   conj
+
+\ft andan solos luchando también
+\mm LamngenGraciela 2.wav 1601.800 1603.840
+
+\ref 365
+\ELANParticipant GN
+\ELANBegin 00:26:43.840
+\ELANEnd 00:26:46.680
+\tx wesha amuley                dungu
+\mb wesha amu   -le    -y       dungu
+\ge malo  ir    -PROG  -IND.[3] asunto
+\ps adj   verbo -tam-e -per     nombre
+
+\tx ta ti
+\mb ta ti
+\ge DETDET2
+\ps detdet
+
+\ft está yendo mal ese asunto, hermano
+\mm LamngenGraciela 2.wav 1603.840 1606.680
+
+\ref 366
+\ELANParticipant GN
+\ELANBegin 00:26:46.680
+\ELANEnd 00:26:50.520
+\tx pewmangen pu  weche pu  ülcha
+\mb pewmangen pu  weche pu  ülcha
+\ge ojalá    COL joven COL mujer.joven
+\ps interj    det adj   det nombre
+
+\tx ye-n          tukuay                dungu
+\mb ye     -n     tuku  -a     -y       dungu
+\ge llevar -NMRZ1 poner -FUT   -IND.[3] asunto
+\ps verbo  -nmrz  tam-e -tam-e -per     nombre
+
+\ft ojalá los jovenes, las jovenes lleven este asunto
+\mm LamngenGraciela 2.wav 1606.680 1610.520
+
+\ref 367
+\ELANParticipant FH
+\ELANBegin 00:26:50.480
+\ELANEnd 00:27:04.080
+\tx may      kom      pu  che    müley         ñi
+\mb may      kom      pu  che    müle -y       ñi
+\ge si       todo     COL gente  estar -IND.[3] 3.POSS
+\ps adverbio adverbio det nombre verbo -per     pro
+
+\tx küdawkeael                   ñi
+\mb küdaw   -ke    -a     -el    ñi
+\ge trabajar -HAB   -FUT   -NMRZ2 3.POSS
+\ps verbo    -tam-e -tam-e -nmzr  pro
+
+\tx witrayael           mapudungun tüfachi
+\mb witra -ya    -el    mapudungun tüfa -chi
+\ge tirar -FUT   -NMRZ2 mapudungun DEM1  -adjr
+\ps verbo -tam-e -nmzr  nombre     pro   -***
+
+\tx waria  mew, mapuche ka   mapuche no,
+\mb waria  mew  mapuche ka   mapuche no
+\ge ciudad PPOS mapuche y    mapuche NEG2
+\ps nombre ppos nombre  conj nombre  adverbio
+
+\tx ka   wecheke     wecheke     wentru
+\mb ka   weche -ke   weche -ke   wentru
+\ge y    joven -DIST joven -DIST hombre
+\ps conj adj   -det  adj   -det  nombre
+
+\tx wecheke     domo   ka   fücha
+\mb weche -ke   domo   ka   fücha
+\ge joven -DIST mujer  y    anciano
+\ps adj   -det  nombre conj nombre
+
+\ft si, toda la gente tiene que trabajar para levantar el mapudungun en esta ciudad, mapuches y no mapuches, jovenes, ancianos
+\mm LamngenGraciela 2.wav 1610.480 1624.080
+
+\ref 368
+\ELANParticipant GN
+\ELANBegin 00:27:04.040
+\ELANEnd 00:27:07.840
+\tx kom      femayu
+\mb kom      fem      -a     -yu
+\ge todo     ser.así -FUT   -IND.1DU
+\ps adverbio verbo    -tam-e -per
+
+\tx reyilu          dew      mollfün
+\mb reyi    -lu     dew      mollfün
+\ge mezclar -advr.1 ya       sangre
+\ps verbo   -advr   adverbio nombre
+
+\ft así lo haremos, como ya se mezcló la sangre
+\mm LamngenGraciela 2.wav 1624.040 1627.840
+
+\ref 369
+\ELANParticipant GN
+\ELANBegin 00:27:07.840
+\ELANEnd 00:27:11.000
+\tx iney   rume     eymi mapuche no
+\mb iney   rume     eymi mapuche no
+\ge quién siquiera tú  mapuche NEG2
+\ps pro    adverbio pro  nombre  adverbio
+
+\tx pinge-noalu
+\mb pi    -nge   -no       -a     -lu
+\ge decir -haber -NEG2     -FUT   -advr.1
+\ps verbo -verbo -adverbio -tam-e -advr
+
+\ft nadie dirá "tú no eres mapuche"
+\mm LamngenGraciela 2.wav 1627.840 1631.000
+
+\ref 370
+\ELANParticipant GN
+\ELANBegin 00:27:11.000
+\ELANEnd 00:27:14.360
+\tx füta  kuyfi        ñi    reyin          mollfün
+\mb füta  kuyfi        ñi    reyi    -n     mollfün
+\ge grande antiguamente 3.POSS mezclar -NMRZ1 sangre
+\ps adj    adv          pro    verbo   -nmrz  nombre
+
+\ft desde muy antiguo se mezcló la sangre
+\mm LamngenGraciela 2.wav 1631.000 1634.360
+
+\ref 371
+\ELANParticipant GN
+\ELANBegin 00:27:14.360
+\ELANEnd 00:27:20.000
+\tx fey  ti   chem rume     chem
+\mb fey  ti   chem rume     chem
+\ge DEM2 DET2 qué siquiera qué
+\ps pro  det  pro  adverbio pro
+
+\tx pingey              ama  apellido rume
+\mb pi    -nge -y       ama  apellido rume
+\ge decir -PAS -IND.[3] INT  apellido siquiera
+\ps verbo -per -per     part nombre   adverbio
+
+\tx nienole                 welu mollfün mew
+\mb nie   -no       -le    welu mollfün mew
+\ge tener -NEG2     -PROG  pero sangre   PPOS
+\ps verbo -adverbio -tam-e conj nombre   ppos
+
+\tx yeniey                 ta ti
+\mb ye     -nie   -y       ta ti
+\ge llevar -PERF  -IND.[3] DETDET2
+\ps verbo  -tam-e -per     detdet
+
+\ft ese, cómo se llama, no tiene apellido pero lleva la sangre pues
+\mm LamngenGraciela 2.wav 1634.360 1640.000
+
+\ref 372
+\ELANParticipant FH
+\ELANBegin 00:27:19.960
+\ELANEnd 00:27:28.760
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1639.960 1648.760
+
+\ref 373
+\ELANParticipant FH
+\ELANBegin 00:27:28.760
+\ELANEnd 00:27:33.880
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1648.760 1653.880
+
+\ref 374
+\ELANParticipant FH
+\ELANBegin 00:27:33.880
+\ELANEnd 00:27:40.240
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1653.880 1660.240
+
+\ref 375
+\ELANParticipant FH
+\ELANBegin 00:27:40.240
+\ELANEnd 00:27:47.240
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1660.240 1667.240
+
+\ref 376
+\ELANParticipant FH
+\ELANBegin 00:27:47.240
+\ELANEnd 00:27:54.920
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1667.240 1674.920
+
+\ref 377
+\ELANParticipant FH
+\ELANBegin 00:27:54.960
+\ELANEnd 00:28:00.360
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1674.960 1680.360
+
+\ref 378
+\ELANParticipant FH
+\ELANBegin 00:28:00.360
+\ELANEnd 00:28:04.080
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1680.360 1684.080
+
+\ref 379
+\ELANParticipant FH
+\ELANBegin 00:28:04.080
+\ELANEnd 00:28:09.600
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1684.080 1689.600
+
+\ref 380
+\ELANParticipant FH
+\ELANBegin 00:28:09.600
+\ELANEnd 00:28:14.160
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1689.600 1694.160
+
+\ref 381
+\ELANParticipant FH
+\ELANBegin 00:28:14.160
+\ELANEnd 00:28:16.560
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1694.160 1696.560
+
+\ref 382
+\ELANParticipant FH
+\ELANBegin 00:28:16.560
+\ELANEnd 00:28:22.480
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1696.560 1702.480
+
+\ref 383
+\ELANParticipant FH
+\ELANBegin 00:28:22.480
+\ELANEnd 00:28:28.280
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1702.480 1708.280
+
+\ref 384
+\ELANParticipant FH
+\ELANBegin 00:28:28.280
+\ELANEnd 00:28:34.600
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1708.280 1714.600
+
+\ref 385
+\ELANParticipant FH
+\ELANBegin 00:28:34.600
+\ELANEnd 00:28:40.240
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1714.600 1720.240
+
+\ref 386
+\ELANParticipant FH
+\ELANBegin 00:28:40.240
+\ELANEnd 00:28:47.160
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1720.240 1727.160
+
+\ref 387
+\ELANParticipant FH
+\ELANBegin 00:28:47.160
+\ELANEnd 00:28:54.160
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1727.160 1734.160
+
+\ref 388
+\ELANParticipant GN
+\ELANBegin 00:28:54.120
+\ELANEnd 00:28:57.320
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1734.120 1737.320
+
+\ref 389
+\ELANParticipant FH
+\ELANBegin 00:28:57.280
+\ELANEnd 00:28:59.120
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1737.280 1739.120
+
+\ref 390
+\ELANParticipant FH
+\ELANBegin 00:28:59.160
+\ELANEnd 00:29:04.280
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1739.160 1744.280
+
+\ref 391
+\ELANParticipant FH
+\ELANBegin 00:29:04.280
+\ELANEnd 00:29:09.200
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1744.280 1749.200
+
+\ref 392
+\ELANParticipant FH
+\ELANBegin 00:29:09.200
+\ELANEnd 00:29:22.200
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1749.200 1762.200
+
+\ref 393
+\ELANParticipant FH
+\ELANBegin 00:29:22.200
+\ELANEnd 00:29:35.880
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1762.200 1775.880
+
+\ref 394
+\ELANParticipant FH
+\ELANBegin 00:29:35.880
+\ELANEnd 00:29:41.360
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1775.880 1781.360
+
+\ref 395
+\ELANParticipant FH
+\ELANBegin 00:29:41.360
+\ELANEnd 00:29:46.080
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1781.360 1786.080
+
+\ref 396
+\ELANParticipant FH
+\ELANBegin 00:29:46.080
+\ELANEnd 00:29:59.000
+\tx
+\ft
+\mm LamngenGraciela 2.wav 1786.080 1799.000
+
+
+\ELANMediaURL file:///Users/FelipeHasler/Dropbox/Trabajo de campo_21052013/Para transcribir_octubre/LamngenGraciela 2.wav
+\ELANMediaMIME audio/x-wav

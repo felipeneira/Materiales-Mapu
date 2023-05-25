@@ -1,0 +1,2949 @@
+﻿\_sh v3.0  400  Text
+
+\id
+\ref
+\tx
+\ft 
+
+\block 001
+\ELANBegin 00:00:00.160
+\ELANEnd 00:00:01.040
+\ELANParticipant FH
+\tx ¿chumleymi?
+\mb chum  -le    -ymi
+\ge cómo -PROG  -IND.2SG
+\ps pro   -tam-e -per
+
+\ft ¿Cómo estás?
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 0.160 1.040
+
+\block 002
+\ELANBegin 00:00:01.000
+\ELANEnd 00:00:02.840
+\ELANParticipant HM
+\tx kümelkalen,                          ¿eymi kay?
+\mb küme    -l    -ka    -le    -n       eymi   kay
+\ge bien     -COND -CONT  -ESTAT -IND.1SG tú    y
+\ps adverbio -mod  -tam-e -tam-e -per     pro    conj
+
+\ft Estoy bien, ¿Y tú?
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 1.000 2.840
+
+\block 003
+\ELANBegin 00:00:02.800
+\ELANEnd 00:00:04.360
+\ELANParticipant FH
+\tx kümelkalen                            ka
+\mb küme    -l     -ka    -le    -n       ka
+\ge bien     -APPL3 -CONT  -ESTAT -IND.1SG y
+\ps adverbio -per   -tam-e -tam-e -per     conj
+
+\ft Estoy bien también.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 2.800 4.360
+
+\block 004
+\ELANBegin 00:00:04.360
+\ELANEnd 00:00:11.240
+\ELANParticipant FH
+\tx fachiantü nütramka-ya-yu           kiñe pichi
+\mb fachiantü nütramka -ya    -yu      kiñe pichi
+\ge hoy        conversar -FUT   -IND.1DU un    pequeño
+\ps adverbio   verbo     -tam-e -per     art   adj
+
+\tx dungu  ta  ülkantun       mew
+\mb dungu  ta  ülkantu -n     mew
+\ge asunto DET cantar   -NMRZ1 PPOS
+\ps nombre det verbo    -nmrz  ppos
+
+\ft Hoy día conversaremos los dos, un poco sobre los ülkantun.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 4.360 11.240
+
+\block 005
+\ELANBegin 00:00:11.200
+\ELANEnd 00:00:12.680
+\ELANParticipant HM
+\tx ülkantun       dungu
+\mb ülkantu -n     dungu
+\ge cantar   -NMRZ1 asunto
+\ps verbo    -nmrz  nombre
+
+\ft Acerca de los ülkantun.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 11.200 12.680
+
+\block 006
+\ELANBegin 00:00:12.640
+\ELANEnd 00:00:25.240
+\ELANParticipant FH
+\tx feymew,  chew   ta  füchake      che
+\mb feymew   chew   ta  fücha  -ke   che
+\ge entonces dónde DET anciano -DIST gente
+\ps conj     pro    det nombre  -det  nombre
+
+\tx entukefuy                    ta  ülkantun
+\mb entu  -ke    -fu    -y       ta  ülkantu -n
+\ge sacar -HAB   -AP    -IND.[3] DET cantar   -NMRZ1
+\ps verbo -tam-e -tam-e -per     det verbo    -nmrz
+
+\tx tami          lof       mew
+\mb ta  -mi       lof       mew
+\ge DET -2SG.POSS comunidad PPOS
+\ps det -pro      nombre    ppos
+
+\ft Entonces, ¿Dónde sacaban los ülkantun los ancianos en tu comunidad?
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 12.640 25.240
+
+\block 007
+\ELANBegin 00:00:25.200
+\ELANEnd 00:00:31.320
+\ELANParticipant HM
+\tx iñche tañi        lof       mew  müten,
+\mb iñche ta-ñi       lof       mew  müten
+\ge 1SG    DET-1SG.POSS comunidad PPOS no.más
+\ps pro    detpro       nombre    ppos adverbio
+
+\tx fillke               ruf      mew  pu
+\mb fill           -ke   ruf      mew  pu
+\ge cada uno       -DIST verdad   PPOS COL
+\ps adjetivo       -det  adverbio ppos det
+
+\tx mapuchengen,
+\mb mapuche -nge   -n
+\ge mapuche -COP   -NMRZ1
+\ps nombre  -verbo -nmrz
+
+\ft En mi comunidad, en todos lados llevabamos la vida mapuche de verdad,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 25.200 31.320
+
+\block 008
+\ELANBegin 00:00:31.320
+\ELANEnd 00:00:34.610
+\ELANParticipant HM
+\tx entukefuy                    ta  ñi...
+\mb entu  -ke    -fu    -y       ta  ñi
+\ge sacar -HAB   -AP    -IND.[3] DET 3.POSS
+\ps verbo -tam-e -tam-e -per     det pro
+
+\ft sacaban su...
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 31.320 34.610
+
+\block 009
+\ELANBegin 00:00:34.610
+\ELANEnd 00:00:37.960
+\ELANParticipant HM
+\tx kisu     niey           ta ñi
+\mb kisu     nie   -y       ta ñi
+\ge solo     tener -IND.[3] DET3.POSS
+\ps adverbio verbo -per     detpro
+
+\tx ülkantun       ta  pu  mapuche,
+\mb ülkantu -n     ta  pu  mapuche
+\ge cantar   -NMRZ1 DET COL mapuche
+\ps verbo    -nmrz  det det nombre
+
+\ft su propia canción tienen los mapuche,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 34.610 37.960
+
+\block 010
+\ELANBegin 00:00:37.960
+\ELANEnd 00:00:40.160
+\ELANParticipant HM
+\tx niey           ta  ñi    ülkantun,
+\mb nie   -y       ta  ñi    ülkantu -n
+\ge tener -IND.[3] DET 3.POSS cantar   -NMRZ1
+\ps verbo -per     det pro    verbo    -nmrz
+
+\ft tienen su ülkantun,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 37.960 40.160
+
+\block 011
+\ELANBegin 00:00:40.200
+\ELANEnd 00:00:44.360
+\ELANParticipant HM
+\tx kisu     niey           ta  ñi    rakiduam,
+\mb kisu     nie   -y       ta  ñi    rakiduam
+\ge solo     tener -IND.[3] DET 3.POSS pensamiento
+\ps adverbio verbo -per     det pro    nombre
+
+\tx ülkantun,      epew,  piam
+\mb ülkantu -n     epew   piam
+\ge cantar   -NMRZ1 epew   EVID.REP
+\ps verbo    -nmrz  nombre part
+
+\ft tienen su propio pensamiento, ülkantun, epew, piam
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 40.200 44.360
+
+\block 012
+\ELANBegin 00:00:44.400
+\ELANEnd 00:00:48.640
+\ELANParticipant HM
+\tx kisu     engün kimniey               ta  ñi
+\mb kisu     engün kim   -nie   -y       ta  ñi
+\ge solo     3.PL   saber -PERF  -IND.[3] DET 3.POSS
+\ps adverbio per    verbo -tam-e -per     det pro
+
+\tx feychi     dungu  engün.
+\mb fey  -chi  dungu  engün
+\ge DEM2 -adjr asunto 3.PL
+\ps pro  -***  nombre per
+
+\ft ellos conocen sus cosas, sus asuntos.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 44.400 48.640
+
+\block 013
+\ELANBegin 00:00:48.640
+\ELANEnd 00:00:56.360
+\ELANParticipant HM
+\tx feymew,  fachiantü nütramkayayu
+\mb feymew   fachiantü nütramka -ya    -yu
+\ge entonces hoy        conversar -FUT   -IND.1DU
+\ps conj     adverbio   verbo     -tam-e -per
+
+\tx tüfachi    dungu, ülkantun       dungu.
+\mb tüfa -chi  dungu  ülkantu -n     dungu
+\ge DEM1  -adjr asunto cantar   -NMRZ1 asunto
+\ps pro   -***  nombre verbo    -nmrz  nombre
+
+\ft Entonces, hoy día conversaremos los dos este asunto, acerca de los ülkantun.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 48.640 56.360
+
+\block 014
+\ELANBegin 00:00:56.360
+\ELANEnd 00:01:00.920
+\ELANParticipant HM
+\tx feypiy
+\mb fey  -pi    -y
+\ge DEM2 -decir -IND.[3]
+\ps pro  -verbo -per
+
+\ft dice así
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 56.360 60.920
+
+\block 015
+\ELANBegin 00:01:00.960
+\ELANEnd 00:01:07.520
+\ELANParticipant HM
+\tx kiñeke     che    kisu     nentuy
+\mb kiñe -ke   che    kisu     nentu  -y
+\ge un    -DIST gente  solo     sacar  -IND.[3]
+\ps art   -det  nombre adverbio verbo  -per
+
+\tx ñi    rakiduam    chem ñi
+\mb ñi    rakiduam    chem ñi
+\ge 3.POSS pensamiento qué 3.POSS
+\ps pro    nombre      pro  pro
+
+\tx piael               ñi    nütram    mew  ñi
+\mb pi    -a     -el    ñi    nütram    mew  ñi
+\ge decir -FUT   -NMRZ2 3.POSS historia   PPOS 3.POSS
+\ps verbo -tam-e -nmzr  pro    sustantivo ppos pro
+
+\tx rakiduam    mew
+\mb rakiduam    mew
+\ge pensamiento PPOS
+\ps nombre      ppos
+
+\ft Algunas personas sacan su pensamiento, lo que van a decir, en un nütram, en su pensamiento
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 60.960 67.520
+
+\block 016
+\ELANBegin 00:01:07.520
+\ELANEnd 00:01:11.840
+\ELANParticipant HM
+\tx entukey               ta ñi
+\mb entu  -ke    -y       ta ñi
+\ge sacar -HAB   -IND.[3] DET3.POSS
+\ps verbo -tam-e -per     detpro
+
+\tx ülkantun       mew, ta  ñi
+\mb ülkantu -n     mew  ta  ñi
+\ge cantar   -NMRZ1 PPOS DET 3.POSS
+\ps verbo    -nmrz  ppos det pro
+
+\tx rakiduam.
+\mb rakiduam
+\ge pensamiento
+\ps nombre
+
+\ft lo sacan en su canción su pensamiento.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 67.520 71.840
+
+\block 017
+\ELANBegin 00:01:11.840
+\ELANEnd 00:01:17.520
+\ELANParticipant HM
+\tx entukey               ta ñi    chem
+\mb entu  -ke    -y       ta ñi    chem
+\ge sacar -HAB   -IND.[3] DET3.POSS qué
+\ps verbo -tam-e -per     detpro    pro
+
+\tx piael,              chem ngülam   elael
+\mb pi    -a     -el    chem ngülam   e    -la   -el
+\ge decir -FUT   -NMRZ2 qué aconsejar e    -NEG1 -NMRZ2
+\ps verbo -tam-e -nmzr  pro  verbo     conj -neg  -nmzr
+
+\tx
+\mb 
+
+\ft Sacan lo que van a decir, que consejo van a dar,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 71.840 77.520
+
+\block 018
+\ELANBegin 00:01:17.520
+\ELANEnd 00:01:19.640
+\ELANParticipant HM
+\tx chem ayekan         elael,
+\mb chem ayeka   -n     el    -a     -el
+\ge qué bromear -NMRZ1 dejar -FUT   -NMRZ2
+\ps pro  verbo   -nmrz  verbo -tam-e -nmzr
+
+\ft que chistes van a decir,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 77.520 79.640
+
+\block 019
+\ELANBegin 00:01:19.640
+\ELANEnd 00:01:21.760
+\ELANParticipant HM
+\tx chem dakeluwün
+\mb chem dakelu     -w    -ün
+\ge qué enamorar   -REFL -NMRZ1
+\ps pro  verbo      -per  -nmrz
+
+\tx elael,
+\mb el    -a     -el
+\ge dejar -FUT   -NMRZ2
+\ps verbo -tam-e -nmzr
+
+\ft que palabras para enamorar van a entregar,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 79.640 81.760
+
+\block 020
+\ELANBegin 00:01:21.760
+\ELANEnd 00:01:25.480
+\ELANParticipant HM
+\tx chumlen             chi  mongen chi
+\mb chum  -le    -n     chi  mongen chi
+\ge cómo -ESTAT -NMRZ1 DEM2 vida   DEM2
+\ps pro   -tam-e -nmrz  dem  nombre dem
+
+\tx che,
+\mb che
+\ge gente
+\ps nombre
+
+\ft cómo està la vida de la gente,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 81.760 85.480
+
+\block 021
+\ELANBegin 00:01:25.480
+\ELANEnd 00:01:28.080
+\ELANParticipant HM
+\tx femngechi entungekey                 ta
+\mb femngechi entu  -nge -ke    -y       ta
+\ge así      sacar -PAS -HAB   -IND.[3] DET
+\ps adverbio  verbo -per -tam-e -per     det
+
+\tx ülkantun,
+\mb ülkantu -n
+\ge cantar   -NMRZ1
+\ps verbo    -nmrz
+
+\ft así se saca el ülkantun,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 85.480 88.080
+
+\block 022
+\ELANBegin 00:01:28.080
+\ELANEnd 00:01:34.120
+\ELANParticipant HM
+\tx femngechi entungekey                 ta
+\mb femngechi entu  -nge -ke    -y       ta
+\ge así      sacar -PAS -HAB   -IND.[3] DET
+\ps adverbio  verbo -per -tam-e -per     det
+
+\tx rakiduam    ülkantun       dungu  mew.
+\mb rakiduam    ülkantu -n     dungu  mew
+\ge pensamiento cantar   -NMRZ1 asunto PPOS
+\ps nombre      verbo    -nmrz  nombre ppos
+
+\ft así se saca el pensamiento en el ülkantun.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 88.080 94.120
+
+\block 023
+\ELANBegin 00:01:34.120
+\ELANEnd 00:01:38.160
+\ELANParticipant HM
+\tx feychi     pu  ülkantufe    femkey,
+\mb fey  -chi  pu  ülkantu -fe  fem      -ke    -y
+\ge DEM2 -adjr COL cantar   -AG  ser.así -HAB   -IND.[3]
+\ps pro  -***  det verbo    -der verbo    -tam-e -per
+
+\ft Los ülkantufe hacen así,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 94.120 98.160
+
+\block 024
+\ELANBegin 00:01:38.200
+\ELANEnd 00:01:42.680
+\ELANParticipant HM
+\tx feychi     pu  epewfe,     epew   mew
+\mb fey  -chi  pu  epew   -fe  epew   mew
+\ge DEM2 -adjr COL epew   -AG  epew   PPOS
+\ps pro  -***  det nombre -der nombre ppos
+
+\tx entukey               ta ñi    rakiduam,
+\mb entu  -ke    -y       ta ñi    rakiduam
+\ge sacar -HAB   -IND.[3] DET3.POSS pensamiento
+\ps verbo -tam-e -per     detpro    nombre
+
+\ft Los ülkantufe hacen así, los epewfe, en los epew sacan su pensamiento,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 98.200 102.680
+
+\block 025
+\ELANBegin 00:01:42.770
+\ELANEnd 00:01:44.240
+\ELANParticipant HM
+\tx entukey               ta  ñi    ngülam,
+\mb entu  -ke    -y       ta  ñi    ngülam
+\ge sacar -HAB   -IND.[3] DET 3.POSS aconsejar
+\ps verbo -tam-e -per     det pro    verbo
+
+\ft sacan sus ngülam,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 102.770 104.240
+
+\block 026
+\ELANBegin 00:01:44.240
+\ELANEnd 00:01:46.560
+\ELANParticipant HM
+\tx nentukey              ta ñi    nütram.
+\mb nentu -ke    -y       ta ñi    nütram
+\ge sacar -HAB   -IND.[3] DET3.POSS historia
+\ps verbo -tam-e -per     detpro    sustantivo
+
+\ft sacan sus historias.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 104.240 106.560
+
+\block 027
+\ELANBegin 00:01:46.560
+\ELANEnd 00:01:52.280
+\ELANParticipant HM
+\tx welu tüfa mew, piaeyu                     kiñe
+\mb welu tüfa mew  pi    -a     -e   -yu      kiñe
+\ge pero DEM1  PPOS decir -FUT   -INV -IND.1DU un
+\ps conj pro   ppos verbo -tam-e -per -per     art
+
+\tx pichi    chillka.
+\mb pichi    chillka
+\ge pequeño estudio
+\ps adj      nombre
+
+\ft Sin embargo ahora, te diré un pequeño estudio.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 106.560 112.280
+
+\block 028
+\ELANBegin 00:01:52.280
+\ELANEnd 00:02:01.240
+\ELANParticipant HM
+\tx feychi     chillka, ülkantun       mew, küpa
+\mb fey  -chi  chillka  ülkantu -n     mew  küpa
+\ge DEM2 -adjr estudio  cantar   -NMRZ1 PPOS querer
+\ps pro  -***  nombre   verbo    -nmrz  ppos aux
+
+\tx feypiy                feychi     wentru dewmalu
+\mb fey  -pi    -y       fey  -chi  wentru dewma -lu
+\ge DEM2 -decir -IND.[3] DEM2 -adjr hombre hacer -advr.1
+\ps pro  -verbo -per     pro  -***  nombre verbo -advr
+
+\tx tüfachi    ülkantun
+\mb tüfa -chi  ülkantu -n
+\ge DEM1  -adjr cantar   -NMRZ1
+\ps pro   -***  verbo    -nmrz
+
+\ft En ese asunto, en este ülkantun, quiere decir ese hombre que hace este ülkantun,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 112.280 121.240
+
+\block 029
+\ELANBegin 00:02:01.240
+\ELANEnd 00:02:10.360
+\ELANParticipant HM
+\tx iñche ta  ñi      ülkantun       ta  ti,
+\mb iñche ta  ñi      ülkantu -n     ta  ti
+\ge 1SG    DET 1SG.POSS cantar   -NMRZ1 DET DET2
+\ps pro    det pro      verbo    -nmrz  det det
+
+\tx küpa... feypin                küpa
+\mb küpa    fey  -pi    -n       küpa
+\ge querer   DEM2 -decir -IND.1SG querer
+\ps aux      pro  -verbo -per     aux
+
+\tx trepelen                  ta ñi
+\mb trepe     -le    -n       ta ñi
+\ge despertar -PROG  -IND.1SG DET1SG.POSS
+\ps verbo     -tam-e -per     detpro
+
+\tx pu  che,
+\mb pu  che
+\ge COL gente
+\ps det nombre
+
+\ft mi ülkantun, quiero decir, quiero despertar a mi gente,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 121.240 130.360
+
+\block 030
+\ELANBegin 00:02:10.360
+\ELANEnd 00:02:13.400
+\ELANParticipant HM
+\tx küpatrepelen
+\mb küpa  -trepe     -le    -n
+\ge querer -despertar -PROG  -IND.1SG
+\ps aux    -verbo     -tam-e -per
+
+\tx ta ñi      pu  mapuche.
+\mb ta ñi      pu  mapuche
+\ge DET1SG.POSS COL mapuche
+\ps detpro      det nombre
+
+\ft quiero despertar a mis mapuches.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 130.360 133.400
+
+\block 031
+\ELANBegin 00:02:13.400
+\ELANEnd 00:02:18.040
+\ELANParticipant HM
+\tx tüfachi    ül    mew  iñchiñ ta
+\mb tüfa -chi  ül    mew  iñchiñ ta
+\ge DEM1  -adjr canto  PPOS nosotros DET
+\ps pro   -***  nombre ppos pro      det
+
+\tx mapuchengen
+\mb mapuche -nge   -n
+\ge mapuche -COP   -NMRZ1
+\ps nombre  -verbo -nmrz
+
+\ft En este ül, nosotros los mapuches
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 133.400 138.040
+
+\block 032
+\ELANBegin 00:02:18.040
+\ELANEnd 00:02:23.240
+\ELANParticipant HM
+\tx mongeley              ta  ñi
+\mb monge -le    -y       ta  ñi
+\ge vivir -ESTAT -IND.[3] DET 1SG.POSS
+\ps verbo -tam-e -per     det pro
+
+\tx füchake     che,   amutupelu                 rume,
+\mb fücha  -ke  che    amu   -tu  -pe    -lu     rume
+\ge anciano -DISTgente  ir    -RE  -CERT  -advr.1 mucho
+\ps nombre  -det nombre verbo -dir -tam-e -advr   adverbio
+
+\tx fentren  tripantü rupalu        rume,
+\mb fentren  tripantü rupa  -lu     rume
+\ge mucho    año      pasar -advr.1 mucho
+\ps adverbio nombre    verbo -advr   adverbio
+
+\ft están vivos nuestros ancianos, aunque se hayan ido o aunque hayan pasado muchos años,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 138.040 143.240
+
+\block 033
+\ELANBegin 00:02:23.240
+\ELANEnd 00:02:25.280
+\ELANParticipant HM
+\tx mongeley              pileiñ               ta
+\mb monge -le    -y       pi    -le    -iñ     ta
+\ge vivir -ESTAT -IND.[3] decir -PROG  -IND.1PL DET
+\ps verbo -tam-e -per     verbo -tam-e -per     det
+
+\tx iñchiñ,
+\mb iñchiñ
+\ge nosotros
+\ps pro
+
+\ft "están vivos" decimos nosotros,.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 143.240 145.280
+
+\block 034
+\ELANBegin 00:02:25.280
+\ELANEnd 00:02:26.360
+\ELANParticipant HM
+\tx lalelayngün.
+\mb la    -le    -la   -y       -ngün
+\ge morir -PROG  -NEG1 -IND.[3] -3.PL
+\ps verbo -tam-e -neg  -per     -per
+
+\ft "no estàn muertps¨.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 145.280 146.360
+
+\block 035
+\ELANBegin 00:02:26.360
+\ELANEnd 00:02:29.160
+\ELANParticipant HM
+\tx penieyñmew,               pikeiñ
+\mb pe    -nie   -yñ     -mew pi    -ke    -iñ
+\ge ver   -PERF  -IND.1PL -OBL decir -HAB   -IND.1PL
+\ps verbo -tam-e -per     -per verbo -tam-e -per
+
+\tx taiñ        rakiduam    mew.
+\mb ta  -iñ     rakiduam    mew
+\ge DET -IND.1PL pensamiento PPOS
+\ps det -per     nombre      ppos
+
+\ft "Nos estàn viendo", decimos en nuestro pensamiento,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 146.360 149.160
+
+\block 036
+\ELANBegin 00:02:29.160
+\ELANEnd 00:02:30.840
+\ELANParticipant HM
+\tx akukey                      pewma  mew,
+\mb aku         -ke    -y       pewma  mew
+\ge llegar.acá -HAB   -IND.[3] sueño PPOS
+\ps verbo       -tam-e -per     nombre ppos
+
+\ft llegan en los sueños,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 149.160 150.840
+
+\block 037
+\ELANBegin 00:02:30.840
+\ELANEnd 00:02:34.760
+\ELANParticipant HM
+\tx akukey                      rakiduam    mew, püllü
+\mb aku         -ke    -y       rakiduam    mew  püllü
+\ge llegar.acá -HAB   -IND.[3] pensamiento PPOS püllü
+\ps verbo       -tam-e -per     nombre      ppos nombre
+
+\tx mew,
+\mb mew
+\ge PPOS
+\ps ppos
+
+\ft llegan en el pensamiento, en el püllü,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 150.840 154.760
+
+\block 038
+\ELANBegin 00:02:34.760
+\ELANEnd 00:02:36.360
+\ELANParticipant HM
+\tx akukey                      ta  füchake      che.
+\mb aku         -ke    -y       ta  fücha  -ke   che
+\ge llegar.acá -HAB   -IND.[3] DET anciano -DIST gente
+\ps verbo       -tam-e -per     det nombre  -det  nombre
+
+\ft llegan los ancianos.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 154.760 156.360
+
+\block 039
+\ELANBegin 00:02:36.360
+\ELANEnd 00:02:38.800
+\ELANParticipant HM
+\tx iñchiñ ta  ngülampakeeyñmew,
+\mb iñchiñ ta  ngülam   -pa    -ke    -e   -yñ     -mew
+\ge nosotros DET aconsejar -DIR.1 -HAB   -INV -IND.1PL -OBL
+\ps pro      det verbo     -dir   -tam-e -per -per     -per
+
+\ft Nos vienen a aconsejar,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 156.360 158.800
+
+\block 040
+\ELANBegin 00:02:38.800
+\ELANEnd 00:02:41.520
+\ELANParticipant HM
+\tx ka   elupakeeyñmew                         newen.
+\mb ka   elu   -pa    -ke    -e   -yñ     -mew newen
+\ge y    dar   -DIR.1 -HAB   -INV -IND.1PL -OBL energía
+\ps conj verbo -dir   -tam-e -per -per     -per nombre
+
+\ft y a darnos fuerza.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 158.800 161.520
+
+\block 041
+\ELANBegin 00:02:41.520
+\ELANEnd 00:02:49.400
+\ELANParticipant HM
+\tx feymew   ta  iñche ta  entun          tüfachi
+\mb feymew   ta  iñche ta  entu  -n       tüfa -chi
+\ge entonces DET 1SG    DET sacar -IND.1SG DEM1  -adjr
+\ps conj     det pro    det verbo -per     pro   -***
+
+\tx ülkantun,      ta  feypiael
+\mb ülkantu -n     ta  fey  -pi    -a     -el
+\ge cantar   -NMRZ1 DET DEM2 -decir -FUT   -NMRZ2
+\ps verbo    -nmrz  det pro  -verbo -tam-e -nmzr
+
+\tx ta  kom      pu  mapuche
+\mb ta  kom      pu  mapuche
+\ge DET todo     COL mapuche
+\ps det adverbio det nombre
+
+\ft Por eso yo saco este ülkantun,  para decirle a todos los mapuches,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 161.520 169.400
+
+\block 042
+\ELANBegin 00:02:49.400
+\ELANEnd 00:02:58.880
+\ELANParticipant HM
+\tx feypiliiñ                  iñchiñ,
+\mb fey  -pi    -li   -iñ     iñchiñ
+\ge DEM2 -decir -COND -IND.1PL nosotros
+\ps pro  -verbo -mod  -per     pro
+
+\tx dungufule                engün, iñchiñ taiñ
+\mb dungu  -fu    -l    -e   engün  iñchiñ ta  -iñ
+\ge asunto -AP    -COND -3SG 3.PL    nosotros DET -IND.1PL
+\ps nombre -tam-e -mod  -per per     pro      det -per
+
+\tx mapuchengen           fachiantü, rupay
+\mb mapuche -nge   -n     fachiantü  rupa  -y
+\ge mapuche -COP   -NMRZ1 hoy         pasar -IND.[3]
+\ps nombre  -verbo -nmrz  adverbio    verbo -per
+
+\tx pataka, kiñe pataka tripantü,
+\mb pataka  kiñe pataka tripantü
+\ge cien    un    cien   año
+\ps nombre  art   nombre nombre
+
+\ft si nosotros decimos así, si ellos nos hablaran, nuestro ser mapuche hoy, pasaron cien años, cien años,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 169.400 178.880
+
+\block 043
+\ELANBegin 00:02:58.880
+\ELANEnd 00:03:01.200
+\ELANParticipant HM
+\tx fütrake       weychafe    laley,
+\mb fütra   -ke   weycha -fe  la    -le    -y
+\ge gran     -DIST lucha  -AG  morir -ESTAT -IND.[3]
+\ps adverbio -det  nombre -der verbo -tam-e -per
+
+\ft los grandes weychafe están muertos,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 178.880 181.200
+
+\block 044
+\ELANBegin 00:03:01.200
+\ELANEnd 00:03:06.600
+\ELANParticipant HM
+\tx fütrake       weychafe    müley         ta...
+\mb fütra   -ke   weycha -fe  müle -y       ta
+\ge gran     -DIST lucha  -AG  estar -IND.[3] DET
+\ps adverbio -det  nombre -der verbo -per     det
+
+\tx mapunchengetuyngün,
+\mb mapunche           -nge   -tu  -y       -ngün
+\ge gente de la tierra -COP   -RE  -IND.[3] -3.PL
+\ps nombre             -verbo -dir -per     -per
+
+\ft los grandes weychafe están....se volvieron a ser tierra,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 181.200 186.600
+
+\block 045
+\ELANBegin 00:03:06.600
+\ELANEnd 00:03:08.840
+\ELANParticipant HM
+\tx welu mongeleyngün
+\mb welu monge -le    -y       -ngün
+\ge pero vivir -ESTAT -IND.[3] -3.PL
+\ps conj verbo -tam-e -per     -per
+
+\ft pero están vivos ellos,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 186.600 188.840
+
+\block 046
+\ELANBegin 00:03:08.840
+\ELANEnd 00:03:10.400
+\ELANParticipant HM
+\tx feyngün    lalelayngün,
+\mb fey  -ngün la    -le    -la   -y       -ngün
+\ge DEM2 -3.PL  morir -ESTAT -NEG1 -IND.[3] -3.PL
+\ps pro  -per   verbo -tam-e -neg  -per     -per
+
+\ft no están muertos,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 188.840 190.400
+
+\block 047
+\ELANBegin 00:03:10.400
+\ELANEnd 00:03:16.120
+\ELANParticipant HM
+\tx penieeyñmew                    taiñ
+\mb pe    -nie   -e   -yñ     -mew ta  -iñ
+\ge ver   -PERF  -INV -IND.1PL -OBL DET -IND.1PL
+\ps verbo -tam-e -per -per     -per det -per
+
+\tx chummeken             tüfa mew, iñchiñ
+\mb chum  -meke    -n     tüfa mew  iñchiñ
+\ge cómo -PROG.AG -NMRZ1 DEM1  PPOS nosotros
+\ps pro   -tam-e   -nmrz  pro   ppos pro
+
+\tx taiñ        mapuchengen           fachiantü.
+\mb ta  -iñ     mapuche -nge   -n     fachiantü
+\ge DET -IND.1PL mapuche -COP   -NMRZ1 hoy
+\ps det -per     nombre  -verbo -nmrz  adverbio
+
+\ft nos están viendo lo que nosotros hacemos ahora, nuestro ser mapuche hoy día.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 190.400 196.120
+
+\block 048
+\ELANBegin 00:03:16.120
+\ELANEnd 00:03:24.240
+\ELANParticipant HM
+\tx chumngelu entun          tüfachi    nütram,
+\mb chumngelu entu  -n       tüfa -chi  nütram
+\ge por qué  sacar -IND.1SG DEM1  -adjr historia
+\ps pro       verbo -per     pro   -***  sustantivo
+
+\tx pelu          iñche wecheke     che
+\mb pe    -lu     iñche weche -ke   che
+\ge ver   -advr.1 1SG    joven -DIST gente
+\ps verbo -advr   pro    adj   -det  nombre
+
+\tx wiñolu        ñi    dungu, wiñolu
+\mb wiño  -lu     ñi    dungu  wiño  -lu
+\ge volver -advr.1 3.POSS asunto volver -advr.1
+\ps verbo  -advr   pro    nombre verbo  -advr
+
+\tx taiñ        mapudungun.
+\mb ta  -iñ     mapudungun
+\ge DET -IND.1PL mapudungun
+\ps det -per     nombre
+
+\ft ¿Por qué saco esta conversación? Porque veo a los jovenes que vuelven a sus cosas, vuelven a nuestro mapudungun,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 196.120 204.240
+
+\block 049
+\ELANBegin 00:03:24.240
+\ELANEnd 00:03:28.560
+\ELANParticipant HM
+\tx feymew,  femngechi
+\mb feymew   femngechi
+\ge entonces así
+\ps conj     adverbio
+
+\tx wiñorakiduamtuay                         engün,
+\mb wiño  -rakiduam    -tu  -a     -y       engün
+\ge volver -pensamiento -RE  -FUT   -IND.[3] 3.PL
+\ps verbo  -nombre      -dir -tam-e -per     per
+
+\ft entonces, así volverán a pensar
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 204.240 208.560
+
+\block 050
+\ELANBegin 00:03:28.560
+\ELANEnd 00:03:32.560
+\ELANParticipant HM
+\tx wiñorakiduamtuay                         engün,
+\mb wiño  -rakiduam    -tu  -a     -y       engün
+\ge volver -pensamiento -RE  -FUT   -IND.[3] 3.PL
+\ps verbo  -nombre      -dir -tam-e -per     per
+
+\tx tüfachi    ülkantun       mew,
+\mb tüfa -chi  ülkantu -n     mew
+\ge DEM1  -adjr cantar   -NMRZ1 PPOS
+\ps pro   -***  verbo    -nmrz  ppos
+
+\ft volverán a pensar con este ülkantun,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 208.560 212.560
+
+\block 051
+\ELANBegin 00:03:32.560
+\ELANEnd 00:03:34.320
+\ELANParticipant HM
+\tx pewmangen pifun                 ta  iñche.
+\mb pewmangen pi    -fu    -n       ta  iñche
+\ge ojalá    decir -AP    -IND.1SG DET 1SG
+\ps interj    verbo -tam-e -per     det pro
+
+\ft ojalá digo yo.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 212.560 214.320
+
+\block 052
+\ELANBegin 00:03:34.320
+\ELANEnd 00:03:40.240
+\ELANParticipant HM
+\tx feymew   feypiy                tüfachi
+\mb feymew   fey  -pi    -y       tüfa -chi
+\ge entonces DEM2 -decir -IND.[3] DEM1  -adjr
+\ps conj     pro  -verbo -per     pro   -***
+
+\tx ülkantun       kiñe pewma  nien,          piy.
+\mb ülkantu -n     kiñe pewma  nie   -n       pi    -y
+\ge cantar   -NMRZ1 un    sueño tener -IND.1SG decir -IND.[3]
+\ps verbo    -nmrz  art   nombre verbo -per     verbo -per
+
+\ft entonces, dice este ülkantun "un sueño tengo", dice.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 214.320 220.240
+
+\block 053
+\ELANBegin 00:03:40.240
+\ELANEnd 00:03:47.080
+\ELANParticipant HM
+\tx feychi     pewma  mew, akuy                 kiñe
+\mb fey  -chi  pewma  mew  aku         -y       kiñe
+\ge DEM2 -adjr sueño PPOS llegar.acá -IND.[3] un
+\ps pro  -***  nombre ppos verbo       -per     art
+
+\tx longko, iñche ñi      pewma  mew  trafia.
+\mb longko  iñche ñi      pewma  mew  trafia
+\ge cabeza  1SG    1SG.POSS sueño PPOS anoche
+\ps nombre  pro    pro      nombre ppos nombre
+
+\ft En ese sueño, llegó un longko, en mi sueño anoche.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 220.240 227.080
+
+\block 054
+\ELANBegin 00:03:47.080
+\ELANEnd 00:03:53.360
+\ELANParticipant HM
+\tx ka   pellkeley                     ñi
+\mb ka   pellke        -le    -y       ñi
+\ge y    entristecerse -ESTAT -IND.[3] 3.POSS
+\ps conj verbo         -tam-e -per     pro
+
+\tx adkintun,
+\mb adkintu -n
+\ge mirar   -NMRZ1
+\ps verbo   -nmrz
+
+\ft Estaba triste su mirada,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 227.080 233.360
+
+\block 055
+\ELANBegin 00:03:53.360
+\ELANEnd 00:03:55.360
+\ELANParticipant HM
+\tx piy            ta ñi    nütram,.
+\mb pi    -y       ta ñi    nütram
+\ge decir -IND.[3] DET3.POSS historia
+\ps verbo -per     detpro    sustantivo
+
+\ft dice mi  historia,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 233.360 235.360
+
+\block 056
+\ELANBegin 00:03:55.360
+\ELANEnd 00:03:57.480
+\ELANParticipant HM
+\tx piy            ta ñi    rakiduam.
+\mb pi    -y       ta ñi    rakiduam
+\ge decir -IND.[3] DET3.POSS pensamiento
+\ps verbo -per     detpro    nombre
+
+\ft dice mi pensamiento.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 235.360 237.480
+
+\block 057
+\ELANBegin 00:03:57.480
+\ELANEnd 00:04:01.160
+\ELANParticipant HM
+\tx pellkelekepelay
+\mb pellke        -le    -ke    -pe    -la   -y
+\ge entristecerse -ESTAT -HAB   -CERT  -NEG1 -IND.[3]
+\ps verbo         -tam-e -tam-e -tam-e -neg  -per
+
+\tx engün taiñ        füchake     che    yem,
+\mb engün ta  -iñ     fücha  -ke  che    yem
+\ge 3.PL   DET -IND.1PL anciano -DISTgente  finado
+\ps per    det -per     nombre  -det nombre interj
+
+\ft acaso están tristes nuestros difuntos ancianos
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 237.480 241.160
+
+\block 058
+\ELANBegin 00:04:01.160
+\ELANEnd 00:04:06.120
+\ELANParticipant HM
+\tx adkintunieetew                  iñchiñ
+\mb adkintu -nie   -e   -t     -ew  iñchiñ
+\ge mirar   -PERF  -INV -NMRZ3 -OBL nosotros
+\ps verbo   -tam-e -per -nmrz  -per pro
+
+\tx taiñ        chumnon                 rume
+\mb ta  -iñ     chum  -no       -n     rume
+\ge DET -IND.1PL cómo -NEG2     -NMRZ1 siquiera
+\ps det -per     pro   -adverbio -nmrz  adverbio
+
+\tx taiñ        mapuchengen.
+\mb ta  -iñ     mapuche -nge   -n
+\ge DET -IND.1PL mapuche -COP   -NMRZ1
+\ps det -per     nombre  -verbo -nmrz
+
+\ft al mirar que nosotros no actuamos como mapuches,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 241.160 246.120
+
+\block 059
+\ELANBegin 00:04:06.120
+\ELANEnd 00:04:15.640
+\ELANParticipant HM
+\tx pellkelepelayngün
+\mb pellke        -le    -pe    -la   -y       -ngün
+\ge entristecerse -ESTAT -CERT  -NEG1 -IND.[3] -3.PL
+\ps verbo         -tam-e -tam-e -neg  -per     -per
+
+\tx taiñ        füchake     che    yem
+\mb ta  -iñ     fücha  -ke  che    yem
+\ge DET -IND.1PL anciano -DISTgente  finado
+\ps det -per     nombre  -det nombre interj
+
+\tx pelu          wecheke     che    fachiantü,
+\mb pe    -lu     weche -ke   che    fachiantü
+\ge ver   -advr.1 joven -DIST gente  hoy
+\ps verbo -advr   adj   -det  nombre adverbio
+
+\tx dungunolu                 ñi    dungun.
+\mb dungu  -no       -lu     ñi    dungu  -n
+\ge asunto -NEG2     -advr.1 3.POSS asunto -NMRZ1
+\ps nombre -adverbio -advr   pro    nombre -nmrz
+
+\ft Acaso están tristes nuestros ancianos al mirar a los jovenes hoy día que no hablan su lengua.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 246.120 255.640
+
+\block 060
+\ELANBegin 00:04:15.640
+\ELANEnd 00:04:17.160
+\ELANParticipant HM
+\tx niey           pilun,
+\mb nie   -y       pilun
+\ge tener -IND.[3] oreja
+\ps verbo -per     nombre
+
+\ft Tienen orejas,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 255.640 257.160
+
+\block 061
+\ELANBegin 00:04:17.160
+\ELANEnd 00:04:18.440
+\ELANParticipant HM
+\tx allkülay.
+\mb allkü   -la   -y
+\ge escuchar -NEG1 -IND.[3]
+\ps verbo    -neg  -per
+
+\ft pero no escuchan.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 257.160 258.440
+
+\block 062
+\ELANBegin 00:04:18.440
+\ELANEnd 00:04:19.760
+\ELANParticipant HM
+\tx niefuy                wün,
+\mb nie   -fu    -y       wün
+\ge tener -AP    -IND.[3] amanecer
+\ps verbo -tam-e -per     nombre
+
+\ft Tienen boca,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 258.440 259.760
+
+\block 063
+\ELANBegin 00:04:19.760
+\ELANEnd 00:04:21.800
+\ELANParticipant HM
+\tx dungulay              ñi    dungun.
+\mb dungu  -la   -y       ñi    dungu  -n
+\ge asunto -NEG1 -IND.[3] 3.POSS asunto -NMRZ1
+\ps nombre -neg  -per     pro    nombre -nmrz
+
+\ft pero no hablan su lengua.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 259.760 261.800
+
+\block 064
+\ELANBegin 00:04:21.800
+\ELANEnd 00:04:23.400
+\ELANParticipant HM
+\tx niefuy                rakiduam,
+\mb nie   -fu    -y       rakiduam
+\ge tener -AP    -IND.[3] pensamiento
+\ps verbo -tam-e -per     nombre
+
+\ft Tienen pensamiento,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 261.800 263.400
+
+\block 065
+\ELANBegin 00:04:23.400
+\ELANEnd 00:04:27.160
+\ELANParticipant HM
+\tx rakiduamlay                ñi    rakiduam    mew
+\mb rakiduam    -la   -y       ñi    rakiduam    mew
+\ge pensamiento -NEG1 -IND.[3] 3.POSS pensamiento PPOS
+\ps nombre      -neg  -per     pro    nombre      ppos
+
+\tx engün.
+\mb engün
+\ge 3.PL
+\ps per
+
+\ft pero no piensan en su pensamiento.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 263.400 267.160
+
+\block 066
+\ELANBegin 00:04:27.160
+\ELANEnd 00:04:28.400
+\ELANParticipant HM
+\tx piluleyngün,
+\mb pilu   -le    -y       -ngün
+\ge sordo  -ESTAT -IND.[3] -3.PL
+\ps nombre -tam-e -per     -per
+
+\ft Están sordos,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 267.160 268.400
+
+\block 067
+\ELANBegin 00:04:28.400
+\ELANEnd 00:04:30.920
+\ELANParticipant HM
+\tx ketroleyngün                 ta ñi
+\mb ketro  -le    -y       -ngün ta ñi
+\ge mudo   -ESTAT -IND.[3] -3.PL  DET3.POSS
+\ps nombre -tam-e -per     -per   detpro
+
+\tx dungun        mew,
+\mb dungu  -n     mew
+\ge asunto -NMRZ1 PPOS
+\ps nombre -nmrz  ppos
+
+\ft están mudos en su lengua,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 268.400 270.920
+
+\block 068
+\ELANBegin 00:04:30.920
+\ELANEnd 00:04:40.280
+\ELANParticipant HM
+\tx feymew   pellkeley                     ta
+\mb feymew   pellke        -le    -y       ta
+\ge entonces entristecerse -ESTAT -IND.[3] DET
+\ps conj     verbo         -tam-e -per     det
+
+\tx füchake      che    yem    penielu              ta
+\mb fücha  -ke   che    yem    pe    -nie   -lu     ta
+\ge anciano -DIST gente  finado ver   -PERF  -advr.1 DET
+\ps nombre  -det  nombre interj verbo -tam-e -advr   det
+
+\tx fachiantü chi  wecheke     che,   tüfachi
+\mb fachiantü chi  weche -ke   che    tüfa -chi
+\ge hoy        DEM2 joven -DIST gente  DEM1  -adjr
+\ps adverbio   dem  adj   -det  nombre pro   -***
+
+\tx siglo  mew, ñi    dungunon
+\mb siglo  mew  ñi    dungu  -no       -n
+\ge siglo  PPOS 3.POSS asunto -NEG2     -NMRZ1
+\ps nombre ppos pro    nombre -adverbio -nmrz
+
+\tx mapudungun.
+\mb mapudungun
+\ge mapudungun
+\ps nombre
+
+\ft entonces, están tristes los difuntos ancianos, al ver a los jovenes de hoy en día, en este siglo, que no hablan mapudungun.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 270.920 280.280
+
+\block 069
+\ELANBegin 00:04:40.280
+\ELANEnd 00:04:46.200
+\ELANParticipant HM
+\tx feymew   tripay         tüfachi    ülkantun,
+\mb feymew   tripa -y       tüfa -chi  ülkantu -n
+\ge entonces salir -IND.[3] DEM1  -adjr cantar   -NMRZ1
+\ps conj     verbo -per     pro   -***  verbo    -nmrz
+
+\tx peñi,                     fey,
+\mb peñi                      fey
+\ge hermano (de ego masculino) DEM2
+\ps nombre                     pro
+
+\ft Entonces, salió este ülkantun, hermano, entonces
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 280.280 286.200
+
+\block 070
+\ELANBegin 00:04:46.200
+\ELANEnd 00:04:48.680
+\ELANParticipant HM
+\tx ramtupaenew,                        piy
+\mb ramtu     -pa    -e   -n       -ew  pi    -y
+\ge preguntar -DIR.1 -INV -IND.1SG -OBL decir -IND.[3]
+\ps verbo     -dir   -per -per     -per verbo -per
+
+\tx ka,
+\mb ka
+\ge y
+\ps conj
+
+\ft "Me vino a preguntar", dice,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 286.200 288.680
+
+\block 071
+\ELANBegin 00:04:48.720
+\ELANEnd 00:04:50.280
+\ELANParticipant HM
+\tx ramtupaenew
+\mb ramtu     -pa    -e   -n       -ew
+\ge preguntar -DIR.1 -INV -IND.1SG -OBL
+\ps verbo     -dir   -per -per     -per
+
+\ft "me vino a preguntar"
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 288.720 290.280
+
+\block 072
+\ELANBegin 00:04:50.280
+\ELANEnd 00:04:54.160
+\ELANParticipant HM
+\tx chew   am ta  müley         ta  chi
+\mb chew   am ta  müle -y       ta  chi
+\ge dónde INTDET estar -IND.[3] DET DEM2
+\ps pro    pardet verbo -per     det dem
+
+\tx fütrake       ülkantufe.
+\mb fütra   -ke   ülkantu -fe
+\ge gran     -DIST cantar   -AG
+\ps adverbio -det  verbo    -der
+
+\ft "¿Dónde están los grandes ülkantufe?"
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 290.280 294.160
+
+\block 073
+\ELANBegin 00:04:54.160
+\ELANEnd 00:04:57.080
+\ELANParticipant HM
+\tx kuyfi        ta  ngekelafuy
+\mb kuyfi        ta  nge   -ke    -la   -fu    -y
+\ge antiguamente DET haber -HAB   -NEG1 -AP    -IND.[3]
+\ps adv          det verbo -tam-e -neg  -tam-e -per
+
+\tx ta  radio,
+\mb ta  radio
+\ge DET radio
+\ps det nombre
+
+\ft Antes no había radio,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 294.160 297.080
+
+\block 074
+\ELANBegin 00:04:57.080
+\ELANEnd 00:04:59.640
+\ELANParticipant HM
+\tx ngekelafuy                         ta  tele,
+\mb nge   -ke    -la   -fu    -y       ta  tele
+\ge haber -HAB   -NEG1 -AP    -IND.[3] DET televisión
+\ps verbo -tam-e -neg  -tam-e -per     det nombre
+
+\ft no había tele,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 297.080 299.640
+
+\block 075
+\ELANBegin 00:04:59.640
+\ELANEnd 00:05:01.840
+\ELANParticipant HM
+\tx ngekelafuy                         tüfachi    dungu
+\mb nge   -ke    -la   -fu    -y       tüfa -chi  dungu
+\ge haber -HAB   -NEG1 -AP    -IND.[3] DEM1  -adjr asunto
+\ps verbo -tam-e -neg  -tam-e -per     pro   -***  nombre
+
+\tx ngelu         tüfa,
+\mb nge   -lu     tüfa
+\ge haber -advr.1 DEM1
+\ps verbo -advr   pro
+
+\ft no habían estas cosas que hay ahora,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 299.640 301.840
+
+\block 076
+\ELANBegin 00:05:01.840
+\ELANEnd 00:05:03.480
+\ELANParticipant HM
+\tx re       nütram    mülefuy,
+\mb re       nütram    müle -fu    -y
+\ge solo     historia   estar -AP    -IND.[3]
+\ps adverbio sustantivo verbo -tam-e -per
+
+\ft solo historias habían,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 301.840 303.480
+
+\block 077
+\ELANBegin 00:05:03.480
+\ELANEnd 00:05:05.280
+\ELANParticipant HM
+\tx re       ülkantun       mülefuy,
+\mb re       ülkantu -n     müle -fu    -y
+\ge solo     cantar   -NMRZ1 estar -AP    -IND.[3]
+\ps adverbio verbo    -nmrz  verbo -tam-e -per
+
+\ft solo ülkantun había,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 303.480 305.280
+
+\block 078
+\ELANBegin 00:05:05.280
+\ELANEnd 00:05:10.960
+\ELANParticipant HM
+\tx re       rakiduam,   re       mapudungun
+\mb re       rakiduam    re       mapudungun
+\ge solo     pensamiento solo     mapudungun
+\ps adverbio nombre      adverbio nombre
+
+\tx wallon-tumekey                         feymew,
+\mb wallo  -n     -tu    -meke    -y       feymew
+\ge rodear -NMRZ1 -APPL3 -PROG.AG -IND.[3] entonces
+\ps verbo  -nmrz  -per   -tam-e   -per     conj
+
+\ft solo pensamiento, solo mapudungun había en todos lados,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 305.280 310.960
+
+\block 079
+\ELANBegin 00:05:10.960
+\ELANEnd 00:05:12.800
+\ELANParticipant HM
+\tx kimkelafuy
+\mb kim   -ke    -la   -fu    -y
+\ge saber -HAB   -NEG1 -AP    -IND.[3]
+\ps verbo -tam-e -neg  -tam-e -per
+
+\tx wingkadungun.
+\mb wingkadungu     -n
+\ge hablar.español -NMRZ1
+\ps verbo           -nmrz
+
+\ft no se conocía el español.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 310.960 312.800
+
+\block 080
+\ELANBegin 00:05:12.800
+\ELANEnd 00:05:17.720
+\ELANParticipant HM
+\tx feymew,  feypiy                tüfachi
+\mb feymew   fey  -pi    -y       tüfa -chi
+\ge entonces DEM2 -decir -IND.[3] DEM1  -adjr
+\ps conj     pro  -verbo -per     pro   -***
+
+\tx füchache,
+\mb fücha  -che
+\ge anciano -gente
+\ps nombre  -nombre
+
+\ft Entonces, dice este anciano
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 312.800 317.720
+
+\block 081
+\ELANBegin 00:05:17.720
+\ELANEnd 00:05:20.800
+\ELANParticipant HM
+\tx chew   am   ta  müley         ta  fütrake
+\mb chew   am   ta  müle -y       ta  fütra   -ke
+\ge dónde INT  DET estar -IND.[3] DET gran     -DIST
+\ps pro    part det verbo -per     det adverbio -det
+
+\tx ülkantufe,
+\mb ülkantu -fe
+\ge cantar   -AG
+\ps verbo    -der
+
+\ft "¿Dónde están los grandes ülkantufe?",
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 317.720 320.800
+
+\block 082
+\ELANBegin 00:05:20.800
+\ELANEnd 00:05:23.840
+\ELANParticipant HM
+\tx chew   am   ta  müley         ta  fütrake
+\mb chew   am   ta  müle -y       ta  fütra   -ke
+\ge dónde INT  DET estar -IND.[3] DET gran     -DIST
+\ps pro    part det verbo -per     det adverbio -det
+
+\tx     weupife,
+\mb     weupi     -fe
+\ge dar.discursos -AG
+\ps verbo         -der
+
+\ft ¿"Dónde están los grandes wewpife"?,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 320.800 323.840
+
+\block 083
+\ELANBegin 00:05:23.840
+\ELANEnd 00:05:25.120
+\ELANParticipant HM
+\tx feypiy,
+\mb fey  -pi    -y
+\ge DEM2 -decir -IND.[3]
+\ps pro  -verbo -per
+
+\ft dice
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 323.840 325.120
+
+\block 084
+\ELANBegin 00:05:25.120
+\ELANEnd 00:05:27.440
+\ELANParticipant HM
+\tx fachiantü ngewelay                    ta
+\mb fachiantü nge   -we    -la   -y       ta
+\ge hoy        haber -INC   -NEG1 -IND.[3] DET
+\ps adverbio   verbo -tam-E -neg  -per     det
+
+\tx weupife,
+\mb weupi         -fe
+\ge dar.discursos -AG
+\ps verbo         -der
+
+\ft hoy día ya no hay wewpife,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 325.120 327.440
+
+\block 085
+\ELANBegin 00:05:27.440
+\ELANEnd 00:05:30.680
+\ELANParticipant HM
+\tx kimelelumew                taiñ
+\mb kimel    -e   -lu     -mew ta  -iñ
+\ge enseñar -INV -advr.1 -OBL DET -IND.1PL
+\ps verbo    -per -advr   -per det -per
+
+\tx küpan       chew   taiñ        küpan.
+\mb küpa -n     chew   ta  -iñ     küpa  -n
+\ge venir -NMRZ1 dónde DET -IND.1PL querer -NMRZ1
+\ps verbo -nmrz  pro    det -per     aux    -nmrz
+
+\ft que nos enseñaban nuestro origen, de donde venimos,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 327.440 330.680
+
+\block 086
+\ELANBegin 00:05:30.680
+\ELANEnd 00:05:33.080
+\ELANParticipant HM
+\tx iney   rume     ta  inaramtulay
+\mb iney   rume     ta  ina    -ramtu     -la   -y
+\ge quién siquiera DET seguir -preguntar -NEG1 -IND.[3]
+\ps pro    adverbio det verbo  -verbo     -neg  -per
+
+\ft Ya nadie pregunta,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 330.680 333.080
+
+\block 087
+\ELANBegin 00:05:33.080
+\ELANEnd 00:05:36.960
+\ELANParticipant HM
+\tx ngewelay                    ta  nütram,   wall
+\mb nge   -we    -la   -y       ta  nütram    wall
+\ge haber -INC   -NEG1 -IND.[3] DET historia   rodear
+\ps verbo -tam-E -neg  -per     det sustantivo verbo
+
+\tx kütral mew
+\mb kütral mew
+\ge fuego   PPOS
+\ps nombre  ppos
+
+\ft ya no hay historias alrededor del fogón,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 333.080 336.960
+
+\block 088
+\ELANBegin 00:05:36.960
+\ELANEnd 00:05:41.040
+\ELANParticipant HM
+\tx ngewelay                    ta  nütram
+\mb nge   -we    -la   -y       ta  nütram
+\ge haber -INC   -NEG1 -IND.[3] DET historia
+\ps verbo -tam-E -neg  -per     det sustantivo
+
+\tx trawün         mew,
+\mb trawü   -n     mew
+\ge juntarse -NMRZ1 PPOS
+\ps verbo    -nmrz  ppos
+
+\ft ya no hay historias en las reuniones,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 336.960 341.040
+
+\block 089
+\ELANBegin 00:05:41.040
+\ELANEnd 00:05:49.360
+\ELANParticipant HM
+\tx iney   rume     ta  inaramtulay
+\mb iney   rume     ta  ina    -ramtu     -la   -y
+\ge quién siquiera DET seguir -preguntar -NEG1 -IND.[3]
+\ps pro    adverbio det verbo  -verbo     -neg  -per
+
+\tx chew   ta ñi    küpan       kiñe
+\mb chew   ta ñi    küpa -n     kiñe
+\ge dónde DET3.POSS venir -NMRZ1 un
+\ps pro    detpro    verbo -nmrz  art
+
+\tx wentru, kiñe mapuche, kiñe domo   mapuche.
+\mb wentru  kiñe mapuche  kiñe domo   mapuche
+\ge hombre  un    mapuche  un    mujer  mapuche
+\ps nombre  art   nombre   art   nombre nombre
+
+\ft nadie pregunta, de donde viene un hombre, un mapuche, una mujer mapuche.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 341.040 349.360
+
+\block 090
+\ELANBegin 00:05:49.360
+\ELANEnd 00:05:53.120
+\ELANParticipant HM
+\tx feymew,  ta  allkülwelay
+\mb feymew   ta  allkü   -l     -we    -la   -y
+\ge entonces DET escuchar -APPL3 -INC   -NEG1 -IND.[3]
+\ps conj     det verbo    -per   -tam-E -neg  -per
+
+\tx ta  weupin
+\mb ta  weupi         -n
+\ge DET dar.discursos -NMRZ1
+\ps det verbo         -nmrz
+
+\ft Entonces,  "no se escuchan los discursos,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 349.360 353.120
+
+\block 091
+\ELANBegin 00:05:53.120
+\ELANEnd 00:05:55.600
+\ELANParticipant HM
+\tx allküwelay                    ta  ülkantun,
+\mb allkü   -we    -la   -y       ta  ülkantu -n
+\ge escuchar -INC   -NEG1 -IND.[3] DET cantar   -NMRZ1
+\ps verbo    -tam-E -neg  -per     det verbo    -nmrz
+
+\ft no se escuchan los ülkantun"
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 353.120 355.600
+
+\block 092
+\ELANBegin 00:05:55.600
+\ELANEnd 00:05:56.880
+\ELANParticipant HM
+\tx pienew
+\mb pi    -e   -n       -ew
+\ge decir -INV -IND.1SG -OBL
+\ps verbo -per -per     -per
+
+\ft me dijo,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 355.600 356.880
+
+\block 093
+\ELANBegin 00:05:56.920
+\ELANEnd 00:05:59.800
+\ELANParticipant HM
+\tx pienew                   pienew
+\mb pi    -e   -n       -ew  pi    -e   -n       -ew
+\ge decir -INV -IND.1SG -OBL decir -INV -IND.1SG -OBL
+\ps verbo -per -per     -per verbo -per -per     -per
+
+\tx ñi      longko pichi    ülkantun       tüfa.
+\mb ñi      longko pichi    ülkantu -n     tüfa
+\ge 1SG.POSS cabeza pequeño cantar   -NMRZ1 DEM1
+\ps pro      nombre adj      verbo    -nmrz  pro
+
+\ft me dijo, me dijo mi longko en este pequeño ülkantun.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 356.920 359.800
+
+\block 094
+\ELANBegin 00:05:59.800
+\ELANEnd 00:06:03.200
+\ELANParticipant HM
+\tx iñche ñi      pewma  mew,
+\mb iñche ñi      pewma  mew
+\ge 1SG    1SG.POSS sueño PPOS
+\ps pro    pro      nombre ppos
+
+\tx feypipaenew,
+\mb fey  -pi    -pa    -e   -n       -ew
+\ge DEM2 -decir -DIR.1 -INV -IND.1SG -OBL
+\ps pro  -verbo -dir   -per -per     -per
+
+\ft En mi sueño, me vino a decir
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 359.800 363.200
+
+\block 095
+\ELANBegin 00:06:03.200
+\ELANEnd 00:06:05.280
+\ELANParticipant HM
+\tx dew      wingkawimün,
+\mb dew      wingka     -w     -imün
+\ge ya       no.mapuche -REFL  -2PL
+\ps adverbio nombre     -per   -per
+
+\ft "ya se ahuincaron"
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 363.200 365.280
+
+\block 096
+\ELANBegin 00:06:05.280
+\ELANEnd 00:06:06.980
+\ELANParticipant HM
+\tx dew      wingkawimün            am,
+\mb dew      wingka     -w    -imün am
+\ge ya       no.mapuche -REFL -2PL   INT
+\ps adverbio nombre     -per  -per   part
+
+\ft "acaso ya se ahuincaron",
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 365.280 366.980
+
+\block 097
+\ELANBegin 00:06:06.980
+\ELANEnd 00:06:08.520
+\ELANParticipant HM
+\tx pipaenew,
+\mb pi    -pa    -e   -n       -ew
+\ge decir -DIR.1 -INV -IND.1SG -OBL
+\ps verbo -dir   -per -per     -per
+
+\ft me vino a decir,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 366.980 368.520
+
+\block 098
+\ELANBegin 00:06:08.520
+\ELANEnd 00:06:10.800
+\ELANParticipant HM
+\tx pienew                   chi  longko,
+\mb pi    -e   -n       -ew  chi  longko
+\ge decir -INV -IND.1SG -OBL DEM2 cabeza
+\ps verbo -per -per     -per dem  nombre
+
+\ft me dijo el longko
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 368.520 370.800
+
+\block 099
+\ELANBegin 00:06:10.800
+\ELANEnd 00:06:12.880
+\ELANParticipant HM
+\tx piy            ta ñi    ülkantun
+\mb pi    -y       ta ñi    ülkantu -n
+\ge decir -IND.[3] DET3.POSS cantar   -NMRZ1
+\ps verbo -per     detpro    verbo    -nmrz
+
+\tx tüfa.
+\mb tüfa
+\ge DEM1
+\ps pro
+
+\ft dijo su ülkantun.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 370.800 372.880
+
+\block 100
+\ELANBegin 00:06:12.880
+\ELANEnd 00:06:15.680
+\ELANParticipant HM
+\tx feymew,  feyngey              ta ti,
+\mb feymew   fey  -nge   -y       ta ti
+\ge entonces DEM2 -COP   -IND.[3] DETDET2
+\ps conj     pro  -verbo -per     detdet
+
+\ft Entonces, es así, hoy día,,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 372.880 375.680
+
+\block 101
+\ELANBegin 00:06:15.680
+\ELANEnd 00:06:20.080
+\ELANParticipant HM
+\tx fantepumew epu     rume     rakiduam
+\mb fantepumew epu     rume     rakiduam
+\ge ahora      dos     siquiera pensamiento
+\ps adverbio   número adverbio nombre
+
+\tx niey           taiñ        mapuchengen.
+\mb nie   -y       ta  -iñ     mapuche -nge   -n
+\ge tener -IND.[3] DET -IND.1PL mapuche -COP   -NMRZ1
+\ps verbo -per     det -per     nombre  -verbo -nmrz
+
+\ft hoy día, dos pensamientos tenemos los mapuches,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 375.680 380.080
+
+\block 102
+\ELANBegin 00:06:20.080
+\ELANEnd 00:06:26.240
+\ELANParticipant HM
+\tx epu     rume     rakiduam    nieiñ         wingka
+\mb epu     rume     rakiduam    nie   -iñ     wingka
+\ge dos     siquiera pensamiento tener -IND.1PL no.mapuche
+\ps número adverbio nombre      verbo -per     nombre
+
+\tx rakiduam,   ka   nieiñ         mapuche rakiduam.
+\mb rakiduam    ka   nie   -iñ     mapuche rakiduam
+\ge pensamiento y    tener -IND.1PL mapuche pensamiento
+\ps nombre      conj verbo -per     nombre  nombre
+
+\ft dos pensamientos tenemos, el pensamiento wingka y tenemos el pensamiento mapuche.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 380.080 386.240
+
+\block 103
+\ELANBegin 00:06:26.240
+\ELANEnd 00:06:29.480
+\ELANParticipant HM
+\tx dew      wewngey              reke
+\mb dew      wew    -nge -y       reke
+\ge ya       vencer -PAS -IND.[3] COMP
+\ps adverbio verbo  -per -per     ppos
+
+\tx ta ñi    rakiduam    mew,
+\mb ta ñi    rakiduam    mew
+\ge DET3.POSS pensamiento PPOS
+\ps detpro    nombre      ppos
+
+\ft Como si estuviera vencido en su pensamiento,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 386.240 389.480
+
+\block 104
+\ELANBegin 00:06:29.480
+\ELANEnd 00:06:33.360
+\ELANParticipant HM
+\tx dew      wewngey              reke taiñ
+\mb dew      wew    -nge -y       reke ta  -iñ
+\ge ya       vencer -PAS -IND.[3] COMP DET -IND.1PL
+\ps adverbio verbo  -per -per     ppos det -per
+
+\tx mapuchengen           iñchiñ.
+\mb mapuche -nge   -n     iñchiñ
+\ge mapuche -COP   -NMRZ1 nosotros
+\ps nombre  -verbo -nmrz  pro
+
+\ft como si ya ha sido vencido nuestro ser mapuche,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 389.480 393.360
+
+\block 105
+\ELANBegin 00:06:33.360
+\ELANEnd 00:06:44.560
+\ELANParticipant HM
+\tx feymew   ta, rulpalaiñ           ta  müte
+\mb feymew   ta  rulpa -la   -iñ     ta  müte
+\ge entonces DET pasar -NEG1 -IND.1PL DET poco
+\ps conj     det verbo -neg  -per     det adverbio
+
+\tx taiñ        mapudungun entuael
+\mb ta  -iñ     mapudungun entu  -a     -el
+\ge DET -IND.1PL mapudungun sacar -FUT   -NMRZ2
+\ps det -per     nombre     verbo -tam-e -nmzr
+
+\tx nütram    mew, ülkantun       mew,
+\mb nütram    mew  ülkantu -n     mew
+\ge historia   PPOS cantar   -NMRZ1 PPOS
+\ps sustantivo ppos verbo    -nmrz  ppos
+
+\ft entonces, traduciremos nuestro mapudungun, para sacar en las historias, en los ülkantun,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 393.360 404.560
+
+\block 106
+\ELANBegin 00:06:44.560
+\ELANEnd 00:06:48.200
+\ELANParticipant HM
+\tx wingkawi                  ta ñi
+\mb wingka     -w    -i       ta ñi
+\ge no.mapuche -REFL -IND.[3] DET3.POSS
+\ps nombre     -per  -per     detpro
+
+\tx rakiduam    reke.
+\mb rakiduam    reke
+\ge pensamiento COMP
+\ps nombre      ppos
+
+\ft como que se ahuincó nuestro pensamiento.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 404.560 408.200
+
+\block 107
+\ELANBegin 00:06:48.200
+\ELANEnd 00:06:53.640
+\ELANParticipant HM
+\tx feymew,  feypipay                     chi  longko,
+\mb feymew   fey  -pi    -pa    -y       chi  longko
+\ge entonces DEM2 -decir -DIR.1 -IND.[3] DEM2 cabeza
+\ps conj     pro  -verbo -dir   -per     dem  nombre
+
+\ft Entonces, me vino a decir el longko,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 408.200 413.640
+
+\block 108
+\ELANBegin 00:06:53.640
+\ELANEnd 00:06:56.960
+\ELANParticipant HM
+\tx füchache,       pewma  mew, dew
+\mb fücha  -che    pewma  mew  dew
+\ge anciano -gente  sueño PPOS ya
+\ps nombre  -nombre nombre ppos adverbio
+
+\tx wingkawimün
+\mb wingka      -w    -imün
+\ge no.mapuche  -REFL -2PL
+\ps nombre      -per  -per
+
+\ft el anciano en el sueño "ya se ahuincaron,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 413.640 416.960
+
+\block 109
+\ELANBegin 00:06:56.960
+\ELANEnd 00:07:03.680
+\ELANParticipant HM
+\tx re       wingkadungun           allkutun
+\mb re       wingkadungu     -n     allkutu  -n
+\ge solo     hablar.español -NMRZ1 escuchar -IND.1SG
+\ps adverbio verbo           -nmrz  verbo    -per
+
+\tx tami          wün     mew  tami
+\mb ta  -mi       wün     mew  ta  -mi
+\ge DET -2SG.POSS amanecer PPOS DET -2SG.POSS
+\ps det -pro      nombre   ppos det -pro
+
+\tx rakiduam    mew,
+\mb rakiduam    mew
+\ge pensamiento PPOS
+\ps nombre      ppos
+
+\ft solo escucho español en tu boca en tu pensamiento" están diciendo los ancianos en tu pensamiento"
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 416.960 423.680
+
+\block 110
+\ELANBegin 00:07:03.680
+\ELANEnd 00:07:05.360
+\ELANParticipant HM
+\tx piley                 ta  füchake      che.
+\mb pi    -le    -y       ta  fücha  -ke   che
+\ge decir -PROG  -IND.[3] DET anciano -DIST gente
+\ps verbo -tam-e -per     det nombre  -det  nombre
+
+\ft están diciendo los ancianos.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 423.680 425.360
+
+\block 111
+\ELANBegin 00:07:05.360
+\ELANEnd 00:07:07.600
+\ELANParticipant HM
+\tx femngechi rakiduam    müleiñ
+\mb femngechi rakiduam    müle -iñ
+\ge así      pensamiento estar -IND.1PL
+\ps adverbio  nombre      verbo -per
+
+\ft En este pensamieno estamos
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 425.360 427.600
+
+\block 112
+\ELANBegin 00:07:07.600
+\ELANEnd 00:07:08.920
+\ELANParticipant HM
+\tx feyngey              ta  tüfey,
+\mb fey  -nge   -y       ta  tüfey
+\ge DEM2 -COP   -IND.[3] DET DEM2
+\ps pro  -verbo -per     det pro
+
+\ft Es asì ahora.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 427.600 428.920
+
+\block 113
+\ELANBegin 00:07:08.920
+\ELANEnd 00:07:11.120
+\ELANParticipant HM
+\tx feymew   pienew,
+\mb feymew   pi    -e   -n       -ew
+\ge entonces decir -INV -IND.1SG -OBL
+\ps conj     verbo -per -per     -per
+
+\ft Entonces, me dijo en mi sueño
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 428.920 431.120
+
+\block 114
+\ELANBegin 00:07:11.120
+\ELANEnd 00:07:15.200
+\ELANParticipant HM
+\tx iñche ñi pewma mew, akuy chi longko.
+\ft en mi sueño, llegó el longko.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 431.120 435.200
+
+\block 115
+\ELANBegin 00:07:15.200
+\ELANEnd 00:07:18.280
+\ELANParticipant HM
+\tx illkütupaenew
+\mb illkü -tu    -pa    -e   -n       -ew
+\ge enojar -APPL3 -DIR.1 -INV -IND.1SG -OBL
+\ps verbo  -per   -dir   -per -per     -per
+
+\ft Se enojó acá conmigo,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 435.200 438.280
+
+\block 116
+\ELANBegin 00:07:18.280
+\ELANEnd 00:07:22.400
+\ELANParticipant HM
+\tx feypifinge                  tüfachi
+\mb fey  -pi    -fi   -nge     tüfa -chi
+\ge DEM2 -decir -3.OP -IMP.2SG DEM1  -adjr
+\ps pro  -verbo -per  -mod     pro   -***
+
+\tx wecheke     che
+\mb weche -ke   che
+\ge joven -DIST gente
+\ps adj   -det  nombre
+
+\ft "dile esto a los jovenes,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 438.280 442.400
+
+\block 117
+\ELANBegin 00:07:22.400
+\ELANEnd 00:07:25.520
+\ELANParticipant HM
+\tx feypinge              tüfachi    pu  mapuche
+\mb fey  -pi    -nge     tüfa -chi  pu  mapuche
+\ge DEM2 -decir -IMP.2SG DEM1  -adjr COL mapuche
+\ps pro  -verbo -mod     pro   -***  det nombre
+
+\tx mülelu       tüfachi    mapu   mew,
+\mb müle -lu     tüfa -chi  mapu   mew
+\ge estar -advr.1 DEM1  -adjr tierra PPOS
+\ps verbo -advr   pro   -***  nombre ppos
+
+\ft dile esto a los mapuches que están en esta tierra
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 442.400 445.520
+
+\block 118
+\ELANBegin 00:07:25.520
+\ELANEnd 00:07:29.360
+\ELANParticipant HM
+\tx pifinge              pikeenew
+\mb pi    -fi   -nge     pi    -ke    -e   -n       -ew
+\ge decir -3.OP -IMP.2SG decir -HAB   -INV -IND.1SG -OBL
+\ps verbo -per  -mod     verbo -tam-e -per -per     -per
+
+\tx reke tüfachi    ülkantun       mew.
+\mb reke tüfa -chi  ülkantu -n     mew
+\ge COMP DEM1  -adjr cantar   -NMRZ1 PPOS
+\ps ppos pro   -***  verbo    -nmrz  ppos
+
+\ft diles" como que me dijo en este ülkantun.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 445.520 449.360
+
+\block 119
+\ELANBegin 00:07:29.360
+\ELANEnd 00:07:31.040
+\ELANParticipant HM
+\tx feymew,
+\mb feymew
+\ge entonces
+\ps conj
+
+\ft Entonces,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 449.360 451.040
+
+\block 120
+\ELANBegin 00:07:31.040
+\ELANEnd 00:07:34.520
+\ELANParticipant HM
+\tx wirin           tukun          tüfa ñi
+\mb wiri     -n     tuku  -n       tüfa ñi
+\ge escribir -NMRZ1 poner -IND.1SG DEM1  1SG.POSS
+\ps verbo    -nmrz  tam-e -per     pro   pro
+
+\tx pewma  tüfachi    chillka mew,
+\mb pewma  tüfa -chi  chillka mew
+\ge sueño DEM1  -adjr estudio PPOS
+\ps nombre pro   -***  nombre  ppos
+
+\ft escribì mi sueño en esta hoja
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 451.040 454.520
+
+\block 121
+\ELANBegin 00:07:34.520
+\ELANEnd 00:07:36.800
+\ELANParticipant HM
+\tx ülkantun       mew  entufiñ
+\mb ülkantu -n     mew  entu  -fi   -ñ
+\ge cantar   -NMRZ1 PPOS sacar -3.OP -IND.1SSG
+\ps verbo    -nmrz  ppos verbo -per  -per
+
+\ft en un ülkantun lo saqué.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 454.520 456.800
+
+\block 122
+\ELANBegin 00:07:36.800
+\ELANEnd 00:07:41.600
+\ELANParticipant HM
+\tx feymew   tüfa kiñe pichi    ülkantun
+\mb feymew   tüfa kiñe pichi    ülkantu -n
+\ge entonces DEM1  un    pequeño cantar   -NMRZ1
+\ps conj     pro   art   adj      verbo    -nmrz
+
+\tx entuan
+\mb entu  -a     -n
+\ge sacar -FUT   -IND.1SG
+\ps verbo -tam-e -per
+
+\ft entonces, ahora un pequeño ülkantun sacaré, lo que dice este, lo escucharan bien, si son mapuches ustedes, los amigos, los hermanos, las hermanas
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 456.800 461.600
+
+\block 123
+\ELANBegin 00:07:41.600
+\ELANEnd 00:07:44.560
+\ELANParticipant HM
+\tx chem pipan                 tüfachi
+\mb chem pi    -pa    -n       tüfa -chi
+\ge qué decir -DIR.1 -IND.1SG DEM1  -adjr
+\ps pro  verbo -dir   -per     pro   -***
+
+\ft lo que diré acá
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 461.600 464.560
+
+\block 124
+\ELANBegin 00:07:44.560
+\ELANEnd 00:07:50.400
+\ELANParticipant HM
+\tx küme    allkütuaymün,
+\mb küme    allkü   -tu    -a     -ymün
+\ge bien     escuchar -APPL3 -FUT   -IND.2PL
+\ps adverbio verbo    -per   -tam-e -per
+
+\tx mapuchengelimün           eymün, pu
+\mb mapuche -nge   -li   -mün eymün  pu
+\ge mapuche -COP   -COND -2PL  ustedes COL
+\ps nombre  -verbo -mod  -per  pro     det
+
+\tx wenüy, pu  peñi,                     pu
+\mb wenüy  pu  peñi                      pu
+\ge amigo   COL hermano (de ego masculino) COL
+\ps nombre  det nombre                     det
+
+\tx lamngen,
+\mb lamngen
+\ge hermano
+\ps nombre
+
+\ft lo escucharan bien, si son mapuches ustedes, los amigos, los hermanos, las hermanas
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 464.560 470.400
+
+\block 125
+\ELANBegin 00:07:50.400
+\ELANEnd 00:07:58.920
+\ELANParticipant HM
+\tx pewmangen
+\mb pewmangen
+\ge ojalá
+\ps interj
+
+\tx wiñorakiduamtuaymün,
+\mb wiño  -rakiduam    -tu  -a     -ymün
+\ge volver -pensamiento -RE  -FUT   -IND.2PL
+\ps verbo  -nombre      -dir -tam-e -per
+
+\tx tamün       mapuchengen
+\mb ta  -mün    mapuche -nge   -n
+\ge DET -2PL.POS mapuche -COP   -NMRZ1
+\ps det -pro     nombre  -verbo -nmrz
+
+\tx pefilimün,
+\mb pe    -fi   -li   -mün
+\ge ver   -3.OP -COND -2PL
+\ps verbo -per  -mod  -per
+
+\tx allküfilimün             tüfachi
+\mb allkü   -fi   -li   -mün tüfa -chi
+\ge escuchar -3.OP -COND -2PL  DEM1  -adjr
+\ps verbo    -per  -mod  -per  pro   -***
+
+\tx ülkantun.
+\mb ülkantu -n
+\ge cantar   -NMRZ1
+\ps verbo    -nmrz
+
+\ft ojalá que vuelvan a su pensamiento, a su ser mapuche, cuando vean esto, cuando escuchen este ülkantun.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 470.400 478.920
+
+\block 126
+\ELANBegin 00:07:58.920
+\ELANEnd 00:08:01.880
+\ELANParticipant HM
+\tx feypiy
+\mb fey  -pi    -y
+\ge DEM2 -decir -IND.[3]
+\ps pro  -verbo -per
+
+\ft dice asì:
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 478.920 481.880
+
+\block 127
+\ELANBegin 00:08:01.880
+\ELANEnd 00:08:05.520
+\ELANParticipant HM
+\tx kiñe pewma  nien,
+\mb kiñe pewma  nie   -n
+\ge un    sueño tener -IND.1SG
+\ps art   nombre verbo -per
+
+\ft "Yo tengo un sueño,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 481.880 485.520
+
+\block 128
+\ELANBegin 00:08:05.520
+\ELANEnd 00:08:11.760
+\ELANParticipant HM
+\tx kiñe pewma  nien,          ta  ñi
+\mb kiñe pewma  nie   -n       ta  ñi
+\ge un    sueño tener -IND.1SG DET 1SG.POSS
+\ps art   nombre verbo -per     det pro
+
+\tx piael               tüfa, i
+\mb pi    -a     -el    tüfa  i
+\ge decir -FUT   -NMRZ2 DEM1   comer
+\ps verbo -tam-e -nmzr  pro    verbo
+
+\ft un sueño tengo, para decir ahora;
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 485.520 491.760
+
+\block 129
+\ELANBegin 00:08:11.760
+\ELANEnd 00:08:21.040
+\ELANParticipant HM
+\tx iñche ñi      pewma  mew, iñche ñi
+\mb iñche ñi      pewma  mew  iñche ñi
+\ge 1SG    1SG.POSS sueño PPOS 1SG    1SG.POSS
+\ps pro    pro      nombre ppos pro    pro
+
+\tx pewma  mew, akuy                 kiñe longko,
+\mb pewma  mew  aku         -y       kiñe longko
+\ge sueño PPOS llegar.acá -IND.[3] un    cabeza
+\ps nombre ppos verbo       -per     art   nombre
+
+\ft en mi sueño, en mi sueño, llegó un longko,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 491.760 501.040
+
+\block 130
+\ELANBegin 00:08:21.040
+\ELANEnd 00:08:23.080
+\ELANParticipant HM
+\tx akuy                 kiñe longko,
+\mb aku         -y       kiñe longko
+\ge llegar.acá -IND.[3] un    cabeza
+\ps verbo       -per     art   nombre
+
+\ft llegó un longko;
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 501.040 503.080
+
+\block 131
+\ELANBegin 00:08:23.080
+\ELANEnd 00:08:25.800
+\ELANParticipant HM
+\tx akuy                 kiñe longko,
+\mb aku         -y       kiñe longko
+\ge llegar.acá -IND.[3] un    cabeza
+\ps verbo       -per     art   nombre
+
+\ft llegó un longko;
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 503.080 505.800
+
+\block 132
+\ELANBegin 00:08:25.800
+\ELANEnd 00:08:28.620
+\ELANParticipant HM
+\tx pellkeley                     ñi    adkintun,
+\mb pellke        -le    -y       ñi    adkintu -n
+\ge entristecerse -ESTAT -IND.[3] 3.POSS mirar   -NMRZ1
+\ps verbo         -tam-e -per     pro    verbo   -nmrz
+
+\ft está triste su mirada,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 505.800 508.620
+
+\block 133
+\ELANBegin 00:08:28.620
+\ELANEnd 00:08:31.480
+\ELANParticipant HM
+\tx pellkeley                     ñi    adkintun,
+\mb pellke        -le    -y       ñi    adkintu -n
+\ge entristecerse -ESTAT -IND.[3] 3.POSS mirar   -NMRZ1
+\ps verbo         -tam-e -per     pro    verbo   -nmrz
+
+\ft está triste su mirada;
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 508.620 511.480
+
+\block 134
+\ELANBegin 00:08:31.480
+\ELANEnd 00:08:43.200
+\ELANParticipant HM
+\tx ta  ñi      fücha  laku,          ta  ñi
+\mb ta  ñi      fücha  laku           ta  ñi
+\ge DET 1SG.POSS anciano abuelo paterno DET 1SG.POSS
+\ps det pro      nombre  nombre         det pro
+
+\tx fücha  laku,          ta  ñi      fücha
+\mb fücha  laku           ta  ñi      fücha
+\ge anciano abuelo paterno DET 1SG.POSS anciano
+\ps nombre  nombre         det pro      nombre
+
+\tx laku,
+\mb laku
+\ge abuelo paterno
+\ps nombre
+
+\tx feypipaenew                            may,
+\mb fey  -pi    -pa    -e   -n       -ew  may
+\ge DEM2 -decir -DIR.1 -INV -IND.1SG -OBL si
+\ps pro  -verbo -dir   -per -per     -per adverbio
+
+\ft mi anciano abuelo, mi anciano abuelo, mi anciano abuelo, me vino a decir, ,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 511.480 523.200
+
+\block 135
+\ELANBegin 00:08:43.200
+\ELANEnd 00:08:45.000
+\ELANParticipant HM
+\tx feypipaenew                            may.
+\mb fey  -pi    -pa    -e   -n       -ew  may
+\ge DEM2 -decir -DIR.1 -INV -IND.1SG -OBL si
+\ps pro  -verbo -dir   -per -per     -per adverbio
+
+\ft me vino a decir pues,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 523.200 525.000
+
+\block 136
+\ELANBegin 00:08:45.000
+\ELANEnd 00:08:48.400
+\ELANParticipant HM
+\tx feymew   ramtuenew,
+\mb feymew   ramtu     -e   -n       -ew
+\ge entonces preguntar -INV -IND.1SG -OBL
+\ps conj     verbo     -per -per     -per
+
+\ft Entonces me preguntó,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 525.000 528.400
+
+\block 137
+\ELANBegin 00:08:48.400
+\ELANEnd 00:08:51.160
+\ELANParticipant HM
+\tx feymew   ramtuenew
+\mb feymew   ramtu     -e   -n       -ew
+\ge entonces preguntar -INV -IND.1SG -OBL
+\ps conj     verbo     -per -per     -per
+
+\ft entonces me preguntó
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 528.400 531.160
+
+\block 138
+\ELANBegin 00:08:51.160
+\ELANEnd 00:08:56.880
+\ELANParticipant HM
+\tx chew   am   ta  müley         ta  chi  pu
+\mb chew   am   ta  müle -y       ta  chi  pu
+\ge dónde INT  DET estar -IND.[3] DET DEM2 COL
+\ps pro    part det verbo -per     det dem  det
+
+\tx ülkantufe,   chew   am   ta  müley         ta
+\mb ülkantu -fe  chew   am   ta  müle -y       ta
+\ge cantar   -AG  dónde INT  DET estar -IND.[3] DET
+\ps verbo    -der pro    part det verbo -per     det
+
+\tx chi  pu  ülkantufe,
+\mb chi  pu  ülkantu -fe
+\ge DEM2 COL cantar   -AG
+\ps dem  det verbo    -der
+
+\ft ¿Dónde están los ülkantufe?,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 531.160 536.880
+
+\block 139
+\ELANBegin 00:08:56.880
+\ELANEnd 00:09:02.440
+\ELANParticipant HM
+\tx chew   am   ta  müley         ta  chi  pu
+\mb chew   am   ta  müle -y       ta  chi  pu
+\ge dónde INT  DET estar -IND.[3] DET DEM2 COL
+\ps pro    part det verbo -per     det dem  det
+
+\tx ülkantufe,
+\mb ülkantu -fe
+\ge cantar   -AG
+\ps verbo    -der
+
+\ft ¿Dònde estàn los ülkantufe?,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 536.880 542.440
+
+\block 140
+\ELANBegin 00:09:02.440
+\ELANEnd 00:09:07.120
+\ELANParticipant HM
+\tx chew   am   ta  müley         ta  fütrake
+\mb chew   am   ta  müle -y       ta  fütra   -ke
+\ge dónde INT  DET estar -IND.[3] DET gran     -DIST
+\ps pro    part det verbo -per     det adverbio -det
+
+\tx weupife,
+\mb weupi         -fe
+\ge dar.discursos -AG
+\ps verbo         -der
+
+\ft ¿Dónde están los grandes wewpife?"
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 542.440 547.120
+
+\block 141
+\ELANBegin 00:09:07.120
+\ELANEnd 00:09:13.280
+\ELANParticipant HM
+\tx pienew                   chi  longko, iñche
+\mb pi    -e   -n       -ew  chi  longko  iñche
+\ge decir -INV -IND.1SG -OBL DEM2 cabeza  1SG
+\ps verbo -per -per     -per dem  nombre  pro
+
+\tx ñi      pewma  mew,
+\mb ñi      pewma  mew
+\ge 1SG.POSS sueño PPOS
+\ps pro      nombre ppos
+
+\ft me dijo el longko, en mi sueño
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 547.120 553.280
+
+\block 142
+\ELANBegin 00:09:13.280
+\ELANEnd 00:09:16.280
+\ELANParticipant HM
+\tx dewma wingkawimün,
+\mb dewma wingka     -w     -imün
+\ge hacer no.mapuche -REFL  -IND.2PL
+\ps verbo nombre     -per   -per
+
+\ft "ya se ahuincaron,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 553.280 556.280
+
+\block 143
+\ELANBegin 00:09:16.280
+\ELANEnd 00:09:19.040
+\ELANParticipant HM
+\tx dewma wingkawimün,
+\mb dewma wingka     -w     -imün
+\ge hacer no.mapuche -REFL  -IND.2PL
+\ps verbo nombre     -per   -per
+
+\ft ya se ahuincaron,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 556.280 559.040
+
+\block 144
+\ELANBegin 00:09:19.040
+\ELANEnd 00:09:21.720
+\ELANParticipant HM
+\tx dewma wingkawimün
+\mb dewma wingka      -w    -imün
+\ge hacer no.mapuche  -REFL -IND.2PL
+\ps verbo nombre      -per  -per
+
+\ft ya se ahuincaron
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 559.040 561.720
+
+\block 145
+\ELANBegin 00:09:21.720
+\ELANEnd 00:09:24.720
+\ELANParticipant HM
+\tx pienew                   pienew
+\mb pi    -e   -n       -ew  pi    -e   -n       -ew
+\ge decir -INV -IND.1SG -OBL decir -INV -IND.1SG -OBL
+\ps verbo -per -per     -per verbo -per -per     -per
+
+\ft me dijo, me dijo
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 561.720 564.720
+
+\block 146
+\ELANBegin 00:09:24.720
+\ELANEnd 00:09:31.800
+\ELANParticipant HM
+\tx pienew                   pienew
+\mb pi    -e   -n       -ew  pi    -e   -n       -ew
+\ge decir -INV -IND.1SG -OBL decir -INV -IND.1SG -OBL
+\ps verbo -per -per     -per verbo -per -per     -per
+
+\tx ta  laku           anay, iñche ñi      pewma
+\mb ta  laku           anay  iñche ñi      pewma
+\ge DET abuelo paterno pues  1SG    1SG.POSS sueño
+\ps det nombre         part  pro    pro      nombre
+
+\tx mew.
+\mb mew
+\ge PPOS
+\ps ppos
+
+\ft me dijo, me dijo el abuelo, en mi sueño.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 564.720 571.800
+
+\block 147
+\ELANBegin 00:09:31.800
+\ELANEnd 00:09:35.320
+\ELANParticipant HM
+\tx feypiy                tachi     ülkantun,
+\mb fey  -pi    -y       ta  -chi  ülkantu -n
+\ge DEM2 -decir -IND.[3] DET -adjr cantar   -NMRZ1
+\ps pro  -verbo -per     det -***  verbo    -nmrz
+
+\tx peñi.
+\mb peñi
+\ge hermano (de ego masculino)
+\ps nombre
+
+\ft Asì dice el ülkantun, peñi.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 571.800 575.320
+
+\block 148
+\ELANBegin 00:09:33.640
+\ELANEnd 00:09:37.640
+\ELANParticipant FH
+\tx müna    kümey            tami          entu-n.
+\mb müna    küme    -y       ta  -mi       entu  -n
+\ge mucho    bien     -IND.[3] DET -2SG.POSS sacar -NMRZ1
+\ps adverbio adverbio -per     det -pro      verbo -nmrz
+
+\ft Muy bueno lo que sacaste, hermano.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 573.640 577.640
+
+\block 149
+\ELANBegin 00:09:37.640
+\ELANEnd 00:09:48.520
+\ELANParticipant FH
+\tx ka   entulu        tüfachi    ülkantun
+\mb ka   entu  -lu     tüfa -chi  ülkantu -n
+\ge y    sacar -advr.1 DEM1  -adjr cantar   -NMRZ1
+\ps conj verbo -advr   pro   -***  verbo    -nmrz
+
+\tx tami          clase  mew  chem piy
+\mb ta  -mi       clase  mew  chem pi    -y
+\ge DET -2SG.POSS clase  PPOS qué decir -IND.[3]
+\ps det -pro      nombre ppos pro  verbo -per
+
+\tx ta  chillkatu-fe   allkütulu
+\mb ta  chillkatu -fe  allkü   -tu    -lu
+\ge DET estudiar  -AG  escuchar -APPL3 -advr.1
+\ps det verbo     -der verbo    -per   -advr
+
+\tx tüfachi    ülkantun.
+\mb tüfa -chi  ülkantu -n
+\ge DEM1  -adjr cantar   -NMRZ1
+\ps pro   -***  verbo    -nmrz
+
+\ft Cuando sacas este ülkantun, en tu clase ¿Qué dicen los estudiantes cuando escuchan este ülkantun?
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 577.640 588.520
+
+\block 150
+\ELANBegin 00:09:48.440
+\ELANEnd 00:09:51.800
+\ELANParticipant HM
+\tx kiñeke     che    petu     kimlay
+\mb kiñe -ke   che    petu     kim   -la   -y
+\ge un    -DIST gente  todavía saber -NEG1 -IND.[3]
+\ps art   -det  nombre adverbio verbo -neg  -per
+
+\tx chem ñi    feypin              tüfa.
+\mb chem ñi    fey  -pi    -n     tüfa
+\ge qué 3.POSS DEM2 -decir -NMRZ1 DEM1
+\ps pro  pro    pro  -verbo -nmrz  pro
+
+\ft Algunas personas todavìa no saben lo que dice.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 588.440 591.800
+
+\block 151
+\ELANBegin 00:09:51.800
+\ELANEnd 00:10:01.360
+\ELANParticipant HM
+\tx kiñeke     pu  peñi
+\mb kiñe -ke   pu  peñi
+\ge un    -DIST COL hermano (de ego masculino)
+\ps art   -det  det nombre
+
+\tx kimnielu             pichi    ülkantun
+\mb kim   -nie   -lu     pichi    ülkantu -n
+\ge saber -PERF  -advr.1 pequeño cantar   -NMRZ1
+\ps verbo -tam-e -advr   adj      verbo    -nmrz
+
+\tx mapudungun, fey  ta  rulpay         kiñeke,
+\mb mapudungun  fey  ta  rulpa -y       kiñe -ke
+\ge mapudungun  DEM2 DET pasar -IND.[3] un    -DIST
+\ps nombre      pro  det verbo -per     art   -det
+
+\ft Algunos hermanos que conocen un poco los ülkantun el mapudungun, traducen algunos,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 591.800 601.360
+
+\block 152
+\ELANBegin 00:10:01.360
+\ELANEnd 00:10:04.520
+\ELANParticipant HM
+\tx welu petu     piluley                ta
+\mb welu petu     pilu   -le    -y       ta
+\ge pero todavía sordo  -ESTAT -IND.[3] DET
+\ps conj adverbio nombre -tam-e -per     det
+
+\tx wecheke     che,
+\mb weche -ke   che
+\ge joven -DIST gente
+\ps adj   -det  nombre
+
+\ft pero todavìa estàn sordos los jovenes,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 601.360 604.520
+
+\block 153
+\ELANBegin 00:10:04.520
+\ELANEnd 00:10:06.480
+\ELANParticipant HM
+\tx petu     piluley                ta  kiñeke
+\mb petu     pilu   -le    -y       ta  kiñe -ke
+\ge todavía sordo  -ESTAT -IND.[3] DET un    -DIST
+\ps adverbio nombre -tam-e -per     det art   -det
+
+\tx che.
+\mb che
+\ge gente
+\ps nombre
+
+\ft todavìa estàn sordas algunas personas
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 604.520 606.480
+
+\block 154
+\ELANBegin 00:10:06.480
+\ELANEnd 00:10:10.560
+\ELANParticipant HM
+\tx kimnolu                  am   mapudungun,
+\mb kim   -no       -lu     am   mapudungun
+\ge saber -NEG2     -advr.1 INT  mapudungun
+\ps verbo -adverbio -advr   part nombre
+
+\tx kimlay               ta  chem pin
+\mb kim   -la   -y       ta  chem pi    -n
+\ge saber -NEG1 -IND.[3] DET qué decir -NMRZ1
+\ps verbo -neg  -per     det pro  verbo -nmrz
+
+\tx tüfachi    ülkantun.
+\mb tüfa -chi  ülkantu -n
+\ge DEM1  -adjr cantar   -NMRZ1
+\ps pro   -***  verbo    -nmrz
+
+\ft porque no saben mapudungun, no saben lo que dice este ülkantun.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 606.480 610.560
+
+\block 155
+\ELANBegin 00:10:10.560
+\ELANEnd 00:10:17.960
+\ELANParticipant HM
+\tx welu iñche ta  ñi      rakiduam    mew
+\mb welu iñche ta  ñi      rakiduam    mew
+\ge pero 1SG    DET 1SG.POSS pensamiento PPOS
+\ps conj pro    det pro      nombre      ppos
+
+\tx feypilen,
+\mb fey  -pi    -le    -n
+\ge DEM2 -decir -PROG  -IND.1SG
+\ps pro  -verbo -tam-e -per
+
+\ft Pero en mi pensamiento ando diciendo:
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 610.560 617.960
+
+\block 156
+\ELANBegin 00:10:17.960
+\ELANEnd 00:10:27.000
+\ELANParticipant HM
+\tx kiñe antü  kom      pu  wecheke     che
+\mb kiñe antü  kom      pu  weche -ke   che
+\ge un    día   todo     COL joven -DIST gente
+\ps art   nombre adverbio det adj   -det  nombre
+
+\tx kimay                 chem pin
+\mb kim   -a     -y       chem pi    -n
+\ge saber -FUT   -IND.[3] qué decir -NMRZ1
+\ps verbo -tam-e -per     pro  verbo -nmrz
+
+\tx tüfachi    ülkantun.
+\mb tüfa -chi  ülkantu -n
+\ge DEM1  -adjr cantar   -NMRZ1
+\ps pro   -***  verbo    -nmrz
+
+\ft "Un día todos los jovenes van a saber lo que dice este ülkantun.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 617.960 627.000
+
+\block 157
+\ELANBegin 00:10:27.000
+\ELANEnd 00:10:29.840
+\ELANParticipant HM
+\tx wiñodungutule                  taiñ
+\mb wiño  -dungu  -tu  -l    -e   ta  -iñ
+\ge volver -asunto -RE  -COND -3SG DET -IND.1PL
+\ps verbo  -nombre -dir -mod  -per det -per
+
+\tx dungu  engün,
+\mb dungu  engün
+\ge asunto 3.PL
+\ps nombre per
+
+\ft si vuelven a hablar su lengua,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 627.000 629.840
+
+\block 158
+\ELANBegin 00:10:29.840
+\ELANEnd 00:10:35.440
+\ELANParticipant HM
+\tx wiñorakiduamtule                    engün, fey
+\mb wiño  -rakiduam    -tu  -l    -e   engün  fey
+\ge volver -pensamiento -RE  -COND -3SG 3.PL    DEM2
+\ps verbo  -nombre      -dir -mod  -per per     pro
+
+\tx ta  kimay                 tüfa ta  chem
+\mb ta  kim   -a     -y       tüfa ta  chem
+\ge DET saber -FUT   -IND.[3] DEM1  DET qué
+\ps det verbo -tam-e -per     pro   det pro
+
+\tx pin          tüfachi    ülkantun,
+\mb pi    -n     tüfa -chi  ülkantu -n
+\ge decir -NMRZ1 DEM1  -adjr cantar   -NMRZ1
+\ps verbo -nmrz  pro   -***  verbo    -nmrz
+
+\ft si vuelven a su pensamiento, entonces van a saber que dice este ülkantun,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 629.840 635.440
+
+\block 159
+\ELANBegin 00:10:35.440
+\ELANEnd 00:10:38.880
+\ELANParticipant HM
+\tx feyngerkey                  ñi
+\mb fey  -nge   -rke   -y       ñi
+\ge DEM2 -COP   -EVID  -IND.[3] 3.POSS
+\ps pro  -verbo -tam-e -per     pro
+
+\tx feypin              tüfachi    ülkantun
+\mb fey  -pi    -n     tüfa -chi  ülkantu -n
+\ge DEM2 -decir -NMRZ1 DEM1  -adjr cantar   -NMRZ1
+\ps pro  -verbo -nmrz  pro   -***  verbo    -nmrz
+
+\tx piayngün,
+\mb pi    -a     -y       -ngün
+\ge decir -FUT   -IND.[3] -3.PL
+\ps verbo -tam-e -per     -per
+
+\ft "así era que decía este ülkantun" dirán,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 635.440 638.880
+
+\block 160
+\ELANBegin 00:10:38.880
+\ELANEnd 00:10:40.880
+\ELANParticipant HM
+\tx feyngerkey                  ñi
+\mb fey  -nge   -rke   -y       ñi
+\ge DEM2 -COP   -EVID  -IND.[3] 3.POSS
+\ps pro  -verbo -tam-e -per     pro
+
+\tx feypin,
+\mb fey  -pi    -n
+\ge DEM2 -decir -NMRZ1
+\ps pro  -verbo -nmrz
+
+\ft "asi era que decía,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 638.880 640.880
+
+\block 161
+\ELANBegin 00:10:40.880
+\ELANEnd 00:10:48.440
+\ELANParticipant HM
+\tx feyngerkey                  ta  ñi
+\mb fey  -nge   -rke   -y       ta  ñi
+\ge DEM2 -COP   -EVID  -IND.[3] DET 1SG.POSS
+\ps pro  -verbo -tam-e -per     det pro
+
+\tx füchake     che    yem,   ta ñi
+\mb fücha  -ke  che    yem    ta ñi
+\ge anciano -DISTgente  finado DET1SG.POSS
+\ps nombre  -det nombre interj detpro
+
+\tx füchake      laku           yem,   füchake
+\mb fücha  -ke   laku           yem    fücha  -ke
+\ge anciano -DIST abuelo paterno finado anciano -DIST
+\ps nombre  -det  nombre         interj nombre  -det
+
+\tx weychafe    yem,   kewalu         tüfachi
+\mb weycha -fe  yem    kewa   -lu     tüfa -chi
+\ge lucha  -AG  finado pelear -advr.1 DEM1  -adjr
+\ps nombre -der interj verbo  -advr   pro   -***
+
+\tx mapu   mew,
+\mb mapu   mew
+\ge tierra PPOS
+\ps nombre ppos
+
+\ft "asi era que decía, así que así eran nuestros ancianos, nuestros abuelos, nuestros weychafes que pelearon en esta tierra,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 640.880 648.440
+
+\block 162
+\ELANBegin 00:10:48.440
+\ELANEnd 00:10:51.720
+\ELANParticipant HM
+\tx ful                fulküley
+\mb ful                ful                -küle -y
+\ge estar desparramado estar desparramado -ESTAT -IND.[3]
+\ps verbo              verbo              -tam-e -per
+
+\tx ñi    mollfün engün, ñi
+\mb ñi    mollfün engün  ñi
+\ge 3.POSS sangre   3.PL    3.POSS
+\ps pro    nombre   per     pro
+
+\tx ingkayael              mapu.
+\mb ingka    -ya    -el    mapu
+\ge defender -FUT   -NMRZ2 tierra
+\ps verbo    -tam-e -nmzr  nombre
+
+\ft derramaron su sangre para defender la tierra.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 648.440 651.720
+
+\block 163
+\ELANBegin 00:10:51.720
+\ELANEnd 00:10:57.440
+\ELANParticipant HM
+\tx feymew,  feyngey              ta ñi
+\mb feymew   fey  -nge   -y       ta ñi
+\ge entonces DEM2 -COP   -IND.[3] DET1SG.POSS
+\ps conj     pro  -verbo -per     detpro
+
+\tx iñche ta ñi      nguyun
+\mb iñche ta ñi      nguyu   -n
+\ge 1SG    DET1SG.POSS olvidar -NMRZ1
+\ps pro    detpro      verbo   -nmrz
+
+\tx ta ñi      dungun
+\mb ta ñi      dungu  -n
+\ge DET1SG.POSS asunto -NMRZ1
+\ps detpro      nombre -nmrz
+
+\tx ta ñi      mapuchengen,
+\mb ta ñi      mapuche -nge   -n
+\ge DET1SG.POSS mapuche -COP   -NMRZ1
+\ps detpro      nombre  -verbo -nmrz
+
+\tx piay.
+\mb pi    -a     -y
+\ge decir -FUT   -IND.[3]
+\ps verbo -tam-e -per
+
+\ft Entonces, así yo olvidé mi lengua, mi ser mapuche" dirán.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 651.720 657.440
+
+\block 164
+\ELANBegin 00:10:57.440
+\ELANEnd 00:11:03.000
+\ELANParticipant HM
+\tx kimle            tüfachi    ülkantun,
+\mb kim   -l    -e   tüfa -chi  ülkantu -n
+\ge saber -COND -3SG DEM1  -adjr cantar   -NMRZ1
+\ps verbo -mod  -per pro   -***  verbo    -nmrz
+
+\tx ngülaleay                    pilun  engün,
+\mb ngüla -le    -a     -y       pilun  engün
+\ge abrir  -PROG  -FUT   -IND.[3] oreja  3.PL
+\ps verbo  -tam-e -tam-e -per     nombre per
+
+\tx mapuche pilun,
+\mb mapuche pilun
+\ge mapuche oreja
+\ps nombre  nombre
+
+\ft Si conocen este ülkantun, que se abran las orejas, las orejas mapuches,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 657.440 663.000
+
+\block 165
+\ELANBegin 00:11:03.000
+\ELANEnd 00:11:11.360
+\ELANParticipant HM
+\tx feymew   peñi                      wula     ruf
+\mb feymew   peñi                      wula     ruf
+\ge entonces hermano (de ego masculino) después verdad
+\ps conj     nombre                     adverbio adverbio
+
+\tx pirkey                tüfachi    füchache
+\mb pi    -rke   -y       tüfa -chi  fücha  -che
+\ge decir -EVID  -IND.[3] DEM1  -adjr anciano -gente
+\ps verbo -tam-e -per     pro   -***  nombre  -nombre
+
+\tx entulu        tüfachi    ülkantun,
+\mb entu  -lu     tüfa -chi  ülkantu -n
+\ge sacar -advr.1 DEM1  -adjr cantar   -NMRZ1
+\ps verbo -advr   pro   -***  verbo    -nmrz
+
+\tx piayngün                    ta ti.
+\mb pi    -a     -y       -ngün ta ti
+\ge decir -FUT   -IND.[3] -3.PL  DETDET2
+\ps verbo -tam-e -per     -per   detdet
+
+\ft entonces, hermano después "así que era verdad lo que este anciano decía cuando sacò este ülkantun" dirán.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 663.000 671.360
+
+\block 166
+\ELANBegin 00:11:11.360
+\ELANEnd 00:11:20.600
+\ELANParticipant FH
+\tx ka   entulu        eymi tüfachi    ülkantun
+\mb ka   entu  -lu     eymi tüfa -chi  ülkantu -n
+\ge y    sacar -advr.1 tú  DEM1  -adjr cantar   -NMRZ1
+\ps conj verbo -advr   pro  pro   -***  verbo    -nmrz
+
+\tx chem piy            tami          piwke
+\mb chem pi    -y       ta  -mi       piwke
+\ge qué decir -IND.[3] DET -2SG.POSS corazón
+\ps pro  verbo -per     det -pro      nombre
+
+\tx chem piy            tami          rakiduam.
+\mb chem pi    -y       ta  -mi       rakiduam
+\ge qué decir -IND.[3] DET -2SG.POSS pensamiento
+\ps pro  verbo -per     det -pro      nombre
+
+\ft Cuando sacas este ülkantun ¿qué dice tu corazón, qué dice tu pensamiento?
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 671.360 680.600
+
+\block 167
+\ELANBegin 00:11:20.560
+\ELANEnd 00:11:21.480
+\ELANParticipant HM
+\tx feypiy                ta ñi    rakiduam,
+\mb fey  -pi    -y       ta ñi    rakiduam
+\ge DEM2 -decir -IND.[3] DET3.POSS pensamiento
+\ps pro  -verbo -per     detpro    nombre
+
+\ft Lo que dice mi pensamiento,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 680.560 681.480
+
+\block 168
+\ELANBegin 00:11:21.480
+\ELANEnd 00:11:25.720
+\ELANParticipant HM
+\tx dew      entun          ta  ñi
+\mb dew      entu  -n       ta  ñi
+\ge ya       sacar -IND.1SG DET 1SG.POSS
+\ps adverbio verbo -per     det pro
+
+\tx feypin
+\mb fey  -pi    -n
+\ge DEM2 -decir -NMRZ1
+\ps pro  -verbo -nmrz
+
+\tx feypipen                     weupin
+\mb fey  -pi    -pe    -n       weupi         -n
+\ge DEM2 -decir -CERT  -IND.1SG dar.discursos -NMRZ1
+\ps pro  -verbo -tam-e -per     verbo         -nmrz
+
+\tx reke ta ñi      dungun        tüfa.
+\mb reke ta ñi      dungu  -n     tüfa
+\ge COMP DET1SG.POSS asunto -NMRZ1 DEM1
+\ps ppos detpro      nombre -nmrz  pro
+
+\ft ya saqué mi decir, recien dije como un discurso sobre este asunto ahora.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 681.480 685.720
+
+\block 169
+\ELANBegin 00:11:25.720
+\ELANEnd 00:11:34.120
+\ELANParticipant HM
+\tx küme    allkütulimi                 tüfachi
+\mb küme    allkü   -tu  -l    -imi     tüfa -chi
+\ge bien     escuchar -RE  -COND -IND.2SG DEM1  -adjr
+\ps adverbio verbo    -dir -mod  -per     pro   -***
+
+\tx pichi    pakarwa, fey  wula
+\mb pichi    pakarwa  fey  wula
+\ge pequeño sapo     DEM2 después
+\ps adj      nombre   pro  adverbio
+
+\tx kimaymi               chem pin
+\mb kim   -a     -ymi     chem pi    -n
+\ge saber -FUT   -IND.2SG qué decir -NMRZ1
+\ps verbo -tam-e -per     pro  verbo -nmrz
+
+\tx tüfachi    ülkantun       ta ti,
+\mb tüfa -chi  ülkantu -n     ta ti
+\ge DEM1  -adjr cantar   -NMRZ1 DETDET2
+\ps pro   -***  verbo    -nmrz  detdet
+
+\tx peñi,
+\mb peñi
+\ge hermano (de ego masculino)
+\ps nombre
+
+\ft Si escucha bien este "pequeño sapo" (la grabadora), después sabràs lo que dice este ülkantun hermano,
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 685.720 694.120
+
+\block 170
+\ELANBegin 00:11:34.120
+\ELANEnd 00:11:36.010
+\ELANParticipant HM
+\tx dew      feypin.
+\mb dew      fey  -pi    -n
+\ge ya       DEM2 -decir -IND.1SG
+\ps adverbio pro  -verbo -per
+
+\ft , ya lo dije.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 694.120 696.010
+
+\block 171
+\ELANBegin 00:11:36.010
+\ELANEnd 00:11:37.360
+\ELANParticipant HM
+\tx dew      feypin.
+\mb dew      fey  -pi    -n
+\ge ya       DEM2 -decir -IND.1SG
+\ps adverbio pro  -verbo -per
+
+\ft , ya lo dije.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 696.010 697.360
+
+\block 172
+\ELANBegin 00:11:37.360
+\ELANEnd 00:11:46.520
+\ELANParticipant HM
+\tx witran  purayael            taiñ
+\mb witran  pura  -ya    -el    ta  -iñ
+\ge visitar subir -FUT   -NMRZ2 DET -IND.1PL
+\ps verbo   verbo -tam-e -nmzr  det -per
+
+\tx dungun,
+\mb dungu  -n
+\ge asunto -NMRZ1
+\ps nombre -nmrz
+
+\tx wiñorakiduamtuael                      ta
+\mb wiño  -rakiduam    -tu  -a     -el    ta
+\ge volver -pensamiento -RE  -FUT   -NMRZ2 DET
+\ps verbo  -nombre      -dir -tam-e -nmzr  det
+
+\tx wecheke     che,
+\mb weche -ke   che
+\ge joven -DIST gente
+\ps adj   -det  nombre
+
+\tx wiñorakiduamtuael                      che
+\mb wiño  -rakiduam    -tu  -a     -el    che
+\ge volver -pensamiento -RE  -FUT   -NMRZ2 gente
+\ps verbo  -nombre      -dir -tam-e -nmzr  nombre
+
+\tx mapuche ngelu         tüfamew   chi  mapu
+\mb mapuche nge   -lu     tüfa -mew chi  mapu
+\ge mapuche haber -advr.1 DEM1  -OBL DEM2 tierra
+\ps nombre  verbo -advr   pro   -per dem  nombre
+
+\tx mew.
+\mb mew
+\ge PPOS
+\ps ppos
+
+\ft Levantar nuestra lengua para que vuelvan a pensar los jovenes, para que vuelvan a pensar los mapuches que están en esta tierra
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 697.360 706.520
+
+\block 173
+\ELANBegin 00:11:46.520
+\ELANEnd 00:11:50.200
+\ELANParticipant HM
+\tx ta ñi
+\mb ta ñi
+\ge DET3.POSS
+\ps detpro
+
+\tx wiñorakiduamtuael,                     feymew
+\mb wiño  -rakiduam    -tu  -a     -el    feymew
+\ge volver -pensamiento -RE  -FUT   -NMRZ2 entonces
+\ps verbo  -nombre      -dir -tam-e -nmzr  conj
+
+\tx entufiñ              tüfachi    ülkantun.
+\mb entu  -fi   -ñ       tüfa -chi  ülkantu -n
+\ge sacar -3.OP -IND.1SSG DEM1  -adjr cantar   -NMRZ1
+\ps verbo -per  -per      pro   -***  verbo    -nmrz
+
+\ft para que vuelvan a pensar, por eso saqué este ülkantun.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 706.520 710.200
+
+\block 174
+\ELANBegin 00:11:50.200
+\ELANEnd 00:11:52.520
+\ELANParticipant HM
+\tx fey  müten.
+\mb fey  müten
+\ge DEM2 no.más
+\ps pro  adverbio
+
+\ft Eso no más.
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 710.200 712.520
+
+\block 175
+\ELANBegin 00:11:52.520
+\ELANEnd 00:11:58.800
+\ELANParticipant FH
+\tx cosa
+\mb cos        -a
+\ge cosa       -FUT
+\ps sustantivo -tam-e
+
+\ft
+\mm HectorMariano.13052013.ulkantunpewma_12mins.wav 712.520 718.800
+
+
+\ELANMediaURL file:///Users/FelipeHasler/Dropbox/Trabajo de campo_21052013/trabajodecampomayo2013_300minutos/Santiago_270mins/HectorMariano.13052013.ulkantunpewma_12mins.wav
+\ELANMediaMIME audio/x-wav

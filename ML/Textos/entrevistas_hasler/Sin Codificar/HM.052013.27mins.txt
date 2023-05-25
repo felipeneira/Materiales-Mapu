@@ -1,0 +1,3195 @@
+\_sh v3.0  400  Text
+\_DateStampHasFourDigitYear
+
+\id
+\ref
+\tx
+\ft
+
+\ref 001
+\ELANParticipant FH
+\ELANBegin 00:00:00.360
+\ELANEnd 00:00:06.080
+\tx Feymew ¿Chumngechi adumimi tami ülkantun?
+\ft Entonces, ¿Cómo aprendiste tu ülkantun?
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 0.360 6.080
+
+\ref 002
+\ELANParticipant HM
+\ELANBegin 00:00:06.120
+\ELANEnd 00:00:08.160
+\tx Pütrüy tami
+\ft Muchas cosas tu,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 6.120 8.160
+
+\ref 003
+\ELANParticipant HM
+\ELANBegin 00:00:08.160
+\ELANEnd 00:00:11.680
+\tx alüy tami rakiduam, tami ramtun, peñi.
+\ft Muchas cosas tiene tu pensamiento, tu pregunta, hermano.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 8.160 11.680
+
+\ref 004
+\ELANParticipant HM
+\ELANBegin 00:00:11.680
+\ELANEnd 00:00:17.000
+\tx feley, iñche ta kimelngelan tüfachi dungu.
+\ft Es así, a mi nadie me enseñó este asunto.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 11.680 17.000
+
+\ref 005
+\ELANParticipant HM
+\ELANBegin 00:00:17.000
+\ELANEnd 00:00:19.920
+\tx kimelngelan.
+\ft Nadie me lo enseñó,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 17.000 19.920
+
+\ref 006
+\ELANParticipant HM
+\ELANBegin 00:00:19.920
+\ELANEnd 00:00:24.240
+\tx chillkatun chumngechi ñi meken, femngechi kimelngekelay tüfachi dungu.
+\ft estudiar cómo se hace, así no se enseñan estos asuntos.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 19.920 24.240
+
+\ref 007
+\ELANParticipant HM
+\ELANBegin 00:00:24.240
+\ELANEnd 00:00:27.480
+\tx müley ta fütrake ülkantufe,
+\ft Hay grandes ülkantufes,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 24.240 27.480
+
+\ref 008
+\ELANParticipant HM
+\ELANBegin 00:00:27.480
+\ELANEnd 00:00:29.880
+\tx müley ta fütrake wewpife,
+\ft hay grandes wewpifes,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 27.480 29.880
+
+\ref 009
+\ELANParticipant HM
+\ELANBegin 00:00:29.880
+\ELANEnd 00:00:33.720
+\tx müley ta fütrake pewmafe,
+\ft hay grandes pewmafes,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 29.880 33.720
+
+\ref 010
+\ELANParticipant HM
+\ELANBegin 00:00:33.720
+\ELANEnd 00:00:39.040
+\tx elungekey feyengün ta kiñe ngüneluwün,
+\ft a ellos les dieron una libertad.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 33.720 39.040
+
+\ref 011
+\ELANParticipant HM
+\ELANBegin 00:00:39.040
+\ELANEnd 00:00:47.680
+\tx kiñe ngüneluwün tañi yeael tañi mapuchengen tüfachi mapu mew.
+\ft Una libertad para llevar su ser mapuche, en esta tierra.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 39.040 47.680
+
+\ref 012
+\ELANParticipant HM
+\ELANBegin 00:00:47.680
+\ELANEnd 00:00:52.320
+\tx iñche miyawkefun fillke dungu mew ellapitiwentrungelu iñche,
+\ft Yo andaba en todos los asuntos, cuando era joven yo.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 47.680 52.320
+
+\ref 013
+\ELANParticipant HM
+\ELANBegin 00:00:52.560
+\ELANEnd 00:00:55.000
+\tx trempan,
+\ft Yo alcancé a crecer,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 52.560 55.000
+
+\ref 014
+\ELANParticipant HM
+\ELANBegin 00:00:55.240
+\ELANEnd 00:00:58.920
+\tx kimpalu tañi mülen ta mapuche,
+\ft alcancé a conocer como están los mapuches,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 55.240 58.920
+
+\ref 015
+\ELANParticipant HM
+\ELANBegin 00:00:59.040
+\ELANEnd 00:01:01.600
+\tx kimpalu ñi füchakeche yem iñche,
+\ft alcancé a conocer a nuestros difuntos ancianos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 59.040 61.600
+
+\ref 016
+\ELANParticipant HM
+\ELANBegin 00:01:01.760
+\ELANEnd 00:01:05.360
+\tx allkuntukunupafiñ ta ka chi dungu.
+\ft alcancé a escucharlos estos asuntos.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 61.760 65.360
+
+\ref 017
+\ELANParticipant HM
+\ELANBegin 00:01:05.480
+\ELANEnd 00:01:08.000
+\tx kiñe fütra ülkantufe müley petu
+\ft Todavía hay un gran ülkantufe,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 65.480 68.000
+
+\ref 018
+\ELANParticipant HM
+\ELANBegin 00:01:08.000
+\ELANEnd 00:01:11.400
+\tx petu mongeley kiñe chachay,
+\ft todavía está vivo un chachay,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 68.000 71.400
+
+\ref 019
+\ELANParticipant HM
+\ELANBegin 00:01:11.600
+\ELANEnd 00:01:14.120
+\tx antonio neculhual pingey,
+\ft se llama Antonio Neculhual,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 71.600 74.120
+
+\ref 020
+\ELANParticipant HM
+\ELANBegin 00:01:14.120
+\ELANEnd 00:01:16.320
+\tx Chichay pingey ñi yüll üy.
+\ft le dicen Chichay
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 74.120 76.320
+
+\ref 021
+\ELANParticipant HM
+\ELANBegin 00:01:16.480
+\ELANEnd 00:01:19.400
+\tx fey rume kimülkantuy femngechi
+\ft Él sabe cantar mucho,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 76.480 79.400
+
+\ref 022
+\ELANParticipant HM
+\ELANBegin 00:01:19.400
+\ELANEnd 00:01:21.800
+\tx fey püle trawüiñ mingako mew,
+\ft nos juntabamos por todas partes en los mingako,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 79.400 81.800
+
+\ref 023
+\ELANParticipant HM
+\ELANBegin 00:01:21.960
+\ELANEnd 00:01:26.720
+\tx dew küdawlu iñchiñ fill antü küdawün kellukefuiñ.
+\ft después de trabajar, todo el día ayudabamos en el trabajo.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 81.960 86.720
+
+\ref 024
+\ELANParticipant HM
+\ELANBegin 00:01:26.840
+\ELANEnd 00:01:35.800
+\tx meli, kechu, mari, mari kechu trarin mansun elukeiñ taiñ pu mapuchengen mingako pingey.
+\ft Cuatro, cinco, diez, quince yuntas de bueyes daban los mapuches, mingako le decían.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 86.840 95.800
+
+\ref 025
+\ELANParticipant HM
+\ELANBegin 00:01:35.960
+\ELANEnd 00:01:51.080
+\tx feymew ta pun, kullitukey ta feychi kellungelu, kiñe fütra ilewün mew, ilewün mew.
+\ft Entonces, a la noche, pagaban los que habían sido ayudados, en una gran comida, en una comida.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 95.960 111.080
+
+\ref 026
+\ELANParticipant HM
+\ELANBegin 00:01:51.240
+\ELANEnd 00:01:56.120
+\tx müley ta ilo, ka pichiken püllkü,
+\ft Hay carne, un poco de vino,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 111.240 116.120
+
+\ref 027
+\ELANParticipant HM
+\ELANBegin 00:01:56.120
+\ELANEnd 00:01:59.320
+\tx feymew kullikey ta che ñi kellungen.
+\ft entonces pagan los que fueron ayudados.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 116.120 119.320
+
+\ref 028
+\ELANParticipant HM
+\ELANBegin 00:01:59.480
+\ELANEnd 00:02:01.760
+\tx fey ta mingako pingey, feymew
+\ft Se llama mingako, entonces
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 119.480 121.760
+
+\ref 029
+\ELANParticipant HM
+\ELANBegin 00:02:01.920
+\ELANEnd 00:02:08.760
+\tx tripakefuy ta fentren ülkantun. fentreken ayekawün.
+\ft salían muchos ülkantun. Muchos ayekawün..
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 121.920 128.760
+
+\ref 030
+\ELANParticipant HM
+\ELANBegin 00:02:08.840
+\ELANEnd 00:02:13.320
+\tx feymew ta, iñche müna ayekefiñ ñi allkutufiel chi ülkantun,
+\ft Entonces,  yo me alegraba mucho al escuchar el ülkantun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 128.840 133.320
+
+\ref 031
+\ELANParticipant HM
+\ELANBegin 00:02:13.480
+\ELANEnd 00:02:17.720
+\tx chumngechi ñi ülkantun chi füchakeche iñche ka ülkantuan pin.
+\ft "como cantaban los ancianos, así cantaré yo", decía.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 133.480 137.720
+
+\ref 032
+\ELANParticipant HM
+\ELANBegin 00:02:17.840
+\ELANEnd 00:02:20.280
+\tx ka trawükefuiñ,
+\ft Y nos juntabamos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 137.840 140.280
+
+\ref 033
+\ELANParticipant HM
+\ELANBegin 00:02:20.480
+\ELANEnd 00:02:28.720
+\tx matetun dew küdawlu pun engün mülekefuy witranluwün.
+\ft a tomar mate después del trabajo, en la noche había visitas.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 140.480 148.720
+
+\ref 034
+\ELANParticipant HM
+\ELANBegin 00:02:28.880
+\ELANEnd 00:02:33.200
+\tx akukefuy füchakeche nütramkapaalu pun.
+\ft Llegaban los ancianos a conversar,a la noche.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 148.880 153.200
+
+\ref 035
+\ELANParticipant HM
+\ELANBegin 00:02:33.360
+\ELANEnd 00:02:36.000
+\tx matetukefuy kom
+\ft Todos tomaban mate.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 153.360 156.000
+
+\ref 036
+\ELANParticipant HM
+\ELANBegin 00:02:36.160
+\ELANEnd 00:02:38.360
+\tx feymew tripakefuy fillke nütram,
+\ft Entonces, salían muchas conversaciones,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 156.160 158.360
+
+\ref 037
+\ELANParticipant HM
+\ELANBegin 00:02:38.480
+\ELANEnd 00:02:40.640
+\tx ka tripakey epew,
+\ft y también salían epew,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 158.480 160.640
+
+\ref 038
+\ELANParticipant HM
+\ELANBegin 00:02:40.800
+\ELANEnd 00:02:45.600
+\tx tripakey ülkantun, ka piam ka pipen nga.
+\ft salían ülkantun, y piam, como dije recien.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 160.800 165.600
+
+\ref 039
+\ELANParticipant HM
+\ELANBegin 00:02:45.800
+\ELANEnd 00:02:50.760
+\tx femngechi ta adumün iñche ülkantun,
+\ft Así aprendí yo, el ülkantun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 165.800 170.760
+
+\ref 040
+\ELANParticipant HM
+\ELANBegin 00:02:50.760
+\ELANEnd 00:02:54.160
+\tx adumün trutrukatun, trompetun.
+\ft aprendí a tocar la trutuka, a tocar el trompe.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 170.760 174.160
+
+\ref 041
+\ELANParticipant HM
+\ELANBegin 00:02:54.280
+\ELANEnd 00:02:57.440
+\tx mülekefuy ka kiñe wentru
+\ft Había un hombre,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 174.280 177.440
+
+\ref 042
+\ELANParticipant HM
+\ELANBegin 00:02:57.520
+\ELANEnd 00:02:58.920
+\tx müna kimtrompetukefuy,
+\ft sabía tocar muy bien el trompe,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 177.520 178.920
+
+\ref 043
+\ELANParticipant HM
+\ELANBegin 00:02:58.920
+\ELANEnd 00:03:01.120
+\tx fey adumün trompetun
+\ft asì aprendí a tocar el trompe,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 178.920 181.120
+
+\ref 044
+\ELANParticipant HM
+\ELANBegin 00:03:01.200
+\ELANEnd 00:03:03.720
+\tx ka trutrukatuken,
+\ft y también toco la trutruka,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 181.200 183.720
+
+\ref 045
+\ELANParticipant HM
+\ELANBegin 00:03:03.840
+\ELANEnd 00:03:06.160
+\tx ka trupumken kültrün.
+\ft 
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 183.840 186.160
+
+\ref 046
+\ELANParticipant HM
+\ELANBegin 00:03:06.320
+\ELANEnd 00:03:12.000
+\tx fillke kimün kimpan, füchakeche tañi eleaetew
+\ft De todos los conocimientos alcancé a conocer, lo que los los ancianos me dieron.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 186.320 192.000
+
+\ref 047
+\ELANParticipant HM
+\ELANBegin 00:03:12.080
+\ELANEnd 00:03:14.760
+\tx kiñeke dew amutuyngün,
+\ft Algunos ya partieron,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 192.080 194.760
+
+\ref 048
+\ELANParticipant HM
+\ELANBegin 00:03:14.880
+\ELANEnd 00:03:16.800
+\tx dew layngün,
+\ft ya están muertos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 194.880 196.800
+
+\ref 049
+\ELANParticipant HM
+\ELANBegin 00:03:16.920
+\ELANEnd 00:03:18.840
+\tx dew amutuy ka mapu engün.
+\ft ya se regresaron a otra tierra.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 196.920 198.840
+
+\ref 050
+\ELANParticipant HM
+\ELANBegin 00:03:19.000
+\ELANEnd 00:03:20.840
+\tx kiñekelewey engün müten,
+\ft Algunos quedan no más,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 199.000 200.840
+
+\ref 051
+\ELANParticipant HM
+\ELANBegin 00:03:21.000
+\ELANEnd 00:03:29.600
+\tx feymew ta ayiwkülen tañi eleletew feychi kimün tañi füchakeche yem, feychi lof mew, Curaco Ranquil pingechi lof mew.
+\ft por eso estoy contento porque me dejaron ese conocimiento los ancianos, en esa comunidad que se llama Curaco Ranquil,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 201.000 209.600
+
+\ref 052
+\ELANParticipant HM
+\ELANBegin 00:03:29.760
+\ELANEnd 00:03:34.840
+\tx feymew re Curaco no ka müley fillke lof wallmatuley
+\ft Eso si, no solo el Curaco, había de todos los lof que estaban a la redonda,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 209.760 214.840
+
+\ref 053
+\ELANParticipant HM
+\ELANBegin 00:03:34.960
+\ELANEnd 00:03:43.320
+\tx Quinahue, Pelantaro, Quinahue, Pelantaru ka müley ta Llufkentuhue,
+\ft Quinahue, Pelantaro, Quinahue, Pelantaro también estaba Llufquentuhue,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 214.960 223.320
+
+\ref 054
+\ELANParticipant HM
+\ELANBegin 00:03:43.320
+\ELANEnd 00:03:48.120
+\tx feymew mülekefuy ta fütrake trawün, fütrake ngillatun.
+\ft entonces habían grandes reuniones, grandes ngillatunes.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 223.320 228.120
+
+\ref 055
+\ELANParticipant HM
+\ELANBegin 00:03:48.320
+\ELANEnd 00:03:53.600
+\tx feymew ta entukefuy ta füchakeche tañi fillke kimün niel engün.
+\ft Entonces, sacaban los ancianos todo el conocimiento que tenían.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 228.320 233.600
+
+\ref 056
+\ELANParticipant HM
+\ELANBegin 00:03:53.760
+\ELANEnd 00:03:56.960
+\tx femngechi femngechi adumün tüfachi dungu, peñi,
+\ft Así, así aprendí este asunto, hermano,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 233.760 236.960
+
+\ref 057
+\ELANParticipant HM
+\ELANBegin 00:03:56.960
+\ELANEnd 00:04:04.040
+\tx femngechi kimün tüfachi dungu, mapuche tañi mongen, mapuche tañi wimun tati.
+\ft así conozco este asunto, la vida mapuche, la costumbre mapuche.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 236.960 244.040
+
+\ref 058
+\ELANParticipant FH
+\ELANBegin 00:04:04.160
+\ELANEnd 00:04:13.360
+\tx ka tami chuchu yem ¿ülkantukefuy ka?
+\ft Y tu difunta abuelita, ¿También cantaba?
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 244.160 253.360
+
+\ref 059
+\ELANParticipant HM
+\ELANBegin 00:04:13.480
+\ELANEnd 00:04:18.760
+\tx tañi ruf chuchu yem ülkantukefuy
+\ft Mi verdadera abuelita materna, cantaba,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 253.480 258.760
+
+\ref 060
+\ELANParticipant HM
+\ELANBegin 00:04:18.760
+\ELANEnd 00:04:21.360
+\tx welu müte küme tripakelafuy ñi ülkantun
+\ft pero no salía muy bien su ülkantun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 258.760 261.360
+
+\ref 061
+\ELANParticipant HM
+\ELANBegin 00:04:21.680
+\ELANEnd 00:04:23.920
+\tx welu ayuwi ñi piwke
+\ft pero se alegraba su corazón.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 261.680 263.920
+
+\ref 062
+\ELANParticipant HM
+\ELANBegin 00:04:24.040
+\ELANEnd 00:04:30.720
+\tx ülkantukefuy feymew, witralmekelu, dewmamekelu makuñ, pontro.
+\ft Cantaba, entonces, cuando tejía a telar, cuando hacía manta, poncho.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 264.040 270.720
+
+\ref 063
+\ELANParticipant HM
+\ELANBegin 00:04:30.880
+\ELANEnd 00:04:35.600
+\tx feymew, petu küdawün entukefuy ñi ülkantun.
+\ft Entonces, cuando estaba trabajando, sacaba su ülkantun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 270.880 275.600
+
+\ref 064
+\ELANParticipant HM
+\ELANBegin 00:04:35.720
+\ELANEnd 00:04:39.760
+\tx rume ayiwkülen küdawkefuy ta mapuche.
+\ft Muy conento trabajaba el mapuche,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 275.720 279.760
+
+\ref 065
+\ELANParticipant HM
+\ELANBegin 00:04:39.920
+\ELANEnd 00:04:45.840
+\tx fillke che, wentru, domo, entukefuy ülkantun petu küdawlu.
+\ft toda la gente, hombre, mujer, sacaban su ülkantun mientras trabajaban.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 279.920 285.840
+
+\ref 066
+\ELANParticipant HM
+\ELANBegin 00:04:45.960
+\ELANEnd 00:04:50.360
+\tx kimniefiñ tañi malle Segundo Mariano
+\ft Yo lo conocí a mi tío Segundo Mariano,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 285.960 290.360
+
+\ref 067
+\ELANParticipant HM
+\ELANBegin 00:04:50.520
+\ELANEnd 00:04:54.520
+\tx kimpapeltulay feychi wentru,
+\ft no sabe escribir ese hombre,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 290.520 294.520
+
+\ref 068
+\ELANParticipant HM
+\ELANBegin 00:04:54.520
+\ELANEnd 00:04:56.680
+\tx ella kimi pichin,
+\ft un poquito sabe,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 294.520 296.680
+
+\ref 069
+\ELANParticipant HM
+\ELANBegin 00:04:56.920
+\ELANEnd 00:04:59.080
+\tx tukuy ñi firma müten,
+\ft poner su firma no más,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 296.920 299.080
+
+\ref 070
+\ELANParticipant HM
+\ELANBegin 00:04:59.240
+\ELANEnd 00:05:04.880
+\tx welu ketramekelu ñi mapu, wirarkülen ülkantukefuy ñi ayiwkülen.
+\ft pero cuando estaba trabajando su tierra, cantaba gritando su alegría.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 299.240 304.880
+
+\ref 071
+\ELANParticipant HM
+\ELANBegin 00:05:05.000
+\ELANEnd 00:05:08.560
+\tx feychi dungu kimnien,
+\ft Ese asunto lo conozco,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 305.000 308.560
+
+\ref 072
+\ELANParticipant HM
+\ELANBegin 00:05:08.720
+\ELANEnd 00:05:15.200
+\tx ka witralmekelu pu domo, ka nentukefuy ñi ülkantun.
+\ft y cuando tejían a telar las mujeres también sacaban su ülkantun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 308.720 315.200
+
+\ref 073
+\ELANParticipant HM
+\ELANBegin 00:05:15.320
+\ELANEnd 00:05:17.720
+\tx feypikefuy ñi ülkantun:
+\ft Decía su ülkantun:
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 315.320 317.720
+
+\ref 074
+\ELANParticipant HM
+\ELANBegin 00:05:17.840
+\ELANEnd 00:05:19.280
+\tx tripape
+\ft "Que salga,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 317.840 319.280
+
+\ref 075
+\ELANParticipant HM
+\ELANBegin 00:05:19.280
+\ELANEnd 00:05:20.400
+\tx tripape
+\ft que salga,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 319.280 320.400
+
+\ref 076
+\ELANParticipant HM
+\ELANBegin 00:05:20.400
+\ELANEnd 00:05:21.360
+\tx tripape
+\ft que salga,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 320.400 321.360
+
+\ref 077
+\ELANParticipant HM
+\ELANBegin 00:05:21.360
+\ELANEnd 00:05:28.360
+\tx tripape tüfachi ngürekan, tüfachi ngürekan, ngürekan, ngürekan.
+\ft que salga este tejido, este tejido, este tejido, tejido".
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 321.360 328.360
+
+\ref 078
+\ELANParticipant HM
+\ELANBegin 00:05:28.600
+\ELANEnd 00:05:29.760
+\tx nieaymi kay,
+\ft "Tendrás,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 328.600 329.760
+
+\ref 079
+\ELANParticipant HM
+\ELANBegin 00:05:29.760
+\ELANEnd 00:05:32.560
+\tx nieaymi kay, kiñe piti makuñ,
+\ft tendràs una pequeña manta,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 329.760 332.560
+
+\ref 080
+\ELANParticipant HM
+\ELANBegin 00:05:32.560
+\ELANEnd 00:05:33.440
+\tx nieaymi
+\ft tendrás,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 332.560 333.440
+
+\ref 081
+\ELANParticipant HM
+\ELANBegin 00:05:33.440
+\ELANEnd 00:05:36.160
+\tx nieaymi kiñe piti makuñ.
+\ft tendràs una pequeña manta".
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 333.440 336.160
+
+\ref 082
+\ELANParticipant HM
+\ELANBegin 00:05:36.240
+\ELANEnd 00:05:38.240
+\tx ngürükechi yawaymi,
+\ft "como el zorro andarás, como el zorro andaràs, en esta tierra, que se haga, que se ahga, que salga, que salga".
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 336.240 338.240
+
+\ref 083
+\ELANParticipant HM
+\ELANBegin 00:05:38.240
+\ELANEnd 00:05:42.360
+\tx ngürkechi yawaymi, tüfachi mapu mew,
+\ft 
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 338.240 342.360
+
+\ref 084
+\ELANParticipant HM
+\ELANBegin 00:05:42.840
+\ELANEnd 00:05:43.760
+\tx dewmape
+\ft 
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 342.840 343.760
+
+\ref 085
+\ELANParticipant HM
+\ELANBegin 00:05:43.760
+\ELANEnd 00:05:44.760
+\tx dewmape
+\ft 
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 343.760 344.760
+
+\ref 086
+\ELANParticipant HM
+\ELANBegin 00:05:44.760
+\ELANEnd 00:05:45.720
+\tx tripape
+\ft 
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 344.760 345.720
+
+\ref 087
+\ELANParticipant HM
+\ELANBegin 00:05:45.720
+\ELANEnd 00:05:46.800
+\tx tripape.
+\ft 
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 345.720 346.800
+
+\ref 088
+\ELANParticipant HM
+\ELANBegin 00:05:46.800
+\ELANEnd 00:05:50.080
+\tx femngechi ülkantukefuy tañi laku yem.
+\ft Así cantaba mi abuelo,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 346.800 350.080
+
+\ref 089
+\ELANParticipant HM
+\ELANBegin 00:05:50.240
+\ELANEnd 00:05:57.000
+\tx dewmaley tüfachi witral, tüfachi makuñ.
+\ft Estaba haciendo este tejido, esta manta,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 350.240 357.000
+
+\ref 090
+\ELANParticipant HM
+\ELANBegin 00:05:57.160
+\ELANEnd 00:05:59.920
+\tx ngürükechi yawaymi ta mapu mew,
+\ft "como el zorro andaras en la tierra",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 357.160 359.920
+
+\ref 091
+\ELANParticipant HM
+\ELANBegin 00:06:00.040
+\ELANEnd 00:06:02.920
+\tx pikefuy tañi ülkantun feychi makuñ.
+\ft decía su ülkantun, esa manta,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 360.040 362.920
+
+\ref 092
+\ELANParticipant HM
+\ELANBegin 00:06:03.040
+\ELANEnd 00:06:17.000
+\tx feychi ad, feychi kisu engün ta entukefuy tañi, tañi kolor, pingey ta wingkadungun mew, ¿Chem?, chem ad nieael feychi makuñ.
+\ft esa forma, ellas solas sacaban su, su color, se dice en español, ¿qué? que forma tendrà esa manta.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 363.040 377.000
+
+\ref 093
+\ELANParticipant HM
+\ELANBegin 00:06:17.160
+\ELANEnd 00:06:22.160
+\tx müte adumlan chem piafel kolor mapuchedungun mew, wingkadungun mew welu
+\ft No sé como se diría color en mapudungun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 377.160 382.160
+
+\ref 094
+\ELANParticipant HM
+\ELANBegin 00:06:22.160
+\ELANEnd 00:06:25.160
+\tx aretu dunguan wingkadungun mew, femngechi dungu tüfa.
+\ft en español no más lo diré prestado, en wingkadungun, así es este asunto.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 382.160 385.160
+
+\ref 095
+\ELANParticipant HM
+\ELANBegin 00:06:25.320
+\ELANEnd 00:06:30.720
+\tx entukefuy fotra, rag, katrüluf mamüll
+\ft Sacaban barro, greda, leña quemada
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 385.320 390.720
+
+\ref 096
+\ELANParticipant HM
+\ELANBegin 00:06:30.720
+\ELANEnd 00:06:33.520
+\tx femngechi dewmakefy ta kolor.
+\ft así hacían el color.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 390.720 393.520
+
+\ref 097
+\ELANParticipant HM
+\ELANBegin 00:06:33.680
+\ELANEnd 00:06:35.920
+\tx chumngechiley chi
+\ft como está,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 393.680 395.920
+
+\ref 098
+\ELANParticipant HM
+\ELANBegin 00:06:35.920
+\ELANEnd 00:06:37.400
+\tx chem ad niey chi ngürü
+\ft como el color que tiene el zorro
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 395.920 397.400
+
+\ref 099
+\ELANParticipant HM
+\ELANBegin 00:06:37.400
+\ELANEnd 00:06:39.240
+\tx femngechi makuñ tripakefuy.
+\ft así salía la manta.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 397.400 399.240
+
+\ref 100
+\ELANParticipant HM
+\ELANBegin 00:06:39.240
+\ELANEnd 00:06:41.640
+\tx feymew ta feypi ngürükechi yawaymi,
+\ft Entonces decían: "como el zorro andarás",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 399.240 401.640
+
+\ref 101
+\ELANParticipant HM
+\ELANBegin 00:06:41.680
+\ELANEnd 00:06:45.360
+\tx tüfachi piti makuñ mew, tüfachi mapu mew, pikefuy
+\ft "con esta pequeña manta, en esta tierra", decìan.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 401.680 405.360
+
+\ref 102
+\ELANParticipant HM
+\ELANBegin 00:06:45.480
+\ELANEnd 00:06:48.080
+\tx ufisakechi yawaymi ka pikefuy.
+\ft "Como las ovejas andarás", decían.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 405.480 408.080
+
+\ref 103
+\ELANParticipant HM
+\ELANBegin 00:06:48.360
+\ELANEnd 00:06:52.840
+\tx ufisa mew entungerkelu ta kal femngechi ta dewmangekey ta
+\ft De la oveja se sacaba la lana, dicen, así se hacía el
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 408.360 412.840
+
+\ref 104
+\ELANParticipant HM
+\ELANBegin 00:06:52.880
+\ELANEnd 00:06:56.320
+\tx uyew kuyfi yem dewmangey ta makuñ,
+\ft allá, antiguamente, así se hacía la manta,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 412.880 416.320
+
+\ref 105
+\ELANParticipant HM
+\ELANBegin 00:06:56.320
+\ELANEnd 00:07:00.560
+\tx dewmangey ta pontro. chompa ka pingey
+\ft así era el poncho, chomba también, dicen.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 416.320 420.560
+
+\ref 106
+\ELANParticipant HM
+\ELANBegin 00:07:00.760
+\ELANEnd 00:07:07.240
+\tx ka dewmangerkefuy ta chiripa feychi feychi kal mew.
+\ft También dicen que hacían chiripa  con esa lana.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 420.760 427.240
+
+\ref 107
+\ELANParticipant HM
+\ELANBegin 00:07:07.440
+\ELANEnd 00:07:14.640
+\tx doy kuyfi, piam, kultrun...trulkengerkefuy ta chiripa.
+\ft Màs antes, dicen, las chiripas eran de cuero de animal, dicen.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 427.440 434.640
+
+\ref 108
+\ELANParticipant HM
+\ELANBegin 00:07:14.840
+\ELANEnd 00:07:16.760
+\tx iñche kimpalafiñ,
+\ft Yo no alcancé a conocer,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 434.840 436.760
+
+\ref 109
+\ELANParticipant HM
+\ELANBegin 00:07:16.760
+\ELANEnd 00:07:18.640
+\tx pepalafiñ feychi dungu, welu
+\ft no alcancé a ver ese asunto, pero
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 436.760 438.640
+
+\ref 110
+\ELANParticipant HM
+\ELANBegin 00:07:18.800
+\ELANEnd 00:07:21.240
+\tx kimpan müten ta ekota.
+\ft alcancé a conocer la ojota.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 438.800 441.240
+
+\ref 111
+\ELANParticipant HM
+\ELANBegin 00:07:21.440
+\ELANEnd 00:07:28.760
+\tx furi mew, entungekefuy ta waka furi mew, trüllke furi waka,
+\ft Del lomo se sacaba  del lomo de la vaca, el cuero del lomo de la vaca,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 441.440 448.760
+
+\ref 112
+\ELANParticipant HM
+\ELANBegin 00:07:28.760
+\ELANEnd 00:07:31.040
+\tx fey ta ekota niekefuy.
+\ft así se tenían ojotas.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 448.760 451.040
+
+\ref 113
+\ELANParticipant HM
+\ELANBegin 00:07:31.160
+\ELANEnd 00:07:38.800
+\tx Mawüyem, foltralu chi ekota fey ta müna wayduf rupakefuy ta wentetu, wente namun,
+\ft Cuando llueve, como se embarraban las ojotas porque mucho se pasaban para el otro lado, arriba de los pies,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 451.160 458.800
+
+\ref 114
+\ELANParticipant HM
+\ELANBegin 00:07:38.960
+\ELANEnd 00:07:46.800
+\tx puwlu fey ta chi awtu rweda, goma pingey, fey ta doy kümey ta ekota ngeael.
+\ft cuando llegaron las ruedas de auto, la goma le dicen, estas eran mejores para hacer ojotas.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 458.960 466.800
+
+\ref 115
+\ELANParticipant HM
+\ELANBegin 00:07:46.920
+\ELANEnd 00:07:51.520
+\tx femnegchi ta, feychi dungu kimpan iñche ka
+\ft Asì, esas cosas alcancé a conocer,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 466.920 471.520
+
+\ref 116
+\ELANParticipant HM
+\ELANBegin 00:07:51.520
+\ELANEnd 00:07:54.560
+\tx , ka dewmangey ta trüllke furi waka,
+\ft como se hacìan del cuero del lomo de la vaca,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 471.520 474.560
+
+\ref 117
+\ELANParticipant HM
+\ELANBegin 00:07:54.640
+\ELANEnd 00:07:56.440
+\tx ekota niekefun.
+\ft ojotas tenía yo.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 474.640 476.440
+
+\ref 118
+\ELANParticipant HM
+\ELANBegin 00:07:56.560
+\ELANEnd 00:08:00.120
+\tx femngechi amukefun waria mew ka ella pichiwentrungelu iñche.
+\ft Así iba a la ciudad cuando yo era joven.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 476.560 480.120
+
+\ref 119
+\ELANParticipant HM
+\ELANBegin 00:08:00.280
+\ELANEnd 00:08:06.280
+\tx femngechi peñi, pütrün nütram, pütrün piam müley, tüfachi dungun mew, mapudungun mew.
+\ft Así pues hermano, muchas historias hay, muchos piam hay sobre este asunto, en mapudungun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 480.280 486.280
+
+\ref 120
+\ELANParticipant HM
+\ELANBegin 00:08:06.440
+\ELANEnd 00:08:11.200
+\tx femngechi tripaley ta ülkantun.
+\ft Así salen los ülkantun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 486.440 491.200
+
+\ref 121
+\ELANParticipant HM
+\ELANBegin 00:08:11.360
+\ELANEnd 00:08:22.640
+\tx ramtumimi chumngechi adumimi tüfachi, femngechi kimiiñ taiñ mapudungun, taiñ mapudungun ka taiñ ülkantun dungun, fillke dungu, fillke rakiduam mapuche.
+\ft Me preguntaste como aprendí este, así conocemos nuestro mapudungun, nuestro mapudungun y nuestros ülkantun, todos los asuntos, todos los pensamientos mapuches.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 491.360 502.640
+
+\ref 122
+\ELANParticipant HM
+\ELANBegin 00:08:22.800
+\ELANEnd 00:08:26.840
+\tx wirintukungekelafuy tüfachi dungu.
+\ft Antes no se escribían estas cosas.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 502.800 506.840
+
+\ref 123
+\ELANParticipant HM
+\ELANBegin 00:08:27.000
+\ELANEnd 00:08:30.240
+\tx taiñ füfachekeche kimlafuy ta wirintukun,
+\ft Nuestros ancianos no sabían escribir,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 507.000 510.240
+
+\ref 124
+\ELANParticipant HM
+\ELANBegin 00:08:30.240
+\ELANEnd 00:08:31.640
+\tx kimlafuy ta papeltun,
+\ft no conocían el estudio,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 510.240 511.640
+
+\ref 125
+\ELANParticipant HM
+\ELANBegin 00:08:31.920
+\ELANEnd 00:08:39.640
+\tx welu ñi longko mew niekefuy ta fentren rakiduam, fentren ngülam, peñi.
+\ft pero en su cabeza tenían muchos pensamientos, muchos consejos, hermano.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 511.920 519.640
+
+\ref 126
+\ELANParticipant HM
+\ELANBegin 00:08:39.800
+\ELANEnd 00:08:42.960
+\tx femngechi ta, allkutumun,
+\ft Así, "escuchen",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 519.800 522.960
+
+\ref 127
+\ELANParticipant HM
+\ELANBegin 00:08:42.960
+\ELANEnd 00:08:44.560
+\tx rupalerkefuy ta dungu,
+\ft "así dicen que pasaban los asuntos",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 522.960 524.560
+
+\ref 128
+\ELANParticipant HM
+\ELANBegin 00:08:44.680
+\ELANEnd 00:08:50.200
+\tx femngechi kimniekefuy ta pichikeche ta mapudungun.
+\ft así aprendían los niños el mapudungun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 524.680 530.200
+
+\ref 129
+\ELANParticipant HM
+\ELANBegin 00:08:50.320
+\ELANEnd 00:08:53.760
+\tx kuyfi ngekelafuy papeltun.
+\ft Antes no había estudios.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 530.320 533.760
+
+\ref 130
+\ELANParticipant HM
+\ELANBegin 00:08:53.920
+\ELANEnd 00:08:57.120
+\tx amukelafuy müte pichikeche papeltumeael.
+\ft Todavía los niños no iban a estudiar.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 533.920 537.120
+
+\ref 131
+\ELANParticipant HM
+\ELANBegin 00:08:57.280
+\ELANEnd 00:08:59.800
+\tx femngechi ta re mapudungunkefuy müten engün,
+\ft Así solo se conversaba en mapudungun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 537.280 539.800
+
+\ref 132
+\ELANParticipant HM
+\ELANBegin 00:08:59.800
+\ELANEnd 00:09:01.160
+\tx iñche ta feychi mongen kimpan
+\ft esa vida yo la alcancè a conocer
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 539.800 541.160
+
+\ref 133
+\ELANParticipant HM
+\ELANBegin 00:09:01.160
+\ELANEnd 00:09:05.520
+\tx iñche ka femngechi mongen nien, pichikalu iñche.
+\ft yo tuve esa vida también, cuando yo era niño.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 541.160 545.520
+
+\ref 134
+\ELANParticipant HM
+\ELANBegin 00:09:05.680
+\ELANEnd 00:09:17.000
+\tx iñche tañi laku yem re mapudungunkefuy, tañi ruka mew, taiñ pu karukatu füchakeche, füchake wenüy füchakeche.
+\ft Mi abuelo solo hablaba en mapudungun, en mi casa, nuestros vecinos ancianos, los amigos ancianos, los ancianos.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 545.680 557.000
+
+\ref 135
+\ELANParticipant HM
+\ELANBegin 00:09:17.160
+\ELANEnd 00:09:20.240
+\tx fey ta, amuiñ,
+\ft Entonces, ibamos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 557.160 560.240
+
+\ref 136
+\ELANParticipant HM
+\ELANBegin 00:09:20.240
+\ELANEnd 00:09:22.080
+\tx trawuiñ chew püle rume,
+\ft nos juntabamos, en donde sea,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 560.240 562.080
+
+\ref 137
+\ELANParticipant HM
+\ELANBegin 00:09:22.240
+\ELANEnd 00:09:23.440
+\tx ufisakamañkiyafuyngün,
+\ft cuando andaban pastoreando las ovejas,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 562.240 563.440
+
+\ref 138
+\ELANParticipant HM
+\ELANBegin 00:09:23.440
+\ELANEnd 00:09:25.000
+\tx re mapudungunkefuyngün.
+\ft solo hablaban mapudungun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 563.440 565.000
+
+\ref 139
+\ELANParticipant HM
+\ELANBegin 00:09:25.120
+\ELANEnd 00:09:27.760
+\tx kimkelafuy wingkadungun engün.
+\ft No sabían español.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 565.120 567.760
+
+\ref 140
+\ELANParticipant HM
+\ELANBegin 00:09:27.920
+\ELANEnd 00:09:32.200
+\tx femngechi ta iñchiñ ta, kiñeke mew ta re mapudunguiñ,
+\ft Así nosotros, algunas veces hablamos solo en mapudungun
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 567.920 572.200
+
+\ref 141
+\ELANParticipant HM
+\ELANBegin 00:09:32.200
+\ELANEnd 00:09:35.760
+\tx pero ahora,  müte ngewelay feychi mongen.
+\ft pero ahora, ya no hay más esa vida.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 572.200 575.760
+
+\ref 142
+\ELANParticipant HM
+\ELANBegin 00:09:35.880
+\ELANEnd 00:09:39.880
+\tx kom pu wecheke wentru wüne kimwingkadunguy.
+\ft Los jovenes primero aprenden a hablar en español,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 575.880 579.880
+
+\ref 143
+\ELANParticipant HM
+\ELANBegin 00:09:39.880
+\ELANEnd 00:09:42.520
+\tx fey wula petu kimi taiñ mapudungun engun.
+\ft Después recien aprenden nuestro mapudungun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 579.880 582.520
+
+\ref 144
+\ELANParticipant HM
+\ELANBegin 00:09:42.680
+\ELANEnd 00:09:53.480
+\tx pellken dungun feychi dungun. feymew iñche, kimelmekelu am tüfa mapudungun tüfachi waria mew, tüfachi mapu mew.
+\ft Es un asunto triste. Entonces yo, por eso estoy enseñando mapudungun en esta ciudad, en esta tierra.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 582.680 593.480
+
+\ref 145
+\ELANParticipant HM
+\ELANBegin 00:09:53.720
+\ELANEnd 00:09:59.360
+\tx chumngelu am  afay taiñ dungun, chumngelu afay taiñ mapudungun, piley tañi rakiduam.
+\ft "¿Por qué se van a acabar nuestras cosas, por qué se va a acabar nuestro mapudungun?", pienso.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 593.720 599.360
+
+\ref 146
+\ELANParticipant HM
+\ELANBegin 00:09:59.520
+\ELANEnd 00:10:02.920
+\tx feymew ta iñche ta kisu entun tañi ülkantun.
+\ft Entonces saco mi canción.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 599.520 602.920
+
+\ref 147
+\ELANParticipant HM
+\ELANBegin 00:10:03.040
+\ELANEnd 00:10:08.280
+\tx tüfachi ülkantun ülkantukelafuy tañi füchakeche yem kuyfi.
+\ft Esta canción no la cantaban los ancianos antes.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 603.040 608.280
+
+\ref 148
+\ELANParticipant HM
+\ELANBegin 00:10:08.440
+\ELANEnd 00:10:11.040
+\tx feypi tüfa kiñe ülkantun:
+\ft Este ülkantun dice así:
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 608.440 611.040
+
+\ref 149
+\ELANParticipant HM
+\ELANBegin 00:10:11.120
+\ELANEnd 00:10:12.960
+\tx dungunge anay peñi,
+\ft "hable, hermano,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 611.120 612.960
+
+\ref 150
+\ELANParticipant HM
+\ELANBegin 00:10:13.120
+\ELANEnd 00:10:15.960
+\tx dungunge anay lamngen, pi.
+\ft hable hermana" dice.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 613.120 615.960
+
+\ref 151
+\ELANParticipant HM
+\ELANBegin 00:10:16.120
+\ELANEnd 00:10:19.160
+\tx afkülpe taiñ dungu,
+\ft "Que no se acaben nuestras cosas",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 616.120 619.160
+
+\ref 152
+\ELANParticipant HM
+\ELANBegin 00:10:19.360
+\ELANEnd 00:10:21.560
+\tx newentuiñ peñi,
+\ft "fortalezcamonos hermano",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 619.360 621.560
+
+\ref 153
+\ELANParticipant HM
+\ELANBegin 00:10:21.680
+\ELANEnd 00:10:23.680
+\tx newentuiñ lamngen,
+\ft "fortalezcamonos lamngen",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 621.680 623.680
+
+\ref 154
+\ELANParticipant HM
+\ELANBegin 00:10:23.840
+\ELANEnd 00:10:26.360
+\tx afkülpe taiñ mapudungun, pi.
+\ft "que no se acabe nuestro mapudungun", dice.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 623.840 626.360
+
+\ref 155
+\ELANParticipant HM
+\ELANBegin 00:10:26.520
+\ELANEnd 00:10:29.080
+\tx fewla feypipen nga,
+\ft Ahora dije recien,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 626.520 629.080
+
+\ref 156
+\ELANParticipant HM
+\ELANBegin 00:10:29.240
+\ELANEnd 00:10:32.760
+\tx taiñ füchakeche kimkelafuy dungun
+\ft nuestros ancianos no conocían este asunto
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 629.240 632.760
+
+\ref 157
+\ELANParticipant HM
+\ELANBegin 00:10:32.760
+\ELANEnd 00:10:38.560
+\tx ka femngechi iñchiñ ka kimkelafuiñ wingkadungun, re mapuche müten.
+\ft y así nosotros, no conocíamos el español, el puro mapuche no más.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 632.760 638.560
+
+\ref 158
+\ELANParticipant HM
+\ELANBegin 00:10:38.720
+\ELANEnd 00:10:41.080
+\tx tüfachi ngülam mülekelafuy kuyfi,
+\ft Este ngülam no había antes,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 638.720 641.080
+
+\ref 159
+\ELANParticipant HM
+\ELANBegin 00:10:41.200
+\ELANEnd 00:10:50.040
+\tx welu fantepu mew iñche, pelu am wechekeche, peluam che ta, dew ngüyütulu taiñ mapuchedungun tüfachi waria mew.
+\ft pero ahora yo, como veo a los jovenes, como veo a la gente, que ya olvidaron nuestro mapudungun en esta ciudad.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 641.200 650.040
+
+\ref 160
+\ELANParticipant HM
+\ELANBegin 00:10:50.200
+\ELANEnd 00:10:54.840
+\tx feymew, feypin iñche entuan tüfachi ülkantun.
+\ft Por eso, dije yo "sacarè este ülkantun".
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 650.200 654.840
+
+\ref 161
+\ELANParticipant HM
+\ELANBegin 00:10:55.160
+\ELANEnd 00:10:58.000
+\tx tüfachi ülkantun tüfa, we ülkantun,
+\ft Este ülkantun es un nuevo ülkantun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 655.160 658.000
+
+\ref 162
+\ELANParticipant HM
+\ELANBegin 00:10:58.160
+\ELANEnd 00:11:00.880
+\tx we dungu reke müley.
+\ft como que hay cosas nuevas.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 658.160 660.880
+
+\ref 163
+\ELANParticipant HM
+\ELANBegin 00:11:01.000
+\ELANEnd 00:11:02.480
+\tx feyngey ta dungu ta ti
+\ft Es así la cosa, es así,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 661.000 662.480
+
+\ref 164
+\ELANParticipant HM
+\ELANBegin 00:11:02.480
+\ELANEnd 00:11:05.360
+\tx feyngey wechekeche kimlay taiñ dungu.
+\ft los jovenes no saben nuestra lengua.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 662.480 665.360
+
+\ref 165
+\ELANParticipant HM
+\ELANBegin 00:11:05.480
+\ELANEnd 00:11:10.920
+\tx ka kiñeke dew füchalu, tremlu Santiaw waria mew, kimlay tañi mapudungun.
+\ft También algunos que ya envejecieron en la ciudad, tampoco saben mapudungun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 665.480 670.920
+
+\ref 166
+\ELANParticipant HM
+\ELANBegin 00:11:11.040
+\ELANEnd 00:11:16.840
+\tx feymew, ka mülepalu tüfamew kimmapudungulu küpakimmapudungulay,
+\ft Entonces, también los que están acá y que saben mapudungun, no quieren saber mapudungun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 671.040 676.840
+
+\ref 167
+\ELANParticipant HM
+\ELANBegin 00:11:17.000
+\ELANEnd 00:11:19.720
+\tx yewüy tañi mapudunguael.
+\ft se avergüenzan de hablar mapudungun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 677.000 679.720
+
+\ref 168
+\ELANParticipant HM
+\ELANBegin 00:11:19.920
+\ELANEnd 00:11:25.080
+\tx illamngelu am, feymew kimlay, pilay tañi dunguael.
+\ft Como fueron pasados a llevar, entonces no quieren hablar.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 679.920 685.080
+
+\ref 169
+\ELANParticipant HM
+\ELANBegin 00:11:25.240
+\ELANEnd 00:11:27.520
+\tx illamngey ta mapuche.
+\ft Son pasados a llevar los mapuches.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 685.240 687.520
+
+\ref 170
+\ELANParticipant HM
+\ELANBegin 00:11:27.640
+\ELANEnd 00:11:30.520
+\tx fey ta discriminacion pi ta wingka.
+\ft "Discriminaciòn" dicen los wingka.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 687.640 690.520
+
+\ref 171
+\ELANParticipant HM
+\ELANBegin 00:11:30.680
+\ELANEnd 00:11:33.120
+\tx femngechi dungu tati.
+\ft Así es la cosa,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 690.680 693.120
+
+\ref 172
+\ELANParticipant HM
+\ELANBegin 00:11:33.280
+\ELANEnd 00:11:36.200
+\tx dunguy, re mapudungun
+\ft hablan, solo en mapudungun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 693.280 696.200
+
+\ref 173
+\ELANParticipant HM
+\ELANBegin 00:11:36.200
+\ELANEnd 00:11:38.160
+\tx , indio pingey.
+\ft les dicen indio,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 696.200 698.160
+
+\ref 174
+\ELANParticipant HM
+\ELANBegin 00:11:38.280
+\ELANEnd 00:11:41.880
+\tx ka mapuche, pingey.
+\ft gente de otra tierra, le dicen.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 698.280 701.880
+
+\ref 175
+\ELANParticipant HM
+\ELANBegin 00:11:42.000
+\ELANEnd 00:11:43.960
+\tx illamtungey,
+\ft 
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 702.000 703.960
+
+\ref 176
+\ELANParticipant HM
+\ELANBegin 00:11:43.960
+\ELANEnd 00:11:45.520
+\tx ayentungey ka.
+\ft Son pasados a llevar, se burlan de ellos también.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 703.960 705.520
+
+\ref 177
+\ELANParticipant HM
+\ELANBegin 00:11:45.680
+\ELANEnd 00:11:49.360
+\tx feymew ta, pilay tañi dunguael engün.
+\ft Entonces, no quieren hablar.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 705.680 709.360
+
+\ref 178
+\ELANParticipant HM
+\ELANBegin 00:11:49.520
+\ELANEnd 00:11:57.200
+\tx kiñeke, küpanentuy tañi apellio, yüll üy pingey ta mapuchedungun mew,
+\ft Algunos, se quieren sacar su apellido, "yüll üy" se dice en mapudungun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 709.520 717.200
+
+\ref 179
+\ELANParticipant HM
+\ELANBegin 00:11:57.320
+\ELANEnd 00:12:00.480
+\tx tañi mapuchengen, fentren yewün.
+\ft su ser mapuche, se avergüenzan mucho.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 717.320 720.480
+
+\ref 180
+\ELANParticipant HM
+\ELANBegin 00:12:00.640
+\ELANEnd 00:12:08.520
+\tx feymew, ruf dungu no tati peñi, tüfachi dungu
+\ft Entonces, no es verdad, hermano, este asunto,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 720.640 728.520
+
+\ref 181
+\ELANParticipant HM
+\ELANBegin 00:12:08.720
+\ELANEnd 00:12:14.760
+\tx feypilu ta feypipingelu tüfa, iñchiñ ta kom trurküleiñ taiñ dungu,
+\ft cuando dicen, cuando andan diciendo una y otra vez: "todas nuestras cosas se parecen,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 728.720 734.760
+
+\ref 182
+\ELANParticipant HM
+\ELANBegin 00:12:14.760
+\ELANEnd 00:12:17.000
+\tx trurküleiñ taiñ chengen, pi ta kiñeke.
+\ft todas nuestras identidades se parecen" dicen algunos.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 734.760 737.000
+
+\ref 183
+\ELANParticipant HM
+\ELANBegin 00:12:17.200
+\ELANEnd 00:12:19.000
+\tx müte femngelay chi dungu,
+\ft No es así la cosa,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 737.200 739.000
+
+\ref 184
+\ELANParticipant HM
+\ELANBegin 00:12:19.160
+\ELANEnd 00:12:21.560
+\tx müley ta fentren illamuwün,
+\ft hay mucha discriminación,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 739.160 741.560
+
+\ref 185
+\ELANParticipant HM
+\ELANBegin 00:12:21.560
+\ELANEnd 00:12:23.680
+\tx müley ta fentren ayentuwün,
+\ft hay mucha burla,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 741.560 743.680
+
+\ref 186
+\ELANParticipant HM
+\ELANBegin 00:12:23.840
+\ELANEnd 00:12:26.200
+\tx ayentungekey ta mapuche.
+\ft se burlan de los mapuches.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 743.840 746.200
+
+\ref 187
+\ELANParticipant HM
+\ELANBegin 00:12:26.360
+\ELANEnd 00:12:28.920
+\tx feymew ta pilay tañi dunguael tañi dungu,
+\ft Por eso no quieren hablar su lengua,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 746.360 748.920
+
+\ref 188
+\ELANParticipant HM
+\ELANBegin 00:12:29.040
+\ELANEnd 00:12:31.480
+\tx pilay tañi kimelael tañi dungu.
+\ft no quieren enseñar su lengua.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 749.040 751.480
+
+\ref 189
+\ELANParticipant HM
+\ELANBegin 00:12:31.680
+\ELANEnd 00:12:37.080
+\tx rume kütrankawi engün taiñ mapuchengen, akulu tüfachi waria mew.
+\ft Mucho sufren por ser mapuches, cuando llegan a esta ciudad.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 751.680 757.080
+
+\ref 190
+\ELANParticipant HM
+\ELANBegin 00:12:37.200
+\ELANEnd 00:12:38.440
+\tx fachianü,
+\ft Hoy día,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 757.200 758.440
+
+\ref 191
+\ELANParticipant HM
+\ELANBegin 00:12:38.600
+\ELANEnd 00:12:42.520
+\tx küpamapuchedunguiñ waria mew, iñchiñ taiñ mapuchengen.
+\ft queremos hablar mapudungun en esta ciudad, nosotros los mapuches.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 758.600 762.520
+
+\ref 192
+\ELANParticipant HM
+\ELANBegin 00:12:42.640
+\ELANEnd 00:12:43.680
+\tx feymew,
+\ft Entonces,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 762.640 763.680
+
+\ref 193
+\ELANParticipant HM
+\ELANBegin 00:12:43.800
+\ELANEnd 00:12:49.080
+\tx feypilliñ iñchiñ, feypingekefiiñ feychi pichi kimlu mapudungun,
+\ft si dijeramos nosotros, si les dijeran a los que saben poco mapudungun:
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 763.800 769.080
+
+\ref 194
+\ELANParticipant HM
+\ELANBegin 00:12:49.200
+\ELANEnd 00:12:53.760
+\tx dungunge peñi, elnge tami dungu, elnge tami tami kimün.
+\ft "hable hermano, de su asunto, de su su conocimiento",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 769.200 773.760
+
+\ref 195
+\ELANParticipant HM
+\ELANBegin 00:12:53.920
+\ELANEnd 00:12:58.640
+\tx yetukülnge tami kimün eltun mew.
+\ft "no te lleves de vuelta tu conocimiento al cementerio".
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 773.920 778.640
+
+\ref 196
+\ELANParticipant HM
+\ELANBegin 00:12:58.760
+\ELANEnd 00:13:01.800
+\tx feymew ta kimelmelayaymi tami dungu.
+\ft "Entonces, no enseñarás tus cosas.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 778.760 781.800
+
+\ref 197
+\ELANParticipant HM
+\ELANBegin 00:13:01.960
+\ELANEnd 00:13:05.000
+\tx eltun mew ta iney rume kimelayafimi.
+\ft En el cementerio  a nadie le vas a enseñar.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 781.960 785.000
+
+\ref 198
+\ELANParticipant HM
+\ELANBegin 00:13:05.120
+\ELANEnd 00:13:07.560
+\tx petu tami mongelen, elngey tami dungu
+\ft Todavía estas vivo, que sean entregados tus asuntos",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 785.120 787.560
+
+\ref 199
+\ELANParticipant HM
+\ELANBegin 00:13:07.680
+\ELANEnd 00:13:10.280
+\tx pilefun tüfachi rakiduam mew,
+\ft diría en este pensamiento,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 787.680 790.280
+
+\ref 200
+\ELANParticipant HM
+\ELANBegin 00:13:10.440
+\ELANEnd 00:13:15.480
+\tx tüfachi ülkantun mew. peñi feymew entufiñ tüfachi ülkantun,
+\ft en este ülkantun, Hermano, entonces, lo saqué este ülkantun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 790.440 795.480
+
+\ref 201
+\ELANParticipant HM
+\ELANBegin 00:13:15.600
+\ELANEnd 00:13:18.840
+\tx ka femngechi chumngechi feypipen kangelu ülkantun mew,
+\ft y así como dije recien en otro ülkantun
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 795.600 798.840
+
+\ref 202
+\ELANParticipant HM
+\ELANBegin 00:13:19.000
+\ELANEnd 00:13:22.800
+\tx ka femngechi feypilen rakiduam mew,
+\ft y asì  dice mi pensamiento,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 799.000 802.800
+
+\ref 203
+\ELANParticipant HM
+\ELANBegin 00:13:22.800
+\ELANEnd 00:13:25.880
+\tx pewmangen  wiñodungutuay tañi pu che,
+\ft pewmangen vuelva a hablar nuestra gente,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 802.800 805.880
+
+\ref 204
+\ELANParticipant HM
+\ELANBegin 00:13:25.960
+\ELANEnd 00:13:29.240
+\tx pewmangen entuy yewün engün pichike dungulu mapudungun,
+\ft ojalá se saquen la vergüenza de hablar un poco mapudungun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 805.960 809.240
+
+\ref 205
+\ELANParticipant HM
+\ELANBegin 00:13:29.400
+\ELANEnd 00:13:32.560
+\tx kellupe tañi witrampuramael tüfachi dungun, mapuchedungun,
+\ft que ayuden a levantar este asunto, el mapudungun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 809.400 812.560
+
+\ref 206
+\ELANParticipant HM
+\ELANBegin 00:13:32.720
+\ELANEnd 00:13:39.960
+\tx fillke püle mülelu, waria mew mülelu, lelfün mew mülelu, chew püle rume, nentupe ñi dungu,
+\ft donde sea que esté, que esté en la ciudad, que esté en el campo, donde sea, que saque sus cosas,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 812.720 819.960
+
+\ref 207
+\ELANParticipant HM
+\ELANBegin 00:13:40.080
+\ELANEnd 00:13:42.200
+\tx kiñe chalin kimelpe,
+\ft que enseñe un saludo,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 820.080 822.200
+
+\ref 208
+\ELANParticipant HM
+\ELANBegin 00:13:42.360
+\ELANEnd 00:13:44.280
+\tx kiñe dungu kimelpe.
+\ft que enseñe un asunto.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 822.360 824.280
+
+\ref 209
+\ELANParticipant HM
+\ELANBegin 00:13:44.440
+\ELANEnd 00:13:48.960
+\tx feymew ta iñche ta, ngülamün,
+\ft Entonces yo, hice ngülam,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 824.440 828.960
+
+\ref 210
+\ELANParticipant HM
+\ELANBegin 00:13:48.960
+\ELANEnd 00:13:52.120
+\tx entun tüfachi ngülam  tüfachi ülkantun mew
+\ft saqué este ngülam en este ülkantun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 828.960 832.120
+
+\ref 211
+\ELANParticipant HM
+\ELANBegin 00:13:52.120
+\ELANEnd 00:13:53.040
+\tx feypi tüfa,
+\ft dice así,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 832.120 833.040
+
+\ref 212
+\ELANParticipant HM
+\ELANBegin 00:13:53.160
+\ELANEnd 00:13:55.560
+\tx nentuafiñ pichiñ,
+\ft lo sacaré un poco,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 833.160 835.560
+
+\ref 213
+\ELANParticipant HM
+\ELANBegin 00:13:55.600
+\ELANEnd 00:13:57.120
+\tx pewmangen küme tripayay,
+\ft ojalá que salga bien
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 835.600 837.120
+
+\ref 214
+\ELANParticipant HM
+\ELANBegin 00:13:57.120
+\ELANEnd 00:14:00.000
+\tx welu allkutunge chem pin tüfachi chillka,
+\ft escucha lo que dice este asunto,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 837.120 840.000
+
+\ref 215
+\ELANParticipant HM
+\ELANBegin 00:14:00.160
+\ELANEnd 00:14:03.840
+\tx feypi:
+\ft dice así:
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 840.160 843.840
+
+\ref 216
+\ELANParticipant HM
+\ELANBegin 00:14:04.400
+\ELANEnd 00:14:08.040
+\tx dungunge anay peñi,
+\ft "hable pues, hermano,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 844.400 848.040
+
+\ref 217
+\ELANParticipant HM
+\ELANBegin 00:14:08.200
+\ELANEnd 00:14:11.320
+\tx dungunge anay lamngen,
+\ft hable, pues, hermana,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 848.200 851.320
+
+\ref 218
+\ELANParticipant HM
+\ELANBegin 00:14:11.440
+\ELANEnd 00:14:14.040
+\tx afkülpe taiñ dungu,
+\ft que no se acaben nuestras cosas,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 851.440 854.040
+
+\ref 219
+\ELANParticipant HM
+\ELANBegin 00:14:14.160
+\ELANEnd 00:14:17.160
+\tx newentuiñ peñi,
+\ft fortalezcamonos hermano,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 854.160 857.160
+
+\ref 220
+\ELANParticipant HM
+\ELANBegin 00:14:17.280
+\ELANEnd 00:14:20.200
+\tx newentuiñ lamngen,
+\ft fortalezcamonos hermana,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 857.280 860.200
+
+\ref 221
+\ELANParticipant HM
+\ELANBegin 00:14:20.200
+\ELANEnd 00:14:22.840
+\tx yewekülnge peñi,
+\ft no se avergüence hermano,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 860.200 862.840
+
+\ref 222
+\ELANParticipant HM
+\ELANBegin 00:14:22.880
+\ELANEnd 00:14:30.880
+\tx yewekülnge lamngen, tami mapuchedungual, tami mapuchedungual.
+\ft no se avergüence hermana, de tu hablar mapudungun, de tu hablar mapudungun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 862.880 870.880
+
+\ref 223
+\ELANParticipant HM
+\ELANBegin 00:14:31.040
+\ELANEnd 00:14:34.000
+\tx amupe taiñ kimün,
+\ft Que vaya nuestro conocimiento,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 871.040 874.000
+
+\ref 224
+\ELANParticipant HM
+\ELANBegin 00:14:34.000
+\ELANEnd 00:14:36.560
+\tx amupe taiñ dungun,
+\ft que vayan nuestros asuntos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 874.000 876.560
+
+\ref 225
+\ELANParticipant HM
+\ELANBegin 00:14:36.720
+\ELANEnd 00:14:39.560
+\tx kuñatukülewüaiñ,
+\ft como uno solo estaremos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 876.720 879.560
+
+\ref 226
+\ELANParticipant HM
+\ELANBegin 00:14:39.560
+\ELANEnd 00:14:41.960
+\tx newentukulewüaiñ,
+\ft fortalecidos estaremos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 879.560 881.960
+
+\ref 227
+\ELANParticipant HM
+\ELANBegin 00:14:42.120
+\ELANEnd 00:14:47.560
+\tx trürpe taiñ dungun, taiñ mapuchengen.
+\ft que se unan nuestros asuntos, nuestro ser mapuche.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 882.120 887.560
+
+\ref 228
+\ELANParticipant HM
+\ELANBegin 00:14:47.680
+\ELANEnd 00:14:55.920
+\tx kiñe antü peñi, kiñe antü lmangen, marichiwew piaiñ,
+\ft Un día hermano, un día hermana, diez veces venceremos, diremos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 887.680 895.920
+
+\ref 229
+\ELANParticipant HM
+\ELANBegin 00:14:55.920
+\ELANEnd 00:14:57.400
+\tx marichiweu piaiñ.
+\ft diez veces venceremos, diremos".
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 895.920 897.400
+
+\ref 230
+\ELANParticipant HM
+\ELANBegin 00:14:57.520
+\ELANEnd 00:15:00.280
+\tx feypi tüfachi ül, tüfachi ülkantun.
+\ft Dice así este ül, este ülkantun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 897.520 900.280
+
+\ref 231
+\ELANParticipant HM
+\ELANBegin 00:15:00.440
+\ELANEnd 00:15:03.200
+\tx feypi tüfa
+\ft Dice asì:
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 900.440 903.200
+
+\ref 232
+\ELANParticipant HM
+\ELANBegin 00:15:03.360
+\ELANEnd 00:15:04.840
+\tx dungunge anay peñi,
+\ft "hable, pues, hermano,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 903.360 904.840
+
+\ref 233
+\ELANParticipant HM
+\ELANBegin 00:15:04.840
+\ELANEnd 00:15:06.080
+\tx dungunge anay lamngen,
+\ft hable, pues hermana,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 904.840 906.080
+
+\ref 234
+\ELANParticipant HM
+\ELANBegin 00:15:06.280
+\ELANEnd 00:15:08.280
+\tx afkülpe taiñ dungu,
+\ft que no se acaben nuestros asuntos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 906.280 908.280
+
+\ref 235
+\ELANParticipant HM
+\ELANBegin 00:15:08.400
+\ELANEnd 00:15:10.360
+\tx newentuiñ peñi,
+\ft fortalezcamonos hermano,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 908.400 910.360
+
+\ref 236
+\ELANParticipant HM
+\ELANBegin 00:15:10.520
+\ELANEnd 00:15:13.320
+\tx femngechi küñatuküleiñ,
+\ft así estamos unidos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 910.520 913.320
+
+\ref 237
+\ELANParticipant HM
+\ELANBegin 00:15:13.440
+\ELANEnd 00:15:16.600
+\tx kom kiñewün amuleiñ,
+\ft todos juntos estamos yendo,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 913.440 916.600
+
+\ref 238
+\ELANParticipant HM
+\ELANBegin 00:15:16.760
+\ELANEnd 00:15:19.320
+\tx trurpe taiñ dungun taiñ mapuchengen,
+\ft que se junten nuestros asuntos, nuestro ser mapuche
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 916.760 919.320
+
+\ref 239
+\ELANParticipant HM
+\ELANBegin 00:15:19.320
+\ELANEnd 00:15:24.520
+\tx trurpe taiñ nütramkan taiñ mapuchengen, taiñ kimeluwün taiñ mapuchengen
+\ft que se junten nuestras conversaciones, nuestra forma de enseñar nuestro ser mapuche.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 919.320 924.520
+
+\ref 240
+\ELANParticipant HM
+\ELANBegin 00:15:24.680
+\ELANEnd 00:15:28.560
+\tx feypi tüfachi ülkantun kiñe ngülam ta tüfey,
+\ft Así dice este ülkantun, un ngülam hay,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 924.680 928.560
+
+\ref 241
+\ELANParticipant HM
+\ELANBegin 00:15:28.720
+\ELANEnd 00:15:36.360
+\tx kom pu che pewmangen, femngechilliñ kiñe antü, yewenoliiñ taiñ entun taiñ dungu,
+\ft todas las personas, ojalá, si es así un día, si no nos avergonzamos de sacar nuestros asuntos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 928.720 936.360
+
+\ref 242
+\ELANParticipant HM
+\ELANBegin 00:15:36.480
+\ELANEnd 00:15:44.440
+\tx yewenoliiñ taiñ dunguael, femngechi ta kiñewün kiñe trur kiñewün, kimelaiñ taiñ dungun.
+\ft si no nos avergonzamos de hablar, así todos unidos, todos juntos como uno enseñaremos nuestros asuntos.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 936.480 944.440
+
+\ref 243
+\ELANParticipant HM
+\ELANBegin 00:15:44.600
+\ELANEnd 00:15:49.720
+\tx femngechi piaiñ fentren che ñi dungutuael tüfa femliiñ
+\ft Así, diremos, "mucha gente va a hablar, si hacemos así".
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 944.600 949.720
+
+\ref 244
+\ELANParticipant HM
+\ELANBegin 00:15:49.840
+\ELANEnd 00:15:53.400
+\tx femliiñ kiñe antü, marichiweu piaiñ.
+\ft "Si hacemos así, un día, diez veces venceremos", diremos.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 949.840 953.400
+
+\ref 245
+\ELANParticipant HM
+\ELANBegin 00:15:53.560
+\ELANEnd 00:15:55.280
+\tx pi tüfachi ngülam,
+\ft Dice este ngülam,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 953.560 955.280
+
+\ref 246
+\ELANParticipant HM
+\ELANBegin 00:15:55.440
+\ELANEnd 00:15:58.560
+\tx feychi dungu, peñi, feychi dungu, lamngen.
+\ft ese asunto, hermano, ese asunto hermana.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 955.440 958.560
+
+\ref 247
+\ELANParticipant HM
+\ELANBegin 00:15:58.720
+\ELANEnd 00:16:14.160
+\tx feymew ta, tripaley tüfachi ülkantun taiñ witrampuramael taiñ dungu taiñ ngülayael mapuche pilun mapuche nge taiñ peael chumngechi taiñ felen taiñ mapuchengen tüfachi mapu mew,
+\ft Entonces, está saliendo este ülkantun para  que revitalizacemos nuestros asuntos, para que abramos los oídos mapuches, para que los ojos mapuches veamos como esta nuestra identidad mapuche en esta tierra,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 958.720 974.160
+
+\ref 248
+\ELANParticipant HM
+\ELANBegin 00:16:14.160
+\ELANEnd 00:16:15.760
+\tx fey müten peñi.
+\ft eso no más, hermano.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 974.160 975.760
+
+\ref 249
+\ELANParticipant FH
+\ELANBegin 00:16:16.200
+\ELANEnd 00:16:22.840
+\tx ka entulu tüfachi dungu tami clase mew, tüfachi waria mew, chem pi ta pu che allkülu
+\ft Y cuando sacas este asunto en tu clase, en esta ciudad ¿Qué dice la gente cuando lo escucha?
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 976.200 982.840
+
+\ref 250
+\ELANParticipant HM
+\ELANBegin 00:16:22.800
+\ELANEnd 00:16:24.520
+\tx allkukey engün,
+\ft Cuando lo escuchan,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 982.800 984.520
+
+\ref 251
+\ELANParticipant HM
+\ELANBegin 00:16:24.520
+\ELANEnd 00:16:26.440
+\tx rume afmatukey engün ka,
+\ft lo admiran mucho también,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 984.520 986.440
+
+\ref 252
+\ELANParticipant HM
+\ELANBegin 00:16:26.600
+\ELANEnd 00:16:30.520
+\tx chumngechi entukeymi tüfachi ülkantun,
+\ft "¿cómo sacaste este ülkantun?"
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 986.600 990.520
+
+\ref 253
+\ELANParticipant HM
+\ELANBegin 00:16:30.680
+\ELANEnd 00:16:33.840
+\tx iney amta allkutuñmafimi, piewnew,
+\ft "¿a quién se lo escuchaste?", me dicen,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 990.680 993.840
+
+\ref 254
+\ELANParticipant HM
+\ELANBegin 00:16:33.960
+\ELANEnd 00:16:35.600
+\tx pikey, pienew kiñeke.
+\ft dicen, algunos me dicen.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 993.960 995.600
+
+\ref 255
+\ELANParticipant HM
+\ELANBegin 00:16:35.760
+\ELANEnd 00:16:39.040
+\tx chumimi?, ¿tami füchakeche ülkatukefuy femngechi?
+\ft "¿cómo lo haces? ¿los ancianos sacaban ülkantun así?"
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 995.760 999.040
+
+\ref 256
+\ELANParticipant HM
+\ELANBegin 00:16:39.200
+\ELANEnd 00:16:40.800
+\tx femkelafuy
+\ft "No era así,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 999.200 1000.800
+
+\ref 257
+\ELANParticipant HM
+\ELANBegin 00:16:40.800
+\ELANEnd 00:16:41.800
+\tx ülkantukefuyngün welu
+\ft sacaban ülkantun
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1000.800 1001.800
+
+\ref 258
+\ELANParticipant HM
+\ELANBegin 00:16:41.800
+\ELANEnd 00:16:43.400
+\tx entukelafuy tüfachi dungu
+\ft pero no sacaban estos asuntos",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1001.800 1003.400
+
+\ref 259
+\ELANParticipant HM
+\ELANBegin 00:16:43.400
+\ELANEnd 00:16:44.600
+\tx pikefiñ.
+\ft les digo.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1003.400 1004.600
+
+\ref 260
+\ELANParticipant HM
+\ELANBegin 00:16:44.720
+\ELANEnd 00:16:48.360
+\tx kuyfi ta yewüngekelafuy tañi dungual mapudungun.
+\ft "Antes no se avergonzaban de hablar mapudungun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1004.720 1008.360
+
+\ref 261
+\ELANParticipant HM
+\ELANBegin 00:16:48.480
+\ELANEnd 00:16:52.640
+\tx kuyfi ta, kom che mapudungukefuy,
+\ft Antes, toda la gente sabía mapudungun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1008.480 1012.640
+
+\ref 262
+\ELANParticipant HM
+\ELANBegin 00:16:52.760
+\ELANEnd 00:16:55.920
+\tx welu fachiantü, waria mew, ngelay tüfachi dungu.
+\ft pero hoy día, en la ciudad, no hay este asunto.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1012.760 1015.920
+
+\ref 263
+\ELANParticipant HM
+\ELANBegin 00:16:56.040
+\ELANEnd 00:16:59.160
+\tx feymew entun tüfachi dungun pifiñ engün
+\ft Entonces saqué este ülkantun", les digo.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1016.040 1019.160
+
+\ref 264
+\ELANParticipant HM
+\ELANBegin 00:16:59.280
+\ELANEnd 00:17:03.840
+\tx müna ayukey engün allkutun tüfachi ülkantun tüfachi ngülam.
+\ft Se alegran mucho al escuchar este ülkantun, este ngülam.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1019.280 1023.840
+
+\ref 265
+\ELANParticipant HM
+\ELANBegin 00:17:03.960
+\ELANEnd 00:17:11.400
+\tx doy ayekey pu mapuchengelu, allkülu ka kimlu chem pin tüfachi dungun,
+\ft Se alegran más los que son mapuches, cuando escuchan y saben lo que dice este asunto.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1023.960 1031.400
+
+\ref 266
+\ELANParticipant HM
+\ELANBegin 00:17:11.600
+\ELANEnd 00:17:13.960
+\tx doy ayekey engün.
+\ft más se alegran.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1031.600 1033.960
+
+\ref 267
+\ELANParticipant HM
+\ELANBegin 00:17:13.960
+\ELANEnd 00:17:19.240
+\tx feymew ta, we petu kimngen wula tañi kimülkantun, peñi.
+\ft Entonces, recien es conocido que sabes sacar ülantun, hermano.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1033.960 1039.240
+
+\ref 268
+\ELANParticipant HM
+\ELANBegin 00:17:19.400
+\ELANEnd 00:17:21.680
+\tx kuyfi kimniekelafun tañi ülkantun
+\ft Antes no conocía mi ülkantun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1039.400 1041.680
+
+\ref 269
+\ELANParticipant HM
+\ELANBegin 00:17:21.840
+\ELANEnd 00:17:24.480
+\tx we wula entuniefiñ tüfachi kimün
+\ft recién estoy sacando este conocimiento.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1041.840 1044.480
+
+\ref 270
+\ELANParticipant HM
+\ELANBegin 00:17:24.640
+\ELANEnd 00:17:32.440
+\tx wüne kimelün dungu, wùne fillke püle, fillke uniferisdad mew, fillke lof mew,
+\ft Primero, enseñaré este asunto, primero en todos lados, en todas las universidades, en todas las comunidades,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1044.640 1052.440
+
+\ref 271
+\ELANParticipant HM
+\ELANBegin 00:17:32.600
+\ELANEnd 00:17:37.240
+\tx welu tüfa we wula entumeken tüfachi ülkantun,
+\ft pero ahora recien estoy sacando este ülkantun
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1052.600 1057.240
+
+\ref 272
+\ELANParticipant HM
+\ELANBegin 00:17:37.240
+\ELANEnd 00:17:39.920
+\tx ka entungey ñi ngülam tüfachi ülkantun mew.
+\ft y es sacado este ngülam en este ülkantun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1057.240 1059.920
+
+\ref 273
+\ELANParticipant FH
+\ELANBegin 00:17:40.120
+\ELANEnd 00:17:46.920
+\tx ka ¿chumngelu amta feypipeymi marichiweu piaiñ?
+\ft ¿Por qué acabas de decir "diez veces venceremos" diremos?
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1060.120 1066.920
+
+\ref 274
+\ELANParticipant FH
+\ELANBegin 00:17:47.040
+\ELANEnd 00:17:52.280
+\tx eymi rakiduamimi ta pu chilllkatufe mülelu tami curso mew
+\ft ¿tú piensas los estudiantes que están en tu curso...?
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1067.040 1072.280
+
+\ref 275
+\ELANParticipant HM
+\ELANBegin 00:17:52.360
+\ELANEnd 00:17:54.280
+\tx kimmapudungulay engün feyngün,
+\ft No saben mapudungun ellos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1072.360 1074.280
+
+\ref 276
+\ELANParticipant HM
+\ELANBegin 00:17:54.280
+\ELANEnd 00:17:56.640
+\tx adumlay mapudungun engün.
+\ft no saben mapudungun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1074.280 1076.640
+
+\ref 277
+\ELANParticipant HM
+\ELANBegin 00:17:56.960
+\ELANEnd 00:18:04.840
+\tx iñche ta ka fillke pu mapuche adumlu mapudungun ka kimele mapudungun,
+\ft Yo y todos los mapuches que saben mapudungun, si enseñan mapudungun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1076.960 1084.840
+
+\ref 278
+\ELANParticipant HM
+\ELANBegin 00:18:05.000
+\ELANEnd 00:18:18.880
+\tx kiñe antü kom kiñewün,  feychi dungukenolu, dungule, feychi kimmapudungukenolu fachiantü, kimmapudungule, kiñe antü marichiewu piaiñ kiñewün.
+\ft un día todos juntos, si todos los que no hablan, hablan, si todos los que no saben mapudungun hoy, aprenden mapudungun, un dìa "diez veces venceremos" diremos todos juntos.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1085.000 1098.880
+
+\ref 279
+\ELANParticipant HM
+\ELANBegin 00:18:19.000
+\ELANEnd 00:18:20.880
+\tx feypi tati,
+\ft Así dice,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1099.000 1100.880
+
+\ref 280
+\ELANParticipant HM
+\ELANBegin 00:18:21.000
+\ELANEnd 00:18:24.800
+\tx feychi rakiduam, feychi ngülam niey tati.
+\ft ese pensamiento, ese ngülam tiene.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1101.000 1104.800
+
+\ref 281
+\ELANParticipant HM
+\ELANBegin 00:18:24.920
+\ELANEnd 00:18:28.200
+\tx feypilu amulepe taiñ kimün,
+\ft Cuando dice "que vaya nuestro conocimiento,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1104.920 1108.200
+
+\ref 282
+\ELANParticipant HM
+\ELANBegin 00:18:28.320
+\ELANEnd 00:18:30.280
+\tx amulepe taiñ dungu,
+\ft que vaya nuestro asunto,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1108.320 1110.280
+
+\ref 283
+\ELANParticipant HM
+\ELANBegin 00:18:30.360
+\ELANEnd 00:18:33.640
+\tx kiñe antù marichiweu piaiñ, femliiñ
+\ft un día "diez veces venceremos" diremos, si hacemos asì"
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1110.360 1113.640
+
+\ref 284
+\ELANParticipant FH
+\ELANBegin 00:18:33.800
+\ELANEnd 00:18:43.360
+\tx ka chem mew  kelluafuy ta  ta we kimün ñi witrampurayael ta mapuchedungun
+\ft ¿Y en qué ayudarían los nuevos conocimientos para revitalizar el mapudungun
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1113.800 1123.360
+
+\ref 285
+\ELANParticipant FH
+\ELANBegin 00:18:43.360
+\ELANEnd 00:18:49.000
+\tx ta kimün chi pu chilkatufe kimlu chi universidad mew, kimlu chi eskuela mew,
+\ft el conocimiento que los estudiantes aprenden en la universidad, en la escuela?,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1123.360 1129.000
+
+\ref 286
+\ELANParticipant FH
+\ELANBegin 00:18:49.000
+\ELANEnd 00:18:50.640
+\tx ¿chem mew kelluafuy?
+\ft ¿en què puede ayudar?
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1129.000 1130.640
+
+\ref 287
+\ELANParticipant HM
+\ELANBegin 00:18:51.120
+\ELANEnd 00:18:55.040
+\tx kiñe che adumle pin mari mari pin,
+\ft Si alguna gente aprende a decir "mari mari",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1131.120 1135.040
+
+\ref 288
+\ELANParticipant HM
+\ELANBegin 00:18:55.240
+\ELANEnd 00:18:59.080
+\tx kiñe chillkatufe adumle mari mari pin,
+\ft si un estudiante aprende a decir "mari mari",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1135.240 1139.080
+
+\ref 289
+\ELANParticipant HM
+\ELANBegin 00:18:59.240
+\ELANEnd 00:19:08.320
+\tx kimelfile kangelu,  famngechi chalingekey ta mapudungun mew mari mari pingekey, pile, femngechi kelluley.
+\ft si se lo enseña a otro, si dice "así se saluda en mapudungun "mari mari se dice",  así está ayudando.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1139.240 1148.320
+
+\ref 290
+\ELANParticipant HM
+\ELANBegin 00:19:08.480
+\ELANEnd 00:19:21.160
+\tx doy adümle, ka doy rulpale tañi dungu, doy kimelfile kangelu che, femngechi ta inaallkütuküleaiñ taiñ kimün mew.
+\ft Si aprende más, y más traduce sus palabras, y más enseña a otra gente, así seguiremos escuchando nuestro conocimiento.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1148.480 1161.160
+
+\ref 291
+\ELANParticipant HM
+\ELANBegin 00:19:21.320
+\ELANEnd 00:19:24.720
+\tx femngechi ta inaallkütuküleaiñ ñi kimün mew.
+\ft Así seguiremos escuchando nuestro conocimiento,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1161.320 1164.720
+
+\ref 292
+\ELANParticipant HM
+\ELANBegin 00:19:24.880
+\ELANEnd 00:19:27.800
+\tx chumngechi adumimi tüfachi dungu,
+\ft como aprendiste este asunto,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1164.880 1167.800
+
+\ref 293
+\ELANParticipant HM
+\ELANBegin 00:19:27.800
+\ELANEnd 00:19:28.960
+\tx ka kimelimi,
+\ft así enseñalo,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1167.800 1168.960
+
+\ref 294
+\ELANParticipant HM
+\ELANBegin 00:19:29.200
+\ELANEnd 00:19:33.880
+\tx chumngechi adumniey kangelu peñi, kangelu lamngen ka kimelu.
+\ft así está aprendiendo otro hermana, otra hermana que también enseñan.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1169.200 1173.880
+
+\ref 295
+\ELANParticipant HM
+\ELANBegin 00:19:34.200
+\ELANEnd 00:19:49.400
+\tx kiñe antü, kechu llituliiñ tüfachi küdaw, epu mari kimelmekeliiñ, kimelmeken dungu, feymew ta piwke mew tripayay tüfachi dungu marichiweu.
+\ft Un día, si empezamos cinco en este trabajo, si veinte estamos enseñando este asunto, entonces del corazón saldrá esta palabra "diez veces venceremos".
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1174.200 1189.400
+
+\ref 296
+\ELANParticipant HM
+\ELANBegin 00:19:49.520
+\ELANEnd 00:19:55.680
+\tx kisungewelan tüfa, chumngechi llitun tüfa iñche tüfachi universidad mew.
+\ft Ya no estoy solo, como empecé este asunto en esta universidad.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1189.520 1195.680
+
+\ref 297
+\ELANParticipant HM
+\ELANBegin 00:19:55.800
+\ELANEnd 00:19:58.160
+\tx kisu llitun tüfachi dungu wüne.
+\ft Solo empecé este asunto, al principio.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1195.800 1198.160
+
+\ref 298
+\ELANParticipant HM
+\ELANBegin 00:19:58.280
+\ELANEnd 00:20:00.840
+\tx wüne rakiduamün iñche,
+\ft Primero pensé yo,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1198.280 1200.840
+
+\ref 299
+\ELANParticipant HM
+\ELANBegin 00:20:00.960
+\ELANEnd 00:20:03.000
+\tx witrampuraman dungu pin,
+\ft "revitalizaré mi lengua" dije.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1200.960 1203.000
+
+\ref 300
+\ELANParticipant HM
+\ELANBegin 00:20:03.000
+\ELANEnd 00:20:05.360
+\tx femngechi akuy ta pu kellufe.
+\ft Así llegaron los ayudantes.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1203.000 1205.360
+
+\ref 301
+\ELANParticipant HM
+\ELANBegin 00:20:05.480
+\ELANEnd 00:20:07.280
+\tx fachiantü kisulelan.
+\ft Hoy día no estoy solo.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1205.480 1207.280
+
+\ref 302
+\ELANParticipant HM
+\ELANBegin 00:20:07.400
+\ELANEnd 00:20:14.040
+\tx müley doy kiñe doy epu che yenielu tüfachi dungu kimelmekelu.
+\ft Hay más de uno, más de dos personas que llevan este asunto, que están enseñando.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1207.400 1214.040
+
+\ref 303
+\ELANParticipant HM
+\ELANBegin 00:20:14.200
+\ELANEnd 00:20:24.680
+\tx chumngechi chi kimlu chi inaful kontupaetew ka femngechi kimniekey fey tüfachi pu chillkatufe akuakungelu tüfachi antü mew
+\ft 
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1214.200 1224.680
+
+\ref 304
+\ELANParticipant HM
+\ELANBegin 00:20:24.800
+\ELANEnd 00:20:33.520
+\tx kiñeke chofungey, kiñeke che, kiñeke wecheke wentru, wecheke domo.
+\ft Algunos son flojos algunas personas, algunos jovenes, algunas jovenes.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1224.800 1233.520
+
+\ref 305
+\ELANParticipant HM
+\ELANBegin 00:20:33.640
+\ELANEnd 00:20:37.200
+\tx femngechi ta, feypilifiñ engün,
+\ft Así pues, si decimos así,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1233.640 1237.200
+
+\ref 306
+\ELANParticipant HM
+\ELANBegin 00:20:37.520
+\ELANEnd 00:20:46.680
+\tx meliliiñ, marileliiñ, kechu marileliiñ, welu rakiduamküleiñ taiñ pataka ngeael,
+\ft si somos cuatro, si somos diez, si somos cincuenta, pero estamos pensando en ser cien,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1237.520 1246.680
+
+\ref 307
+\ELANParticipant HM
+\ELANBegin 00:20:46.840
+\ELANEnd 00:20:55.400
+\tx patakaleliiñ ñi kimdungun, kim pichin mapudungun, rakiduamnieiñ taiñ epu pataka ngeael.
+\ft si somos cien los que sabemos un poco de mapudungun,  estamos pensando en ser doscientos.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1246.840 1255.400
+
+\ref 308
+\ELANParticipant HM
+\ELANBegin 00:20:55.560
+\ELANEnd 00:21:02.240
+\tx feychi numeru puwle, peñi, fey ta piwke mew tripayay tüfachi dungu,
+\ft Si llegamos a ese número, hermano, entonces, del corazón saldrá esta palabra:
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1255.560 1262.240
+
+\ref 309
+\ELANParticipant HM
+\ELANBegin 00:21:02.360
+\ELANEnd 00:21:05.520
+\tx marichiweu, marichiweu.
+\ft "diez veces venceremos, diez veces venceremos".
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1262.360 1265.520
+
+\ref 310
+\ELANParticipant HM
+\ELANBegin 00:21:05.680
+\ELANEnd 00:21:08.200
+\tx fey wula ta, feypian
+\ft Entonces, después yo diré así:
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1265.680 1268.200
+
+\ref 311
+\ELANParticipant HM
+\ELANBegin 00:21:08.320
+\ELANEnd 00:21:21.920
+\tx petu dew amutuli tüfachi mapu mew, mülele kiñe pataka, kimelmekele tüfachi che, epu pataka kimelmekele tüfachi mapudungun, fey ta, marichiweu piaiñ.
+\ft "Cuando me esté yendo de esta tierra, si hay cien, si están enseñando a esta gente, si hay doscientos que estén enseñando este mapudungun, entonces, "diez veces venceremos", diremos.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1268.320 1281.920
+
+\ref 312
+\ELANParticipant HM
+\ELANBegin 00:21:22.080
+\ELANEnd 00:21:24.920
+\tx petu, fey wula mongeley taiñ dungu,
+\ft "Todavía está viva nuestra lengua,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1282.080 1284.920
+
+\ref 313
+\ELANParticipant HM
+\ELANBegin 00:21:25.040
+\ELANEnd 00:21:28.160
+\tx fey wula ta wiñodungumeketuiñ,
+\ft entonces estamos volviendo a hablar,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1285.040 1288.160
+
+\ref 314
+\ELANParticipant HM
+\ELANBegin 00:21:28.160
+\ELANEnd 00:21:31.000
+\tx ruf dungu tüfa wiñodungutuy taiñ wechekeche,
+\ft de verdad están volviendo a hablar nuestros jovenes,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1288.160 1291.000
+
+\ref 315
+\ELANParticipant HM
+\ELANBegin 00:21:31.240
+\ELANEnd 00:21:34.160
+\tx ruf dungu wiñodungutuy ta kimmapudungunolu,
+\ft de verdad volvieron a hablar los que no saben mapudungun",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1291.240 1294.160
+
+\ref 316
+\ELANParticipant HM
+\ELANBegin 00:21:34.320
+\ELANEnd 00:21:35.520
+\tx piaiñ.
+\ft diremos
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1294.320 1295.520
+
+\ref 317
+\ELANParticipant HM
+\ELANBegin 00:21:35.720
+\ELANEnd 00:21:46.840
+\tx feymew, müley taiñ ñi fillke dungu entual tüfachi mapu mew, kimeluwün dungu, ülkantun dungu, piam dungu, epew dungu,
+\ft Entonces,  tenemos que sacar todos los asuntos en esta tierra, la enseñanza, los ülkantun, los piam, los epew,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1295.720 1306.840
+
+\ref 318
+\ELANParticipant HM
+\ELANBegin 00:21:47.000
+\ELANEnd 00:21:51.680
+\tx kom mülechi kimün longko mew, müley taiñ witranentuafiel,
+\ft todo el conocimiento que esta en la cabeza tenemos que sacarlo,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1307.000 1311.680
+
+\ref 319
+\ELANParticipant HM
+\ELANBegin 00:21:51.840
+\ELANEnd 00:22:01.120
+\tx müley tañi elafiel, wiirintukafel papel mew, ta kimpayael ta füchakeche, kimpayael ta wechekeche küpalelu, petu choyungenolu.
+\ft tengo que entregarlo, escribirlo en papel, para que alcancen a conocerlo los ancianos, para que alcancen a conocerlo los jovenes que vienen, los que todavía no han nacido.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1311.840 1321.120
+
+\ref 320
+\ELANParticipant HM
+\ELANBegin 00:22:01.280
+\ELANEnd 00:22:19.280
+\tx rupale kiñe pataka tripantü, epu pataka tripantü, kimpale tüfachi ülkantun tañi pichike mapuche küpalelu, petu dewmangenolu chi pu, fey ta welu akuayngün kiñe antü mew.
+\ft Cuando pasen cien años, doscientos años, si alcanzan a conocer este ülkantun los niños mapuches que vienen, los que todavía no son hechos, pero llegaran un día.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1321.280 1339.280
+
+\ref 321
+\ELANParticipant HM
+\ELANBegin 00:22:19.440
+\ELANEnd 00:22:22.320
+\tx kimpayay tüfachi ülkantun,
+\ft Alcanzarán a conocer este ülkantun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1339.440 1342.320
+
+\ref 322
+\ELANParticipant HM
+\ELANBegin 00:22:22.440
+\ELANEnd 00:22:24.760
+\tx kimpayay tüfachi chillka,
+\ft alcanzarán a conocer este escrito,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1342.440 1344.760
+
+\ref 323
+\ELANParticipant HM
+\ELANBegin 00:22:25.080
+\ELANEnd 00:22:26.480
+\tx chem pi chi chillka,
+\ft ¿que dice este escrito?
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1345.080 1346.480
+
+\ref 324
+\ELANParticipant HM
+\ELANBegin 00:22:26.480
+\ELANEnd 00:22:28.240
+\tx chumngelu amta witrange anay che,
+\ft ¿por qué "levantantate, pues, gente
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1346.480 1348.240
+
+\ref 325
+\ELANParticipant HM
+\ELANBegin 00:22:28.240
+\ELANEnd 00:22:31.320
+\tx chumngelu amta dungunge anay, pi.
+\ft ¿por qué dice "habla, pues"?
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1348.240 1351.320
+
+\ref 326
+\ELANParticipant HM
+\ELANBegin 00:22:31.480
+\ELANEnd 00:22:35.480
+\tx küme kimpafile tüfachi dungu, fey wula ta wiñorakiduamay.
+\ft Si alcanzan a conocer este asunto, entonces volverán a pensar.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1351.480 1355.480
+
+\ref 327
+\ELANParticipant HM
+\ELANBegin 00:22:35.600
+\ELANEnd 00:22:39.720
+\tx femngechi rakiduam nien ta iñche,
+\ft Este pensamiento tengo,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1355.600 1359.720
+
+\ref 328
+\ELANParticipant HM
+\ELANBegin 00:22:39.720
+\ELANEnd 00:22:41.960
+\tx feymew ta entufiñ tüfachi ülkantun.
+\ft entonces lo saqué este ülkantun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1359.720 1361.960
+
+\ref 329
+\ELANParticipant HM
+\ELANBegin 00:22:42.080
+\ELANEnd 00:22:47.560
+\tx femngechi pin tüfachi dungun, tüfachi nuyun, tüfachi rakiduam.
+\ft Así dije este asunto, este respirar, este pensamiento.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1362.080 1367.560
+
+\ref 330
+\ELANParticipant FH
+\ELANBegin 00:22:47.720
+\ELANEnd 00:23:05.240
+\tx ka mongele tami chuchu, chem piafuy tami kuse chuchu, pefulu tami küdaw tüfachi waria mew.
+\ft Si estuviera viva su abuela, ¿qué le diría su abuelita, si viera tu trabajo en esta ciudad?
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1367.720 1385.240
+
+\ref 331
+\ELANParticipant HM
+\ELANBegin 00:23:05.520
+\ELANEnd 00:23:07.880
+\tx rume ayüafuy,
+\ft Estaría muy contenta,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1385.520 1387.880
+
+\ref 332
+\ELANParticipant HM
+\ELANBegin 00:23:08.040
+\ELANEnd 00:23:10.080
+\tx rume ayüafuy,
+\ft estaría muy contenta.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1388.040 1390.080
+
+\ref 333
+\ELANParticipant HM
+\ELANBegin 00:23:10.200
+\ELANEnd 00:23:12.400
+\tx rume aywiküley.
+\ft Está muy contenta.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1390.200 1392.400
+
+\ref 334
+\ELANParticipant HM
+\ELANBegin 00:23:12.560
+\ELANEnd 00:23:14.640
+\tx feypipen tañi nga,
+\ft Así dije recien,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1392.560 1394.640
+
+\ref 335
+\ELANParticipant HM
+\ELANBegin 00:23:14.800
+\ELANEnd 00:23:17.120
+\tx iñchiñ ta lalay taiñ füchakeche,
+\ft nosotros, no mueren nuestros ancianos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1394.800 1397.120
+
+\ref 336
+\ELANParticipant HM
+\ELANBegin 00:23:17.120
+\ELANEnd 00:23:20.160
+\tx mongeleyngün chew rume müleleyngün mülele.
+\ft están vivos adonde sea que estén,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1397.120 1400.160
+
+\ref 337
+\ELANParticipant HM
+\ELANBegin 00:23:20.240
+\ELANEnd 00:23:22.640
+\tx mongeley taiñ füchakeche,
+\ft están vivos nuestros ancianos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1400.240 1402.640
+
+\ref 338
+\ELANParticipant HM
+\ELANBegin 00:23:22.640
+\ELANEnd 00:23:24.680
+\tx pipingey taiñ mapuchengen.
+\ft decimos nosotros los mapuches.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1402.640 1404.680
+
+\ref 339
+\ELANParticipant HM
+\ELANBegin 00:23:24.960
+\ELANEnd 00:23:29.120
+\tx ülkantulu iñche, allkuñmakeenew tañi ülkatun tati.
+\ft Cuando canto, me escucha mi ülkantun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1404.960 1409.120
+
+\ref 340
+\ELANParticipant HM
+\ELANBegin 00:23:29.320
+\ELANEnd 00:23:35.880
+\tx femngechi ka kellukenew ta ñi püllü mew tañi entual tüfachi dungu.
+\ft Así también me ayuda con su püllü para sacar este asunto.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1409.320 1415.880
+
+\ref 341
+\ELANParticipant HM
+\ELANBegin 00:23:36.080
+\ELANEnd 00:23:40.840
+\tx kiñeke mew, kimelmeken tüfachi dungu,
+\ft Algunas veces, estoy enseñando estas cosas,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1416.080 1420.840
+
+\ref 342
+\ELANParticipant HM
+\ELANBegin 00:23:41.040
+\ELANEnd 00:23:43.360
+\tx pewma mew reke akukey,
+\ft como en un sueño llega,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1421.040 1423.360
+
+\ref 343
+\ELANParticipant HM
+\ELANBegin 00:23:43.360
+\ELANEnd 00:23:45.880
+\tx pewma mew reke pekefiñ fùchakeche
+\ft como en un sueño los veo a los ancianos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1423.360 1425.880
+
+\ref 344
+\ELANParticipant HM
+\ELANBegin 00:23:46.040
+\ELANEnd 00:23:53.040
+\tx wirarwiranielu, witrampuramekey ñi küwü dew amutulu miñche mapu.
+\ft que están gritando, están levantando su mano, los que ya se fueron debajo de la tierra.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1426.040 1433.040
+
+\ref 345
+\ELANParticipant HM
+\ELANBegin 00:23:53.240
+\ELANEnd 00:23:57.080
+\tx wirawirangeyngün newentunge newentunge
+\ft Están gritando "fortalecete, fortalecete,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1433.240 1437.080
+
+\ref 346
+\ELANParticipant HM
+\ELANBegin 00:23:57.240
+\ELANEnd 00:23:59.120
+\tx newentunge
+\ft fortalecete,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1437.240 1439.120
+
+\ref 347
+\ELANParticipant HM
+\ELANBegin 00:23:59.240
+\ELANEnd 00:24:02.360
+\tx kimelnge ta dungu
+\ft enseña la lengua,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1439.240 1442.360
+
+\ref 348
+\ELANParticipant HM
+\ELANBegin 00:24:02.560
+\ELANEnd 00:24:05.680
+\tx nentutufinge feyti chi wingka rakiduam mülelu, .
+\ft saca este pensamiento wingka que hay,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1442.560 1445.680
+
+\ref 349
+\ELANParticipant HM
+\ELANBegin 00:24:05.680
+\ELANEnd 00:24:07.880
+\tx küpaltufinge tüfa ta mapudungual
+\ft trae nuestro mapudungun".
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1445.680 1447.880
+
+\ref 350
+\ELANParticipant HM
+\ELANBegin 00:24:08.040
+\ELANEnd 00:24:14.640
+\tx feychi wirarün reke allkuken tañi pilun mew, trokiwken.
+\ft Ese grito como que escucho en mis orejas, me parece.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1448.040 1454.640
+
+\ref 351
+\ELANParticipant HM
+\ELANBegin 00:24:14.840
+\ELANEnd 00:24:18.800
+\tx welu kiñeke mew, femngey tüfachi dungu, piken ka.
+\ft Algunas veces "es así esta cosa" digo también.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1454.840 1458.800
+
+\ref 352
+\ELANParticipant HM
+\ELANBegin 00:24:19.000
+\ELANEnd 00:24:21.320
+\tx kisulelan,
+\ft No estoy solo,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1459.000 1461.320
+
+\ref 353
+\ELANParticipant HM
+\ELANBegin 00:24:21.520
+\ELANEnd 00:24:27.840
+\tx müley ta fütrake weychafe, ta fütrake fütrake weychafe dew amutulu kuyfi,
+\ft están los grandes weychafe, los grandes, los grandes weychafe que partieron hace tiempo,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1461.520 1467.840
+
+\ref 354
+\ELANParticipant HM
+\ELANBegin 00:24:28.000
+\ELANEnd 00:24:31.640
+\tx fey elulenieyñmew ta newen, piken ta rakiduam mew
+\ft "ellos nos dan newen", digo en mi pensamiento.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1468.000 1471.640
+
+\ref 355
+\ELANParticipant HM
+\ELANBegin 00:24:31.840
+\ELANEnd 00:24:35.560
+\tx femngechi doy ayüken ñi nentual ülkantun,
+\ft Así estoy más contento de sacar mis ülkantun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1471.840 1475.560
+
+\ref 356
+\ELANParticipant HM
+\ELANBegin 00:24:35.560
+\ELANEnd 00:24:37.800
+\tx doy ayüken ñi kimelal mapudungun.
+\ft estoy más contento de enseñar mapudungun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1475.560 1477.800
+
+\ref 357
+\ELANParticipant HM
+\ELANBegin 00:24:38.120
+\ELANEnd 00:24:41.640
+\tx femngechi ta rakiduam nieiñ ta iñchiñ taiñ mapuchengen.
+\ft Este pensamiento tenemos nosotros los mapuches.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1478.120 1481.640
+
+\ref 358
+\ELANParticipant HM
+\ELANBegin 00:24:41.800
+\ELANEnd 00:24:47.280
+\tx tañi chuchu pekeenew tati ñi ülkantumeken.
+\ft Mi abuela me ve sacando ülkantun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1481.800 1487.280
+
+\ref 359
+\ELANParticipant HM
+\ELANBegin 00:24:47.440
+\ELANEnd 00:24:50.840
+\tx pekenew chumngechi tañi kimelmeken dungu.
+\ft Me ve como enseño mapudungun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1487.440 1490.840
+
+\ref 360
+\ELANParticipant HM
+\ELANBegin 00:24:51.080
+\ELANEnd 00:24:52.560
+\tx rume ayiwküley,
+\ft Está muy contenta,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1491.080 1492.560
+
+\ref 361
+\ELANParticipant HM
+\ELANBegin 00:24:52.720
+\ELANEnd 00:24:59.200
+\tx rume ayiwküley ñi piwke tañi chuchu tañi femmeken tüfachi yenien tüfachi küdaw.
+\ft está muy contento su corazón de mi abuela, por como estoy haciendo las cosas, como estoy llevando este trabajo.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1492.720 1499.200
+
+\ref 362
+\ELANParticipant HM
+\ELANBegin 00:24:59.360
+\ELANEnd 00:25:04.320
+\tx welu, peñi, kutrankawiñ pichin tüfachi dungu.
+\ft Sin embargo, hermano, estamos sufriendo un poco por este asunto.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1499.360 1504.320
+
+\ref 363
+\ELANParticipant HM
+\ELANBegin 00:25:04.480
+\ELANEnd 00:25:06.960
+\tx taiñ pipen nga, illamengekey ta mapuche,
+\ft Lo dije hace poco, somos pasados a llevar los mapuche,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1504.480 1506.960
+
+\ref 364
+\ELANParticipant HM
+\ELANBegin 00:25:06.960
+\ELANEnd 00:25:10.280
+\tx illamngeken ta mapuchengelu pipen.
+\ft somos pasados a llevar los que somos mapuche, dije recien.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1506.960 1510.280
+
+\ref 365
+\ELANParticipant HM
+\ELANBegin 00:25:10.440
+\ELANEnd 00:25:14.360
+\tx tüfachi unifersidad müley ta fentren illamuwün.
+\ft En esta universidad hay mucha discriminación.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1510.440 1514.360
+
+\ref 366
+\ELANParticipant HM
+\ELANBegin 00:25:14.520
+\ELANEnd 00:25:16.480
+\tx che trukungelay ta mapuche,
+\ft "No son personas tan distintas los mapuches",
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1514.520 1516.480
+
+\ref 367
+\ELANParticipant HM
+\ELANBegin 00:25:16.480
+\ELANEnd 00:25:18.440
+\tx müley ta kiñe interculturalidad
+\ft "hay una interculturalidad,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1516.480 1518.440
+
+\ref 368
+\ELANParticipant HM
+\ELANBegin 00:25:18.560
+\ELANEnd 00:25:23.560
+\tx epu feychi epu rume kimün müley ta yamüal pi feychi dungu
+\ft dos conocimientos tenemos que respetar", dice este asunto.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1518.560 1523.560
+
+\ref 369
+\ELANParticipant HM
+\ELANBegin 00:25:23.680
+\ELANEnd 00:25:26.480
+\tx welu ruf dungu mew felelay feychi dungu.
+\ft Sin embargo, no es verdad, no es así este asunto.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1523.680 1526.480
+
+\ref 370
+\ELANParticipant HM
+\ELANBegin 00:25:26.640
+\ELANEnd 00:25:37.920
+\tx unifersidad mew rupanolimi kiñe küla tripantü, meli tripantü, eymi ta eymi ta kimlaymi rupanolimi unifersidad mew
+\ft Si no pasaste por la universidad, uno, tres años, cuatro años, tú, tú no sabes, si no pasaste por la universidad,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1526.640 1537.920
+
+\ref 371
+\ELANParticipant HM
+\ELANBegin 00:25:38.080
+\ELANEnd 00:25:40.880
+\tx nielaymi ta kimün pipingey tañi dungu engün.
+\ft no tienes el conocimiento, se dice en su palabra.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1538.080 1540.880
+
+\ref 372
+\ELANParticipant HM
+\ELANBegin 00:25:40.880
+\ELANEnd 00:25:42.280
+\tx femngelay chi dungu.
+\ft No es así la cosa.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1540.880 1542.280
+
+\ref 373
+\ELANParticipant HM
+\ELANBegin 00:25:42.280
+\ELANEnd 00:25:45.120
+\tx iñchiñ taiñ mapuche nieiñ ta fentren kimün.
+\ft Nosotros los mapuche tenemos mucho conocimiento.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1542.280 1545.120
+
+\ref 374
+\ELANParticipant HM
+\ELANBegin 00:25:45.200
+\ELANEnd 00:25:48.040
+\tx iñchiñ ta dewmakeiñ ta kimün ka,
+\ft Nosotros hacemos el conocimiento también,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1545.200 1548.040
+
+\ref 375
+\ELANParticipant HM
+\ELANBegin 00:25:48.200
+\ELANEnd 00:25:50.360
+\tx chumngechi dewmakey ta wingka.
+\ft como lo hacen los wingka.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1548.200 1550.360
+
+\ref 376
+\ELANParticipant HM
+\ELANBegin 00:25:50.520
+\ELANEnd 00:25:54.000
+\tx femgenole, femnole, mülelayafuy ta dungu,
+\ft Si no lo hace así, si no es así, entonces no habría nada,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1550.520 1554.000
+
+\ref 377
+\ELANParticipant HM
+\ELANBegin 00:25:54.120
+\ELANEnd 00:25:58.040
+\tx mülelayafuy ta weke dungu.
+\ft no habría cosas nuevas.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1554.120 1558.040
+
+\ref 378
+\ELANParticipant HM
+\ELANBegin 00:25:58.160
+\ELANEnd 00:26:11.360
+\tx feymew ta iñchiñ tüfamew, tüfachi waria mew, dewamekeiñ ta we dungu, taiñ chumnegchi dungual taiñ mapudungun, tüfachi fantepu chi trpantü mew, fantepu chi antü mew.
+\ft Entonces nosotros ahora, en esta ciudad, estamos haciendo cosas nuevas, como hablaremos nuestro mapudungun, en estos años de ahora, en estos días.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1558.160 1571.360
+
+\ref 379
+\ELANParticipant HM
+\ELANBegin 00:26:11.520
+\ELANEnd 00:26:15.440
+\tx femngechi, fillke küdaw yenieiñ tüfa,
+\ft Así, de todo tipo de trabajos llevamos adelante ahora,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1571.520 1575.440
+
+\ref 380
+\ELANParticipant HM
+\ELANBegin 00:26:15.600
+\ELANEnd 00:26:16.640
+\tx yenieiñ ülkantun
+\ft llevamos ülkantun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1575.600 1576.640
+
+\ref 381
+\ELANParticipant HM
+\ELANBegin 00:26:16.640
+\ELANEnd 00:26:17.720
+\tx yenieiñ epew
+\ft llevamos epew,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1576.640 1577.720
+
+\ref 382
+\ELANParticipant HM
+\ELANBegin 00:26:17.720
+\ELANEnd 00:26:19.120
+\tx , yenieiñ kimeluwün,
+\ft llevamos la enseñanza,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1577.720 1579.120
+
+\ref 383
+\ELANParticipant HM
+\ELANBegin 00:26:19.320
+\ELANEnd 00:26:21.200
+\tx yenieiñ, kiñeke mew, ayekan.
+\ft llevamos, a veces, ayekan.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1579.320 1581.200
+
+\ref 384
+\ELANParticipant HM
+\ELANBegin 00:26:21.360
+\ELANEnd 00:26:24.600
+\tx ayekan mew ka ka kimeltukey ta mapudungun.
+\ft En el ayekan también se enseña mapudungun.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1581.360 1584.600
+
+\ref 385
+\ELANParticipant HM
+\ELANBegin 00:26:24.800
+\ELANEnd 00:26:26.800
+\tx kiñe ayekan mapuche tripay,
+\ft Sale un ayekan mapuche,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1584.800 1586.800
+
+\ref 386
+\ELANParticipant HM
+\ELANBegin 00:26:26.800
+\ELANEnd 00:26:28.520
+\tx müley ta feymew ta dungu.
+\ft hay cosas,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1586.800 1588.520
+
+\ref 387
+\ELANParticipant HM
+\ELANBegin 00:26:28.720
+\ELANEnd 00:26:31.760
+\tx dungule kiñe mapuche, nuyukey ta mapu,
+\ft si habla un mapuche, respira la tierra,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1588.720 1591.760
+
+\ref 388
+\ELANParticipant HM
+\ELANBegin 00:26:31.920
+\ELANEnd 00:26:33.560
+\tx pikey tañi füchakeche yem.
+\ft dicen los ancianos.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1591.920 1593.560
+
+\ref 389
+\ELANParticipant HM
+\ELANBegin 00:26:33.720
+\ELANEnd 00:26:35.200
+\tx dungunoliiñ,
+\ft Si no hablamos,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1593.720 1595.200
+
+\ref 390
+\ELANParticipant HM
+\ELANBegin 00:26:35.320
+\ELANEnd 00:26:37.760
+\tx mapu ta ketroleay,
+\ft la tierra estará cerrada,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1595.320 1597.760
+
+\ref 391
+\ELANParticipant HM
+\ELANBegin 00:26:37.760
+\ELANEnd 00:26:40.440
+\tx mapu ta pellkeleay.
+\ft la tierra estará triste.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1597.760 1600.440
+
+\ref 392
+\ELANParticipant HM
+\ELANBegin 00:26:40.760
+\ELANEnd 00:26:43.960
+\tx fey ta dunguy ta kiñe mapuche,
+\ft Entonces, habló un mapuche,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1600.760 1603.960
+
+\ref 393
+\ELANParticipant HM
+\ELANBegin 00:26:43.960
+\ELANEnd 00:26:45.800
+\tx kiñe ülkantun tripay mapudungun mew,
+\ft salió un üllkantun en mapudungun,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1603.960 1605.800
+
+\ref 394
+\ELANParticipant HM
+\ELANBegin 00:26:46.000
+\ELANEnd 00:26:48.000
+\tx nuyukey ta mapu.
+\ft respira la tierra.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1606.000 1608.000
+
+\ref 395
+\ELANParticipant HM
+\ELANBegin 00:26:48.200
+\ELANEnd 00:26:52.880
+\tx ta, mekey ñi ülkantun taiñ mapu,
+\ft Esta dele cantando nuestra tierra,
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1608.200 1612.880
+
+\ref 396
+\ELANParticipant HM
+\ELANBegin 00:26:53.080
+\ELANEnd 00:26:56.800
+\tx pipingey tañi ñuke mapu, femngechi ta
+\ft así le andan diciento a nuestra madre tierra, así
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1613.080 1616.800
+
+\ref 397
+\ELANParticipant HM
+\ELANBegin 00:26:56.960
+\ELANEnd 00:27:04.560
+\tx fentren ayuwün müley ta mapu mew, tripayüm ta kiñe ül, kiñe ülkantun, kiñe piam, kiñe pewma.
+\ft mucha alegría hay en la tierra cuando sale un ül, un ülkantun, un piam,. un pewma.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1616.960 1624.560
+
+\ref 398
+\ELANParticipant FH
+\ELANBegin 00:27:04.720
+\ELANEnd 00:27:09.080
+\tx fey müten peñi, feley
+\ft Eso no más, hermano.
+\mm HectorMariano.13052013.ulkantundungungepeñi_27mins.wav 1624.720 1629.080
+
+
+\ELANMediaURL file:///Users/FelipeHasler/Dropbox/Trabajo de campo_21052013/trabajodecampomayo2013_300minutos/Santiago_270mins/HectorMariano.13052013.ulkantundungungepeñi_27mins.wav
+\ELANMediaMIME audio/x-wav

@@ -1,0 +1,2735 @@
+\_sh v3.0  400  Text
+\_DateStampHasFourDigitYear
+
+\id
+\ref
+\tx
+\ft
+
+\ref 001
+\ELANParticipant FH
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:07.120
+\tx Allküñmaeyu tami ülkantun
+\ft Te escuché tu ülkantun
+\utterance Allküñmaeyu tami ülkantun
+\uterrance_tokens Allküñmaeyu tami ülkantun
+\gramm_units # Allkü-ñma-e-yu         ta   =mi       ülkantun
+\rp_gloss # escuchar-APPL1-INV-{1DU} DET1 =2SG.POSS ülkantun
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 0.000 7.120
+
+\ref 002
+\ELANParticipant FH
+\ELANBegin 00:00:07.120
+\ELANEnd 00:00:11.800
+\tx fey amatufiñ tüfachi ülkantun
+\ft entonces lo admiré este ülkantun,
+\utterance fey amatufiñ tüfachi ülkantun
+\uterrance_tokens fey amatufiñ tüfachi ülkantun
+\gramm_units # fey  amatu-fi-ñ              tüfachi ülkantun
+\rp_gloss # DEM2 admirar-{3.OP}-{IND.1SG} esto     ülkantun
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 7.120 11.800
+
+\ref 003
+\ELANParticipant FH
+\ELANBegin 00:00:11.800
+\ELANEnd 00:00:14.000
+\tx ¿chumngelu amta entuymi?
+\ft , ¿por qué razón lo sacaste?
+\utterance ¿chumngelu amta entuymi?
+\uterrance_tokens ¿chumngelu amta entuymi?
+\gramm_units # chumngelu am-ta    entu-ymi
+\rp_gloss # por qué  INT-DET1 sacar-{2SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 11.800 14.000
+
+\ref 004
+\ELANParticipant FH
+\ELANBegin 00:00:14.000
+\ELANEnd 00:00:17.000
+\tx ¿chumngelu amta entuymi?
+\ft ¿por qué lo sacaste?
+\utterance ¿chumngelu amta entuymi?
+\uterrance_tokens ¿chumngelu amta entuymi?
+\gramm_units # chumngelu am-ta    entu-ymi?
+\rp_gloss # por qué  INT-DET1 sacar-{2SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 14.000 17.000
+
+\ref 005
+\ELANParticipant HM
+\ELANBegin 00:00:16.960
+\ELANEnd 00:00:27.080
+\tx may peñi, tüfachi ülkantun niey kiñe fütra piam
+\ft claro hermano, este ülkantun tiene una gran historia
+\utterance 
+\uterrance_tokens 
+\gramm_units # may peñi,  tüfachi ülkantun nie-y         kiñe fütra piam
+\rp_gloss # si  hermano esto     ülkantun tener-IND.{3} INDEF gran   historia
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 16.960 27.080
+
+\ref 006
+\ELANParticipant HM
+\ELANBegin 00:00:27.080
+\ELANEnd 00:00:30.240
+\tx niey kiñe fütra dungu
+\ft tiene un gran trasfondo
+\utterance 
+\uterrance_tokens 
+\gramm_units # nie-y         kiñe fütra dungu
+\rp_gloss # tener-IND.{3} INDEF gran   asunto
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 27.080 30.240
+
+\ref 007
+\ELANParticipant HM
+\ELANBegin 00:00:30.240
+\ELANEnd 00:00:34.600
+\tx iñche nga epu chuchu niekefun
+\ft Yo tenía dos abuelas maternas
+\utterance 
+\uterrance_tokens 
+\gramm_units # iñche nga epu chuchu         nie-ke-fu-n
+\rp_gloss # 1SG    DM  2   abuela.materna tener-HAB-RI-{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 30.240 34.600
+
+\ref 008
+\ELANParticipant HM
+\ELANBegin 00:00:34.600
+\ELANEnd 00:00:36.400
+\tx pingen ñi nütram mew
+\ft me dijeron en la conversación
+\utterance 
+\uterrance_tokens 
+\gramm_units # pi-nge-n         ñi    nütram mew
+\rp_gloss # decir-PASS-{1SG} 3.POSS nütram PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 34.600 36.400
+
+\ref 009
+\ELANParticipant HM
+\ELANBegin 00:00:36.400
+\ELANEnd 00:00:41.680
+\tx kiñe antü kiñe chuchu amurumetuy
+\ft Un día, una abuela materna se fue de repente
+\utterance 
+\uterrance_tokens 
+\gramm_units # kiñe antü kiñe chuchu         amu-rume-tu-y
+\rp_gloss # INDEF sol   INDEF abuela.materna ir-RPN-REV-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 36.400 41.680
+
+\ref 010
+\ELANParticipant HM
+\ELANBegin 00:00:41.680
+\ELANEnd 00:00:48.240
+\tx kiñe tañi ruf chuchu Isabel Neculhual pingefuy
+\ft Mi verdadera abuela materna Isabel Neculhual se llamaba,
+\utterance 
+\uterrance_tokens 
+\gramm_units # kiñe ta =ñi     ruf    chuchu         Isabel Neculhual pi-nge-fu-y
+\rp_gloss # INDEF DET1 =1.POSS verdad abuela.materna Isabel Neculhual decir-PASS-RI-{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 41.680 48.240
+
+\ref 011
+\ELANParticipant HM
+\ELANBegin 00:00:48.480
+\ELANEnd 00:00:53.000
+\tx kangelu Agustina Sarabia pingefuy tañi üy
+\ft mi otra abuela se llamaba Agustina Sarabia.
+\utterance 
+\uterrance_tokens 
+\gramm_units # kangelu Agustina Sarabia pi-nge-fu-y       ta   =ñi    üy
+\rp_gloss # otra    Agustina Sarabia decir-PASS-RI-{3} DET1 =3.POSS nombre
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 48.480 53.000
+
+\ref 012
+\ELANParticipant HM
+\ELANBegin 00:00:53.000
+\ELANEnd 00:01:05.640
+\tx feymew kiñe antü lef larumey tañi chuchu Isabel
+\ft Entonces, un día repentinamente murió mi abuela Isabel,
+\utterance 
+\uterrance_tokens 
+\gramm_units # feymew   kiñe antü lef     la-rume-y         ta   =ñi      chuchu         Isabel
+\rp_gloss # entonces INDEF sol   rápido morir-RPN-IND.{3} DET1 =1SG.POSS abuela.materna Isabel
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 53.000 65.640
+
+\ref 013
+\ELANParticipant HM
+\ELANBegin 00:01:05.640
+\ELANEnd 00:01:25.960
+\tx fey tañi kangelu ñi chuchu, Agustina, feychi antü eluwün antü mew yey kiñe pichi wangku ñi longko ataud mew
+\ft entonces mi otra abuela, Agustina, el día del entierro llevó un banquito a la cabeza del ataúd.
+\utterance 
+\uterrance_tokens 
+\gramm_units # fey  ta   =ñi      kangelu ñi      chuchu,        Agustina, feychi antü eluwün  antü mew  ye-y           kiñe pichi    wangku ñi    longko ataud mew
+\rp_gloss # DEM2 DET1 =1SG.POSS otro    1SG.POSS abuela.materna Agustina, ese    sol   entierro sol   PPOS llevar-IND.{3} INDEF pequeño banco  3.POSS cabeza ataud PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 65.640 85.960
+
+\ref 014
+\ELANParticipant HM
+\ELANBegin 00:01:25.960
+\ELANEnd 00:01:32.000
+\tx feymew nentuy tüfachi ülkantun, tüfachi ngüman ülkantun
+\ft Entonces sacó este ülkantun, este triste ülkantun.
+\utterance 
+\uterrance_tokens 
+\gramm_units # feymew   nentu-y       tüfachi ülkantun, tüfachi ngüman  ülkantun
+\rp_gloss # entonces sacar-IND.{3} esto     ülkantun, esto     tristeza ülkantun
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 85.960 92.000
+
+\ref 015
+\ELANParticipant HM
+\ELANBegin 00:01:32.000
+\ELANEnd 00:01:40.120
+\tx feypi may ñi ülkantun mew, ñi ngüman ülkantun mew
+\ft Dice así en su ülkantun, en su triste ülkantun.
+\utterance 
+\uterrance_tokens 
+\gramm_units # feypi-y            may ñi    ülkantun mew, ñi    ngüman  ülkantun mew
+\rp_gloss # decir.así-IND.{3} si  3.POSS ülkantun PPOS 3.POSS tristeza ülkantun PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 92.000 100.120
+
+\ref 016
+\ELANParticipant HM
+\ELANBegin 00:01:40.120
+\ELANEnd 00:01:43.160
+\tx nütramkafi
+\ft le conversó.
+\utterance 
+\uterrance_tokens 
+\gramm_units # nütramka-fi-y
+\rp_gloss # conversar-{3.OP}-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 100.120 103.160
+
+\ref 017
+\ELANParticipant HM
+\ELANBegin 00:01:43.160
+\ELANEnd 00:01:47.120
+\tx femngechilekefuy taiñ dungun iñchiñ taiñ mapuchengen
+\ft Así eran las cosas entre nosotros los mapuches
+\utterance 
+\uterrance_tokens 
+\gramm_units # femngechi-le-ke-fu-y            ta   =iñ      dungun iñchiñ ta   =iñ      mapuche-nge-n
+\rp_gloss # feasí-PROG/STAT-HAB-RI-IND.{3} DET1 =1PL.POSS asunto 1PL      DET1 =1PL.POSS mapuche-COP-NR1
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 103.160 107.120
+
+\ref 018
+\ELANParticipant HM
+\ELANBegin 00:01:47.120
+\ELANEnd 00:01:50.200
+\tx femngechilekey taiñ dungu
+\ft Así son nuestras cosas.
+\utterance 
+\uterrance_tokens 
+\gramm_units # femngechi-le-ke-y          ta   =iñ      dungu
+\rp_gloss # así-PROG/STAT-HAB-IND.{3} DET1 =1PL.POSS asunto
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 107.120 110.200
+
+\ref 019
+\ELANParticipant HM
+\ELANBegin 00:01:50.200
+\ELANEnd 00:01:57.720
+\tx tüfachi waria mew akulu iñche pepan eluwün
+\ft En esta ciudad, cuando llegué acá, vi entierros,
+\utterance 
+\uterrance_tokens 
+\gramm_units # tüfachi waria  mew  aku-lu            iñche pe-pa-n            eluwün
+\rp_gloss # esto     ciudad PPOS llegar.acá-ADVR1 1SG    ver-PROX-IND.{1SG} entierro
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 110.200 117.720
+
+\ref 020
+\ELANParticipant HM
+\ELANBegin 00:01:57.720
+\ELANEnd 00:02:04.200
+\tx re ngümangümangey müten pu che
+\ft solo estaba triste no más la gente,
+\utterance 
+\uterrance_tokens 
+\gramm_units # re   ngüma-ngüma-nge-y    müten  pu   che
+\rp_gloss # solo llorar~-llorar-COP-{3} no.más COLL gente
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 117.720 124.200
+
+\ref 021
+\ELANParticipant HM
+\ELANBegin 00:02:04.200
+\ELANEnd 00:02:07.520
+\tx pafülpafülngey ñi ngüman müten
+\ft 
+\utterance 
+\uterrance_tokens 
+\gramm_units # pafül-pafül-nge-y ñi ngüman müten
+\rp_gloss # pafül-pafül-nge-y ñi ngüman müten
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 124.200 127.520
+
+\ref 022
+\ELANParticipant HM
+\ELANBegin 00:02:07.520
+\ELANEnd 00:02:12.840
+\tx welu pu mapuche re femngechi femkelay
+\ft pero los mapuches, así no más no lo hacen
+\utterance 
+\uterrance_tokens 
+\gramm_units # welu pu   mapuche re   femngechi fem-ke-la-y
+\rp_gloss # pero COLL mapuche solo así      así-HAB-NEG1-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 127.520 132.840
+
+\ref 023
+\ELANParticipant HM
+\ELANBegin 00:02:12.840
+\ELANEnd 00:02:23.320
+\tx ülkantun mew amulpüllükey tañi alhue tañi reñma lalu amutulu tüfachi mapu mew
+\ft en el ülkantun se hace amulpüllü a su alhue, a su familia cuando muere, cuando se va de regreso de esta tierra.
+\utterance 
+\uterrance_tokens 
+\gramm_units # ülkantun mew  amu-l-püllü-ke-y            ta   =ñi    alhue ta   =ñi    reñma  # la-lu       # amu-tu-lu    tüfachi mapu   mew
+\rp_gloss # ülkantun PPOS ir--CAUS2-püllü-HAB-IND.{3} DET1 =3.POSS alhue DET1 =3.POSS familia # morir-ADVR1 # ir-REV-ADVR1 esto     tierra PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 132.840 143.320
+
+\ref 024
+\ELANParticipant HM
+\ELANBegin 00:02:23.320
+\ELANEnd 00:02:34.200
+\tx feymew iñche ellapichiwentrungelu epe epu mari tripantü nien iñche feyichi
+\ft Entonces,  Cuando yo era un muchacho tenía casi veinte años en ese entonces,
+\utterance 
+\uterrance_tokens 
+\gramm_units # feymew   iñche ella-pichiwentru-nge-lu # epe  epu mari tripantü nie-n           iñche feyichi
+\rp_gloss # entonces 1SG    casi-niño-COP-ADVR1    # casi 2   10   año      tener-IND.{1SG} 1SG    ese
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 143.320 154.200
+
+\ref 025
+\ELANParticipant HM
+\ELANBegin 00:02:34.200
+\ELANEnd 00:02:40.960
+\tx allkütun taiñ chuchu Agustina
+\ft escuché a mi abuelita Agustina.
+\utterance 
+\uterrance_tokens 
+\gramm_units # allkü-tu-n              ta   =iñ      chuchu         Agustina
+\rp_gloss # escuchar-APPL3-IND.{1SG} DET1 =1PL.POSS abuela.materna Agustina
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 154.200 160.960
+
+\ref 026
+\ELANParticipant HM
+\ELANBegin 00:02:40.960
+\ELANEnd 00:02:52.360
+\tx feymew iñche ka inaful ataú allkutuñmafiñ ñi pellken ñi ngüman,
+\ft Entonces, yo también estaba cerca del ataúd le escuché su pena, su tristeza,
+\utterance 
+\uterrance_tokens 
+\gramm_units # feymew   iñche ka       inaful ataú  allku-tu-ñma-fi-ñ                   ñi    pellken ñi    ngüman,
+\rp_gloss # entonces 1SG    también orilla ataúd escuchar-APPL3-APPL1-{3.OP}-IND.{1SG} 3.POSS pena    3.POSS tristeza
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 160.960 172.360
+
+\ref 027
+\ELANParticipant HM
+\ELANBegin 00:02:52.360
+\ELANEnd 00:02:54.160
+\tx iñche ka ngümangümangen
+\ft yo también estaba muy triste,
+\utterance 
+\uterrance_tokens 
+\gramm_units # iñche ka       ngüma-ngüma-nge-n
+\rp_gloss # 1SG    también triste~triste-COP-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 172.360 174.160
+
+\ref 028
+\ELANParticipant HM
+\ELANBegin 00:02:54.200
+\ELANEnd 00:02:59.000
+\tx welu feypi tañi ülkantun
+\ft pero así dijo su ülkantun:
+\utterance 
+\uterrance_tokens 
+\gramm_units # welu feypi-y            ta   =ñi    ülkantun
+\rp_gloss # pero decir.así-IND.{3} DET1 =3.POSS ülkantun
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 174.200 179.000
+
+\ref 029
+\ELANParticipant HM
+\ELANBegin 00:02:59.000
+\ELANEnd 00:03:03.080
+\tx awngelan awngelan
+\ft awngelan, awngelan
+\utterance 
+\uterrance_tokens 
+\gramm_units # awngelan awngelan
+\rp_gloss # awngelan awngelan
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 179.000 183.080
+
+\ref 030
+\ELANParticipant HM
+\ELANBegin 00:03:03.080
+\ELANEnd 00:03:09.120
+\tx wiya wula nga matetumekeyu inaltu kütral Isabel
+\ft ayer no más estabamos tomando mate las dos cerca del fogón, Isabel.
+\utterance 
+\uterrance_tokens 
+\gramm_units # wiya wula     nga mate-tu-meke-yu           inaltu kütral Isabel
+\rp_gloss # ayer después DM  mate-VR-PROG.AG-IND.{1DU} cerca  fuego   Isabel
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 183.080 189.120
+
+\ref 031
+\ELANParticipant HM
+\ELANBegin 00:03:09.360
+\ELANEnd 00:03:12.800
+\tx fotr, fotr, fotr
+\ft Fotr, fotr, fotr,
+\utterance 
+\uterrance_tokens 
+\gramm_units # fotr, fotr, fotr
+\rp_gloss # fotr, fotr, fotr
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 189.360 192.800
+
+\ref 032
+\ELANParticipant HM
+\ELANBegin 00:03:12.960
+\ELANEnd 00:03:16.400
+\tx meli trafla mew tranakonpuletuymi lamngen
+\ft en cuatro tables estás tendida adentro, hermana.
+\utterance 
+\uterrance_tokens 
+\gramm_units # meli trafla mew  trana-kon-pu-le-tu-ymi                            lamngen
+\rp_gloss # 4    tabla  PPOS estar.tendido-entrar-DIST-PROG/STAT-REV-IND.{2SG} hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 192.960 196.400
+
+\ref 033
+\ELANParticipant HM
+\ELANBegin 00:03:16.560
+\ELANEnd 00:03:19.760
+\tx chumimi am, lamngen,
+\ft ¿qué te pasó, hermana?,
+\utterance 
+\uterrance_tokens 
+\gramm_units # chum-imi        am, lamngen,
+\rp_gloss # cómo-IND.{2SG} INT hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 196.560 199.760
+
+\ref 034
+\ELANParticipant HM
+\ELANBegin 00:03:19.760
+\ELANEnd 00:03:21.280
+\tx awngelan
+\ft awngelan.
+\utterance 
+\uterrance_tokens 
+\gramm_units # awngelan
+\rp_gloss # awngelan
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 199.760 201.280
+
+\ref 035
+\ELANParticipant HM
+\ELANBegin 00:03:21.520
+\ELANEnd 00:03:33.080
+\tx elkunutuymi may tami lelfün ka tami anümka, tami tukukan tami ruka, tami lamngen,
+\ft Dejaste tu campo, y tus árboles, tu sembrado tu casa, tu hermana,
+\utterance 
+\uterrance_tokens 
+\gramm_units # el-kunu-tu-ymi            may ta   =mi       lelfün ka ta   =mi       anümka,    ta   =mi       tukukan  ta   =mi       ruka, ta   =mi       lamngen,
+\rp_gloss # dejar-RES-APPL3-IND.{2SG} si  DET1 =2SG.POSS campo   y  DET1 =2SG.POSS plantación DET1 =2SG.POSS sembrado DET1 =2SG.POSS casa  DET1 =2SG.POSS hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 201.520 213.080
+
+\ref 036
+\ELANParticipant HM
+\ELANBegin 00:03:33.080
+\ELANEnd 00:03:35.720
+\tx awngelay, awngelan
+\ft awngelay, awngelan.
+\utterance 
+\uterrance_tokens 
+\gramm_units # awngelay, # awngelan
+\rp_gloss # awngelay, # awngelan
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 213.080 215.720
+
+\ref 037
+\ELANParticipant HM
+\ELANBegin 00:03:36.200
+\ELANEnd 00:03:40.400
+\tx mapuchengetuymi may lamngen
+\ft volviste a ser gente en la tierra, hermana
+\utterance 
+\uterrance_tokens 
+\gramm_units # mapuche-nge-tu-ymi        may lamngen
+\rp_gloss # mapuche-COP-REV-IND.{2SG} si  hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 216.200 220.400
+
+\ref 038
+\ELANParticipant HM
+\ELANBegin 00:03:40.520
+\ELANEnd 00:03:43.600
+\tx mapunchengetuymi may lamngen
+\ft volviste a ser gente en la tierra, hermana
+\utterance 
+\uterrance_tokens 
+\gramm_units # mapunche-nge-tu-ymi        may lamngen
+\rp_gloss # mapunche-COP-REV-IND.{2SG} si  hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 220.520 223.600
+
+\ref 039
+\ELANParticipant HM
+\ELANBegin 00:03:43.720
+\ELANEnd 00:03:46.640
+\tx kümelkalepuaymi uyew
+\ft que llegues bien allà
+\utterance 
+\uterrance_tokens 
+\gramm_units # küme-l-ka-le-pu-a-ymi                       uyew
+\rp_gloss # bien-APPL2-CONT-PROG/STAT-DIST-FUT-IND.{2SG} allá
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 223.720 226.640
+
+\ref 040
+\ELANParticipant HM
+\ELANBegin 00:03:46.640
+\ELANEnd 00:03:47.680
+\tx pepaen,
+\ft ven a verme,
+\utterance 
+\uterrance_tokens 
+\gramm_units # pe-pa-e-n,
+\rp_gloss # ver-PROX-INV-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 226.640 227.680
+
+\ref 041
+\ELANParticipant HM
+\ELANBegin 00:03:47.680
+\ELANEnd 00:03:49.080
+\tx pepaen
+\ft ven a verme.
+\utterance 
+\uterrance_tokens 
+\gramm_units # pe-pa-e-n
+\rp_gloss # ver-PROX-INV-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 227.680 229.080
+
+\ref 042
+\ELANParticipant HM
+\ELANBegin 00:03:49.320
+\ELANEnd 00:03:52.440
+\tx nguyukïleli, lamngen
+\ft no te olvides de mi, hermana
+\utterance 
+\uterrance_tokens 
+\gramm_units # nguyu-kïl-e-l-i,           lamngen
+\rp_gloss # olvidar-NEG3-INV-COND-{1SG} hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 229.320 232.440
+
+\ref 043
+\ELANParticipant HM
+\ELANBegin 00:03:52.440
+\ELANEnd 00:03:53.600
+\tx nguyuküleli
+\ft No te olvides de mi,
+\utterance 
+\uterrance_tokens 
+\gramm_units # nguyu-kül-e-li
+\rp_gloss # olvidar-NEG3-INV-COND-{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 232.440 233.600
+
+\ref 044
+\ELANParticipant HM
+\ELANBegin 00:03:53.760
+\ELANEnd 00:03:58.120
+\tx uuuy, uuuy, uuuy
+\ft 
+\utterance 
+\uterrance_tokens 
+\gramm_units # uuuy, uuuy, uuuy
+\rp_gloss # uuuy, uuuy, uuuy
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 233.760 238.120
+
+\ref 045
+\ELANParticipant HM
+\ELANBegin 00:03:58.320
+\ELANEnd 00:04:01.440
+\tx femngechi nentuy ñi ülkantun
+\ft así sacó su ülkantun
+\utterance 
+\uterrance_tokens 
+\gramm_units # femngechi nentu-y       ñi    ülkantun
+\rp_gloss # así      sacar-IND.{3} 3.POSS ülkantun
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 238.320 241.440
+
+\ref 046
+\ELANParticipant HM
+\ELANBegin 00:04:01.600
+\ELANEnd 00:04:04.880
+\tx doy pütrün dungukefuy
+\ft mucho más habló,
+\utterance 
+\uterrance_tokens 
+\gramm_units # doy  pütrün dungu-ke-fu-y
+\rp_gloss # màs mucho    hablar-HAB-RI-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 241.600 244.880
+
+\ref 047
+\ELANParticipant HM
+\ELANBegin 00:04:05.000
+\ELANEnd 00:04:13.240
+\tx welu iñche tüfa papel mew tukufiñ tüfachi ülkantun,
+\ft pero yo en papel puse este ülkantun,
+\utterance 
+\uterrance_tokens 
+\gramm_units # welu iñche tüfa papel mew  tuku-fi-ñ             tüfachi ülkantun,
+\rp_gloss # pero 1SG    DEM1  papel PPOS poner-{3.OP}-IND.{1SG} esto     ülkantun,
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 245.000 253.240
+
+\ref 048
+\ELANParticipant HM
+\ELANBegin 00:04:13.240
+\ELANEnd 00:04:14.240
+\tx wirintukufiñ,
+\ft lo escribí
+\utterance 
+\uterrance_tokens 
+\gramm_units # wirin-tuku-fi-ñ,
+\rp_gloss # escribir-poner-{3.OP}-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 253.240 254.240
+
+\ref 049
+\ELANParticipant HM
+\ELANBegin 00:04:14.240
+\ELANEnd 00:04:19.400
+\tx chillkantukufiñ  tañi afnoal, tañi afnoal tüfachi dungu
+\ft y lo estudié. para que no se acabe, para que no se acabe este asunto.
+\utterance 
+\uterrance_tokens 
+\gramm_units # chillkan-tuku-fi-ñ             # ta   =ñi    af-no-a-(e)l,       # ta   =ñi    af-no-a(e)l         tüfachi dungu
+\rp_gloss # estudiar-poner-{3.OP}-IND.{1SG} # DET1 =3.POSS acabar-NEG2-FUT-NR2 # DET1 =3.POSS acabar-NEG2-FUT-NR2 esto     asunto
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 254.240 259.400
+
+\ref 050
+\ELANParticipant HM
+\ELANBegin 00:04:19.400
+\ELANEnd 00:04:23.880
+\tx iñche ta re küpa ülkantun,
+\ft Yo solo quiero cantar,
+\utterance 
+\uterrance_tokens 
+\gramm_units # iñche ta   re   küpa  ülkantu-n,
+\rp_gloss # 1SG    DET1 solo querer cantar-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 259.400 263.880
+
+\ref 051
+\ELANParticipant HM
+\ELANBegin 00:04:23.880
+\ELANEnd 00:04:25.200
+\tx ülkantukelafiñ ka
+\ft lo cantaré también,
+\utterance 
+\uterrance_tokens 
+\gramm_units # ülkantu-ke-l-a-fi-ñ                     ka
+\rp_gloss # ülcantar-HAB-APPL2-FUT--{3.OP}-IND.{1SG} también
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 263.880 265.200
+
+\ref 052
+\ELANParticipant HM
+\ELANBegin 00:04:25.400
+\ELANEnd 00:04:38.120
+\tx chew rume ülkantukelafiñ, akuyem tañi rakiduam, akuyem tañi püllü, newen püllü
+\ft donde vaya, lo cantaré, cuando llega su  pensamiento, cuando llega su püllü, su püllü poderoso,
+\utterance 
+\uterrance_tokens 
+\gramm_units # chew   rume     ülkantu-ke-l-a-fi-ñ,                # aku-ye-m                ta   =ñi    rakiduam,   # aku-ye-m                ta   =ñi    püllü, newen  püllü
+\rp_gloss # dónde siquiera cantar-HAB-APPL2-FUT-{3.OP}-IND.{1SG} # llegar.acá-CONST-ADVR2 DET1 =3.POSS pensamiento # llegar.acá-CONST-ADVR2 DET1 =3.POSS püllü, fuerza püllü
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 265.400 278.120
+
+\ref 053
+\ELANParticipant HM
+\ELANBegin 00:04:38.280
+\ELANEnd 00:04:42.120
+\tx feymew nentukefiñ tüfachi ülkantun
+\ft entonces, saco este ülkantun.
+\utterance 
+\uterrance_tokens 
+\gramm_units # feymew   nentu-ke-fi-ñ             tüfachi ülkantun
+\rp_gloss # entonces sacar-HAB-{3.OP}-IND.{1SG} esto     ülkantun
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 278.280 282.120
+
+\ref 054
+\ELANParticipant HM
+\ELANBegin 00:04:42.280
+\ELANEnd 00:04:48.280
+\tx kom ülkantun ta nentungekelay fillke püle
+\ft No todos los ülkantun se sacan en todos lados,
+\utterance 
+\uterrance_tokens 
+\gramm_units # kom  ülkantun ta   nentu-nge-ke-la-y           fill-ke   püle
+\rp_gloss # todo ülkantun DET1 sacar-PASS-HAB-NEG1-IND.{3} cada-DIST hacia
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 282.280 288.280
+
+\ref 055
+\ELANParticipant HM
+\ELANBegin 00:04:48.400
+\ELANEnd 00:04:53.080
+\tx nentungekelay kiñe trawün mew, kiñe ayekan mew
+\ft no todos se sacan en una reunión o solo por diversión.
+\utterance 
+\uterrance_tokens 
+\gramm_units # nentu-nge-ke-la-y      kiñe trawün  mew, kiñe ayekan mew
+\rp_gloss # sacar-PASS-NEG-IND.{3} INDEF reunión PPOS INDEF broma  PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 288.400 293.080
+
+\ref 056
+\ELANParticipant HM
+\ELANBegin 00:04:53.280
+\ELANEnd 00:05:08.320
+\tx akulu püllü, akulu pellken püllü kiñeke mew longkotukupaken feychi antü ñi amutun tañi kuse chuchu yem
+\ft Cuando llega el püllü, el püllü triste algunas veces,  me acuerdo de ese día en que partió mi abuelita,
+\utterance 
+\uterrance_tokens 
+\gramm_units # aku-lu            püllü, # aku-lu            pellken püllü kiñe-ke   mew  # longko-tuku-pa-ke-n             feychi antü ñi    amu-tu-n   ta   =ñi    kuse    chuchu         yem
+\rp_gloss # llegar.acá-ADVR1 püllü, # llegar.acá-ADVR1 pena    püllü INDEF-DIST PPOS # cabeza-poner-PROX-HAB-IND.{1SG} ese    sol   3.POSS ir-REV-NR1 DET1 =3.POSS anciana abuela.materna finado
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 293.280 308.320
+
+\ref 057
+\ELANParticipant HM
+\ELANBegin 00:05:08.480
+\ELANEnd 00:05:11.920
+\tx feychi dungu elelenew, ,
+\ft ese aunto me dejo,
+\utterance 
+\uterrance_tokens 
+\gramm_units # feychi dungu  el-el-e-n-ew,
+\rp_gloss # ese    asunto dejar-APPL2-INV-IND.{1SG}-OBL
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 308.480 311.920
+
+\ref 058
+\ELANParticipant HM
+\ELANBegin 00:05:11.920
+\ELANEnd 00:05:15.760
+\tx feychi ülkantun elelenew tañi kuse chuchu yem
+\ft ese ülkantun me dejo mi abuelita
+\utterance 
+\uterrance_tokens 
+\gramm_units # feychi ülkantun el-el-e-n-ew                  ta   =ñi      kuse    chuchu         yem
+\rp_gloss # ese    ülkantun dejar-APPL3-INV-IND.{1SG}-OBL DET1 =1SG.POSS anciana abuela.materna finado
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 311.920 315.760
+
+\ref 059
+\ELANParticipant HM
+\ELANBegin 00:05:15.760
+\ELANEnd 00:05:17.440
+\tx mur amutuyngu tüfa
+\ft ahora las dos partieron,
+\utterance 
+\uterrance_tokens 
+\gramm_units # mur amu-tu-yngu      tüfa
+\rp_gloss # par ir-REV-IND.{3DU} DEM1
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 315.760 317.440
+
+\ref 060
+\ELANParticipant HM
+\ELANBegin 00:05:17.440
+\ELANEnd 00:05:20.560
+\tx dew mongelelay mur amutuyngu
+\ft ya no están vivas, ambas partieron,
+\utterance 
+\uterrance_tokens 
+\gramm_units # dew monge-le-la-y                # mur amu-tu-yngu
+\rp_gloss # ya  vivir-PROG/STAT-NEG1-IND.{3} # par ir-REV-IND.{3DU}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 317.440 320.560
+
+\ref 061
+\ELANParticipant HM
+\ELANBegin 00:05:20.720
+\ELANEnd 00:05:25.360
+\tx inaküley kiñe tripantü mew engu feymew
+\ft la siguió un año después
+\utterance 
+\uterrance_tokens 
+\gramm_units # ina-küle-y          kiñe tripantü mew  engu feymew
+\rp_gloss # seguir-PROG/STAT-{3} 1     año      PPOS 3.DU entonces
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 320.720 325.360
+
+\ref 062
+\ELANParticipant HM
+\ELANBegin 00:05:25.480
+\ELANEnd 00:05:30.600
+\tx kiñeke mew, nentukefiñ tüfa
+\ft algunas veces, saco este
+\utterance 
+\uterrance_tokens 
+\gramm_units # kiñe-ke   mew, nentu-ke-fi-ñ             tüfa
+\rp_gloss # INDEF-DIST PPOS sacar-HAB-{3.OP}-IND.{1SG} DEM1
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 325.480 330.600
+
+\ref 063
+\ELANParticipant HM
+\ELANBegin 00:05:30.800
+\ELANEnd 00:05:39.800
+\tx pewmangen küme tripayafuy tüfachi ülkantun entufili tüfa
+\ft ojalá que saliera bien este ülkantun, si lo sacara ahora
+\utterance 
+\uterrance_tokens 
+\gramm_units # pewmangen küme tripa-ya-fu-y        tüfachi ülkantun # entu-fi-l-i             tüfa
+\rp_gloss # ojalá    bien  salir-FUT-RI-IND.{3} esto     ülkantun # sacar-{3.OP}-COND-{1SG} DEM1
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 330.800 339.800
+
+\ref 064
+\ELANParticipant HM
+\ELANBegin 00:05:39.960
+\ELANEnd 00:05:42.800
+\tx feypi
+\ft dice así:
+\utterance 
+\uterrance_tokens 
+\gramm_units # feypi-y
+\rp_gloss # decir.así-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 339.960 342.800
+
+\ref 065
+\ELANParticipant HM
+\ELANBegin 00:05:42.960
+\ELANEnd 00:05:54.280
+\tx awngelan, awngelan, awngelan, awngelan
+\ft awngelan, awngelan, awngelan, awngelan
+\utterance 
+\uterrance_tokens 
+\gramm_units # awngelan, awngelan, awngelan, awngelan
+\rp_gloss # awngelan, awngelan, awngelan, awngelan
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 342.960 354.280
+
+\ref 066
+\ELANParticipant HM
+\ELANBegin 00:05:54.400
+\ELANEnd 00:06:05.640
+\tx wiya wula nga, matetumekeyu Isabel, Isabel,
+\ft ayer no más estabamos tomando amte las dos Isabel, Isabel
+\utterance 
+\uterrance_tokens 
+\gramm_units # wiya wula     nga, mate-tu-meke-yu           Isabel, Isabel,
+\rp_gloss # ayer después DM   mate-VR-PROG.AG-IND.{1DU} Isabel, Isabel,
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 354.400 365.640
+
+\ref 067
+\ELANParticipant HM
+\ELANBegin 00:06:05.640
+\ELANEnd 00:06:07.920
+\tx müna weda nga,
+\ft ¡que mal¡
+\utterance 
+\uterrance_tokens 
+\gramm_units # müna weda nga,
+\rp_gloss # muy   mal  DM
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 365.640 367.920
+
+\ref 068
+\ELANParticipant HM
+\ELANBegin 00:06:08.080
+\ELANEnd 00:06:15.880
+\tx matetumekeyu inaltu kütral nga, Isabel,
+\ft estabamos tomando mate a orillas del fogón, Isabel,
+\utterance 
+\uterrance_tokens 
+\gramm_units # mate-tu-meke-yu           inaltu kütral nga, Isabel,
+\rp_gloss # mate-VR-PROG.AG-IND.{1DU} cerca  fuego   DM   Isabel,
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 368.080 375.880
+
+\ref 069
+\ELANParticipant HM
+\ELANBegin 00:06:16.000
+\ELANEnd 00:06:25.800
+\tx fotr, fotr, fotr, fotr
+\ft fotr, fotr, fotr.
+\utterance 
+\uterrance_tokens 
+\gramm_units # fotr, fotr, fotr, fotr
+\rp_gloss # fotr, fotr, fotr, fotr
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 376.000 385.800
+
+\ref 070
+\ELANParticipant HM
+\ELANBegin 00:06:25.920
+\ELANEnd 00:06:34.720
+\tx meli trafla mew, tranakonpuletuymi lamngen
+\ft en cuatra tablas estás tendida adentro, hermana
+\utterance 
+\uterrance_tokens 
+\gramm_units # meli   trafla mew, trana-kon-pu-le-tu-ymi                              lamngen
+\rp_gloss # cuatro tabla  PPOS estar.tendido-entrar-DIST-PROG/STAT-APPL3-IND.{2SG} hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 385.920 394.720
+
+\ref 071
+\ELANParticipant HM
+\ELANBegin 00:06:34.840
+\ELANEnd 00:06:37.360
+\tx chumimi am,
+\ft ¿qué te pasó?
+\utterance 
+\uterrance_tokens 
+\gramm_units # chum-imi        am,
+\rp_gloss # cómo-IND.{2SG} INT
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 394.840 397.360
+
+\ref 072
+\ELANParticipant HM
+\ELANBegin 00:06:37.360
+\ELANEnd 00:06:39.880
+\tx chumimi am,
+\ft ¿qué te pasó?,
+\utterance 
+\uterrance_tokens 
+\gramm_units # chum-imi        am,
+\rp_gloss # cómo-IND.{2SG} INT
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 397.360 399.880
+
+\ref 073
+\ELANParticipant HM
+\ELANBegin 00:06:39.880
+\ELANEnd 00:06:50.480
+\tx awngelan awngelan, awngelan, awngelan, awngelan
+\ft awngelan, awngelan, awngelan, awngelan, awngelan.
+\utterance 
+\uterrance_tokens 
+\gramm_units # awngelan awngelan, awngelan, awngelan, awngelan
+\rp_gloss # awngelan awngelan, awngelan, awngelan, awngelan
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 399.880 410.480
+
+\ref 074
+\ELANParticipant HM
+\ELANBegin 00:06:50.640
+\ELANEnd 00:07:06.640
+\tx elkünutuymi may tami lelfün, tami anümka, tami tukukan, tami ruka lamngen
+\ft Dejaste a tu campo,  tus árboles, tus plantaciones, tu casa, hermana.
+\utterance 
+\uterrance_tokens 
+\gramm_units # el-künu-tu-ymi           may ta   =mi       lelfün, ta   =mi       anümka,    ta   =mi       tukukan, ta   =mi       ruka lamngen
+\rp_gloss # dejar-RES-APPL3-IND.{2SG} si  DET1 =2SG.POSS campo    DET1 =2SG.POSS plantación DET1 =2SG.POSS sembrado DET1 =2SG.POSS casa hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 410.640 426.640
+
+\ref 075
+\ELANParticipant HM
+\ELANBegin 00:07:06.720
+\ELANEnd 00:07:14.040
+\tx awngelay, awngelay, awngelan
+\ft awngelay, awngelay, awngelan.
+\utterance 
+\uterrance_tokens 
+\gramm_units # awngelay, awngelay, awngelan
+\rp_gloss # awngelay, awngelay, awngelan
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 426.720 434.040
+
+\ref 076
+\ELANParticipant HM
+\ELANBegin 00:07:14.240
+\ELANEnd 00:07:20.480
+\tx mapunchengetuymi may lamngen
+\ft has vuelto a ser gente en la tierra, herman.
+\utterance 
+\uterrance_tokens 
+\gramm_units mapunchengetuymi           may lamngen
+\rp_gloss mapunche-COP-REV-IND.{2SG} si  hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 434.240 440.480
+
+\ref 077
+\ELANParticipant HM
+\ELANBegin 00:07:20.680
+\ELANEnd 00:07:23.600
+\tx kupalepuaymi,
+\ft estás yendo para allá
+\utterance 
+\uterrance_tokens 
+\gramm_units # kupa-le-pu-a-ymi,
+\rp_gloss # venir-PROG/STAT-DIST-FUT-IND.{2SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 440.680 443.600
+
+\ref 078
+\ELANParticipant HM
+\ELANBegin 00:07:23.600
+\ELANEnd 00:07:29.000
+\tx kümelepuaymi uyew
+\ft que llegues bien allá,
+\utterance 
+\uterrance_tokens 
+\gramm_units # küme-le-pu-a-ymi                 uyew
+\rp_gloss # bien-PROG/STAT-DIST-FUT-IND.{2SG} allá
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 443.600 449.000
+
+\ref 079
+\ELANParticipant HM
+\ELANBegin 00:07:29.000
+\ELANEnd 00:07:31.400
+\tx pepaen
+\ft ven a verme,
+\utterance 
+\uterrance_tokens 
+\gramm_units # pe-pa-e-n
+\rp_gloss # ver-PROX-INV-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 449.000 451.400
+
+\ref 080
+\ELANParticipant HM
+\ELANBegin 00:07:31.400
+\ELANEnd 00:07:34.080
+\tx pepaen
+\ft ven a verme,
+\utterance 
+\uterrance_tokens 
+\gramm_units # pe-pa-e-n
+\rp_gloss # ver-PROX-INV-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 451.400 454.080
+
+\ref 081
+\ELANParticipant HM
+\ELANBegin 00:07:34.080
+\ELANEnd 00:07:36.440
+\tx pepaen
+\ft ven a verme.
+\utterance 
+\uterrance_tokens 
+\gramm_units # pe-pa-e-n
+\rp_gloss # ver-PROX-INV-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 454.080 456.440
+
+\ref 082
+\ELANParticipant HM
+\ELANBegin 00:07:36.600
+\ELANEnd 00:07:41.040
+\tx nguyuküleli,lamngen,
+\ft no me olvides, hermana,
+\utterance 
+\uterrance_tokens 
+\gramm_units # nguyu-kül-e-l-i            lamngen
+\rp_gloss # olvidar-NEG3-INV-COND-{1SG} hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 456.600 461.040
+
+\ref 083
+\ELANParticipant HM
+\ELANBegin 00:07:41.040
+\ELANEnd 00:07:43.240
+\tx nguyuküleli
+\ft no me olvides
+\utterance 
+\uterrance_tokens 
+\gramm_units # nguyu-kül-e-l-i
+\rp_gloss # olvidar-NEG3-INV-COND-{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 461.040 463.240
+
+\ref 084
+\ELANParticipant HM
+\ELANBegin 00:07:43.240
+\ELANEnd 00:07:46.400
+\tx nguyuküleli,
+\ft no me olvides
+\utterance 
+\uterrance_tokens 
+\gramm_units # nguyu-kül-e-l-i,
+\rp_gloss # olvidar-NEG3-INV-COND-{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 463.240 466.400
+
+\ref 085
+\ELANParticipant HM
+\ELANBegin 00:07:46.400
+\ELANEnd 00:07:47.800
+\tx nguyuküleli
+\ft , no me olvides.
+\utterance 
+\uterrance_tokens 
+\gramm_units # nguyu-kül-e-l-i
+\rp_gloss # olvidar-NEG3-INV-COND-{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 466.400 467.800
+
+\ref 086
+\ELANParticipant HM
+\ELANBegin 00:07:47.920
+\ELANEnd 00:08:06.920
+\tx uuuuuy, uuuuuy, uuuuy, uuuy, uuuuuy, uuuuuuuuy,
+\ft 
+\utterance 
+\uterrance_tokens 
+\gramm_units # uuuuuy, uuuuuy, uuuuy, uuuy, uuuuuy, uuuuuuuuy,
+\rp_gloss # uuuuuy, uuuuuy, uuuuy, uuuy, uuuuuy, uuuuuuuuy,
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 467.920 486.920
+
+\ref 087
+\ELANParticipant HM
+\ELANBegin 00:08:07.040
+\ELANEnd 00:08:10.320
+\tx feypi tati peñi tüfachi ülkantun
+\ft así dice, hermano, este ùlkantun.
+\utterance 
+\uterrance_tokens 
+\gramm_units # feypi-y            ta-ti     peñi   tüfachi ülkantun
+\rp_gloss # decir.así-IND.{3} DET1-DET2 hermano esto     ülkantun
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 487.040 490.320
+
+\ref 088
+\ELANParticipant HM
+\ELANBegin 00:08:10.520
+\ELANEnd 00:08:14.040
+\tx feypi awngelan
+\ft así dice "awngelan"
+\utterance 
+\uterrance_tokens 
+\gramm_units # feypi-y            awngelan
+\rp_gloss # decir.así-IND.{3} awngelan
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 490.520 494.040
+
+\ref 089
+\ELANParticipant HM
+\ELANBegin 00:08:14.200
+\ELANEnd 00:08:19.320
+\tx wiya wula nga matetumekeyu inaltu kütral Isabel
+\ft ayer no más estabamos tomando mate a la orilla del fogón, Isabel
+\utterance 
+\uterrance_tokens 
+\gramm_units # wiya wula     nga mate-tu-meke-yu           inaltu kütral Isabel
+\rp_gloss # ayer después DM  mate-VR-PROG.AG-IND.{1DU} cerca  fuego   Isabel
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 494.200 499.320
+
+\ref 090
+\ELANParticipant HM
+\ELANBegin 00:08:19.480
+\ELANEnd 00:08:23.120
+\tx fotr, fotr, fotr pi
+\ft fotr, fotr, fotr dice
+\utterance 
+\uterrance_tokens 
+\gramm_units # fotr, fotr, fotr pi-y
+\rp_gloss # fotr, fotr, fotr decir-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 499.480 503.120
+
+\ref 091
+\ELANParticipant HM
+\ELANBegin 00:08:23.280
+\ELANEnd 00:08:27.880
+\tx welu tüfamew feypi
+\ft pero ahora dice
+\utterance 
+\uterrance_tokens 
+\gramm_units # welu tüfamew feypi-y
+\rp_gloss # pero ahora    decir.así-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 503.280 507.880
+
+\ref 092
+\ELANParticipant HM
+\ELANBegin 00:08:28.000
+\ELANEnd 00:08:33.360
+\tx feypipen taiñ mapuchengen
+\ft recien dije en nuestro ser mapuche,
+\utterance 
+\uterrance_tokens 
+\gramm_units # feypi-pe-n               ta   =iñ      mapuche-nge-n
+\rp_gloss # decir.así-CER-IND.{1SG} DET1 =1PL.POSS mapuche-COP-NR1
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 508.000 513.360
+
+\ref 093
+\ELANParticipant HM
+\ELANBegin 00:08:33.520
+\ELANEnd 00:08:36.040
+\tx taiñ rakiduam mew ta lakelaiñ
+\ft en nuestro pensamiento, no morimos
+\utterance 
+\uterrance_tokens 
+\gramm_units # ta   =iñ      rakiduam    mew  ta   la-ke-la-iñ
+\rp_gloss # DET1 =1PL.POSS pensamiento PPOS DET1 morir-HAB-NEG1-IND.{1PL}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 513.520 516.040
+
+\ref 094
+\ELANParticipant HM
+\ELANBegin 00:08:36.200
+\ELANEnd 00:08:38.600
+\tx feymew ta feypi
+\ft entonces, dice así
+\utterance 
+\uterrance_tokens 
+\gramm_units # feymew   ta   feypi-y
+\rp_gloss # entonces DET1 decir.así-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 516.200 518.600
+
+\ref 095
+\ELANParticipant HM
+\ELANBegin 00:08:38.720
+\ELANEnd 00:08:41.840
+\tx mapuchengetuymi may lamngen
+\ft "ahora eres gente en la tierra, hermana"
+\utterance 
+\uterrance_tokens 
+\gramm_units # mapuche-nge-tu-ymi        may lamngen
+\rp_gloss # mapuche-COP-REV-IND.{2SG} si  hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 518.720 521.840
+
+\ref 096
+\ELANParticipant HM
+\ELANBegin 00:08:42.000
+\ELANEnd 00:08:44.600
+\tx kümelkalepuaymi uyew
+\ft "que llegues bien allà"
+\utterance 
+\uterrance_tokens 
+\gramm_units # küme-l-ka-le-pu-a-ymi                       uyew
+\rp_gloss # bien-APPL3-CONT-PROG/STAT-DIST-FUT-IND.{2SG} allá
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 522.000 524.600
+
+\ref 097
+\ELANParticipant HM
+\ELANBegin 00:08:44.760
+\ELANEnd 00:08:46.160
+\tx pepaen
+\ft "ven a verme,
+\utterance 
+\uterrance_tokens 
+\gramm_units # pe-pa-e-n
+\rp_gloss # ver-PROX-INV-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 524.760 526.160
+
+\ref 098
+\ELANParticipant HM
+\ELANBegin 00:08:46.160
+\ELANEnd 00:08:47.200
+\tx pepaen
+\ft ven a verme"
+\utterance 
+\uterrance_tokens 
+\gramm_units # pe-pa-e-n
+\rp_gloss # ver-PROX-INV-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 526.160 527.200
+
+\ref 099
+\ELANParticipant HM
+\ELANBegin 00:08:47.320
+\ELANEnd 00:08:49.520
+\tx nguyuküleli lamngen
+\ft "no te olvides de mi, hermana"
+\utterance 
+\uterrance_tokens 
+\gramm_units # nguyu-kül-e-l-i            lamngen
+\rp_gloss # olvidar-NEG3-INV-COND-{1SG} hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 527.320 529.520
+
+\ref 100
+\ELANParticipant HM
+\ELANBegin 00:08:49.680
+\ELANEnd 00:08:52.040
+\tx no te olvides de mi pi tati
+\ft "no te olvides de mi", dice
+\utterance 
+\uterrance_tokens 
+\gramm_units # no te olvides de mi pi-y          ta-ti
+\rp_gloss # no te olvides de mi decir-IND.{3} DET1-DET2
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 529.680 532.040
+
+\ref 101
+\ELANParticipant HM
+\ELANBegin 00:08:52.200
+\ELANEnd 00:08:56.080
+\tx müna küme pi ta chi kuse püllü
+\ft muy bien dice, la ancianita,
+\utterance 
+\uterrance_tokens 
+\gramm_units # müna küme # pi-y          ta   chi  kuse    püllü
+\rp_gloss # muy   bien  # decir-IND.{3} DET1 DEM3 anciana püllü
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 532.200 536.080
+
+\ref 102
+\ELANParticipant HM
+\ELANBegin 00:08:56.080
+\ELANEnd 00:08:58.360
+\tx ka mongen mew rupatuymi
+\ft a otra vida pasaste
+\utterance 
+\uterrance_tokens 
+\gramm_units # ka   mongen mew  rupa-tu-ymi
+\rp_gloss # otra vida   PPOS pasar-REV-IND.{2SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 536.080 538.360
+
+\ref 103
+\ELANParticipant HM
+\ELANBegin 00:08:58.520
+\ELANEnd 00:09:00.840
+\tx mapunchengetuaymi wula
+\ft después serás gente en la tierra
+\utterance 
+\uterrance_tokens 
+\gramm_units # mapunche-nge-tu-a-ymi          wula
+\rp_gloss # mapunche-COP-REV-FUT-IND.{2SG} después
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 538.520 540.840
+
+\ref 104
+\ELANParticipant HM
+\ELANBegin 00:09:00.840
+\ELANEnd 00:09:02.840
+\tx pi tañi dungu
+\ft dice su asunto
+\utterance 
+\uterrance_tokens 
+\gramm_units # pi-y          ta   =ñi    dungu
+\rp_gloss # decir-IND.{3} DET1 =3.POSS asunto
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 540.840 542.840
+
+\ref 105
+\ELANParticipant HM
+\ELANBegin 00:09:02.960
+\ELANEnd 00:09:11.200
+\tx welu tüfachi ülkantun piwke mew tripay, ta chi kuse mew
+\ft pero este ülkantun del corazón sale, de la ancianita
+\utterance 
+\uterrance_tokens 
+\gramm_units # welu tüfachi ülkantun piwke    mew  tripa-y,      ta   chi  kuse    mew
+\rp_gloss # pero esto     ülkantun corazón PPOS salir-IND.{3} DET1 DEM3 anciana PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 542.960 551.200
+
+\ref 106
+\ELANParticipant HM
+\ELANBegin 00:09:11.320
+\ELANEnd 00:09:14.880
+\tx ngümangümangey pefiñ feychi
+\ft estaba muy triste, yo lo vi eso,
+\utterance 
+\uterrance_tokens 
+\gramm_units # ngüma-ngüma-nge-y       # pe-fi-ñ             feychi
+\rp_gloss # triste~triste-COP-IND.{3} # ver-{3.OP}-IND.{1SG} eso
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 551.320 554.880
+
+\ref 107
+\ELANParticipant HM
+\ELANBegin 00:09:15.080
+\ELANEnd 00:09:19.720
+\tx kiñe wichulko reke tripay tañi külleñ tañi nge mew
+\ft como un riachuelo salían sus lagrimas de sus ojos,
+\utterance 
+\uterrance_tokens 
+\gramm_units # kiñe wichulko  reke tripa-y       ta   =ñi    külleñ ta   =ñi    nge mew
+\rp_gloss # INDEF riachuelo COMP salir-IND.{3} DET1 =3.POSS lágrima DET1 =3.POSS ojo PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 555.080 559.720
+
+\ref 108
+\ELANParticipant HM
+\ELANBegin 00:09:19.880
+\ELANEnd 00:09:22.320
+\tx iñche ka
+\ft yo también
+\utterance 
+\uterrance_tokens 
+\gramm_units # iñche ka
+\rp_gloss # 1SG    también
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 559.880 562.320
+
+\ref 109
+\ELANParticipant HM
+\ELANBegin 00:09:22.480
+\ELANEnd 00:09:28.160
+\tx feymew tüfachi ülkantun küme ülkantukefiñ
+\ft entonces este ülkantun lo canto bien, desde el corazón sale este asunto
+\utterance 
+\uterrance_tokens 
+\gramm_units # feymew   tüfachi ülkantun küme ülkantu-ke-fi-ñ
+\rp_gloss # entonces esto     ülkantun bien  cantar-HAB-{3.OP}-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 562.480 568.160
+
+\ref 110
+\ELANParticipant HM
+\ELANBegin 00:09:28.160
+\ELANEnd 00:09:31.800
+\tx piwke mew tripakey tüfachi dungu peñi
+\ft hermano
+\utterance 
+\uterrance_tokens 
+\gramm_units # piwke    mew  tripa-ke-y        tüfachi dungu  peñi
+\rp_gloss # corazón PPOS salir-HAB-IND.{3} esto     asunto hermano
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 568.160 571.800
+
+\ref 111
+\ELANParticipant HM
+\ELANBegin 00:09:32.160
+\ELANEnd 00:09:38.280
+\tx eleleyu tüfachi ülkantun peñi Felipe
+\ft te di este ülkantun, hermano, Felipe,
+\utterance 
+\uterrance_tokens 
+\gramm_units # el-el-e-yu                tüfachi ülkantun peñi   Felipe
+\rp_gloss # dejar-APPL3-INV-IND.{1DU} esto     ülkantun hermano Felipe
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 572.160 578.280
+
+\ref 112
+\ELANParticipant HM
+\ELANBegin 00:09:38.400
+\ELANEnd 00:09:40.320
+\tx küme küdawfinge
+\ft trabajalo bien,
+\utterance 
+\uterrance_tokens 
+\gramm_units # küme küdaw-fi-nge
+\rp_gloss # bien  trabajar-{3.OP}-IMP.{2SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 578.400 580.320
+
+\ref 113
+\ELANParticipant HM
+\ELANBegin 00:09:40.480
+\ELANEnd 00:09:42.760
+\tx küme entufinge tüfachi dungu
+\ft saca bien este asunto.
+\utterance 
+\uterrance_tokens 
+\gramm_units # küme entu-fi-nge            tüfachi dungu
+\rp_gloss # bien  sacar-{3.OP}-IMP.{2SG} esto     asunto
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 580.480 582.760
+
+\ref 114
+\ELANParticipant HM
+\ELANBegin 00:09:42.880
+\ELANEnd 00:09:45.240
+\tx feley
+\ft Así es.
+\utterance 
+\uterrance_tokens 
+\gramm_units # fe-le-y
+\rp_gloss # así-PROG/STAT-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 582.880 585.240
+
+\ref 115
+\ELANParticipant FH
+\ELANBegin 00:09:45.840
+\ELANEnd 00:09:47.920
+\tx müna mañumeyu peñi
+\ft Le agradezco mucho, hermano.
+\utterance müna mañumeyu peñi
+\uterrance_tokens müna mañumeyu peñi
+\gramm_units # müna mañum-e-yu             peñi
+\rp_gloss # muy   agradecer-INV-IND.{1DU} hermano
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 585.840 587.920
+
+\ref 116
+\ELANParticipant FH
+\ELANBegin 00:09:48.240
+\ELANEnd 00:09:52.160
+\tx iñche nien kiñe pichi ramtun ka
+\ft Yo tengo una pequeña pregunta
+\utterance iñche nien kiñe pichi ramtun ka
+\uterrance_tokens iñche nien kiñe pichi ramtun ka
+\gramm_units # iñche nie-n           kiñe pichi    ramtun   ka
+\rp_gloss # 1SG    tener-IND.{1SG} INDEF pequeña pregunta también
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 588.240 592.160
+
+\ref 117
+\ELANParticipant FH
+\ELANBegin 00:09:52.280
+\ELANEnd 00:10:03.120
+\tx feymew lalu kiñe küme domo, lalu kiñe küme wentru chi mapuche wentru, mapuche domo, wiñotukey ta mapu?
+\ft Entonces, cuando muere una buena mujer, cuando muere un buen hombre, un hombre mapuche, una mujer mapuche, ¿se devuelve a la tierra?
+\utterance feymew lalu kiñe küme domo, lalu kiñe küme wentru chi mapuche wentru, mapuche domo, wiñotukey ta mapu?
+\uterrance_tokens feymew lalu kiñe küme domo, lalu kiñe küme wentru chi mapuche wentru, mapuche domo, wiñotukey ta mapu?
+\gramm_units # feymew   la-lu       kiñe küme domo, # la-lu       kiñe küme wentru chi  mapuche wentru, mapuche domo, # wiño-tu-ke-y          ta   mapu?
+\rp_gloss # entonces morir-ADVR1 INDEF buena mujer # morir-ADVR1 INDEF buen  hombre DEM3 mapuche hombre  mapuche mujer # volver-REV-HAB-IND.{3} DET1 tierra
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 592.280 603.120
+
+\ref 118
+\ELANParticipant FH
+\ELANBegin 00:10:03.280
+\ELANEnd 00:10:04.160
+\tx lalu
+\ft cuando muere
+\utterance lalu
+\uterrance_tokens lalu
+\gramm_units # la-lu
+\rp_gloss # morir-ADVR1
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 603.280 604.160
+
+\ref 119
+\ELANParticipant HM
+\ELANBegin 00:10:04.200
+\ELANEnd 00:10:06.480
+\tx may, wiñotukey tañi ñuke mapu mew
+\ft si, se devuelve a nuestra madre tierra
+\utterance 
+\uterrance_tokens 
+\gramm_units # may, wiño-tu-ke-y          ta   =ñi    ñuke mapu   mew
+\rp_gloss # si   volver-REV-HAB-IND.{3} DET1 =3.POSS madre tierra PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 604.200 606.480
+
+\ref 120
+\ELANParticipant HM
+\ELANBegin 00:10:06.640
+\ELANEnd 00:10:09.360
+\tx fey ta mapunchengetuy pi
+\ft por eso dice que vuelve a ser gente en la tierra
+\utterance 
+\uterrance_tokens 
+\gramm_units # fey  ta   mapunche-nge-tu-y        pi-y
+\rp_gloss # DEM2 DET1 mapunche-COP-REV-IND.{3} deci-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 606.640 609.360
+
+\ref 121
+\ELANParticipant HM
+\ELANBegin 00:10:09.480
+\ELANEnd 00:10:12.000
+\tx mapuchengetuy pilay,
+\ft no dice que vuelve a ser mapuche
+\utterance 
+\uterrance_tokens 
+\gramm_units # mapuche-nge-tu-y        pi-la-y,
+\rp_gloss # mapuche-COP-REV-IND.{3} decir-NEG1-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 609.480 612.000
+
+\ref 122
+\ELANParticipant HM
+\ELANBegin 00:10:12.000
+\ELANEnd 00:10:14.200
+\tx mapunchengetuaymi
+\ft volverás a ser gente en la tierra
+\utterance 
+\uterrance_tokens 
+\gramm_units # mapunche-nge-tu-a-ymi
+\rp_gloss # mapunche-COP-REV-FUT-IND.{2SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 612.000 614.200
+
+\ref 123
+\ELANParticipant HM
+\ELANBegin 00:10:14.320
+\ELANEnd 00:10:17.120
+\tx fey wula ta mapunchengetuaymi
+\ft entonces después volverás a ser gente en la tierra
+\utterance 
+\uterrance_tokens 
+\gramm_units # fey  wula     ta   mapunche-nge-tu-a-ymi
+\rp_gloss # DEM2 después DET1 mapunche-COP-REV-FUT-IND.{2SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 614.320 617.120
+
+\ref 124
+\ELANParticipant HM
+\ELANBegin 00:10:17.240
+\ELANEnd 00:10:19.120
+\tx tripapay ta mapu mew
+\ft saliste de la tierra,
+\utterance 
+\uterrance_tokens 
+\gramm_units # tripa-pa-y           ta   mapu   mew
+\rp_gloss # salir-PROX-IND.{2SG} DET1 tierra PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 617.240 619.120
+
+\ref 125
+\ELANParticipant HM
+\ELANBegin 00:10:19.120
+\ELANEnd 00:10:21.000
+\tx ka konputuaymi taiñ mapu mew
+\ft entonces volveras a nuestra tierra
+\utterance 
+\uterrance_tokens 
+\gramm_units # ka kon-pu-tu-a-ymi               ta   =iñ      mapu   mew
+\rp_gloss # y  entrar-DIST-REV-FUT-IND.{2SG} DET1 =1PL.POSS tierra PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 619.120 621.000
+
+\ref 126
+\ELANParticipant HM
+\ELANBegin 00:10:21.240
+\ELANEnd 00:10:25.960
+\tx ngülaley tañi lipang ta ñuke mapu tami llowtuaetew
+\ft se abren los brazos de nuestra madre para recibirte,
+\utterance 
+\uterrance_tokens 
+\gramm_units # ngüla-le-y             ta   =ñi    lipang ta   ñuke mapu   # ta   =mi       llow-tu-a-e-t-ew
+\rp_gloss # abrir-PROG/STAT-IND.{3} DET1 =3.POSS brazo  DET1 madre tierra # DET1 =2SG.POSS recibir-APPL3-FUT-INV-NR3-OBL
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 621.240 625.960
+
+\ref 127
+\ELANParticipant HM
+\ELANBegin 00:10:25.960
+\ELANEnd 00:10:27.960
+\tx pi reke peñi
+\ft dice hermano
+\utterance 
+\uterrance_tokens 
+\gramm_units # pi-y          reke      peñi
+\rp_gloss # decir-IND.{3} realmente hermano
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 625.960 627.960
+
+\ref 128
+\ELANParticipant HM
+\ELANBegin 00:10:28.200
+\ELANEnd 00:10:30.920
+\tx pwutuaymi tami ñuke mapu mew,
+\ft cuando llegues a tu madre tierra,
+\utterance 
+\uterrance_tokens 
+\gramm_units # pwu-tu-a-ymi                   ta   =mi       ñuke mapu   mew,
+\rp_gloss # llegar.allá-REV-FUT-IND.{2SG} DET1 =2SG.POSS madre tierra PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 628.200 630.920
+
+\ref 129
+\ELANParticipant HM
+\ELANBegin 00:10:30.920
+\ELANEnd 00:10:33.440
+\tx tami ñuke ta lloftuaeymew
+\ft tu madre te va a recibir
+\utterance 
+\uterrance_tokens 
+\gramm_units # ta   =mi       ñuke ta   llof-tu-a-e-ym-ew
+\rp_gloss # DET1 =2SG.POSS madre DET1 recibir-APPL3-FUT-INV-IND.{2SG}-OBL
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 630.920 633.440
+
+\ref 130
+\ELANParticipant HM
+\ELANBegin 00:10:33.720
+\ELANEnd 00:10:37.320
+\tx fey wula ta müleputuyami tami mapu mew
+\ft entonces después estarás en tu tierra
+\utterance 
+\uterrance_tokens 
+\gramm_units # fey  wula     ta   müle-pu-tu-a-ymi            ta   =mi       mapu   mew
+\rp_gloss # DEM2 después DET1 estar-DIST-REV-FUT-IND.{2SG} DET1 =2SG.POSS tierra PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 633.720 637.320
+
+\ref 131
+\ELANParticipant HM
+\ELANBegin 00:10:37.480
+\ELANEnd 00:10:41.320
+\tx mapuchengetuaymi, mapunchengetuaymi
+\ft volverás a ser gente en la tierra, volverás a ser gente en la tierra
+\utterance 
+\uterrance_tokens 
+\gramm_units # mapuche-nge-tu-a-ymi,        # mapunche-nge-tu-a-ymi
+\rp_gloss # volver-COP-REV-FUT-IND.{2SG} # mapunche-COP-REV-FUT-IND.{2SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 637.480 641.320
+
+\ref 132
+\ELANParticipant HM
+\ELANBegin 00:10:41.480
+\ELANEnd 00:10:50.080
+\tx femngechi pewfalupakey reke ta che mongelu tüfachi mapu mew trekapalu tüfachi mapu mew
+\ft así como que se muestra la gente que vive en esta tierra, que camina acá en esta tierra
+\utterance 
+\uterrance_tokens 
+\gramm_units # femngechi pewfalu-pa-ke-y          reke      ta   che   monge-lu    tüfachi mapu   mew  treka-pa-lu        tüfachi mapu   mew
+\rp_gloss # así      mostrar-PROX-HAB-IND.{3} realmente DET1 gente vivir-ADVR1 esto     tierra PPOS caminar-PROX-ADVR1 esto     tierra PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 641.480 650.080
+
+\ref 133
+\ELANParticipant HM
+\ELANBegin 00:10:50.280
+\ELANEnd 00:10:52.840
+\tx pewfalupay reke
+\ft como que se deja ver acá
+\utterance 
+\uterrance_tokens 
+\gramm_units # pewfalu-pa-y         reke
+\rp_gloss # mostrar-PROX-IND.{3} realmente
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 650.280 652.840
+
+\ref 134
+\ELANParticipant HM
+\ELANBegin 00:10:52.960
+\ELANEnd 00:10:56.320
+\tx welu tripapay mapu mew
+\ft pero salió acá de la tierra,
+\utterance 
+\uterrance_tokens 
+\gramm_units # welu tripa-pa-y         mapu   mew
+\rp_gloss # pero salir-PROX-IND.{3} tierra PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 652.960 656.320
+
+\ref 135
+\ELANParticipant HM
+\ELANBegin 00:10:56.320
+\ELANEnd 00:10:58.400
+\tx ka kontuy ta mapu mew
+\ft vuelve a entrar a la tierra
+\utterance 
+\uterrance_tokens 
+\gramm_units # ka kon-tu-y           ta mapu   mew
+\rp_gloss # y  entrar-REV-IND.{3} ta tierra PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 656.320 658.400
+
+\ref 136
+\ELANParticipant HM
+\ELANBegin 00:10:58.720
+\ELANEnd 00:11:06.000
+\tx femngechi reke ngey ta che lalu amutulu tüfachi tüfachi mongen mew
+\ft como que es así es así la gente cuando muere, cuando se va  de esta vida
+\utterance 
+\uterrance_tokens 
+\gramm_units # femngechi reke      nge-y       ta   che   # la-lu       amu-tu-lu    tüfachi tüfachi mongen mew
+\rp_gloss # así      realmente COP-IND.{3} DET1 gente # morir-ADVR1 ir-REV-ADVR1 esto     esto     vida   PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 658.720 666.000
+
+\ref 137
+\ELANParticipant HM
+\ELANBegin 00:11:06.160
+\ELANEnd 00:11:13.080
+\tx feymew feypifi feychi dungu ta feypifi tüfachi küse püllü
+\ft entonces así dice ese asunto, así dice. Esta ancianita,
+\utterance 
+\uterrance_tokens 
+\gramm_units # feymew   feypi-fi-y                feychi dungu  ta   # feypi-fi-y                tüfachi küse   püllü
+\rp_gloss # entonces decir.así-{3.OP}-IND.{3} ese    asunto DET1 # decir.así-{3.OP}-IND.{3} esto     anciana püllü
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 666.160 673.080
+
+\ref 138
+\ELANParticipant HM
+\ELANBegin 00:11:13.400
+\ELANEnd 00:11:15.600
+\tx lay tañi wenüy pilay
+\ft murió mi amiga no dijo
+\utterance 
+\uterrance_tokens 
+\gramm_units # la-y          ta   =ñi      wenüy # pi-la-y
+\rp_gloss # morir-IND.{3} DET1 =1SG.POSS amiga  # decir-NEG-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 673.400 675.600
+
+\ref 139
+\ELANParticipant HM
+\ELANBegin 00:11:15.600
+\ELANEnd 00:11:16.720
+\tx mongeley tañi wenüy
+\ft está viva mi amiga,
+\utterance 
+\uterrance_tokens 
+\gramm_units # monge-le-y              ta   =ñi      wenüy
+\rp_gloss # vivir-PROG/STAT-IND.{3} DET1 =1SG.POSS amiga
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 675.600 676.720
+
+\ref 140
+\ELANParticipant HM
+\ELANBegin 00:11:16.720
+\ELANEnd 00:11:17.920
+\tx feymew ta feypi
+\ft entonces le dice
+\utterance 
+\uterrance_tokens 
+\gramm_units # feymew   ta   feypi-y
+\rp_gloss # entonces DET1 decir.así-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 676.720 677.920
+
+\ref 141
+\ELANParticipant HM
+\ELANBegin 00:11:17.920
+\ELANEnd 00:11:19.560
+\tx kümelepuaymi uyew
+\ft que llegues bien allá,
+\utterance 
+\uterrance_tokens 
+\gramm_units # küme-le-pu-a-ymi                 uyew
+\rp_gloss # bien-PROG/STAT-DIST-FUT-IND.{2SG} allá
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 677.920 679.560
+
+\ref 142
+\ELANParticipant HM
+\ELANBegin 00:11:19.720
+\ELANEnd 00:11:21.240
+\tx pepaen,
+\ft ven a verme,
+\utterance 
+\uterrance_tokens 
+\gramm_units # pe-pa-e-n,
+\rp_gloss # ver-PROX-INV-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 679.720 681.240
+
+\ref 143
+\ELANParticipant HM
+\ELANBegin 00:11:21.240
+\ELANEnd 00:11:22.720
+\tx pepaen
+\ft ven a verme
+\utterance 
+\uterrance_tokens 
+\gramm_units # pe-pa-e-n
+\rp_gloss # ver-PROX-INV-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 681.240 682.720
+
+\ref 144
+\ELANParticipant HM
+\ELANBegin 00:11:22.960
+\ELANEnd 00:11:25.480
+\tx nguyuküleli lamngen
+\ft no me olvides, hermana
+\utterance 
+\uterrance_tokens 
+\gramm_units # nguyu-kül-e-l-i            lamngen
+\rp_gloss # olvidar-NEG3-INV-COND-{1SG} hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 682.960 685.480
+
+\ref 145
+\ELANParticipant HM
+\ELANBegin 00:11:25.640
+\ELANEnd 00:11:29.040
+\tx kuydawtunieaen
+\ft cuidame,
+\utterance 
+\uterrance_tokens 
+\gramm_units # kuydaw-tu-nie-a-e-n
+\rp_gloss # cuidar-APPL3-PRPS-FUT-INV-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 685.640 689.040
+
+\ref 146
+\ELANParticipant HM
+\ELANBegin 00:11:29.200
+\ELANEnd 00:11:33.320
+\tx piwkentukunieaen
+\ft quiereme,
+\utterance 
+\uterrance_tokens 
+\gramm_units # piwke-n-tuku-nie-a-e-n
+\rp_gloss # corazón-NR1-poner-PRPS-FUT-INV.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 689.200 693.320
+
+\ref 147
+\ELANParticipant HM
+\ELANBegin 00:11:33.520
+\ELANEnd 00:11:37.160
+\tx dew nguyufiñ tañi wenüy pilayaymi
+\ft ya la olvide a mi amiga, no driás
+\utterance 
+\uterrance_tokens 
+\gramm_units # dew nguyu-fi-ñ              ta   =ñi      wenüy # pi-la-ya-ymi
+\rp_gloss # ya  olvidar-{3.OP}-IND.{1SG} DET1 =1SG.POSS amiga  # decir-NEG1-FUT-IND.{2SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 693.520 697.160
+
+\ref 148
+\ELANParticipant HM
+\ELANBegin 00:11:37.360
+\ELANEnd 00:11:39.080
+\tx pi reke tati,
+\ft como que dice así,
+\utterance 
+\uterrance_tokens 
+\gramm_units # pi-y          reke      ta-ti,
+\rp_gloss # decir-IND.{3} realmente DET1-DET2
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 697.360 699.080
+
+\ref 149
+\ELANParticipant HM
+\ELANBegin 00:11:39.080
+\ELANEnd 00:11:42.720
+\tx femngechi ta tripay tüfachi tüfachi ülkantun
+\ft así salió este ülkantun
+\utterance 
+\uterrance_tokens 
+\gramm_units # femngechi ta   tripa-y       tüfachi tüfachi ülkantun
+\rp_gloss # así      DET1 salir-IND.{3} esto     esto     ülkantun
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 699.080 702.720
+
+\ref 150
+\ELANParticipant HM
+\ELANBegin 00:11:43.200
+\ELANEnd 00:11:48.400
+\tx femngechi tüfa, peñi, tüfachi dungu ruf dungu tait
+\ft Así, hermano, este asunto, asunto verdadero
+\utterance 
+\uterrance_tokens 
+\gramm_units # femngechi tüfa, peñi,  tüfachi dungu  ruf    dungu  ta-ti
+\rp_gloss # así      DEM1   hermano esto     asunto verdad asunto DET1-DET2
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 703.200 708.400
+
+\ref 151
+\ELANParticipant HM
+\ELANBegin 00:11:48.680
+\ELANEnd 00:11:53.360
+\tx tañi chuchu matetumekeyu kiñe hora
+\ft Estuve tomando mate con mi abuela, una hora
+\utterance 
+\uterrance_tokens 
+\gramm_units # ta   =ñi      chuchu         mate-tu-meke-yu           kiñe hora
+\rp_gloss # DET1 =1SG.POSS abuela.materna mate-VR-PROG.AG-IND.{1DU} 1     hora
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 708.680 713.360
+
+\ref 152
+\ELANParticipant HM
+\ELANBegin 00:11:53.680
+\ELANEnd 00:11:55.320
+\tx puwtun ñi ruka mew iñche
+\ft cuando llegué a mi casa, ,
+\utterance 
+\uterrance_tokens 
+\gramm_units # puw-tu-n                   ñi      ruka mew  iñche
+\rp_gloss # llegar.allá-REV-IND.{1SG} 1SG.POSS casa PPOS 1SG
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 713.680 715.320
+
+\ref 153
+\ELANParticipant HM
+\ELANBegin 00:11:55.320
+\ELANEnd 00:11:56.960
+\tx inaramtungepun
+\ft me preguntaron allá
+\utterance 
+\uterrance_tokens 
+\gramm_units # ina-ramtu-nge-pu-n
+\rp_gloss # seguir-preguntar-PASS-DIST-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 715.320 716.960
+
+\ref 154
+\ELANParticipant HM
+\ELANBegin 00:11:56.960
+\ELANEnd 00:12:02.160
+\tx wirartukungepun tañi ruka mew tañi malle Clorindo,
+\ft me gritaron allá en mi casa, mi tío Clorindo
+\utterance 
+\uterrance_tokens 
+\gramm_units # wirar-tuku-nge-pu-n              ta   =ñi      ruka mew  ta   =ñi      malle Clorindo,
+\rp_gloss # gritar-poner-PASS-DIST-IND.{1SG} DET1 =1SG.POSS casa PPOS DET1 =1SG.POSS tío  Clorindo,
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 716.960 722.160
+
+\ref 155
+\ELANParticipant HM
+\ELANBegin 00:12:02.160
+\ELANEnd 00:12:04.840
+\tx müna kütranküley
+\ft está muy enferma,
+\utterance 
+\uterrance_tokens 
+\gramm_units # müna kütran-küle-y
+\rp_gloss # müna kütran-küle-y
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 722.160 724.840
+
+\ref 156
+\ELANParticipant HM
+\ELANBegin 00:12:04.840
+\ELANEnd 00:12:07.920
+\tx ta epeke amutuy tañi ñuke yem
+\ft casi parte mi mamá
+\utterance 
+\uterrance_tokens 
+\gramm_units # ta   epe-ke    amu-tu-y       ta   =ñi      ñuke yem
+\rp_gloss # DET1 casi-DIST ir-REV-IND.{3} DET1 =1SG.POSS madre finada
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 724.840 727.920
+
+\ref 157
+\ELANParticipant HM
+\ELANBegin 00:12:08.040
+\ELANEnd 00:12:09.840
+\tx feypikunupuenew müten
+\ft me dejo dicho no más,
+\utterance 
+\uterrance_tokens 
+\gramm_units # feypi-kunu-pu-e-n-ew                  müten
+\rp_gloss # decir.así-RES-DIST-INV-IND.{1SG}-OBL no.más
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 728.040 729.840
+
+\ref 158
+\ELANParticipant HM
+\ELANBegin 00:12:09.840
+\ELANEnd 00:12:11.200
+\tx iñche purum amun
+\ft yo de inmediato fui
+\utterance 
+\uterrance_tokens 
+\gramm_units # iñche purum   amu-n
+\rp_gloss # 1SG    rápido ir-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 729.840 731.200
+
+\ref 159
+\ELANParticipant HM
+\ELANBegin 00:12:11.400
+\ELANEnd 00:12:16.760
+\tx puwlu iñche, dew laley tañi chuchu Isabel
+\ft cuando llegue allá, ya estaba muerta mi abuelita Isabel
+\utterance 
+\uterrance_tokens 
+\gramm_units # puw-lu             iñche, dew la-le-y                 ta   =ñi      chuchu         Isabel
+\rp_gloss # llegar.allá-ADVR1 1SG     ya  morir-PROG/STAT-IND.{3} DET1 =1SG.POSS abuela.materna Isabel
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 731.400 736.760
+
+\ref 160
+\ELANParticipant HM
+\ELANBegin 00:12:16.920
+\ELANEnd 00:12:21.240
+\tx femngechi ta tüfachi ülkantun tripay  feychi
+\ft así este ülkantun salió
+\utterance 
+\uterrance_tokens 
+\gramm_units # femngechi ta   tüfachi ülkantun tripa-y       feychi
+\rp_gloss # así      DET1 esto     ülkantun salir-IND.{3} eso
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 736.920 741.240
+
+\ref 161
+\ELANParticipant HM
+\ELANBegin 00:12:21.400
+\ELANEnd 00:12:22.920
+\tx peñi,
+\ft hermano,
+\utterance 
+\uterrance_tokens 
+\gramm_units peñi,
+\rp_gloss hermano
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 741.400 742.920
+
+\ref 162
+\ELANParticipant HM
+\ELANBegin 00:12:22.920
+\ELANEnd 00:12:28.920
+\tx Agustina  ta ülkantuley tañi wenüy
+\ft Agustina estaba cantando a su amiga
+\utterance 
+\uterrance_tokens 
+\gramm_units # Agustina ta   ülkantu-le-y            ta   =ñi    wenüy
+\rp_gloss # Agustina DET1 cantar-PROG/STAT-IND.{3} DET1 =3.POSS amiga
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 742.920 748.920
+
+\ref 163
+\ELANParticipant HM
+\ELANBegin 00:12:29.080
+\ELANEnd 00:12:37.000
+\tx fey tañi tañi laku yem epu domo niekefuy
+\ft entonces mi abuelo  tenía dos mujeres
+\utterance 
+\uterrance_tokens 
+\gramm_units # fey  ta   =ñi      ta   =ñi      laku   yem    epu domo  nie-ke-fu-y
+\rp_gloss # DEM2 DET1 =1SG.POSS DET1 =1SG.POSS abuelo finado 2   mujer tener-HAB-RI-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 749.080 757.000
+
+\ref 164
+\ELANParticipant HM
+\ELANBegin 00:12:37.120
+\ELANEnd 00:12:43.040
+\tx tüfachi epu domo lalu tañi füta engu kompañkülewituyngu
+\ft estas dos mujeres, cuando murió su esposo se acompañaban,
+\utterance 
+\uterrance_tokens 
+\gramm_units # tüfachi epu domo  # la-lu       ta   =ñi    füta  engu # kompañ-küle-wi-tu-yngu
+\rp_gloss # esto     2   mujer # morir-ADVR1 DET1 =3.POSS esposo 3.DU # acompañar-PROG/STAT-RFL-APPL3-IND.{3DU}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 757.120 763.040
+
+\ref 165
+\ELANParticipant HM
+\ELANBegin 00:12:43.280
+\ELANEnd 00:12:45.560
+\tx kelluniewtuyngu kiñe ruka mew
+\ft se ayudaron en una casa,
+\utterance 
+\uterrance_tokens 
+\gramm_units # kellu-nie-w-tu-yngu             kiñe ruka mew
+\rp_gloss # ayudar-PRPS-RFL-APPL3-IND.{3DI} INDEF casa PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 763.280 765.560
+
+\ref 166
+\ELANParticipant HM
+\ELANBegin 00:12:45.560
+\ELANEnd 00:12:47.320
+\tx femngechi kimpafñ feychi dungu
+\ft asì llegué a conocer ese asunto
+\utterance 
+\uterrance_tokens 
+\gramm_units # femngechi kim-pa-fi-ñ feychi dungu
+\rp_gloss # así      kim-pa-fi-ñ feychi dungu
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 765.560 767.320
+
+\ref 167
+\ELANParticipant HM
+\ELANBegin 00:12:47.640
+\ELANEnd 00:12:54.120
+\tx lalu ta kiñe ta fentren tañi pellken fentren ngümay
+\ft Cuando murió una, mucha tristeza, mucho se entristeció la otra
+\utterance 
+\uterrance_tokens 
+\gramm_units # la-lu       ta   kiñe # ta   fentren ta   =ñi    pellken fentren ngüma-y
+\rp_gloss # morir-ADVR1 DET1 INDEF # DET1 mucho   DET1 =3.POSS pena    mucho   triste-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 767.640 774.120
+
+\ref 168
+\ELANParticipant HM
+\ELANBegin 00:12:54.280
+\ELANEnd 00:13:09.120
+\tx fey amuley tüfachi rakiduam, tüfachi ülkantun tañi wenüy tañi lamngen wenüy, chem pingefuy chi may, welu lamngenwen reke
+\ft entonces iba yendo este pensamiento, este ülkantun su amiga su amiga, como se dirá, pero eran como hermanas,
+\utterance 
+\uterrance_tokens 
+\gramm_units # fey  amu-le-y     tüfachi rakiduam,   tüfachi ülkantun ta   =ñi    wenüy ta   =ñi    lamngen wenüy, # chem pi-nge-fu-y           chi may, welu lamngen-wen reke
+\rp_gloss # DEM2 ir-PROG/STAT esto     pensamiento esto     ülkantun DET1 =3.POSS amiga  DET1 =3.POSS hermana amiga   # qué decir-PASS-RI-IND.{3} DUB si   pero hermana-DI  realmente
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 774.280 789.120
+
+\ref 169
+\ELANParticipant HM
+\ELANBegin 00:13:09.280
+\ELANEnd 00:13:13.680
+\tx müley engu akutulu, akulu iñche tüfachi mapu mew
+\ft estaban así, cuando yo llegué a esta tierra,
+\utterance 
+\uterrance_tokens 
+\gramm_units # müle-y       engu # aku-tu-lu,            aku-lu            iñche tüfachi mapu   mew
+\rp_gloss # estar-IND.{3} 3DU  # llegar.acá-REV-ADVR1 llegar.acá-ADVR1 1SG    esto     tierra PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 789.280 793.680
+
+\ref 170
+\ELANParticipant HM
+\ELANBegin 00:13:13.800
+\ELANEnd 00:13:17.800
+\tx fey engu ta tremümenew
+\ft así me criaron.
+\utterance 
+\uterrance_tokens 
+\gramm_units # fey  engu ta   tremü-m-e-n-ew
+\rp_gloss # DEM2 3DU  DET1 crecer-CAUS1-INV-IND.{1SG}-OBL
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 793.800 797.800
+
+\ref 171
+\ELANParticipant FH
+\ELANBegin 00:13:18.920
+\ELANEnd 00:13:25.600
+\tx fey pilu ta ülkantun kümelkalepuaymi uyew
+\ft cuando en el ülkantun dice que llegues bien allà
+\utterance fey pilu ta ülkantun kümelkalepuaymi uyew
+\uterrance_tokens fey pilu ta ülkantun kümelkalepuaymi uyew
+\gramm_units # fey  pi-lu       ta ülkantun # küme-l-ka-le-pu-a-ymi                       uyew
+\rp_gloss # DEM2 decir-ADVR1 ta ülkantun # bien-APPL2-CONT-PROG/STAT-DIST-FUT-IND.{2SG} allá
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 798.920 805.600
+
+\ref 172
+\ELANParticipant FH
+\ELANBegin 00:13:25.760
+\ELANEnd 00:13:28.960
+\tx ¿chew?
+\ft ¿dónde?
+\utterance ¿chew?
+\uterrance_tokens ¿chew?
+\gramm_units # ¿chew?
+\rp_gloss # dónde
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 805.760 808.960
+
+\ref 173
+\ELANParticipant HM
+\ELANBegin 00:13:27.600
+\ELANEnd 00:13:31.040
+\tx mapu ñuke mew, mapunchengetulu
+\ft a la madre tierra, cuando sea gente en la tierra
+\utterance 
+\uterrance_tokens 
+\gramm_units # mapu   ñuke mew, mapunche-nge-tu-lu
+\rp_gloss # tierra madre PPOS mapunche-COP-REV-ADVR1
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 807.600 811.040
+
+\ref 174
+\ELANParticipant HM
+\ELANBegin 00:13:31.200
+\ELANEnd 00:13:34.800
+\tx feymew ta feypi kümelkalepuaymi ka mongen mew
+\ft entonces dice así: que llegues bien a la otra vida,
+\utterance 
+\uterrance_tokens 
+\gramm_units # feymew   ta feypi-y            # küme-l-ka-le-pu-a-ymi                       ka   mongen mew
+\rp_gloss # entonces ta decir.así-IND.{3} # bien-APPL2-CONT-PROG/STAT-DIST-FUT-IND.{2SG} otra vida   PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 811.200 814.800
+
+\ref 175
+\ELANParticipant HM
+\ELANBegin 00:13:34.920
+\ELANEnd 00:13:38.840
+\tx feypi tai kümelkalepuaymi ka mongen mew,
+\ft dice así, que llegues bien a la otra vida,  ,
+\utterance 
+\uterrance_tokens 
+\gramm_units # feypi-y            ta   # küme-l-ka-le-pu-a-ymi                       ka   mongen mew,
+\rp_gloss # decir.así-IND.{3} DET1 # bien-APPL2-CONT-PROG/STAT-DIST-FUT-IND.{2SG} otra vida   PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 814.920 818.840
+
+\ref 176
+\ELANParticipant HM
+\ELANBegin 00:13:38.840
+\ELANEnd 00:13:40.680
+\tx amutuaymi tüfachi mongen mew
+\ft que te vayas de esta vida,
+\utterance 
+\uterrance_tokens 
+\gramm_units # amu-tu-a-ymi         tüfachi mongen mew
+\rp_gloss # ir-REV-FUT-IND.{2SG} esto     vida   PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 818.840 820.680
+
+\ref 177
+\ELANParticipant HM
+\ELANBegin 00:13:40.680
+\ELANEnd 00:13:42.000
+\tx rupayaymi ka mongen mew
+\ft que pases a la otra vida
+\utterance 
+\uterrance_tokens 
+\gramm_units # rupa-ya-ymi         ka   mongen mew
+\rp_gloss # pasar-FUT-IND.{2SG} otra vida   PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 820.680 822.000
+
+\ref 178
+\ELANParticipant HM
+\ELANBegin 00:13:42.000
+\ELANEnd 00:13:43.640
+\tx kümelkalepuaymi uyew
+\ft que llegues bien allá.
+\utterance 
+\uterrance_tokens 
+\gramm_units # küme-l-ka-le-pu-a-ymi                       uyew
+\rp_gloss # bien-APPL2-CONT-PROG/STAT-DIST-FUT-IND.{2SG} allá
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 822.000 823.640
+
+\ref 179
+\ELANParticipant HM
+\ELANBegin 00:13:43.680
+\ELANEnd 00:13:45.480
+\tx feypifi
+\ft le dice así
+\utterance 
+\uterrance_tokens 
+\gramm_units # feypi-fi-y
+\rp_gloss # decir.así-{3.OP}-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 823.680 825.480
+
+\ref 180
+\ELANParticipant HM
+\ELANBegin 00:13:45.600
+\ELANEnd 00:13:48.520
+\tx welu mülepulimi uyew, pepaen
+\ft pero si estás allá, ven a verme
+\utterance 
+\uterrance_tokens 
+\gramm_units # welu müle-pu-l-imi        uyew, # pe-pa-e-n
+\rp_gloss # pero estar-DIST-COND-{2SG} allá # ver-PROX-INV-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 825.600 828.520
+
+\ref 181
+\ELANParticipant HM
+\ELANBegin 00:13:48.680
+\ELANEnd 00:13:50.440
+\tx pepaen
+\ft ven a verme
+\utterance 
+\uterrance_tokens 
+\gramm_units # pe-pa-e-n
+\rp_gloss # ver-PROX-INV-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 828.680 830.440
+
+\ref 182
+\ELANParticipant HM
+\ELANBegin 00:13:50.600
+\ELANEnd 00:13:54.840
+\tx nguyuküleli lamngen
+\ft no me olvides hermana
+\utterance 
+\uterrance_tokens 
+\gramm_units # nguyu-kül-e-l-i            lamngen
+\rp_gloss # olvidar-NEG3-INV-COND-{1SG} hermana
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 830.600 834.840
+
+\ref 183
+\ELANParticipant HM
+\ELANBegin 00:13:55.000
+\ELANEnd 00:13:59.680
+\tx feymew ta fey nentuy tañi ngüman
+\ft entonces, así sacó su tristeza.
+\utterance 
+\uterrance_tokens 
+\gramm_units # feymew   ta   fey  nentu-y       ta   =ñi    ngüman
+\rp_gloss # entonces DET1 DEM2 sacar-IND.{3} DET1 =3.POSS tristeza
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 835.000 839.680
+
+\ref 184
+\ELANParticipant FH
+\ELANBegin 00:13:59.840
+\ELANEnd 00:14:07.600
+\tx ka ¿müley kiñeke kulliñ,
+\ft Y ¿hay algunos animales,
+\utterance ka ¿müley kiñeke kulliñ,
+\uterrance_tokens ka ¿müley kiñeke kulliñ,
+\gramm_units ka # müle-y       kiñe-ke   kulliñ,
+\rp_gloss y  # estar-IND.{3} INDEF-DIST animal
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 839.840 847.600
+
+\ref 185
+\ELANParticipant FH
+\ELANBegin 00:14:07.600
+\ELANEnd 00:14:17.600
+\tx müley kiñeke señal pi ta wingka fey kiñe wentru kiñe domo layay
+\ft algunas señales, dicen los wingka, un hombre, una mujer va a morir?
+\utterance müley kiñeke señal pi ta wingka fey kiñe wentru kiñe domo layay
+\uterrance_tokens müley kiñeke señal pi ta wingka fey kiñe wentru kiñe domo layay
+\gramm_units # müle-y       kiñe-ke   señal # pi-y          ta   wingka # fey  kiñe wentru kiñe domo  la-ya-y
+\rp_gloss # estar-IND.{3} INDEF-DIST señal # decir-IND.{3} DET1 wingka # DEM2 INDEF hombre INDEF mujer morir-FUT-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 847.600 857.600
+
+\ref 186
+\ELANParticipant HM
+\ELANBegin 00:14:17.640
+\ELANEnd 00:14:18.480
+\tx kimkey
+\ft Saben
+\utterance 
+\uterrance_tokens 
+\gramm_units # kim-ke-y
+\rp_gloss # saber-HAB-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 857.640 858.480
+
+\ref 187
+\ELANParticipant HM
+\ELANBegin 00:14:18.480
+\ELANEnd 00:14:23.280
+\tx feychi pun, rupalu iñche triparumey tañi chuchu yem
+\ft Esa noche, cuando pasé yo de repente salió mi abuelita, ,
+\utterance 
+\uterrance_tokens 
+\gramm_units # feychi pun,  rupa-lu     iñche # tripa-rume-y      ta   =ñi      chuchu         yem
+\rp_gloss # ese    noche pasar-ADVR1 1SG    # salir-RPN-IND.{3} DET1 =1SG.POSS abuela.materna finada
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 858.480 863.280
+
+\ref 188
+\ELANParticipant HM
+\ELANBegin 00:14:23.280
+\ELANEnd 00:14:25.440
+\tx ngümalen konpatuy ruka mew
+\ft triste volvió a entrar a la casa
+\utterance 
+\uterrance_tokens 
+\gramm_units # ngüma-le-n          kon-pa-tu-y             ruka mew
+\rp_gloss # triste-PROG/STAT-NR1 entrar-PROX-REV-IND.{3} casa PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 863.280 865.440
+
+\ref 189
+\ELANParticipant HM
+\ELANBegin 00:14:25.680
+\ELANEnd 00:14:29.760
+\tx peñmafiñ ñi nge we ngumalu
+\ft le vi sus ojos que estaban tristes,
+\utterance 
+\uterrance_tokens 
+\gramm_units # pe-ñma-fi-ñ              ñi      nge we     nguma-lu
+\rp_gloss # ver-APPL1-{3.OP}-IND.{1SG} 1SG.POSS ojo recien triste-ADVR1
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 865.680 869.760
+
+\ref 190
+\ELANParticipant HM
+\ELANBegin 00:14:29.760
+\ELANEnd 00:14:31.680
+\tx ramtufiñ iñche feychi
+\ft le pregunté entonces
+\utterance 
+\uterrance_tokens 
+\gramm_units # ramtu-fi-ñ                iñche feychi
+\rp_gloss # preguntar-{3.OP}-IND.{1SG} 1SG    ese
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 869.760 871.680
+
+\ref 191
+\ELANParticipant HM
+\ELANBegin 00:14:31.800
+\ELANEnd 00:14:34.440
+\tx chumngelu amta ngümangümangeymi pifiñ
+\ft ¿por qué estás triste? le dije
+\utterance 
+\uterrance_tokens 
+\gramm_units # chumngelu am-ta    ngüma-ngüma-nge-yi # pi-fi-ñ
+\rp_gloss # por qué  INT-DET1 triste-COP-IND.{2SG} # decir-{3.OP}-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 871.800 874.440
+
+\ref 192
+\ELANParticipant HM
+\ELANBegin 00:14:34.600
+\ELANEnd 00:14:36.840
+\tx chumngelu amta ngümangümangeymi
+\ft ¿por qué estás triste?
+\utterance 
+\uterrance_tokens 
+\gramm_units # chumngelu am-ta    ngüma-ngüma-nge-ymi
+\rp_gloss # por qué  INT-DET1 triste-COP-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 874.600 876.840
+
+\ref 193
+\ELANParticipant HM
+\ELANBegin 00:14:37.000
+\ELANEnd 00:14:38.440
+\tx pifiñ
+\ft le dije
+\utterance 
+\uterrance_tokens 
+\gramm_units # pi-fi-ñ
+\rp_gloss # decir-{3.OP}-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 877.000 878.440
+
+\ref 194
+\ELANParticipant HM
+\ELANBegin 00:14:38.440
+\ELANEnd 00:14:40.080
+\tx illkutungeymi am
+\ft ¿estás enojada?
+\utterance 
+\uterrance_tokens 
+\gramm_units # illku-tu-nge-ymi             am
+\rp_gloss # enojarse-APPL3-COP-IND.{2SG} INT
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 878.440 880.080
+
+\ref 195
+\ELANParticipant HM
+\ELANBegin 00:14:40.080
+\ELANEnd 00:14:42.040
+\tx chumngelu amta
+\ft ¿por qué?
+\utterance 
+\uterrance_tokens 
+\gramm_units # chumngelu am-ta
+\rp_gloss # por qué  INT-DET1
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 880.080 882.040
+
+\ref 196
+\ELANParticipant HM
+\ELANBegin 00:14:42.040
+\ELANEnd 00:14:43.120
+\tx femngelan pi,
+\ft , "no es así", dijo,
+\utterance 
+\uterrance_tokens 
+\gramm_units # fem-nge-la-n            # pi-y
+\rp_gloss # así-COP-NEG1-IND.{1SG} # decir-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 882.040 883.120
+
+\ref 197
+\ELANParticipant HM
+\ELANBegin 00:14:43.120
+\ELANEnd 00:14:46.280
+\tx illkutungelan,
+\ft "no estoy enojada,
+\utterance 
+\uterrance_tokens 
+\gramm_units # illku-tu-nge-la-n,
+\rp_gloss # enojarse-APPL3-COP-NEG1-IND.{1SG}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 883.120 886.280
+
+\ref 198
+\ELANParticipant HM
+\ELANBegin 00:14:46.280
+\ELANEnd 00:14:48.480
+\tx pellkelen müten pi
+\ft estoy triste no màs" dijo
+\utterance 
+\uterrance_tokens 
+\gramm_units # pellke-le-n              müten  # pi-y
+\rp_gloss # pena-PROG/STAT-IND.{1SG} no.más # decir-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 886.280 888.480
+
+\ref 199
+\ELANParticipant HM
+\ELANBegin 00:14:48.640
+\ELANEnd 00:14:54.120
+\tx kimnierkey pin ta tüfa tañi layael tañi kuse chuchu yem amutuael tañi kuse chuchu yem
+\ft debe saber, dije, que morirá mi abuelita, que se va ir mi anciana abuelita
+\utterance 
+\uterrance_tokens 
+\gramm_units # kim-nie-rke-y           # pi-n            ta   tüfa # ta   =ñi    la-ya-el      ta   =ñi    kuse    chuchu         yem    # amu-tu-a-el    ta   =ñi      kuse    chuchu         yem
+\rp_gloss # saber-PRPS-EVID-IND.{3} # decir-IND.{1SG} DET1 DEM1  # DET1 =3.POSS morir-FUT-NR2 DET1 =1.POSS anciana abuela.materna finada # ir-REV-FUT-NR2 DET1 =1SG.POSS anciana abuela.materna finada
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 888.640 894.120
+
+\ref 200
+\ELANParticipant HM
+\ELANBegin 00:14:54.240
+\ELANEnd 00:15:00.080
+\tx füchakeche ta kimkey tañi amutuael, pewma mew,
+\ft los ancianos saben que se va a ir una persona, en los sueños,
+\utterance 
+\uterrance_tokens 
+\gramm_units # fücha-ke-che      ta   kim-ke-y          # ta   =ñi    amu-tu-a-el,   # pewma  mew,
+\rp_gloss # anciano-DIST-gente DET1 saber-HAB-IND.{3} # DET1 =3.POSS ir-REV-FUT-NR2 # sueño PPOS
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 894.240 900.080
+
+\ref 201
+\ELANParticipant HM
+\ELANBegin 00:15:00.080
+\ELANEnd 00:15:04.120
+\tx kiñeke mew, rupakey chonchon,
+\ft algunas veces, pasa el chonchon,
+\utterance 
+\uterrance_tokens 
+\gramm_units # kiñe-ke   mew, rupa-ke-y         chonchon,
+\rp_gloss # INDEF-DIST PPOS pasar-HAB-IND.{3} chonchon,
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 900.080 904.120
+
+\ref 202
+\ELANParticipant HM
+\ELANBegin 00:15:04.120
+\ELANEnd 00:15:05.840
+\tx wente ruka wirarparkey
+\ft arriba de las casas dicen que pasa gritando.
+\utterance 
+\uterrance_tokens 
+\gramm_units # wente  ruka wirar-pa-rke-y
+\rp_gloss # arriba casa gritar-PROX-EVID-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 904.120 905.840
+
+\ref 203
+\ELANParticipant HM
+\ELANBegin 00:15:05.880
+\ELANEnd 00:15:07.760
+\tx amutuperkelay che
+\ft se irá a ir la persona
+\utterance 
+\uterrance_tokens 
+\gramm_units # amu-tu-pe-rke-la-y           che
+\rp_gloss # ir-REV-CER-EVID-NEG1-IND.{3} persona
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 905.880 907.760
+
+\ref 204
+\ELANParticipant HM
+\ELANBegin 00:15:07.760
+\ELANEnd 00:15:09.880
+\tx , laperkelay che pikey
+\ft , irá a morir la persona, dicen
+\utterance 
+\uterrance_tokens 
+\gramm_units # la-pe-rke-la-y              che     # pi-ke-y
+\rp_gloss # morir-CER-EVID-NEG1-IND.{3} persona # decir-HAB-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 907.760 909.880
+
+\ref 205
+\ELANParticipant HM
+\ELANBegin 00:15:10.240
+\ELANEnd 00:15:18.880
+\tx feymew fillke señal fillke dungu müley
+\ft entonces, varias señales varios asuntos hay
+\utterance 
+\uterrance_tokens 
+\gramm_units # feymew  fill-ke   señal fill-ke   dungu  müle-y
+\rp_gloss # entonce cada-DIST señal cada-DIST asunto estar-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 910.240 918.880
+
+\ref 206
+\ELANParticipant HM
+\ELANBegin 00:15:19.080
+\ELANEnd 00:15:24.240
+\tx kiñeke mew wawlutukey kulliñ
+\ft algunas veces braman los animales
+\utterance 
+\uterrance_tokens 
+\gramm_units # kiñe-ke   mew  wawlu-tu-ke-y            kulliñ
+\rp_gloss # INDEF-DIST PPOS bramar-APPL3-HAB-IND.{3} animal
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 919.080 924.240
+
+\ref 207
+\ELANParticipant HM
+\ELANBegin 00:15:24.400
+\ELANEnd 00:15:26.320
+\tx rume wawlutukey
+\ft braman mucho
+\utterance 
+\uterrance_tokens 
+\gramm_units # rume  wawlu-tu-ke-y
+\rp_gloss # mucho bramar-APPL3-HAB-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 924.400 926.320
+
+\ref 208
+\ELANParticipant HM
+\ELANBegin 00:15:26.440
+\ELANEnd 00:15:28.040
+\tx ka layalu che
+\ft cuando va a morir la gente
+\utterance 
+\uterrance_tokens 
+\gramm_units # ka la-ya-lu        che
+\rp_gloss # y  morir-FUT-ADVR1 gente
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 926.440 928.040
+
+\ref 209
+\ELANParticipant HM
+\ELANBegin 00:15:28.200
+\ELANEnd 00:15:33.560
+\tx kiñeke mew ülkantukey allka, petu ñi rangipunnon
+\ft algunas veces canta el gallo, cuando todavía no es la medianoche
+\utterance 
+\uterrance_tokens 
+\gramm_units # kiñe-ke   mew  ülkantu-ke-y      allka, # petu ñi    rangipun-no-n
+\rp_gloss # INDEF-DIST PPOS cantar-HAB-IND.{3} gallo  # aún 3.POSS media.noche-NEG2-NR1
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 928.200 933.560
+
+\ref 210
+\ELANParticipant HM
+\ELANBegin 00:15:33.720
+\ELANEnd 00:15:36.440
+\tx fillke señal mülekey peñi,
+\ft muchas señales hay, hermano,
+\utterance 
+\uterrance_tokens 
+\gramm_units # fill-ke   señal müle-ke-y        peñi,
+\rp_gloss # cada-DIST señal estar-HAB-IND.{3} hermano
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 933.720 936.440
+
+\ref 211
+\ELANParticipant HM
+\ELANBegin 00:15:36.440
+\ELANEnd 00:15:44.440
+\tx kiñeke mew  feychi layalu ñi ñuke yem ka triparumen kiñe pun, dumiñ pun
+\ft algunas veces,cuando iba a morir mi madre también de repente salí una noche, una noche oscura
+\utterance 
+\uterrance_tokens 
+\gramm_units # kiñe-ke   mew  feychi la-ya-lu        ñi      ñuke yem    # ka tripa-rume-n        kiñe pun,  dumiñ pun
+\rp_gloss # INDEF-DIST PPOS ese    morir-FUT-ADVR1 1SG.POSS madre finada # y  salir-RPN-IND.{1SG} INDEF noche oscuro noche
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 936.440 944.440
+
+\ref 212
+\ELANParticipant HM
+\ELANBegin 00:15:44.560
+\ELANEnd 00:15:46.680
+\tx pen kiñe füchache
+\ft vi a un viejo
+\utterance 
+\uterrance_tokens 
+\gramm_units # pe-n          kiñe fücha-che
+\rp_gloss # ver-IND.{1SG} INDEF anciano-gente
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 944.560 946.680
+
+\ref 213
+\ELANParticipant HM
+\ELANBegin 00:15:46.800
+\ELANEnd 00:15:48.480
+\tx ligmakuñtuley,
+\ft tenía una manta blanca
+\utterance 
+\uterrance_tokens 
+\gramm_units # lig-makuñ-tu-le-y,
+\rp_gloss # blanco-manta-VR-PROG/STAT-IND.{3},
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 946.800 948.480
+
+\ref 214
+\ELANParticipant HM
+\ELANBegin 00:15:48.480
+\ELANEnd 00:15:51.200
+\tx kiñe fücha chumpiru tukuley ñi nge
+\ft y un gran sombrero que le tapaba los ojos
+\utterance 
+\uterrance_tokens 
+\gramm_units # kiñe fücha chumpiru tuku-le-y               ñi    nge
+\rp_gloss # INDEF gran   sombrero poner-PROG/STAT-IND.{3} 3.POSS ojo
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 948.480 951.200
+
+\ref 215
+\ELANParticipant HM
+\ELANBegin 00:15:51.560
+\ELANEnd 00:15:54.600
+\tx tripan wekun willitual
+\ft salí afuera a orinar
+\utterance 
+\uterrance_tokens 
+\gramm_units # tripa-n         wekun  # willi-tu-a-(e)l
+\rp_gloss # salir-IND.{1SG} afuera # orina-VR-FUT-NR2
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 951.560 954.600
+
+\ref 216
+\ELANParticipant HM
+\ELANBegin 00:15:54.760
+\ELANEnd 00:15:58.720
+\tx lefkülen konputun ñi ruka mew, fentren ñi llikan
+\ft corriendo entré de vuelta a la casa, fue mucho el susto
+\utterance 
+\uterrance_tokens 
+\gramm_units # lef-küle-n          kon-pu-tu-n               ñi      ruka mew, fentren ñi      llikan
+\rp_gloss # correr-PROG/STAT-NR1 entrar-DIST-REV-IND.{1SG} 1SG.POSS casa PPOS mucho   1SG.POSS susto
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 954.760 958.720
+
+\ref 217
+\ELANParticipant HM
+\ELANBegin 00:15:58.840
+\ELANEnd 00:16:06.640
+\tx feychi señal pefiñ ta feychi amutual tañi kuse kuse chuchu yem
+\ft esa señal la vi, entonces que se iba a ir mi ancianita mi anciana abuelita
+\utterance 
+\uterrance_tokens 
+\gramm_units # feychi señal pe-fi-ñ             ta   feychi # amu-tu-a-(e)l  ta   =ñi      kuse    kuse    chuchu         yem
+\rp_gloss # ese    señal ver-{3.OP}-IND.{1SG} DET1 ese    # ir-REV-FUT-NR2 DET1 =1SG.POSS anciana anciana abuela.materna finada
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 958.840 966.640
+
+\ref 218
+\ELANParticipant HM
+\ELANBegin 00:16:06.680
+\ELANEnd 00:16:08.440
+\tx femngechi peñi
+\ft así, hermano
+\utterance 
+\uterrance_tokens 
+\gramm_units # femngechi peñi
+\rp_gloss # así      hermano
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 966.680 968.440
+
+\ref 219
+\ELANParticipant FH
+\ELANBegin 00:16:08.400
+\ELANEnd 00:16:10.680
+\tx feley tati, müna küme dungu,
+\ft así es, muy buena cosa,
+\utterance feley tati, müna küme dungu,
+\uterrance_tokens feley tati, müna küme dungu,
+\gramm_units # fe-le-y                ta-ti,    müna küme dungu,
+\rp_gloss # así-PROG/STAT-IND.{3} DET1-DET2 muy   bien  asunto
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 968.400 970.680
+
+\ref 220
+\ELANParticipant FH
+\ELANBegin 00:16:10.680
+\ELANEnd 00:16:16.680
+\tx kangelu señal müley ta
+\ft ¿hay otras señales
+\utterance kangelu señal müley ta
+\uterrance_tokens kangelu señal müley ta
+\gramm_units # kangelu señal müle-y       ta
+\rp_gloss # otra    señal estar-IND.{3} DET1
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 970.680 976.680
+
+\ref 221
+\ELANParticipant FH
+\ELANBegin 00:16:16.680
+\ELANEnd 00:16:24.600
+\tx chumngechi ta che pepi kimiy ñi chumlen ñi dungu
+\ft de cómo la gente como están las cosas
+\utterance chumngechi ta che pepi kimiy ñi chumlen ñi dungu
+\uterrance_tokens chumngechi ta che pepi kimiy ñi chumlen ñi dungu
+\gramm_units # chumngechi ta   che   pepi  kim-i         # ñi    chum-le-n           ñi    dungu
+\rp_gloss # cómo      DET1 gente poder saber-IND.{3} # 3.POSS cómo-PROG/STAT-NR1 3.POSS asunto
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 976.680 984.600
+
+\ref 222
+\ELANParticipant FH
+\ELANBegin 00:16:25.120
+\ELANEnd 00:16:32.760
+\tx ñi chumael ta küdaw
+\ft cómo va a estar el trabajo
+\utterance ñi chumael ta küdaw
+\uterrance_tokens ñi chumael ta küdaw
+\gramm_units # ñi    chum-a-el     ta   küdaw
+\rp_gloss # 3.POSS cómo-FUT-NR2 DET1 trabajo
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 985.120 992.760
+
+\ref 223
+\ELANParticipant FH
+\ELANBegin 00:16:32.880
+\ELANEnd 00:16:34.520
+\tx müley ka kiñe señal
+\ft hay otras señales?
+\utterance müley ka kiñe señal
+\uterrance_tokens müley ka kiñe señal
+\gramm_units # müle-y       ka   kiñe señal
+\rp_gloss # estar-IND.{3} otra INDEF señal
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 992.880 994.520
+
+\ref 224
+\ELANParticipant HM
+\ELANBegin 00:16:34.800
+\ELANEnd 00:16:38.760
+\tx müte mülekelay
+\ft no hay tanto más
+\utterance 
+\uterrance_tokens 
+\gramm_units # müte müle-ke-la-y
+\rp_gloss # mucho estar-HAB-NEG1-IND.{3}
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 994.800 998.760
+
+\ref 225
+\ELANParticipant HM
+\ELANBegin 00:16:38.960
+\ELANEnd 00:16:43.280
+\tx feley peñi, fantepuy tañi dungu
+\ft así hermano, se acabó el asunto
+\utterance 
+\uterrance_tokens 
+\gramm_units # fe-le-y                peñi,  # fantepu-y      ta   =ñi     dungu
+\rp_gloss # así-PROG/STAT-IND.{3} hermano # acabar-IND.{3} DET1 1SG.POSS asunto
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 998.960 1003.280
+
+\ref 226
+\ELANParticipant HM
+\ELANBegin 00:16:43.320
+\ELANEnd 00:16:44.920
+\tx fentepuy tañi nütram
+\ft se acabó mi nütram
+\utterance 
+\uterrance_tokens 
+\gramm_units # fentepu-y      ta   =ñi      nütram
+\rp_gloss # acabar-IND.{3} DET1 =1SG.POSS nütram
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 1003.320 1004.920
+
+\ref 227
+\ELANParticipant HM
+\ELANBegin 00:16:44.920
+\ELANEnd 00:16:50.240
+\tx pewmangen yeaymi tüfachi dungu fillke mapu püle
+\ft ojalá lleves este asunto a muchas partes.
+\utterance 
+\uterrance_tokens 
+\gramm_units # pewmangen ye-a-ymi             tüfachi dungu  fill-ke   mapu   püle
+\rp_gloss # ojalá    llevar-FUT-IND.{2SG} este     asunto cada-DIST tierra hacia
+\mm HectorMariano.13052013.fotrfotr_17mins.wav 1004.920 1010.240
+
+
+\ELANMediaURL file:///Users/FelipeHasler/Dropbox/Trabajo de campo_21052013/trabajodecampomayo2013_300minutos/Santiago_270mins/HectorMariano.13052013.fotrfotr_17mins.wav
+\ELANMediaMIME audio/x-wav

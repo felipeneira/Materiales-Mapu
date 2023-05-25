@@ -1,0 +1,3258 @@
+﻿\_sh v3.0  1076 Text
+
+\id
+\ref
+\tx
+\ft
+\nt 
+
+\ref 001
+\ELANBegin 00:00:00.000
+\ELANEnd 00:00:03.200
+\ELANParticipant HM
+\tx felerkefuy                      tüfa mew  ta  kuyfi        ta  escuela
+\mb fele     -rke   -fu    -y       tüfa mew  ta  kuyfi        ta  escuela
+\ge ser así -EVID  -AP    -IND.[3] DEM1  PPOS DET antiguamente DET escuela
+\ps verbo    -tam-e -tam-e -per     pro   ppos det adv          det nombre
+
+\ft dicen que así era acá antes la escuela
+\mm SegundoLlamin_escuela_18052013_18mins.wav 0.000 3.200
+
+\ref 002
+\ELANBegin 00:00:03.160
+\ELANEnd 00:00:06.920
+\ELANParticipant SLL
+\tx fey  ti   kimpalu              kuyfi        fütake     che
+\mb fey  ti   kim   -pa    -lu     kuyfi        füta -ke   che
+\ge DEM2 DET2 saber -DIR.1 -advr.1 antiguamente viejo -DIST gente
+\ps pro  det  verbo -dir   -advr   adv          adj   -det  nombre
+
+\ft Cuando llegaron los antiguos a saber
+\mm SegundoLlamin_escuela_18052013_18mins.wav 3.160 6.920
+
+\ref 003
+\ELANBegin 00:00:06.920
+\ELANEnd 00:00:10.520
+\ELANParticipant SLL
+\tx fey  ta  kimpay                ta  tüfachi    kuyfike            dungu  peñi
+\mb fey  ta  kim   -pa    -y       ta  tüfa -chi  kuyfi        -ke   dungu  peñi
+\ge DEM2 DET saber -DIR.1 -IND.[3] DET DEM1  -adjr antiguamente -DIST asunto hermano (de ego masculino)
+\ps pro  det verbo -dir   -per     det pro   -***  adv          -det  nombre nombre
+
+\ft alcanzaron a conocer estas cosas antiguas
+\mm SegundoLlamin_escuela_18052013_18mins.wav 6.920 10.520
+
+\ref 004
+\ELANBegin 00:00:10.480
+\ELANEnd 00:00:11.280
+\ELANParticipant HM
+\tx feley
+\mb fele     -y
+\ge ser así -IND.[3]
+\ps verbo    -per
+
+\ft así es
+\mm SegundoLlamin_escuela_18052013_18mins.wav 10.480 11.280
+
+\ref 005
+\ELANBegin 00:00:11.360
+\ELANEnd 00:00:13.920
+\ELANParticipant SLL
+\tx iñche ta  pepan                 tañi          kuku           em
+\mb iñche ta  pe    -pa    -n       ta  -ñi      kuku           em
+\ge 1SG    DET ver   -DIR.1 -IND.1SG DET -1SG.POSS abuela.paterna finado
+\ps pro    det verbo -dir   -per     det -pro      nombre         interj
+
+\ft Yo alcancé a ver a mi abuela paterna
+\mm SegundoLlamin_escuela_18052013_18mins.wav 11.360 13.920
+
+\ref 006
+\ELANBegin 00:00:13.920
+\ELANEnd 00:00:16.960
+\ELANParticipant SLL
+\tx fey  ta  elukefuenew                            ta  kimün
+\mb fey  ta  elu   -ke    -fu    -e   -n       -ew  ta  kim   -*ü -n
+\ge DEM2 DET dar   -HAB   -AP    -INV -IND.1SG -OBL DET saber -*** -IND.1SG
+\ps pro  det verbo -tam-e -tam-e -per -per     -per det verbo -*** -per
+
+\ft ella me dio conocimiento
+\mm SegundoLlamin_escuela_18052013_18mins.wav 13.920 16.960
+
+\ref 007
+\ELANBegin 00:00:16.920
+\ELANEnd 00:00:18.240
+\ELANParticipant HM
+\tx feley             feley
+\mb fele     -y       fele     -y
+\ge ser así -IND.[3] ser así -IND.[3]
+\ps verbo    -per     verbo    -per
+
+\ft así es, así es
+\mm SegundoLlamin_escuela_18052013_18mins.wav 16.920 18.240
+
+\ref 008
+\ELANBegin 00:00:18.320
+\ELANEnd 00:00:23.080
+\ELANParticipant SLL
+\tx fey  iñche ayukefun                              tañi          allkutuael
+\mb fey  iñche ayu            -ke    -fu    -n       ta  -ñi      allkutu  -a     -el
+\ge DEM2 1SG    querer, gustar -HAB   -AP    -IND.1SG DET -1SG.POSS escuchar -FUT   -NMRZ2
+\ps pro  pro    verbo          -tam-e -tam-e -per     det -pro      verbo    -tam-e -nmzr
+
+\ft a mi me gustaba escuchar
+\mm SegundoLlamin_escuela_18052013_18mins.wav 18.320 23.080
+
+\ref 009
+\ELANBegin 00:00:23.080
+\ELANEnd 00:00:25.920
+\ELANParticipant SLL
+\tx allkutuñmakefuiñ
+\mb allkutu  -ñma  -ke    -fu    -iñ
+\ge escuchar -APPL1 -HAB   -AP    -IND.1PL
+\ps verbo    -per   -tam-e -tam-e -per
+
+\ft la escuchabamos
+\mm SegundoLlamin_escuela_18052013_18mins.wav 23.080 25.920
+
+\ref 010
+\ELANBegin 00:00:25.920
+\ELANEnd 00:00:27.960
+\ELANParticipant HM
+\tx iñche ta  küpakimün                   tüfachi    dungu
+\mb iñche ta  küpa  -kim   -*ü -n       tüfa -chi  dungu
+\ge 1SG    DET querer -saber -*** -IND.1SG DEM1  -adjr asunto
+\ps pro    det aux    -verbo -*** -per     pro   -***  nombre
+
+\ft Yo quiero saber este asunto
+\mm SegundoLlamin_escuela_18052013_18mins.wav 25.920 27.960
+
+\ref 011
+\ELANBegin 00:00:27.960
+\ELANEnd 00:00:32.440
+\ELANParticipant HM
+\tx kuyfi        mülekerkefuy                       ta  escuela ta  tüfa mew
+\mb kuyfi        müle -ke    -rke   -fu    -y       ta  escuela ta  tüfa mew
+\ge antiguamente estar -HAB   -EVID  -AP    -IND.[3] DET escuela DET DEM1  PPOS
+\ps adv          verbo -tam-e -tam-e -tam-e -per     det nombre  det pro   ppos
+
+\ft Antes dicen que había escuela acá
+\mm SegundoLlamin_escuela_18052013_18mins.wav 27.960 32.440
+
+\ref 012
+\ELANBegin 00:00:32.440
+\ELANEnd 00:00:33.960
+\ELANParticipant HM
+\tx fey  ta  püle
+\mb fey  ta  püle
+\ge DEM2 DET hacia
+\ps pro  det adv
+
+\ft por acá
+\mm SegundoLlamin_escuela_18052013_18mins.wav 32.440 33.960
+
+\ref 013
+\ELANBegin 00:00:33.960
+\ELANEnd 00:00:36.960
+\ELANParticipant HM
+\tx mülekerkefuy                       ta
+\mb müle -ke    -rke   -fu    -y       ta
+\ge estar -HAB   -EVID  -AP    -IND.[3] DET
+\ps verbo -tam-e -tam-e -tam-e -per     det
+
+\ft Dicen que había
+\mm SegundoLlamin_escuela_18052013_18mins.wav 33.960 36.960
+
+\ref 014
+\ELANBegin 00:00:36.960
+\ELANEnd 00:00:39.840
+\ELANParticipant HM
+\tx
+\ft
+\mm SegundoLlamin_escuela_18052013_18mins.wav 36.960 39.840
+
+\ref 015
+\ELANBegin 00:00:39.840
+\ELANEnd 00:00:48.560
+\ELANParticipant HM
+\tx mülekerkefuy                       ta  tüfa kiñe profesor Painemal      pingerkefuy                       tati
+\mb müle -ke    -rke   -fu    -y       ta  tüfa kiñe profesor Painemal      pi    -nge -rke   -fu    -y       ta  -t     -i
+\ge estar -HAB   -EVID  -AP    -IND.[3] DET DEM1  un    profesor Painemal      decir -PAS -EVID  -AP    -IND.[3] DET -NMRZ3 -IND.[3]
+\ps verbo -tam-e -tam-e -tam-e -per     det pro   art   nombre   nombre propio verbo -per -tam-e -tam-e -per     det -nmrz  -per
+
+\ft Dicen que había un profesor, Painemal dicen que se llamaba
+\mm SegundoLlamin_escuela_18052013_18mins.wav 39.840 48.560
+
+\ref 016
+\ELANBegin 00:00:48.640
+\ELANEnd 00:00:55.440
+\ELANParticipant HM
+\tx küpakimfufin                        chachay          feychi     wentru tañi        kimelken               mapudungun
+\mb küpa  -kim   -fu    -fi   -n       chachay          fey  -chi  wentru ta  -ñi    kimel    -ke    -n     mapudungun
+\ge querer -saber -AP    -3.OP -IND.1SG viejo (afectivo) DEM2 -adjr hombre DET -3.POSS enseñar -HAB   -NMRZ1 mapudungun
+\ps aux    -verbo -tam-e -per  -per     nombre           pro  -***  nombre det -pro    verbo    -tam-e -nmrz  nombre
+
+\ft Quisiera conocer, chachay, la enseñanza de mapudungun de ese hombre
+\mm SegundoLlamin_escuela_18052013_18mins.wav 48.640 55.440
+
+\ref 017
+\ELANBegin 00:00:55.440
+\ELANEnd 00:01:00.320
+\ELANParticipant HM
+\tx küpa  kimelken               mapudungun tañi        ayiken                  ñi    kimel    mapudungun feychi     wentru
+\mb küpa  kimel    -ke    -n     mapudungun ta  -ñi    ayi       -ke    -n     ñi    kimel    mapudungun fey  -chi  wentru
+\ge querer enseñar -HAB   -NMRZ1 mapudungun DET -3.POSS alegrarse -HAB   -NMRZ1 3.POSS enseñar mapudungun DEM2 -adjr hombre
+\ps aux    verbo    -tam-e -nmrz  nombre     det -pro    verbo     -tam-e -nmrz  pro    verbo    nombre     pro  -***  nombre
+
+\ft Quiero saber si le gustaba enseñar mapudungun a ese hombre
+\mm SegundoLlamin_escuela_18052013_18mins.wav 55.440 60.320
+
+\ref 018
+\ELANBegin 00:01:00.320
+\ELANEnd 00:01:03.160
+\ELANParticipant HM
+\tx profesorngelu           kimelfengelu
+\mb profesor -nge   -lu     kimelfe    -nge   -lu
+\ge profesor -COP   -advr.1 sustantivo -COP   -advr.1
+\ps nombre   -verbo -advr   nombre     -verbo -advr
+
+\ft que era profesor
+\mm SegundoLlamin_escuela_18052013_18mins.wav 60.320 63.160
+
+\ref 019
+\ELANBegin 00:01:03.160
+\ELANEnd 00:01:08.960
+\ELANParticipant HM
+\tx feychi     antü  mew  feychi     pun    mew  küpakimfufin
+\mb fey  -chi  antü  mew  fey  -chi  pun    mew  küpa  -kim   -fu    -fi   -n
+\ge DEM2 -adjr día   PPOS DEM2 -adjr noche  PPOS querer -saber -AP    -3.OP -IND.1SG
+\ps pro  -***  nombre ppos pro  -***  nombre ppos aux    -verbo -tam-e -per  -per
+
+\ft En esos días, en esas noches, quiero saber
+\mm SegundoLlamin_escuela_18052013_18mins.wav 63.160 68.960
+
+\ref 020
+\ELANBegin 00:01:08.960
+\ELANEnd 00:01:15.280
+\ELANParticipant HM
+\tx chem rakiduam    niekefiel                 ta  pu  fütake     che    profesorngelu           feychi     tripantü
+\mb chem rakiduam    nie   -ke    -fi   -el    ta  pu  füta -ke   che    profesor -nge   -lu     fey  -chi  tripantü
+\ge qué pensamiento tener -HAB   -3.OP -NMRZ2 DET COL viejo -DIST gente  profesor -COP   -advr.1 DEM2 -adjr año
+\ps pro  nombre      verbo -tam-e -per  -nmzr  det det adj   -det  nombre nombre   -verbo -advr   pro  -***  nombre
+
+\ft que pensamiento tenían los ancianos que eran profesores en esos años
+\mm SegundoLlamin_escuela_18052013_18mins.wav 68.960 75.280
+
+\ref 021
+\ELANBegin 00:01:15.280
+\ELANEnd 00:01:18.720
+\ELANParticipant HM
+\tx chumngelu kimelngekelafuy                            mapudungun
+\mb chumngelu kimel    -nge -ke    -la   -fu    -y       mapudungun
+\ge por qué  enseñar -PAS -HAB   -NEG1 -AP    -IND.[3] mapudungun
+\ps pro       verbo    -per -tam-e -neg  -tam-e -per     nombre
+
+\ft ¿por qué no enseñaban mapudungun
+\mm SegundoLlamin_escuela_18052013_18mins.wav 75.280 78.720
+
+\ref 022
+\ELANBegin 00:01:18.720
+\ELANEnd 00:01:21.960
+\ELANParticipant HM
+\tx escuela mew  feychi     tripantü
+\mb escuela mew  fey  -chi  tripantü
+\ge escuela PPOS DEM2 -adjr año
+\ps nombre  ppos pro  -***  nombre
+
+\ft en la escuela en esos años?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 78.720 81.960
+
+\ref 023
+\ELANBegin 00:01:21.960
+\ELANEnd 00:01:24.600
+\ELANParticipant HM
+\tx feychi     dungu  ta  küpakimfun                    iñche
+\mb fey  -chi  dungu  ta  küpa  -kim   -fu    -n       iñche
+\ge DEM2 -adjr asunto DET querer -saber -AP    -IND.1SG 1SG
+\ps pro  -***  nombre det aux    -verbo -tam-e -per     pro
+
+\ft Ese asunto quiero saber yo
+\mm SegundoLlamin_escuela_18052013_18mins.wav 81.960 84.600
+
+\ref 024
+\ELANBegin 00:01:24.600
+\ELANEnd 00:01:27.360
+\ELANParticipant HM
+\tx feypiafuen
+\mb fey  -pi    -a     -fu    -e   -n
+\ge DEM2 -decir -FUT   -AP    -INV -IND.1SG
+\ps pro  -verbo -tam-e -tam-e -per -per
+
+\ft ¿me dirías?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 84.600 87.360
+
+\ref 025
+\ELANBegin 00:01:27.320
+\ELANEnd 00:01:29.760
+\ELANParticipant SLL
+\tx Painemal      tañi        dungu
+\mb Painemal      ta  -ñi    dungu
+\ge Painemal      DET -3.POSS asunto
+\ps nombre propio det -pro    nombre
+
+\ft El asunto de Painemal
+\mm SegundoLlamin_escuela_18052013_18mins.wav 87.320 89.760
+
+\ref 026
+\ELANBegin 00:01:29.720
+\ELANEnd 00:01:33.320
+\ELANParticipant HM
+\tx Painemal      profesormekekerkefuy                            escuela mew  tüfa mew
+\mb Painemal      profesor -meke    -ke    -rke   -fu    -y       escuela mew  tüfa mew
+\ge Painemal      profesor -PROG.AG -HAB   -EVID  -AP    -IND.[3] escuela PPOS DEM1  PPOS
+\ps nombre propio nombre   -tam-e   -tam-e -tam-e -tam-e -per     nombre  ppos pro   ppos
+
+\ft Painemal, dicen que era profesor en la escuela cá
+\mm SegundoLlamin_escuela_18052013_18mins.wav 89.720 93.320
+
+\ref 027
+\ELANBegin 00:01:33.440
+\ELANEnd 00:01:37.640
+\ELANParticipant SLL
+\tx Painemal      rume     kimfuy                nga  ti
+\mb Painemal      rume     kim   -fu    -y       nga  ti
+\ge Painemal      mucho    saber -AP    -IND.[3] pues DET2
+\ps nombre propio adverbio verbo -tam-e -per     md   det
+
+\ft Painemal sabía mucho
+\mm SegundoLlamin_escuela_18052013_18mins.wav 93.440 97.640
+
+\ref 028
+\ELANBegin 00:01:37.640
+\ELANEnd 00:01:42.040
+\ELANParticipant SLL
+\tx fey  chew   chi  may      educay          pichiñ
+\mb fey  chew   chi  may      educa  -y       pichiñ
+\ge DEM2 dónde DUB  si       educar -IND.[3] poco
+\ps pro  pro    part adverbio verbo  -per     adverbio
+
+\ft no sé donde se habrá educado un poco
+\mm SegundoLlamin_escuela_18052013_18mins.wav 97.640 102.040
+
+\ref 029
+\ELANBegin 00:01:42.040
+\ELANEnd 00:01:45.680
+\ELANParticipant SLL
+\tx Chol Chol parece, Chol Chol peno
+\mb Chol Chol parece  Chol Chol peno
+\ge Chol Chol parece  Chol Chol DUB
+\ps nombre    verbo   nombre    part
+
+\ft parece que en Chol Chol
+\mm SegundoLlamin_escuela_18052013_18mins.wav 102.040 105.680
+
+\ref 030
+\ELANBegin 00:01:45.680
+\ELANEnd 00:01:50.960
+\ELANParticipant SLL
+\tx welu allkükefuy                     ta  fentren  mapudungun ka
+\mb welu allkü   -ke    -fu    -y       ta  fentren  mapudungun ka
+\ge pero escuchar -HAB   -AP    -IND.[3] DET mucho    mapudungun y
+\ps conj verbo    -tam-e -tam-e -per     det adverbio nombre     conj
+
+\ft pero escuchaba mucho mapudungun también
+\mm SegundoLlamin_escuela_18052013_18mins.wav 105.680 110.960
+
+\ref 031
+\ELANBegin 00:01:50.960
+\ELANEnd 00:01:54.040
+\ELANParticipant SLL
+\tx fey  Chol Chol mapudungukefuy                           ta  che
+\mb fey  Chol Chol mapudungu         -ke    -fu    -y       ta  che
+\ge DEM2 Chol Chol hablar mapudungun -HAB   -AP    -IND.[3] DET gente
+\ps pro  nombre    verbo             -tam-e -tam-e -per     det nombre
+
+\ft allá en Chol Chol hablaba mapudungun la gente
+\mm SegundoLlamin_escuela_18052013_18mins.wav 110.960 114.040
+
+\ref 032
+\ELANBegin 00:01:54.040
+\ELANEnd 00:01:56.840
+\ELANParticipant SLL
+\tx mülekefuy                   ta  lifru  mapudungulelu
+\mb müle -ke    -fu    -y       ta  lifru  mapudungu         -le    -lu
+\ge estar -HAB   -AP    -IND.[3] DET libro  hablar mapudungun -ESTAT -advr.1
+\ps verbo -tam-e -tam-e -per     det nombre verbo             -tam-e -advr
+
+\ft había libros que hablaban mapuche
+\mm SegundoLlamin_escuela_18052013_18mins.wav 114.040 116.840
+
+\ref 033
+\ELANBegin 00:01:56.840
+\ELANEnd 00:02:00.840
+\ELANParticipant SLL
+\tx iñche ta  feymew   ta  pen            tati                chi  mapudungun ta  ka
+\mb iñche ta  feymew   ta  pe    -n       ta  -t     -i       chi  mapudungun ta  ka
+\ge 1SG    DET entonces DET ver   -IND.1SG DET -NMRZ3 -IND.[3] DEM2 mapudungun DET y
+\ps pro    det conj     det verbo -per     det -nmrz  -per     dem  nombre     det conj
+
+\ft yo también vi ese mapudungun
+\mm SegundoLlamin_escuela_18052013_18mins.wav 116.840 120.840
+
+\ref 034
+\ELANBegin 00:02:00.840
+\ELANEnd 00:02:04.400
+\ELANParticipant SLL
+\tx escritura müley         feychi
+\mb escritura müle -y       fey  -chi
+\ge escritura estar -IND.[3] DEM2 -adjr
+\ps nombre    verbo -per     pro  -***
+
+\ft había escritura allá
+\mm SegundoLlamin_escuela_18052013_18mins.wav 120.840 124.400
+
+\ref 035
+\ELANBegin 00:02:04.400
+\ELANEnd 00:02:08.720
+\ELANParticipant SLL
+\tx welu chumngechi tañi          wirin           tukuken             tüfa
+\mb welu chumngechi ta  -ñi      wiri     -n     tuku  -ke    -n     tüfa
+\ge pero cómo      DET -1SG.POSS escribir -NMRZ1 poner -HAB   -NMRZ1 DEM1
+\ps conj pro        det -pro      verbo    -nmrz  tam-e -tam-e -nmrz  pro
+
+\ft como escribimos nosotros ahora
+\mm SegundoLlamin_escuela_18052013_18mins.wav 124.400 128.720
+
+\ref 036
+\ELANBegin 00:02:08.720
+\ELANEnd 00:02:10.240
+\ELANParticipant SLL
+\tx felekelafuy                           ka
+\mb fele     -ke    -la   -fu    -y       ka
+\ge ser así -HAB   -NEG1 -AP    -IND.[3] y
+\ps verbo    -tam-e -neg  -tam-e -per     conj
+
+\ft así no era
+\mm SegundoLlamin_escuela_18052013_18mins.wav 128.720 130.240
+
+\ref 037
+\ELANBegin 00:02:10.200
+\ELANEnd 00:02:11.520
+\ELANParticipant HM
+\tx felekelafuy
+\mb fele     -ke    -la   -fu    -y
+\ge ser así -HAB   -NEG1 -AP    -IND.[3]
+\ps verbo    -tam-e -neg  -tam-e -per
+
+\ft No era así
+\mm SegundoLlamin_escuela_18052013_18mins.wav 130.200 131.520
+
+\ref 038
+\ELANBegin 00:02:11.920
+\ELANEnd 00:02:24.440
+\ELANParticipant SLL
+\tx fey  ti   alfabeto castellano fey  ta  doy      fey  ta  feychi     alfabeto ta  wirin           tukungekefuy
+\mb fey  ti   alfabeto castellano fey  ta  doy      fey  ta  fey  -chi  alfabeto ta  wiri     -n     tuku  -nge -ke    -fu    -y
+\ge DEM2 DET2 alfabeto castellano DEM2 DET más     DEM2 DET DEM2 -adjr alfabeto DET escribir -NMRZ1 poner -PAS -HAB   -AP    -IND.[3]
+\ps pro  det  nombre   nombre     pro  det adverbio pro  det pro  -***  nombre   det verbo    -nmrz  tam-e -per -tam-e -tam-e -per
+
+\tx ta ti   dungu
+\mb ta ti   dungu
+\ge DETDET2 asunto
+\ps detdet  nombre
+
+\ft Ese alfabeto castellano, en ese alfabeto escribían los asuntos
+\mm SegundoLlamin_escuela_18052013_18mins.wav 131.920 144.440
+
+\ref 039
+\ELANBegin 00:02:24.440
+\ELANEnd 00:02:27.880
+\ELANParticipant SLL
+\tx fey  mülekefuy                   kiñe pichiñ  letra
+\mb fey  müle -ke    -fu    -y       kiñe pichiñ  letra
+\ge DEM2 estar -HAB   -AP    -IND.[3] un    poco     letra
+\ps pro  verbo -tam-e -tam-e -per     art   adverbio nombre
+
+\ft había una letra pequeña
+\mm SegundoLlamin_escuela_18052013_18mins.wav 144.440 147.880
+
+\ref 040
+\ELANBegin 00:02:27.880
+\ELANEnd 00:02:31.160
+\ELANParticipant SLL
+\tx femngechi enekechiley
+\mb femngechi ene    -kechi -le    -y
+\ge así      ene    -COMP  -ESTAT -IND.[3]
+\ps adverbio  nombre -tam-e -tam-e -per
+
+\ft era así como una n
+\mm SegundoLlamin_escuela_18052013_18mins.wav 147.880 151.160
+
+\ref 041
+\ELANBegin 00:02:31.160
+\ELANEnd 00:02:36.160
+\ELANParticipant SLL
+\tx kiñe wallpaley                     famngechi (kiñe füta  kulen, dewü  kulen  reke)
+\mb kiñe wall   -pa    -le    -y       famngechi kiñe  füta  kulen  dewü  kulen  reke
+\ge un    rodear -DIR.1 -PROG  -IND.[3] así      un     grande cola   ratón cola   COMP
+\ps art   verbo  -dir   -tam-e -per     adverbio  art    adj    nombre nombre nombre ppos
+
+\ft una la rodeaba así (como una cola de ratón)
+\mm SegundoLlamin_escuela_18052013_18mins.wav 151.160 156.160
+
+\ref 042
+\ELANBegin 00:02:36.160
+\ELANEnd 00:02:38.680
+\ELANParticipant SLL
+\tx fey  mülekefuy
+\mb fey  müle -ke    -fu    -y
+\ge DEM2 estar -HAB   -AP    -IND.[3]
+\ps pro  verbo -tam-e -tam-e -per
+
+\ft entonces había
+\mm SegundoLlamin_escuela_18052013_18mins.wav 156.160 158.680
+
+\ref 043
+\ELANBegin 00:02:38.680
+\ELANEnd 00:02:43.520
+\ELANParticipant SLL
+\tx fey  kimkelafufin                             iñche chumngelu ñi    fey  mülen       feychi     letra
+\mb fey  kim   -ke    -la   -fu    -fi   -n       iñche chumngelu ñi    fey  müle -n     fey  -chi  letra
+\ge DEM2 saber -HAB   -NEG1 -AP    -3.OP -IND.1SG 1SG    por qué  3.POSS DEM2 estar -NMRZ1 DEM2 -adjr letra
+\ps pro  verbo -tam-e -neg  -tam-e -per  -per     pro    pro       pro    pro  verbo -nmrz  pro  -***  nombre
+
+\ft yo no sabía por qué existía esa letra
+\mm SegundoLlamin_escuela_18052013_18mins.wav 158.680 163.520
+
+\ref 044
+\ELANBegin 00:02:43.480
+\ELANEnd 00:02:45.760
+\ELANParticipant HM
+\tx Anselmo Rangileo tañi        wirin           no
+\mb Anselmo Rangileo ta  -ñi    wiri     -n     no
+\ge Anselmo Rangileo DET -3.POSS escribir -NMRZ1 NEG2
+\ps nombre  nombre   det -pro    verbo    -nmrz  adverbio
+
+\ft La escritura de Anselmo Rangileo, no
+\mm SegundoLlamin_escuela_18052013_18mins.wav 163.480 165.760
+
+\ref 045
+\ELANBegin 00:02:45.720
+\ELANEnd 00:02:54.200
+\ELANParticipant SLL
+\tx fey  ta  despues  pichiñ  kimelngelu            iñche Metrenco feymew   kim-entumefin                    ta ti   letra
+\mb fey  ta  despues  pichiñ  kimel    -nge -lu     iñche Metrenco feymew   kim-entu    -me   -fi   -n       ta ti   letra
+\ge DEM2 DET despues  poco     enseñar -PAS -advr.1 1SG    Metrenco entonces saber-sacar -DIR3 -3.OP -IND.1SG DETDET2 letra
+\ps pro  det adverbio adverbio verbo    -per -advr   pro    nombre   conj     verbo-verbo -dir  -per  -per     detdet  nombre
+
+\ft cuando me enseñaron en Metrenco entonces fui a aprender la letra
+\mm SegundoLlamin_escuela_18052013_18mins.wav 165.720 174.200
+
+\ref 046
+\ELANBegin 00:02:54.200
+\ELANEnd 00:02:57.560
+\ELANParticipant SLL
+\tx kimfin               tachi     letra  fewla
+\mb kim   -fi   -n       ta  -chi  letra  fewla
+\ge saber -3.OP -IND.1SG DET -adjr letra  ahora
+\ps verbo -per  -per     det -***  nombre adverbio
+
+\ft la conozco esa letra ahora
+\mm SegundoLlamin_escuela_18052013_18mins.wav 174.200 177.560
+
+\ref 047
+\ELANBegin 00:02:57.520
+\ELANEnd 00:03:02.520
+\ELANParticipant HM
+\tx may      si       po,  nütramkaleyu             ka
+\mb may      si       po   nütramka -le    -yu      ka
+\ge si       si       pues conversar -PROG  -IND.1DU y
+\ps adverbio adverbio part verbo     -tam-e -per     conj
+
+\ft si po, estamos conversando los dos
+\mm SegundoLlamin_escuela_18052013_18mins.wav 177.520 182.520
+
+\ref 048
+\ELANBegin 00:03:02.520
+\ELANEnd 00:03:03.880
+\ELANParticipant HM
+\tx yafutunge
+\mb yafutu -nge
+\ge comer  -IMP.2SG
+\ps verbo  -mod
+
+\ft coma no más
+\mm SegundoLlamin_escuela_18052013_18mins.wav 182.520 183.880
+
+\ref 049
+\ELANBegin 00:03:03.880
+\ELANEnd 00:03:06.360
+\ELANParticipant HM
+\tx feley             feley
+\mb fele     -y       fele     -y
+\ge ser así -IND.[3] ser así -IND.[3]
+\ps verbo    -per     verbo    -per
+
+\ft así es, así es
+\mm SegundoLlamin_escuela_18052013_18mins.wav 183.880 186.360
+
+\ref 050
+\ELANBegin 00:03:06.640
+\ELANEnd 00:03:10.240
+\ELANParticipant SLL
+\tx welu rume     mapudungukefun                           ta ti
+\mb welu rume     mapudungu         -ke    -fu    -n       ta ti
+\ge pero mucho    hablar mapudungun -HAB   -AP    -IND.1SG DETDET2
+\ps conj adverbio verbo             -tam-e -tam-e -per     detdet
+
+\ft Pero mucho hablaba mapudungun antes
+\mm SegundoLlamin_escuela_18052013_18mins.wav 186.640 190.240
+
+\ref 051
+\ELANBegin 00:03:10.200
+\ELANEnd 00:03:11.840
+\ELANParticipant HM
+\tx welu kimelkefuy                      mapudungun,
+\mb welu kimel    -ke    -fu    -y       mapudungun
+\ge pero enseñar -HAB   -AP    -IND.[3] mapudungun
+\ps conj verbo    -tam-e -tam-e -per     nombre
+
+\ft ¿Pero se enseñaba mapudungun?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 190.200 191.840
+
+\ref 052
+\ELANBegin 00:03:11.800
+\ELANEnd 00:03:18.040
+\ELANParticipant SLL
+\tx fey  ayikefuy                         ñi    wecheke     che    ñi    kimael              mapudungun feychi     escuela mew
+\mb fey  ayi       -ke    -fu    -y       ñi    weche -ke   che    ñi    kim   -a     -el    mapudungun fey  -chi  escuela mew
+\ge DEM2 alegrarse -HAB   -AP    -IND.[3] 3.POSS joven -DIST gente  3.POSS saber -FUT   -NMRZ2 mapudungun DEM2 -adjr escuela PPOS
+\ps pro  verbo     -tam-e -tam-e -per     pro    adj   -det  nombre pro    verbo -tam-e -nmzr  nombre     pro  -***  nombre  ppos
+
+\ft (les gustaba que los jovenes supieran mapudungun en esa escuela?)
+\mm SegundoLlamin_escuela_18052013_18mins.wav 191.800 198.040
+
+\ref 053
+\ELANBegin 00:03:18.880
+\ELANEnd 00:03:23.920
+\ELANParticipant SLL
+\tx tañi          pu  wenüy tañi          pu  wenüy mew  rume
+\mb ta  -ñi      pu  wenüy ta  -ñi      pu  wenüy mew  rume
+\ge DET -1SG.POSS COL amigo  DET -1SG.POSS COL amigo  PPOS mucho
+\ps det -pro      det nombre det -pro      det nombre ppos adverbio
+
+\ft ni entre los amigos
+\mm SegundoLlamin_escuela_18052013_18mins.wav 198.880 203.920
+
+\ref 054
+\ELANBegin 00:03:23.920
+\ELANEnd 00:03:25.440
+\ELANParticipant SLL
+\tx wingkadungukelafuy
+\mb wingkadungu     -ke    -la   -fu    -y
+\ge hablar.español -HAB   -NEG1 -AP    -IND.[3]
+\ps verbo           -tam-e -neg  -tam-e -per
+
+\ft se hablaba español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 203.920 205.440
+
+\ref 055
+\ELANBegin 00:03:25.440
+\ELANEnd 00:03:27.440
+\ELANParticipant SLL
+\tx mapudungukefuy                           müten
+\mb mapudungu         -ke    -fu    -y       müten
+\ge hablar mapudungun -HAB   -AP    -IND.[3] no.más
+\ps verbo             -tam-e -tam-e -per     adverbio
+
+\ft solo hablaba mapuche
+\mm SegundoLlamin_escuela_18052013_18mins.wav 205.440 207.440
+
+\ref 056
+\ELANBegin 00:03:27.440
+\ELANEnd 00:03:31.920
+\ELANParticipant HM
+\tx welu chumngechi kimelkefuy                      ñi    dungu  wingkadungun           kimün
+\mb welu chumngechi kimel    -ke    -fu    -y       ñi    dungu  wingkadungu     -n     kim     -ün
+\ge pero cómo      enseñar -HAB   -AP    -IND.[3] 3.POSS asunto hablar.español -NMRZ1 saber   -NMRZ1
+\ps conj pro        verbo    -tam-e -tam-e -per     pro    nombre verbo           -nmrz  verbo   -nmrz
+
+\ft ¿pero cómo se enseñaba su asunto, el conocimiento en español?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 207.440 211.920
+
+\ref 057
+\ELANBegin 00:03:31.920
+\ELANEnd 00:03:36.840
+\ELANParticipant HM
+\tx mapudungun mew  explicakefuy                    kiñeke     dungu  kam  femkelafuy
+\mb mapudungun mew  explica  -ke    -fu    -y       kiñe -ke   dungu  kam  fem      -ke    -la   -fu    -y
+\ge mapudungun PPOS explicar -HAB   -AP    -IND.[3] un    -DIST asunto o    ser.así -HAB   -NEG1 -AP    -IND.[3]
+\ps nombre     ppos verbo    -tam-e -tam-e -per     art   -det  nombre conj verbo    -tam-e -neg  -tam-e -per
+
+\ft ¿se explicaba en mapudungun algunas cosas o no era así?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 211.920 216.840
+
+\ref 058
+\ELANBegin 00:03:36.800
+\ELANEnd 00:03:39.040
+\ELANParticipant SLL
+\tx femkey,                  femkefuy
+\mb fem      -ke    -y       fem      -ke    -fu    -y
+\ge ser.así -HAB   -IND.[3] ser.así -HAB   -AP    -IND.[3]
+\ps verbo    -tam-e -per     verbo    -tam-e -tam-e -per
+
+\ft Era así, era así
+\mm SegundoLlamin_escuela_18052013_18mins.wav 216.800 219.040
+
+\ref 059
+\ELANBegin 00:03:39.040
+\ELANEnd 00:03:41.520
+\ELANParticipant SLL
+\tx explicakefuy                    mapudungun mew
+\mb explica  -ke    -fu    -y       mapudungun mew
+\ge explicar -HAB   -AP    -IND.[3] mapudungun PPOS
+\ps verbo    -tam-e -tam-e -per     nombre     ppos
+
+\ft Explicaba en mapudungun
+\mm SegundoLlamin_escuela_18052013_18mins.wav 219.040 221.520
+
+\ref 060
+\ELANBegin 00:03:41.520
+\ELANEnd 00:03:47.440
+\ELANParticipant SLL
+\tx fey  tüfa mew  re       pichike        mapuche pichike       che    mülelu
+\mb fey  tüfa mew  re       pichi    -ke   mapuche pichi    -ke  che    müle -lu
+\ge DEM2 DEM1  PPOS solo     pequeño -DIST mapuche pequeño -DISTgente  estar -advr.1
+\ps pro  pro   ppos adverbio adj      -det  nombre  adj      -det nombre verbo -advr
+
+\ft Entonces acá, habían solo niños mapuches
+\mm SegundoLlamin_escuela_18052013_18mins.wav 221.520 227.440
+
+\ref 061
+\ELANBegin 00:03:47.400
+\ELANEnd 00:03:49.240
+\ELANParticipant HM
+\tx feychi     pu  mew
+\mb fey  -chi  pu  mew
+\ge DEM2 -adjr COL PPOS
+\ps pro  -***  det ppos
+
+\ft en esos tiempos
+\mm SegundoLlamin_escuela_18052013_18mins.wav 227.400 229.240
+
+\ref 062
+\ELANBegin 00:03:49.240
+\ELANEnd 00:03:51.560
+\ELANParticipant HM
+\tx kimwingkadungukelafuy                                pichike        che    no
+\mb kim   -wingkadungu     -ke    -la   -fu    -y       pichi    -ke   che    no
+\ge saber -hablar.español -HAB   -NEG1 -AP    -IND.[3] pequeño -DIST gente  NEG2
+\ps verbo -verbo           -tam-e -neg  -tam-e -per     adj      -det  nombre adverbio
+
+\ft no sabían hablar español los niños
+\mm SegundoLlamin_escuela_18052013_18mins.wav 229.240 231.560
+
+\ref 063
+\ELANBegin 00:03:51.520
+\ELANEnd 00:03:57.200
+\ELANParticipant SLL
+\tx mapudungun mew  fey  elukefuy                     kimün
+\mb mapudungun mew  fey  elu   -ke    -fu    -y       kim     -ün
+\ge mapudungun PPOS DEM2 dar   -HAB   -AP    -IND.[3] saber   -NMRZ1
+\ps nombre     ppos pro  verbo -tam-e -tam-e -per     verbo   -nmrz
+
+\ft En mapudungun se daba el conocimiento
+\mm SegundoLlamin_escuela_18052013_18mins.wav 231.520 237.200
+
+\ref 064
+\ELANBegin 00:03:57.200
+\ELANEnd 00:04:03.600
+\ELANParticipant SLL
+\tx kim-entulay                pichike       che    fey  ta  mapudungun mew  elukefuy                     kimün
+\mb kim-entu    -la   -y       pichi    -ke  che    fey  ta  mapudungun mew  elu   -ke    -fu    -y       kim     -ün
+\ge saber-sacar -NEG1 -IND.[3] pequeño -DISTgente  DEM2 DET mapudungun PPOS dar   -HAB   -AP    -IND.[3] saber   -NMRZ1
+\ps verbo-verbo -neg  -per     adj      -det nombre pro  det nombre     ppos verbo -tam-e -tam-e -per     verbo   -nmrz
+
+\ft No sabían los niños entonces en mapudungun se daba el conocimiento
+\mm SegundoLlamin_escuela_18052013_18mins.wav 237.200 243.600
+
+\ref 065
+\ELANBegin 00:04:03.560
+\ELANEnd 00:04:10.400
+\ELANParticipant HM
+\tx kimkefuy                     pichike       che    kay? doy      adumkefuy                      doy      küme    rulpakefuy                   ñi
+\mb kim   -ke    -fu    -y       pichi    -ke  che    kay  doy      adum    -ke    -fu    -y       doy      küme    rulpa -ke    -fu    -y       ñi
+\ge saber -HAB   -AP    -IND.[3] pequeño -DISTgente  y    más     manejar -HAB   -AP    -IND.[3] más     bien     pasar -HAB   -AP    -IND.[3] 3.POSS
+\ps verbo -tam-e -tam-e -per     adj      -det nombre conj adverbio verbo   -tam-e -tam-e -per     adverbio adverbio verbo -tam-e -tam-e -per     pro
+
+\tx kimael              engün feychi
+\mb kim   -a     -el    engün fey  -chi
+\ge saber -FUT   -NMRZ2 3.PL   DEM2 -adjr
+\ps verbo -tam-e -nmzr  per    pro  -***
+
+\ft sabían los niños? aprendían más, mejor dominaban al saber así?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 243.560 250.400
+
+\ref 066
+\ELANBegin 00:04:10.360
+\ELANEnd 00:04:13.800
+\ELANParticipant SLL
+\tx feychi     mew  kimlay               wingkadungun           peñi
+\mb fey  -chi  mew  kim   -la   -y       wingkadungu     -n     peñi
+\ge DEM2 -adjr PPOS saber -NEG1 -IND.[3] hablar.español -NMRZ1 hermano (de ego masculino)
+\ps pro  -***  ppos verbo -neg  -per     verbo           -nmrz  nombre
+
+\ft En esos tiempos no sabían español, hermano
+\mm SegundoLlamin_escuela_18052013_18mins.wav 250.360 253.800
+
+\ref 067
+\ELANBegin 00:04:13.760
+\ELANEnd 00:04:15.040
+\ELANParticipant HM
+\tx kimlay               wingkadungun
+\mb kim   -la   -y       wingkadungu     -n
+\ge saber -NEG1 -IND.[3] hablar.español -NMRZ1
+\ps verbo -neg  -per     verbo           -nmrz
+
+\ft No sabían español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 253.760 255.040
+
+\ref 068
+\ELANBegin 00:04:15.000
+\ELANEnd 00:04:19.800
+\ELANParticipant SLL
+\tx pichiken              allküy           müten   pichiken              allküy           müten
+\mb pichi    -ke   -n     allkü   -y       müten   pichi    -ke   -n     allkü   -y       müten
+\ge pequeño -DIST -NMRZ1 escuchar -IND.[3] no.más  pequeño -DIST -NMRZ1 escuchar -IND.[3] no.más
+\ps adj      -det  -nmrz  verbo    -per     adverbio adj      -det  -nmrz  verbo    -per     adverbio
+
+\ft de a poco escuchaban no más, de a poco escuchaban no más
+\mm SegundoLlamin_escuela_18052013_18mins.wav 255.000 259.800
+
+\ref 069
+\ELANBegin 00:04:19.800
+\ELANEnd 00:04:23.600
+\ELANParticipant SLL
+\tx iñche ta  ka   femngechi ka   allküfun                kuyfi        ka
+\mb iñche ta  ka   femngechi ka   allkü   -fu    -n       kuyfi        ka
+\ge 1SG    DET y    así      y    escuchar -AP    -IND.1SG antiguamente y
+\ps pro    det conj adverbio  conj verbo    -tam-e -per     adv          conj
+
+\ft yo también escuchaba antes
+\mm SegundoLlamin_escuela_18052013_18mins.wav 259.800 263.600
+
+\ref 070
+\ELANBegin 00:04:23.560
+\ELANEnd 00:04:26.520
+\ELANParticipant HM
+\tx allkükelafuymi                       wingkadungun           pilun  mew
+\mb allkü   -ke    -la   -fu    -ymi     wingkadungu     -n     pilun  mew
+\ge escuchar -HAB   -NEG1 -AP    -IND.2SG hablar.español -NMRZ1 oreja  PPOS
+\ps verbo    -tam-e -neg  -tam-e -per     verbo           -nmrz  nombre ppos
+
+\ft no escuchaba en tus oídos el español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 263.560 266.520
+
+\ref 071
+\ELANBegin 00:04:26.480
+\ELANEnd 00:04:30.240
+\ELANParticipant SLL
+\tx allkün           welu kimkelafun
+\mb allkü   -n       welu kim   -ke    -la   -fu    -n
+\ge escuchar -IND.1SG pero saber -HAB   -NEG1 -AP    -IND.1SG
+\ps verbo    -per     conj verbo -tam-e -neg  -tam-e -per
+
+\ft Escuchaba pero no sabía
+\mm SegundoLlamin_escuela_18052013_18mins.wav 266.480 270.240
+
+\ref 072
+\ELANBegin 00:04:30.200
+\ELANEnd 00:04:39.280
+\ELANParticipant HM
+\tx chumngechi am   doy      adumkefuy                      ñi    doy      küme    kimael              wingkadungun           pu  wecheke
+\mb chumngechi am   doy      adum    -ke    -fu    -y       ñi    doy      küme    kim   -a     -el    wingkadungu     -n     pu  weche -ke
+\ge cómo      INT  más     manejar -HAB   -AP    -IND.[3] 3.POSS más     bien     saber -FUT   -NMRZ2 hablar.español -NMRZ1 COL joven -DIST
+\ps pro        part adverbio verbo   -tam-e -tam-e -per     pro    adverbio adverbio verbo -tam-e -nmzr  verbo           -nmrz  det adj   -det
+
+\tx che    feychi     tripantü
+\mb che    fey  -chi  tripantü
+\ge gente  DEM2 -adjr año
+\ps nombre pro  -***  nombre
+
+\ft ¿cómo los niños aprendían mejor el español en esos años?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 270.200 279.280
+
+\ref 073
+\ELANBegin 00:04:39.280
+\ELANEnd 00:04:47.200
+\ELANParticipant HM
+\tx fey  ta  mew  akuy                 escuela mew  re       mapuchedungun           re       wingkadungun
+\mb fey  ta  mew  aku         -y       escuela mew  re       mapuche -dungu  -n     re       wingkadungu     -n
+\ge DEM2 DET PPOS llegar.acá -IND.[3] escuela PPOS solo     mapuche -asunto -NMRZ1 solo     hablar.español -NMRZ1
+\ps pro  det ppos verbo       -per     nombre  ppos adverbio nombre  -nombre -nmrz  adverbio verbo           -nmrz
+
+\tx kimelngeyngün
+\mb kimel    -nge -y       -ngün
+\ge enseñar -PAS -IND.[3] -3.PL
+\ps verbo    -per -per     -per
+
+\tx division multiplicacion
+\mb
+\ft cuando llega un niño a la escuela solamente le enseñan en español la división, la multiplicación
+\mm SegundoLlamin_escuela_18052013_18mins.wav 279.280 287.200
+
+\ref 074
+\ELANBegin 00:04:47.200
+\ELANEnd 00:04:52.600
+\ELANParticipant HM
+\tx castellano fillke               kimün         wingka     welu kimmapudungulay                          engün     feychi     engün
+\mb castellano fill           -ke   kim     -ün   wingka     welu kim   -mapudungu         -la   -y       engün     fey  -chi  engün
+\ge castellano cada uno       -DIST saber   -NMRZ1 no.mapuche pero saber -hablar mapudungun -NEG1 -IND.[3] 3.PL       DEM2 -adjr 3.PL
+\ps nombre     adjetivo       -det  verbo   -nmrz  nombre     conj verbo -verbo             -neg  -per     per    pro      -***  per
+
+\ft castellano, todos los conocimientos wingka pero no sabían español ellos
+\mm SegundoLlamin_escuela_18052013_18mins.wav 287.200 292.600
+
+\ref 075
+\ELANBegin 00:04:52.600
+\ELANEnd 00:04:54.360
+\ELANParticipant HM
+\tx kimwingkadungulay                      feychi     engün
+\mb kim   -wingkadungu     -la   -y       fey  -chi  engün
+\ge saber -hablar.español -NEG1 -IND.[3] DEM2 -adjr 3.PL
+\ps verbo -verbo           -neg  -per     pro  -***  per
+
+\ft no sabían español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 292.600 294.360
+
+\ref 076
+\ELANBegin 00:04:54.360
+\ELANEnd 00:05:02.000
+\ELANParticipant HM
+\tx chumngechi am   kimkefuy                     ñi    dungun        engün truf           kimkefuy                     mapudungun ka
+\mb chumngechi am   kim   -ke    -fu    -y       ñi    dungu  -n     engün truf           kim   -ke    -fu    -y       mapudungun ka
+\ge cómo      INT  saber -HAB   -AP    -IND.[3] 3.POSS asunto -NMRZ1 3.PL   de.igual.forma saber -HAB   -AP    -IND.[3] mapudungun y
+\ps pro        part verbo -tam-e -tam-e -per     pro    nombre -nmrz  per    adverbio       verbo -tam-e -tam-e -per     nombre     conj
+
+\tx wingkadungun
+\mb wingkadungu     -n
+\ge hablar.español -NMRZ1
+\ps verbo           -nmrz
+
+\ft cómo aprendían en igual forma el mapudungun y el español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 294.360 302.000
+
+\ref 077
+\ELANBegin 00:05:02.000
+\ELANEnd 00:05:05.360
+\ELANParticipant HM
+\tx feychi     kimelfe    feychi     tripantü
+\mb fey  -chi  kimelfe    fey  -chi  tripantü
+\ge DEM2 -adjr sustantivo DEM2 -adjr año
+\ps pro  -***  nombre     pro  -***  nombre
+
+\ft ese profesor en esos años
+\mm SegundoLlamin_escuela_18052013_18mins.wav 302.000 305.360
+
+\ref 078
+\ELANBegin 00:05:05.320
+\ELANEnd 00:05:08.840
+\ELANParticipant SLL
+\tx feychi     mew  müley         kolekio tüfa mew
+\mb fey  -chi  mew  müle -y       kolekio tüfa mew
+\ge DEM2 -adjr PPOS estar -IND.[3] colegio DEM1  PPOS
+\ps pro  -***  ppos verbo -per     nombre  pro   ppos
+
+\ft En esos tiempos había colegio acá
+\mm SegundoLlamin_escuela_18052013_18mins.wav 305.320 308.840
+
+\ref 079
+\ELANBegin 00:05:08.840
+\ELANEnd 00:05:12.040
+\ELANParticipant SLL
+\tx wente    wingkul ta  tüfa mew  püle
+\mb wente    wingkul ta  tüfa mew  püle
+\ge arriba   cerro   DET DEM1  PPOS hacia
+\ps adverbio nombre  det pro   ppos adv
+
+\ft Arriba del cerro, hacia allá
+\mm SegundoLlamin_escuela_18052013_18mins.wav 308.840 312.040
+
+\ref 080
+\ELANBegin 00:05:12.040
+\ELANEnd 00:05:15.160
+\ELANParticipant SLL
+\tx wente    wingkul mülekefuy
+\mb wente    wingkul müle -ke    -fu    -y
+\ge arriba   cerro   estar -HAB   -AP    -IND.[3]
+\ps adverbio nombre  verbo -tam-e -tam-e -per
+
+\ft estaba arriba del cerro
+\mm SegundoLlamin_escuela_18052013_18mins.wav 312.040 315.160
+
+\ref 081
+\ELANBegin 00:05:15.160
+\ELANEnd 00:05:18.840
+\ELANParticipant SLL
+\tx feymew   akukefuy                           ti   pu  misionero
+\mb feymew   aku         -ke    -fu    -y       ti   pu  misionero
+\ge entonces llegar.acá -HAB   -AP    -IND.[3] DET2 COL misionero
+\ps conj     verbo       -tam-e -tam-e -per     det  det nombre
+
+\ft Entonces llegaron los misioneros
+\mm SegundoLlamin_escuela_18052013_18mins.wav 315.160 318.840
+
+\ref 082
+\ELANBegin 00:05:18.840
+\ELANEnd 00:05:22.560
+\ELANParticipant SLL
+\tx kiñe misionero Guillermo Stron  pingey
+\mb kiñe misionero Guillermo Stron  pi    -nge -y
+\ge un    misionero Guillermo Stron  decir -PAS -IND.[3]
+\ps art   nombre    nombre    nombre verbo -per -per
+
+\ft Un misionero se llamaba Guillermo Stron
+\mm SegundoLlamin_escuela_18052013_18mins.wav 318.840 322.560
+
+\ref 083
+\ELANBegin 00:05:22.560
+\ELANEnd 00:05:26.360
+\ELANParticipant SLL
+\tx fey  kimfuy                mapudungun
+\mb fey  kim   -fu    -y       mapudungun
+\ge DEM2 saber -AP    -IND.[3] mapudungun
+\ps pro  verbo -tam-e -per     nombre
+
+\ft Ese sabía mapudungun
+\mm SegundoLlamin_escuela_18052013_18mins.wav 322.560 326.360
+
+\ref 084
+\ELANBegin 00:05:26.360
+\ELANEnd 00:05:28.800
+\ELANParticipant SLL
+\tx allkükefuy                     mapudungun
+\mb allkü   -ke    -fu    -y       mapudungun
+\ge escuchar -HAB   -AP    -IND.[3] mapudungun
+\ps verbo    -tam-e -tam-e -per     nombre
+
+\ft Escuchaba mapudungun
+\mm SegundoLlamin_escuela_18052013_18mins.wav 326.360 328.800
+
+\ref 085
+\ELANBegin 00:05:28.760
+\ELANEnd 00:05:29.680
+\ELANParticipant HM
+\tx gringo
+\mb gringo
+\ge gringo
+\ps nombre
+
+\ft gringo
+\mm SegundoLlamin_escuela_18052013_18mins.wav 328.760 329.680
+
+\ref 086
+\ELANBegin 00:05:29.640
+\ELANEnd 00:05:33.480
+\ELANParticipant SLL
+\tx kimi           mapudungun (gringo?) may
+\mb kim   -i       mapudungun gringo    may
+\ge saber -IND.[3] mapudungun gringo    si
+\ps verbo -per     nombre     nombre    adverbio
+
+\ft Sabía mapudungun
+\mm SegundoLlamin_escuela_18052013_18mins.wav 329.640 333.480
+
+\ref 087
+\ELANBegin 00:05:33.480
+\ELANEnd 00:05:36.680
+\ELANParticipant SLL
+\tx fey  ti   pu  gringo ta
+\mb fey  ti   pu  gringo ta
+\ge DEM2 DET2 COL gringo DET
+\ps pro  det  det nombre det
+
+\ft Los gringos
+\mm SegundoLlamin_escuela_18052013_18mins.wav 333.480 336.680
+
+\ref 088
+\ELANBegin 00:05:36.720
+\ELANEnd 00:05:39.400
+\ELANParticipant SLL
+\tx doy      müchay   kimkey                mapudungun
+\mb doy      müchay   kim   -ke    -y       mapudungun
+\ge más     más.rato saber -HAB   -IND.[3] mapudungun
+\ps adverbio adverbio  verbo -tam-e -per     nombre
+
+\ft altiro saben mapudungun
+\mm SegundoLlamin_escuela_18052013_18mins.wav 336.720 339.400
+
+\ref 089
+\ELANBegin 00:05:39.400
+\ELANEnd 00:05:44.320
+\ELANParticipant SLL
+\tx welu chem mew  tañi        letra  tañi        escribingen          mew
+\mb welu chem mew  ta  -ñi    letra  ta  -ñi    escribi  -nge -n     mew
+\ge pero qué PPOS DET -3.POSS letra  DET -3.POSS escribir -PAS -NMRZ1 PPOS
+\ps conj pro  ppos det -pro    nombre det -pro    verbo    -per -nmrz  ppos
+
+\ft a través de la letra que se escriben
+\mm SegundoLlamin_escuela_18052013_18mins.wav 339.400 344.320
+
+\ref 090
+\ELANBegin 00:05:44.320
+\ELANEnd 00:05:54.080
+\ELANParticipant SLL
+\tx feymew   ta  feymew   ta  rume     adentukey              tañi        mapudungun tañi        wiringen
+\mb feymew   ta  feymew   ta  rume     adentu -ke    -y       ta  -ñi    mapudungun ta  -ñi    wiri     -nge -n
+\ge entonces DET entonces DET mucho    imitar -HAB   -IND.[3] DET -3.POSS mapudungun DET -3.POSS escribir -PAS -NMRZ1
+\ps conj     det conj     det adverbio verbo  -tam-e -per     det -pro    nombre     det -pro    verbo    -per -nmrz
+
+\ft entonces asimilan el mapudungun a su escritura
+\mm SegundoLlamin_escuela_18052013_18mins.wav 344.320 354.080
+
+\ref 091
+\ELANBegin 00:05:54.080
+\ELANEnd 00:05:58.800
+\ELANParticipant SLL
+\tx ingles mew  feymew   ta  rume     fütra   kimkey                fey  engün
+\mb ingles mew  feymew   ta  rume     fütra   kim   -ke    -y       fey  engün
+\ge ingles PPOS entonces DET mucho    gran     saber -HAB   -IND.[3] DEM2 3.PL
+\ps nombre ppos conj     det adverbio adverbio verbo -tam-e -per     pro  per
+
+\ft como ellos saben mucho inglés
+\mm SegundoLlamin_escuela_18052013_18mins.wav 354.080 358.800
+
+\ref 092
+\ELANBegin 00:05:58.800
+\ELANEnd 00:06:00.720
+\ELANParticipant SLL
+\tx fey  fey  fey
+\mb fey  fey  fey
+\ge DEM2 DEM2 DEM2
+\ps pro  pro  pro
+
+\ft claro, claro
+\mm SegundoLlamin_escuela_18052013_18mins.wav 358.800 360.720
+
+\ref 093
+\ELANBegin 00:06:00.680
+\ELANEnd 00:06:03.120
+\ELANParticipant HM
+\tx ka   kiñe dungu  küpa  kimün
+\mb ka   kiñe dungu  küpa  kim   -*ü -n
+\ge y    un    asunto querer saber -*** -IND.1SG
+\ps conj art   nombre aux    verbo -*** -per
+
+\ft Otro asunto quiero saber
+\mm SegundoLlamin_escuela_18052013_18mins.wav 360.680 363.120
+
+\ref 094
+\ELANBegin 00:06:03.120
+\ELANEnd 00:06:07.480
+\ELANParticipant HM
+\tx kuyfi        piam     kewangekefuy                       che    mapudungulu
+\mb kuyfi        piam     kewa   -nge -ke    -fu    -y       che    mapudungu         -lu
+\ge antiguamente EVID.REP pelear -PAS -HAB   -AP    -IND.[3] gente  hablar mapudungun -advr.1
+\ps adv          part     verbo  -per -tam-e -tam-e -per     nombre verbo             -advr
+
+\ft Antes, dicen, se castigaba a la gente que hablaba mapudungun
+\mm SegundoLlamin_escuela_18052013_18mins.wav 363.120 367.480
+
+\ref 095
+\ELANBegin 00:06:07.480
+\ELANEnd 00:06:10.720
+\ELANParticipant HM
+\tx escuela mew  kimpaymi              feychi     dungu
+\mb escuela mew  kim   -pa    -ymi     fey  -chi  dungu
+\ge escuela PPOS saber -DIR.1 -IND.2SG DEM2 -adjr asunto
+\ps nombre  ppos verbo -dir   -per     pro  -***  nombre
+
+\ft en la escuela, ¿Conociste ese asunto?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 367.480 370.720
+
+\ref 096
+\ELANBegin 00:06:10.720
+\ELANEnd 00:06:12.760
+\ELANParticipant HM
+\tx kewangekerkefuy
+\mb kewa   -nge -ke    -rke   -fu    -y
+\ge pelear -PAS -HAB   -EVID  -AP    -IND.[3]
+\ps verbo  -per -tam-e -tam-e -tam-e -per
+
+\ft Dicen que los castigaban
+\mm SegundoLlamin_escuela_18052013_18mins.wav 370.720 372.760
+
+\ref 097
+\ELANBegin 00:06:12.760
+\ELANEnd 00:06:17.480
+\ELANParticipant HM
+\tx pu  pichike        che    kimwingkadungunolu                         re       mapudungulu               kolekio mew
+\mb pu  pichi    -ke   che    kim   -wingkadungu     -no       -lu     re       mapudungu         -lu     kolekio mew
+\ge COL pequeño -DIST gente  saber -hablar.español -NEG2     -advr.1 solo     hablar mapudungun -advr.1 colegio PPOS
+\ps det adj      -det  nombre verbo -verbo           -adverbio -advr   adverbio verbo             -advr   nombre  ppos
+
+\ft a los niños que no sabían español, solo hablaban mapudungun en el colegio
+\mm SegundoLlamin_escuela_18052013_18mins.wav 372.760 377.480
+
+\ref 098
+\ELANBegin 00:06:17.480
+\ELANEnd 00:06:19.280
+\ELANParticipant HM
+\tx castigangekerkefuy
+\mb castiga  -nge -ke    -rke   -fu    -y
+\ge castigar -PAS -HAB   -EVID  -AP    -IND.[3]
+\ps verbo    -per -tam-e -tam-e -tam-e -per
+
+\ft los castigaban, dicen
+\mm SegundoLlamin_escuela_18052013_18mins.wav 377.480 379.280
+
+\ref 099
+\ELANBegin 00:06:19.280
+\ELANEnd 00:06:25.560
+\ELANParticipant HM
+\tx femngey                  chi  dungu, pepaymi               chi  dungu  kam  pepalaymi
+\mb fem      -nge   -y       chi  dungu  pe    -pa    -ymi     chi  dungu  kam  pe    -pa    -la   -ymi
+\ge ser.así -COP   -IND.[3] DEM2 asunto ver   -DIR.1 -IND.2SG DEM2 asunto o    ver   -DIR.1 -NEG1 -IND.2SG
+\ps verbo    -verbo -per     dem  nombre verbo -dir   -per     dem  nombre conj verbo -dir   -neg  -per
+
+\ft Era así esa cosa, viste acá ese asunto o no lo viste
+\mm SegundoLlamin_escuela_18052013_18mins.wav 379.280 385.560
+
+\ref 100
+\ELANBegin 00:06:36.960
+\ELANEnd 00:06:39.720
+\ELANParticipant HM
+\tx kimpaymi              feychi     dungu  kay
+\mb kim   -pa    -ymi     fey  -chi  dungu  kay
+\ge saber -DIR.1 -IND.2SG DEM2 -adjr asunto y
+\ps verbo -dir   -per     pro  -***  nombre conj
+
+\ft ¿alcanzaste a conocer ese asunto?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 396.960 399.720
+
+\ref 101
+\ELANBegin 00:06:39.720
+\ELANEnd 00:06:57.080
+\ELANParticipant HM
+\tx
+\ft
+\mm SegundoLlamin_escuela_18052013_18mins.wav 399.720 417.080
+
+\ref 102
+\ELANBegin 00:06:57.040
+\ELANEnd 00:07:05.200
+\ELANParticipant SLL
+\tx feychi     dungu  ta  koyla   dungu  peno peñi
+\mb fey  -chi  dungu  ta  koyla   dungu  peno peñi
+\ge DEM2 -adjr asunto DET mentira asunto DUB  hermano (de ego masculino)
+\ps pro  -***  nombre det nombre  nombre part nombre
+
+\ft esa cosa no será mentira hermano
+\mm SegundoLlamin_escuela_18052013_18mins.wav 417.040 425.200
+
+\ref 103
+\ELANBegin 00:07:05.200
+\ELANEnd 00:07:12.240
+\ELANParticipant SLL
+\tx aywiñ
+\mb
+\tx wedwedküley             che    pichike       wentru, wedwedkülelu           fey  ta  pichiken              castigangey            ka
+\mb wedwed   -küle -y       che    pichi    -ke  wentru  wedwed   -küle -lu     fey  ta  pichi    -ke   -n     castiga  -nge -y       ka
+\ge loco     -ESTAT -IND.[3] gente  pequeño -DISThombre  loco     -ESTAT -advr.1 DEM2 DET pequeño -DIST -NMRZ1 castigar -PAS -IND.[3] y
+\ps adjetivo -tam-e -per     nombre adj      -det nombre  adjetivo -tam-e -advr   pro  det adj      -det  -nmrz  verbo    -per -per     conj
+
+\ft son locos los niños, como son locos los castigan un poco
+\mm SegundoLlamin_escuela_18052013_18mins.wav 425.200 432.240
+
+\ref 104
+\ELANBegin 00:07:12.240
+\ELANEnd 00:07:18.720
+\ELANParticipant SLL
+\tx welu tañi          mapudungungen                   mew  kimwingkadungunon                         mew
+\mb welu ta  -ñi      mapudungu         -nge   -n     mew  kim   -wingkadungu     -no       -n     mew
+\ge pero DET -1SG.POSS hablar mapudungun -COP   -NMRZ1 PPOS saber -hablar.español -NEG2     -NMRZ1 PPOS
+\ps conj det -pro      verbo             -verbo -nmrz  ppos verbo -verbo           -adverbio -nmrz  ppos
+
+\ft pero por ser mapuches, por no hablar español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 432.240 438.720
+
+\ref 105
+\ELANBegin 00:07:18.720
+\ELANEnd 00:07:20.840
+\ELANParticipant SLL
+\tx fey  müten   castigangelay
+\mb fey  müten   castiga  -nge -la   -y
+\ge DEM2 no.más  castigar -PAS -NEG1 -IND.[3]
+\ps pro  adverbio verbo    -per -neg  -per
+
+\ft por eso no más no los castigan
+\mm SegundoLlamin_escuela_18052013_18mins.wav 438.720 440.840
+
+\ref 106
+\ELANBegin 00:07:20.800
+\ELANEnd 00:07:22.680
+\ELANParticipant HM
+\tx femngelay
+\mb fem      -nge   -la   -y
+\ge ser.así -COP   -NEG1 -IND.[3]
+\ps verbo    -verbo -neg  -per
+
+\ft No era así
+\mm SegundoLlamin_escuela_18052013_18mins.wav 440.800 442.680
+
+\ref 107
+\ELANBegin 00:07:22.640
+\ELANEnd 00:07:29.240
+\ELANParticipant SLL
+\tx fey  ti   chi  wingkadungun           mew  ta  kimeltungey                   ta  pichike       che
+\mb fey  ti   chi  wingkadungu     -n     mew  ta  kimel    -tu    -nge -y       ta  pichi    -ke  che
+\ge DEM2 DET2 DEM2 hablar.español -NMRZ1 PPOS DET enseñar -APPL3 -PAS -IND.[3] DET pequeño -DISTgente
+\ps pro  det  dem  verbo           -nmrz  ppos det verbo    -per   -per -per     det adj      -det nombre
+
+\ft El español se le enseñaba a los niños
+\mm SegundoLlamin_escuela_18052013_18mins.wav 442.640 449.240
+
+\ref 108
+\ELANBegin 00:07:29.240
+\ELANEnd 00:07:31.720
+\ELANParticipant SLL
+\tx kiñeke     ta  duamlayngün                   ka
+\mb kiñe -ke   ta  duam     -la   -y       -ngün ka
+\ge un    -DIST DET entender -NEG1 -IND.[3] -3.PL  y
+\ps art   -det  det verbo    -neg  -per     -per   conj
+
+\ft Algunos no lo entendían
+\mm SegundoLlamin_escuela_18052013_18mins.wav 449.240 451.720
+
+\ref 109
+\ELANBegin 00:07:31.720
+\ELANEnd 00:07:34.400
+\ELANParticipant SLL
+\tx fey  ruka   mew  allkülayngün
+\mb fey  ruka   mew  allkü   -la   -y       -ngün
+\ge DEM2 casa   PPOS escuchar -NEG1 -IND.[3] -3.PL
+\ps pro  nombre ppos verbo    -neg  -per     -per
+
+\ft Como en su casa no lo escuchaban
+\mm SegundoLlamin_escuela_18052013_18mins.wav 451.720 454.400
+
+\ref 110
+\ELANBegin 00:07:34.400
+\ELANEnd 00:07:40.560
+\ELANParticipant SLL
+\tx allküle          ruka   mew  engün fey  ta  kim-entuafuyngün                         ka
+\mb allkü   -l-e     ruka   mew  engün fey  ta  kim-entu    -a     -fu    -y       -ngün ka
+\ge escuchar -CON-3SG casa   PPOS 3.PL   DEM2 DET saber-sacar -FUT   -AP    -IND.[3] -3.PL  y
+\ps verbo    -mod-per nombre ppos per    pro  det verbo-verbo -tam-e -tam-e -per     -per   conj
+
+\ft si escucharan en la casa, entonces les gustaría
+\mm SegundoLlamin_escuela_18052013_18mins.wav 454.400 460.560
+
+\ref 111
+\ELANBegin 00:07:40.560
+\ELANEnd 00:07:47.760
+\ELANParticipant SLL
+\tx iney   am   chumngechi am   kay  kimimi         eymi tañi        castigangekefuel                     ta  pichike       che
+\mb iney   am   chumngechi am   kay  kim   -imi     eymi ta  -ñi    castiga  -nge   -ke    -fu    -el    ta  pichi    -ke  che
+\ge quién INT  cómo      INT  y    saber -IND.2SG tú  DET -3.POSS castigar -COP   -HAB   -AP    -NMRZ2 DET pequeño -DISTgente
+\ps pro    part pro        part conj verbo -per     pro  det -pro    verbo    -verbo -tam-e -tam-e -nmzr  det adj      -det nombre
+
+\ft ¿Quién, cómo supiste que los castigaban al os niños
+\mm SegundoLlamin_escuela_18052013_18mins.wav 460.560 467.760
+
+\ref 112
+\ELANBegin 00:07:47.760
+\ELANEnd 00:07:49.640
+\ELANParticipant SLL
+\tx kimnolu                  wingkadungun
+\mb kim   -no       -lu     wingkadungu     -n
+\ge saber -NEG2     -advr.1 hablar.español -NMRZ1
+\ps verbo -adverbio -advr   verbo           -nmrz
+
+\ft que no sabían mapudungun?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 467.760 469.640
+
+\ref 113
+\ELANBegin 00:07:49.640
+\ELANEnd 00:07:51.960
+\ELANParticipant HM
+\tx feychi     nütram    ta  müley
+\mb fey  -chi  nütram    ta  müle -y
+\ge DEM2 -adjr historia   DET estar -IND.[3]
+\ps pro  -***  sustantivo det verbo -per
+
+\ft Esa conversación hay
+\mm SegundoLlamin_escuela_18052013_18mins.wav 469.640 471.960
+
+\ref 114
+\ELANBegin 00:07:51.960
+\ELANEnd 00:07:56.400
+\ELANParticipant HM
+\tx pueblo indigena mew  pu  mapuche engün mew  feychi     nütram    ta  müley         kiñeke     feypikey
+\mb pueblo indigena mew  pu  mapuche engün mew  fey  -chi  nütram    ta  müle -y       kiñe -ke   fey  -pi    -ke    -y
+\ge pueblo pueblo   PPOS COL mapuche 3.PL   PPOS DEM2 -adjr historia   DET estar -IND.[3] un    -DIST DEM2 -decir -HAB   -IND.[3]
+\ps nombre nombre   ppos det nombre  per    ppos pro  -***  sustantivo det verbo -per     art   -det  pro  -verbo -tam-e -per
+
+\ft en los pueblos indígenas, en los mapuches esa historia hay, algunos dicen
+\mm SegundoLlamin_escuela_18052013_18mins.wav 471.960 476.400
+
+\ref 115
+\ELANBegin 00:07:56.400
+\ELANEnd 00:07:58.040
+\ELANParticipant HM
+\tx kewangen
+\mb kewa   -nge -n
+\ge pelear -PAS -IND.1SG
+\ps verbo  -per -per
+
+\ft Me castigaron
+\mm SegundoLlamin_escuela_18052013_18mins.wav 476.400 478.040
+
+\ref 116
+\ELANBegin 00:07:58.040
+\ELANEnd 00:08:02.040
+\ELANParticipant HM
+\tx kimwingkadungunolu                         iñche escuela mew  pikefuy
+\mb kim   -wingkadungu     -no       -lu     iñche escuela mew  pi    -ke    -fu    -y
+\ge saber -hablar.español -NEG2     -advr.1 1SG    escuela PPOS decir -HAB   -AP    -IND.[3]
+\ps verbo -verbo           -adverbio -advr   pro    nombre  ppos verbo -tam-e -tam-e -per
+
+\ft por no saber español en la escuela, decpian
+\mm SegundoLlamin_escuela_18052013_18mins.wav 478.040 482.040
+
+\ref 117
+\ELANBegin 00:08:02.040
+\ELANEnd 00:08:05.000
+\ELANParticipant HM
+\tx welu müley         ka   dungu
+\mb welu müle -y       ka   dungu
+\ge pero estar -IND.[3] y    asunto
+\ps conj verbo -per     conj nombre
+
+\ft Pero hay otro asunto
+\mm SegundoLlamin_escuela_18052013_18mins.wav 482.040 485.000
+
+\ref 118
+\ELANBegin 00:08:05.000
+\ELANEnd 00:08:09.160
+\ELANParticipant HM
+\tx feychi     pu  kimelfe    wingka     kimelfe
+\mb fey  -chi  pu  kimelfe    wingka     kimelfe
+\ge DEM2 -adjr COL sustantivo no.mapuche sustantivo
+\ps pro  -***  det nombre     nombre     nombre
+
+\ft Los profesores, los profesores wingka
+\mm SegundoLlamin_escuela_18052013_18mins.wav 485.000 489.160
+
+\ref 119
+\ELANBegin 00:08:09.160
+\ELANEnd 00:08:14.200
+\ELANParticipant HM
+\tx chumngechi kimkeyngün                  feyngün
+\mb chumngechi kim   -ke    -y       -ngün fey  -ngün
+\ge cómo      saber -HAB   -IND.[3] -3.PL  DEM2 -3.PL
+\ps pro        verbo -tam-e -per     -per   pro  -per
+
+\ft ¿Cómo sabían
+\mm SegundoLlamin_escuela_18052013_18mins.wav 489.160 494.200
+
+\ref 120
+\ELANBegin 00:08:14.200
+\ELANEnd 00:08:19.000
+\ELANParticipant HM
+\tx feychi     weche pichi    wentru kimwingkadungunolu                         re       mapudungulu
+\mb fey  -chi  weche pichi    wentru kim   -wingkadungu     -no       -lu     re       mapudungu         -lu
+\ge DEM2 -adjr joven pequeño hombre saber -hablar.español -NEG2     -advr.1 solo     hablar mapudungun -advr.1
+\ps pro  -***  adj   adj      nombre verbo -verbo           -adverbio -advr   adverbio verbo             -advr
+
+\ft los jovenes y los niños que no sabían español, solo mapudungun
+\mm SegundoLlamin_escuela_18052013_18mins.wav 494.200 499.000
+
+\ref 121
+\ELANBegin 00:08:19.000
+\ELANEnd 00:08:25.800
+\ELANParticipant HM
+\tx chumngechi kimafuy                      feychi     kom      tarea  mülelu       fillke               kimün       lifru  mew
+\mb chumngechi kim   -a     -fu    -y       fey  -chi  kom      tarea  müle -lu     fill           -ke   kim   -ün   lifru  mew
+\ge cómo      saber -FUT   -AP    -IND.[3] DEM2 -adjr todo     tarea  estar -advr.1 cada uno       -DIST saber -NMRZ1 libro  PPOS
+\ps pro        verbo -tam-e -tam-e -per     pro  -***  adverbio nombre verbo -advr   adjetivo       -det  verbo -nmrz  nombre ppos
+
+\tx pipen                 nga
+\mb pi    -pe    -n       nga
+\ge decir -CERT  -IND.1SG pues
+\ps verbo -tam-e -per     md
+
+\ft Cómo sabrían todas las tareas que hay, todos los conocimientos de los libros, dije recien
+\mm SegundoLlamin_escuela_18052013_18mins.wav 499.000 505.800
+
+\ref 122
+\ELANBegin 00:08:25.800
+\ELANEnd 00:08:30.680
+\ELANParticipant HM
+\tx matematica, castellano feychi     dungu  fey  ñi    kimnon                  engün     wingkadungun
+\mb matematica  castellano fey  -chi  dungu  fey  ñi    kim   -no       -n     engün     wingkadungu -n
+\ge matematica  castellano DEM2 -adjr asunto DEM2 3.POSS saber -NEG2     -NMRZ1 3.PL   hablar.español -NMRZ1
+\ps nombre      nombre     pro  -***  nombre pro  pro    verbo -adverbio -nmrz  per    verbo           -nmrz
+
+\ft matemática, castellano, ese asunto, si no sabían español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 505.800 510.680
+
+\ref 123
+\ELANBegin 00:08:30.680
+\ELANEnd 00:08:34.160
+\ELANParticipant HM
+\tx re       mapudungun chumngechi longkon      tukuafuy                     feychi     dungu  engün
+\mb re       mapudungun chumngechi longko -n    tuku  -a     -fu    -y       fey  -chi  dungu  engün
+\ge solo     mapudungun cómo      cabeza -NMRZ1poner -FUT   -AP    -IND.[3] DEM2 -adjr asunto 3.PL
+\ps adverbio nombre     pro        nombre -nmrz tam-e -tam-e -tam-e -per     pro  -***  nombre per
+
+\ft ¿Cómo podrían almacenar en la cabeza eso
+\mm SegundoLlamin_escuela_18052013_18mins.wav 510.680 514.160
+
+\ref 124
+\ELANBegin 00:08:34.160
+\ELANEnd 00:08:36.240
+\ELANParticipant HM
+\tx kimnolu                  wingkadungun
+\mb kim   -no       -lu     wingkadungu     -n
+\ge saber -NEG2     -advr.1 hablar.español -NMRZ1
+\ps verbo -adverbio -advr   verbo           -nmrz
+
+\ft los que no sabían wingkadungun?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 514.160 516.240
+
+\ref 125
+\ELANBegin 00:08:36.240
+\ELANEnd 00:08:41.640
+\ELANParticipant HM
+\tx chem piymi          feychi     mongen mew  feychi     tripantu
+\mb chem pi    -ymi     fey  -chi  mongen mew  fey  -chi  tripa -ntu
+\ge qué decir -IND.2SG DEM2 -adjr vida   PPOS DEM2 -adjr salir -COL
+\ps pro  verbo -per     pro  -***  nombre ppos pro  -***  verbo -det
+
+\ft ¿Qué dices tú acerca de esa vida en esos años?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 516.240 521.640
+
+\ref 126
+\ELANBegin 00:08:41.600
+\ELANEnd 00:08:45.680
+\ELANParticipant SLL
+\tx pichike        che    müna    inteligentengey             kay
+\mb pichi    -ke   che    müna    inteligente -nge   -y       kay
+\ge pequeño -DIST gente  mucho    inteligente -COP   -IND.[3] y
+\ps adj      -det  nombre adverbio adjetivo    -verbo -per     conj
+
+\ft Los niños son muy inteligentes
+\mm SegundoLlamin_escuela_18052013_18mins.wav 521.600 525.680
+
+\ref 127
+\ELANBegin 00:08:45.680
+\ELANEnd 00:08:49.000
+\ELANParticipant SLL
+\tx mapuche ta  inteligentengey             pu  peñi
+\mb mapuche ta  inteligente -nge   -y       pu  peñi
+\ge mapuche DET inteligente -COP   -IND.[3] COL hermano (de ego masculino)
+\ps nombre  det adjetivo    -verbo -per     det nombre
+
+\ft Los mapuches son inteligentes po, hermano
+\mm SegundoLlamin_escuela_18052013_18mins.wav 525.680 529.000
+
+\ref 128
+\ELANBegin 00:08:49.000
+\ELANEnd 00:08:52.600
+\ELANParticipant SLL
+\tx rume     niey           tañi          kimün
+\mb rume     nie   -y       ta  -ñi      kim     -ün
+\ge mucho    tener -IND.[3] DET -1SG.POSS saber   -NMRZ1
+\ps adverbio verbo -per     det -pro      verbo   -nmrz
+
+\ft tienen mucha sabiduría
+\mm SegundoLlamin_escuela_18052013_18mins.wav 529.000 532.600
+
+\ref 129
+\ELANBegin 00:08:52.600
+\ELANEnd 00:08:55.840
+\ELANParticipant SLL
+\tx fey  ta  inaduami
+\mb fey  ta  ina    -duam     -i
+\ge DEM2 DET seguir -entender -IND.[3]
+\ps pro  det verbo  -verbo    -per
+
+\ft entonces relfexionan
+\mm SegundoLlamin_escuela_18052013_18mins.wav 532.600 535.840
+
+\ref 130
+\ELANBegin 00:08:55.840
+\ELANEnd 00:08:57.080
+\ELANParticipant SLL
+\tx inaduami
+\mb ina    -duam     -i
+\ge seguir -entender -IND.[3]
+\ps verbo  -verbo    -per
+
+\ft reflexionan
+\mm SegundoLlamin_escuela_18052013_18mins.wav 535.840 537.080
+
+\ref 131
+\ELANBegin 00:08:57.080
+\ELANEnd 00:09:01.800
+\ELANParticipant SLL
+\tx ruka   mew  ka   petu     ruka   mew  chaw   petu     kellueyew                 ñuke  kellueyew
+\mb ruka   mew  ka   petu     ruka   mew  chaw   petu     kellu  -e   -y       -ew  ñuke  kellu  -e   -y       -ew
+\ge casa   PPOS y    todavía casa   PPOS padre  todavía ayudar -INV -IND.[3] -OBL madre  ayudar -INV -IND.[3] -OBL
+\ps nombre ppos conj adverbio nombre ppos nombre adverbio verbo  -per -per     -per nombre verbo  -per -per     -per
+
+\ft en la casa lo ayuda el papá, lo ayuda la mamá
+\mm SegundoLlamin_escuela_18052013_18mins.wav 537.080 541.800
+
+\ref 132
+\ELANBegin 00:09:01.800
+\ELANEnd 00:09:05.240
+\ELANParticipant SLL
+\tx ñi    ruf      ñi    kimafiel                  tüfeychi    dungu
+\mb ñi    ruf      ñi    kim   -a     -fi   -el    tüfey -chi  dungu
+\ge 3.POSS verdad   3.POSS saber -FUT   -3.OP -NMRZ2 DEM2   -adjr asunto
+\ps pro    adverbio pro    verbo -tam-e -per  -nmzr  pro    -***  nombre
+
+\ft para saber de verdad ese asunto
+\mm SegundoLlamin_escuela_18052013_18mins.wav 541.800 545.240
+
+\ref 133
+\ELANBegin 00:09:05.240
+\ELANEnd 00:09:08.680
+\ELANParticipant SLL
+\tx feymew   ti   chi  pichike        che    nguyukelay                    ka
+\mb feymew   ti   chi  pichi    -ke   che    nguyu   -ke    -la   -y       ka
+\ge entonces DET2 DEM2 pequeño -DIST gente  olvidar -HAB   -NEG1 -IND.[3] y
+\ps conj     det  dem  adj      -det  nombre verbo   -tam-e -neg  -per     conj
+
+\ft Entonces los niños no se olvidan
+\mm SegundoLlamin_escuela_18052013_18mins.wav 545.240 548.680
+
+\ref 134
+\ELANBegin 00:09:08.680
+\ELANEnd 00:09:12.480
+\ELANParticipant SLL
+\tx chumngechi ñi    kimeltuetew                      tañi        chaw   ñi    ñuke
+\mb chumngechi ñi    kimel    -tu    -e   -t     -ew  ta  -ñi    chaw   ñi    ñuke
+\ge cómo      3.POSS enseñar -APPL3 -INV -NMRZ3 -OBL DET -3.POSS padre  3.POSS madre
+\ps pro        pro    verbo    -per   -per -nmrz  -per det -pro    nombre pro    nombre
+
+\ft cómo le enseñó su papá, su mamá
+\mm SegundoLlamin_escuela_18052013_18mins.wav 548.680 552.480
+
+\ref 135
+\ELANBegin 00:09:12.480
+\ELANEnd 00:09:14.520
+\ELANParticipant SLL
+\tx fey  ta  nguyulay
+\mb fey  ta  nguyu   -la   -y
+\ge DEM2 DET olvidar -NEG1 -IND.[3]
+\ps pro  det verbo   -neg  -per
+
+\ft no se olvida
+\mm SegundoLlamin_escuela_18052013_18mins.wav 552.480 554.520
+
+\ref 136
+\ELANBegin 00:09:14.520
+\ELANEnd 00:09:19.080
+\ELANParticipant SLL
+\tx feymew   fey  ta  nochilkakey                            tañi        amulen              tañi        wingkadungun
+\mb feymew   fey  ta  nochi    -l     -ka    -ke    -y       ta  -ñi    amu   -le    -n     ta  -ñi    wingkadungu     -n
+\ge entonces DEM2 DET lento    -APPL3 -CONT  -HAB   -IND.[3] DET -3.POSS ir    -PROG  -NMRZ1 DET -3.POSS hablar.español -NMRZ1
+\ps conj     pro  det adverbio -per   -tam-e -tam-e -per     det -pro    verbo -tam-e -nmrz  det -pro    verbo           -nmrz
+
+\ft entonces de a poco va aprendiendo el español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 554.520 559.080
+
+\ref 137
+\ELANBegin 00:09:19.040
+\ELANEnd 00:09:22.960
+\ELANParticipant HM
+\tx welu feychi     pu  chaw   pu  ñuke  kimwingkadungunolu                         kay
+\mb welu fey  -chi  pu  chaw   pu  ñuke  kim   -wingkadungu     -no       -lu     kay
+\ge pero DEM2 -adjr COL padre  COL madre  saber -hablar.español -NEG2     -advr.1 y
+\ps conj pro  -***  det nombre det nombre verbo -verbo           -adverbio -advr   conj
+
+\ft Pero los padres, las madres que tampoco sabían español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 559.040 562.960
+
+\ref 138
+\ELANBegin 00:09:22.960
+\ELANEnd 00:09:26.040
+\ELANParticipant HM
+\tx mülekey              feychi     mongen
+\mb müle -ke    -y       fey  -chi  mongen
+\ge estar -HAB   -IND.[3] DEM2 -adjr vida
+\ps verbo -tam-e -per     pro  -***  nombre
+
+\ft ¿Había esa vida?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 562.960 566.040
+
+\ref 139
+\ELANBegin 00:09:26.000
+\ELANEnd 00:09:30.880
+\ELANParticipant SLL
+\tx fey  ta  mülekay              ta  kimwingkadungulu                ka   peñi
+\mb fey  ta  müle -ka    -y       ta  kim   -wingkadungu     -lu     ka   peñi
+\ge DEM2 DET estar -CONT  -IND.[3] DET saber -hablar.español -advr.1 y    hermano (de ego masculino)
+\ps pro  det verbo -tam-e -per     det verbo -verbo           -advr   conj nombre
+
+\ft siempre había gente que hablaba español hermano
+\mm SegundoLlamin_escuela_18052013_18mins.wav 566.000 570.880
+
+\ref 140
+\ELANBegin 00:09:30.840
+\ELANEnd 00:09:32.760
+\ELANParticipant HM
+\tx petu     müley
+\mb petu     müle -y
+\ge todavía estar -IND.[3]
+\ps adverbio verbo -per
+
+\ft todavía hay
+\mm SegundoLlamin_escuela_18052013_18mins.wav 570.840 572.760
+
+\ref 141
+\ELANBegin 00:09:32.720
+\ELANEnd 00:09:39.360
+\ELANParticipant SLL
+\tx fey  ti   ta  wingkadungun           fütra   kuyfi        mew  am   akulu               fey  ta  kimi           wingkadungun
+\mb fey  ti   ta  wingkadungu     -n     fütra   kuyfi        mew  am   aku         -lu     fey  ta  kim   -i       wingkadungu     -n
+\ge DEM2 DET2 DET hablar.español -NMRZ1 gran     antiguamente PPOS INT  llegar.acá -advr.1 DEM2 DET saber -IND.[3] hablar.español -NMRZ1
+\ps pro  det  det verbo           -nmrz  adverbio adv          ppos part verbo       -advr   pro  det verbo -per     verbo           -nmrz
+
+\ft como llegaron hace mucho tiempo los wingka, entonces saben español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 572.720 579.360
+
+\ref 142
+\ELANBegin 00:09:39.320
+\ELANEnd 00:09:42.400
+\ELANParticipant HM
+\tx ina    re       nütram    mew  kimingün             ka
+\mb ina    re       nütram    mew  kim   -i       -ngün ka
+\ge seguir solo     historia   PPOS saber -IND.[3] -3.PL  y
+\ps verbo  adverbio sustantivo ppos verbo -per     -per   conj
+
+\ft siguiendo la conversación no más saben
+\mm SegundoLlamin_escuela_18052013_18mins.wav 579.320 582.400
+
+\ref 143
+\ELANBegin 00:09:42.360
+\ELANEnd 00:09:45.440
+\ELANParticipant SLL
+\tx re       nütramkay,        may,     nütramkay
+\mb re       nütramka -y       may      nütramka -y
+\ge solo     conversar -IND.[3] si       conversar -IND.[3]
+\ps adverbio verbo     -per     adverbio verbo     -per
+
+\ft pura conversación, pura conversación
+\mm SegundoLlamin_escuela_18052013_18mins.wav 582.360 585.440
+
+\ref 144
+\ELANBegin 00:09:45.400
+\ELANEnd 00:09:48.560
+\ELANParticipant HM
+\tx feley             feley
+\mb fele     -y       fele     -y
+\ge ser así -IND.[3] ser así -IND.[3]
+\ps verbo    -per     verbo    -per
+
+\ft Así es, así es
+\mm SegundoLlamin_escuela_18052013_18mins.wav 585.400 588.560
+
+\ref 145
+\ELANBegin 00:09:48.520
+\ELANEnd 00:09:56.520
+\ELANParticipant SLL
+\tx iñche ta  ka   femngechi kutrankawün             ñi      kimael              wingkadungun           po   peñi
+\mb iñche ta  ka   femngechi kutrankaw -*ü -n       ñi      kim   -a     -el    wingkadungu     -n     po   peñi
+\ge 1SG    DET y    así      sufrir    -*** -IND.1SG 1SG.POSS saber -FUT   -NMRZ2 hablar.español -NMRZ1 pues hermano (de ego masculino)
+\ps pro    det conj adverbio  verbo     -*** -per     pro      verbo -tam-e -nmzr  verbo           -nmrz  part nombre
+
+\ft yo tambie´ sufrí mucho para aprender español hermano
+\mm SegundoLlamin_escuela_18052013_18mins.wav 588.520 596.520
+
+\ref 146
+\ELANBegin 00:09:56.480
+\ELANEnd 00:09:58.520
+\ELANParticipant HM
+\tx kutrankawimi
+\mb kutrankaw -imi
+\ge sufrir    -IND.2SG
+\ps verbo     -per
+
+\ft ¿sufriste?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 596.480 598.520
+
+\ref 147
+\ELANBegin 00:09:58.480
+\ELANEnd 00:10:05.520
+\ELANParticipant SLL
+\tx kimkelafun                         kimkelafun                         ta  chem pingen              ta  wingkadungun
+\mb kim   -ke    -la   -fu    -n       kim   -ke    -la   -fu    -n       ta  chem pi    -nge   -n     ta  wingkadungu     -n
+\ge saber -HAB   -NEG1 -AP    -IND.1SG saber -HAB   -NEG1 -AP    -IND.1SG DET qué decir -COP   -NMRZ1 DET hablar.español -NMRZ1
+\ps verbo -tam-e -neg  -tam-e -per     verbo -tam-e -neg  -tam-e -per     det pro  verbo -verbo -nmrz  det verbo           -nmrz
+
+\ft no sabía lo que decía el español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 598.480 605.520
+
+\ref 148
+\ELANBegin 00:10:05.480
+\ELANEnd 00:10:08.800
+\ELANParticipant HM
+\tx eymi ta  allküken                tami          nütram    mew
+\mb eymi ta  allkü   -ke    -n       ta  -mi       nütram    mew
+\ge tú  DET escuchar -HAB   -IND.1SG DET -2SG.POSS historia   PPOS
+\ps pro  det verbo    -tam-e -per     det -pro      sustantivo ppos
+
+\ft yo he escuchado tu historia
+\mm SegundoLlamin_escuela_18052013_18mins.wav 605.480 608.800
+
+\ref 149
+\ELANBegin 00:10:08.800
+\ELANEnd 00:10:12.320
+\ELANParticipant HM
+\tx müna    amatungekeymi                tami          mongen
+\mb müna    amatu   -nge -ke    -ymi     ta  -mi       mongen
+\ge mucho    admirar -PAS -HAB   -IND.2SG DET -2SG.POSS vida
+\ps adverbio verbo   -per -tam-e -per     det -pro      nombre
+
+\ft es muy admirada tu vida
+\mm SegundoLlamin_escuela_18052013_18mins.wav 608.800 612.320
+
+\ref 150
+\ELANBegin 00:10:12.320
+\ELANEnd 00:10:15.240
+\ELANParticipant HM
+\tx müna    amatungekeymi                ta  eymi
+\mb müna    amatu   -nge -ke    -ymi     ta  eymi
+\ge mucho    admirar -PAS -HAB   -IND.2SG DET tú
+\ps adverbio verbo   -per -tam-e -per     det pro
+
+\ft eres muy admirado tú
+\mm SegundoLlamin_escuela_18052013_18mins.wav 612.320 615.240
+
+\ref 151
+\ELANBegin 00:10:15.240
+\ELANEnd 00:10:22.840
+\ELANParticipant HM
+\tx tami          mongen profesorngerumeymi              chumngechi am   kimelfengerumeymi                 tüfachi    lof       mew
+\mb ta  -mi       mongen profesor -nge   -rume  -ymi     chumngechi am   kimelfe    -nge   -rume  -ymi     tüfa -chi  lof       mew
+\ge DET -2SG.POSS vida   profesor -COP   -RPN   -IND.2SG cómo      INT  sustantivo -COP   -RPN   -IND.2SG DEM1  -adjr comunidad PPOS
+\ps det -pro      nombre nombre   -verbo -tam-E -per     pro        part nombre     -verbo -tam-E -per     pro   -***  nombre    ppos
+
+\ft tu vida, de repente te hiciste profesor, cómo te hiciste profesor de repente en esta comunidad
+\mm SegundoLlamin_escuela_18052013_18mins.wav 615.240 622.840
+
+\ref 152
+\ELANBegin 00:10:22.840
+\ELANEnd 00:10:27.160
+\ELANParticipant HM
+\tx pichi    feypiafuymi                         tami          mongen
+\mb pichi    fey  -pi    -a     -fu    -ymi     ta  -mi       mongen
+\ge pequeño DEM2 -decir -FUT   -AP    -IND.2SG DET -2SG.POSS vida
+\ps adj      pro  -verbo -tam-e -tam-e -per     det -pro      nombre
+
+\ft me contarías un poco tu vida?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 622.840 627.160
+
+\ref 153
+\ELANBegin 00:10:27.120
+\ELANEnd 00:10:30.080
+\ELANParticipant SLL
+\tx ñi      kimeltuafuel                         chumngechi am
+\mb ñi      kimel    -tu    -a     -fu    -el    chumngechi am
+\ge 1SG.POSS enseñar -APPL3 -FUT   -AP    -NMRZ2 cómo      INT
+\ps pro      verbo    -per   -tam-e -tam-e -nmzr  pro        part
+
+\ft ¿lo que enseñé? ¿qué cosa?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 627.120 630.080
+
+\ref 154
+\ELANBegin 00:10:30.040
+\ELANEnd 00:10:33.800
+\ELANParticipant HM
+\tx kimelkerkeymi                   tami...       fey  profesorngekerkeymi
+\mb kimel    -ke    -rke   -ymi     ta  -mi       fey  profesor -nge   -ke    -rke   -ymi
+\ge enseñar -HAB   -EVID  -IND.2SG DET -2SG.POSS DEM2 profesor -COP   -HAB   -EVID  -IND.2SG
+\ps verbo    -tam-e -tam-e -per     det -pro      pro  nombre   -verbo -tam-e -tam-e -per
+
+\ft Usted dicen que fue profesor aquí
+\mm SegundoLlamin_escuela_18052013_18mins.wav 630.040 633.800
+
+\ref 155
+\ELANBegin 00:10:33.800
+\ELANEnd 00:10:35.800
+\ELANParticipant HM
+\tx kuyfi
+\mb kuyfi
+\ge antiguamente
+\ps adv
+
+\ft antes
+\mm SegundoLlamin_escuela_18052013_18mins.wav 633.800 635.800
+
+\ref 156
+\ELANBegin 00:10:35.760
+\ELANEnd 00:10:38.520
+\ELANParticipant SLL
+\tx Künawe  chew   tañi          mülen
+\mb Künawe  chew   ta  -ñi      müle -n
+\ge Quinahue dónde DET -1SG.POSS estar -NMRZ1
+\ps nombre   pro    det -pro      verbo -nmrz
+
+\ft Quinahue, donde estoy
+\mm SegundoLlamin_escuela_18052013_18mins.wav 635.760 638.520
+
+\ref 157
+\ELANBegin 00:10:38.480
+\ELANEnd 00:10:40.520
+\ELANParticipant HM
+\tx chumngechi am   profesorngerumeymi
+\mb chumngechi am   profesor -nge   -rume  -ymi
+\ge cómo      INT  profesor -COP   -RPN   -IND.2SG
+\ps pro        part nombre   -verbo -tam-E -per
+
+\ft ¿Cómo te transformaste de repente en profesor?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 638.480 640.520
+
+\ref 158
+\ELANBegin 00:10:40.520
+\ELANEnd 00:10:42.800
+\ELANParticipant HM
+\tx eymi tami          lof
+\mb eymi ta  -mi       lof
+\ge tú  DET -2SG.POSS comunidad
+\ps pro  det -pro      nombre
+
+\ft en tu comunidad
+\mm SegundoLlamin_escuela_18052013_18mins.wav 640.520 642.800
+
+\ref 159
+\ELANBegin 00:10:42.760
+\ELANEnd 00:10:47.040
+\ELANParticipant SLL
+\tx iñche ta  anungechi
+\mb iñche ta  anungechi
+\ge 1SG    DET por si acaso
+\ps pro    det adverbio
+
+\ft por si acaso
+\mm SegundoLlamin_escuela_18052013_18mins.wav 642.760 647.040
+
+\ref 160
+\ELANBegin 00:10:47.040
+\ELANEnd 00:10:49.440
+\ELANParticipant SLL
+\tx anungechi    piy            ta  che
+\mb anungechi    pi    -y       ta  che
+\ge por si acaso decir -IND.[3] DET gente
+\ps adverbio     verbo -per     det nombre
+
+\ft por si acaso dice la gente
+\mm SegundoLlamin_escuela_18052013_18mins.wav 647.040 649.440
+
+\ref 161
+\ELANBegin 00:10:49.440
+\ELANEnd 00:10:54.320
+\ELANParticipant SLL
+\tx casualidad piy            anungechi
+\mb casualidad pi    -y       anungechi
+\ge casualidad decir -IND.[3] por si acaso
+\ps nombre     verbo -per     adverbio
+
+\ft casualidad dicen, por si acaso
+\mm SegundoLlamin_escuela_18052013_18mins.wav 649.440 654.320
+
+\ref 162
+\ELANBegin 00:10:54.320
+\ELANEnd 00:10:56.800
+\ELANParticipant SLL
+\tx müleken              colegio mew
+\mb müle -ke    -n       colegio mew
+\ge estar -HAB   -IND.1SG colegio PPOS
+\ps verbo -tam-e -per     nombre  ppos
+
+\ft Estaba en el colegio
+\mm SegundoLlamin_escuela_18052013_18mins.wav 654.320 656.800
+
+\ref 163
+\ELANBegin 00:10:56.800
+\ELANEnd 00:11:04.360
+\ELANParticipant SLL
+\tx escuela mew, Temuco, fey  doy      kim-entumen              feymew   ta  doy      wingka     dungun        ka
+\mb escuela mew  Temuco  fey  doy      kim-entu  -me   -n       feymew   ta  doy      wingka     dungu  -n     ka
+\ge escuela PPOS Temuco  DEM2 más     sabesacar -DIR3 -IND.1SG entonces DET más     no.mapuche asunto -NMRZ1 y
+\ps nombre  ppos nombre  pro  adverbio verbverbo -dir  -per     conj     det adverbio nombre     nombre -nmrz  conj
+
+\ft en la escuela, en Temuco, allá fui a aprender más, entonces hablé más español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 656.800 664.360
+
+\ref 164
+\ELANBegin 00:11:04.360
+\ELANEnd 00:11:12.760
+\ELANParticipant SLL
+\tx wingkadungun           ka   müleken              eluniekenew                       müleken
+\mb wingkadungu     -n     ka   müle -ke    -n       elu   -nie   -ke    -n       -ew  müle -ke    -n
+\ge hablar.español -NMRZ1 y    estar -HAB   -IND.1SG dar   -PERF  -HAB   -IND.1SG -OBL estar -HAB   -IND.1SG
+\ps verbo           -nmrz  conj verbo -tam-e -per     verbo -tam-e -tam-e -per     -per verbo -tam-e -per
+
+\ft español y también me daban donde estar
+\mm SegundoLlamin_escuela_18052013_18mins.wav 664.360 672.760
+
+\ref 165
+\ELANBegin 00:11:12.760
+\ELANEnd 00:11:16.280
+\ELANParticipant SLL
+\tx umawleken                     profesor ñi    ruka   mew
+\mb umaw   -le    -ke    -n       profesor ñi    ruka   mew
+\ge dormir -PROG  -HAB   -IND.1SG profesor 3.POSS casa   PPOS
+\ps verbo  -tam-e -tam-e -per     nombre   pro    nombre ppos
+
+\ft yo estaba alojado la casa del profesor
+\mm SegundoLlamin_escuela_18052013_18mins.wav 672.760 676.280
+
+\ref 166
+\ELANBegin 00:11:16.280
+\ELANEnd 00:11:18.600
+\ELANParticipant SLL
+\tx fey  kimeltuniekeenew                                 ka
+\mb fey  kimel    -tu    -nie   -ke    -e   -n       -ew  ka
+\ge DEM2 enseñar -APPL3 -PERF  -HAB   -INV -IND.1SG -OBL y
+\ps pro  verbo    -per   -tam-e -tam-e -per -per     -per conj
+
+\ft entonces me enseñaban también
+\mm SegundoLlamin_escuela_18052013_18mins.wav 676.280 678.600
+
+\ref 167
+\ELANBegin 00:11:18.600
+\ELANEnd 00:11:23.160
+\ELANParticipant SLL
+\tx kimeltuniekeenew                                 iñche ka   ayulken                               tañi          kimael
+\mb kimel    -tu    -nie   -ke    -e   -n       -ew  iñche ka   ayu            -l     -ke    -n       ta  -ñi      kim   -a     -el
+\ge enseñar -APPL3 -PERF  -HAB   -INV -IND.1SG -OBL 1SG    y    querer, gustar -APPL3 -HAB   -IND.1SG DET -1SG.POSS saber -FUT   -NMRZ2
+\ps verbo    -per   -tam-e -tam-e -per -per     -per pro    conj verbo          -per   -tam-e -per     det -pro      verbo -tam-e -nmzr
+
+\ft me enseñaban, a mi también me gustaba conocer
+\mm SegundoLlamin_escuela_18052013_18mins.wav 678.600 683.160
+
+\ref 168
+\ELANBegin 00:11:23.160
+\ELANEnd 00:11:26.840
+\ELANParticipant SLL
+\tx kimlan               kiñe wingkadungun
+\mb kim   -la   -n       kiñe wingkadungu     -n
+\ge saber -NEG1 -IND.1SG un    hablar.español -NMRZ1
+\ps verbo -neg  -per     art   verbo           -nmrz
+
+\ft no sabía algo en español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 683.160 686.840
+
+\ref 169
+\ELANBegin 00:11:26.920
+\ELANEnd 00:11:29.240
+\ELANParticipant SLL
+\tx ramtukefufin                           chem pingen
+\mb ramtu     -ke    -fu    -fi   -n       chem pi    -nge   -n
+\ge preguntar -HAB   -AP    -3.OP -IND.1SG qué decir -COP   -NMRZ1
+\ps verbo     -tam-e -tam-e -per  -per     pro  verbo -verbo -nmrz
+
+\ft les preguntaba cómo se decía
+\mm SegundoLlamin_escuela_18052013_18mins.wav 686.920 689.240
+
+\ref 170
+\ELANBegin 00:11:29.240
+\ELANEnd 00:11:32.800
+\ELANParticipant SLL
+\tx ramtukefun                       ñi    chem pingen
+\mb ramtu     -ke    -fu    -n       ñi    chem pi    -nge -n
+\ge preguntar -HAB   -AP    -IND.1SG 3.POSS qué decir -PAS -NMRZ1
+\ps verbo     -tam-e -tam-e -per     pro    pro  verbo -per -nmrz
+
+\ft preguntaba cómo se decía
+\mm SegundoLlamin_escuela_18052013_18mins.wav 689.240 692.800
+
+\ref 171
+\ELANBegin 00:11:32.800
+\ELANEnd 00:11:35.320
+\ELANParticipant SLL
+\tx femngechi amulefuy                     ñi      kimün       peñi
+\mb femngechi amu   -le    -fu    -y       ñi      kim   -ün   peñi
+\ge así      ir    -PROG  -AP    -IND.[3] 1SG.POSS saber -NMRZ1 hermano (de ego masculino)
+\ps adverbio  verbo -tam-e -tam-e -per     pro      verbo -nmrz  nombre
+
+\ft así iba mi conocimiento hermano
+\mm SegundoLlamin_escuela_18052013_18mins.wav 692.800 695.320
+
+\ref 172
+\ELANBegin 00:11:35.320
+\ELANEnd 00:11:37.600
+\ELANParticipant SLL
+\tx femngechi amuy           ñi      kimün
+\mb femngechi amu   -y       ñi      kim     -ün
+\ge así      ir    -IND.[3] 1SG.POSS saber   -NMRZ1
+\ps adverbio  verbo -per     pro      verbo   -nmrz
+
+\ft así iba mi conocimiento
+\mm SegundoLlamin_escuela_18052013_18mins.wav 695.320 697.600
+
+\ref 173
+\ELANBegin 00:11:37.560
+\ELANEnd 00:11:45.400
+\ELANParticipant HM
+\tx ya,           kimelkeymi               chem, matematica, castellano, fillke               kimün       kam  re       mapudungun
+\mb ya            kimel    -ke    -ymi     chem  matematica  castellano  fill           -ke   kim   -ün   kam  re       mapudungun
+\ge ya            enseñar -HAB   -IND.2SG qué  matematica  castellano  cada uno       -DIST saber -NMRZ1 o    solo     mapudungun
+\ps interjección verbo    -tam-e -per     pro   nombre      nombre      adjetivo       -det  verbo -nmrz  conj adverbio nombre
+
+\ft ¿Ya, fuiste a aprender matemática, castellano, de todos los conocimientos o solo mapudungun?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 697.560 705.400
+
+\ref 174
+\ELANBegin 00:11:45.360
+\ELANEnd 00:11:51.120
+\ELANParticipant SLL
+\tx fey  ta  iñche ta  konün                ta  chi  pu  profesorngen           ta ti   feychi     mew
+\mb fey  ta  iñche ta  kon    -*ü -n       ta  chi  pu  profesor -nge   -n     ta ti   fey  -chi  mew
+\ge DEM2 DET 1SG    DET entrar -*** -IND.1SG DET DEM2 COL profesor -COP   -NMRZ1 DETDET2 DEM2 -adjr PPOS
+\ps pro  det pro    det verbo  -*** -per     det dem  det nombre   -verbo -nmrz  detdet  pro  -***  ppos
+
+\ft Yo entré a ser profesor allá
+\mm SegundoLlamin_escuela_18052013_18mins.wav 705.360 711.120
+
+\ref 175
+\ELANBegin 00:11:51.120
+\ELANEnd 00:11:55.240
+\ELANParticipant SLL
+\tx fey  tüfachi    elmeenew                       tüfachi    Painemal,     Segundo Painemal
+\mb fey  tüfa -chi  el    -me   -e   -n       -ew  tüfa -chi  Painemal      Segundo Painemal
+\ge DEM2 DEM1  -adjr dejar -DIR3 -INV -IND.1SG -OBL DEM1  -adjr Painemal      Segundo Painemal
+\ps pro  pro   -***  verbo -dir  -per -per     -per pro   -***  nombre propio nombre  nombre propio
+
+\ft me fue a dejar este Painemal, Segundo Painemal
+\mm SegundoLlamin_escuela_18052013_18mins.wav 711.120 715.240
+
+\ref 176
+\ELANBegin 00:11:55.240
+\ELANEnd 00:11:58.760
+\ELANParticipant SLL
+\tx fey  ta  adtukukunuenew
+\mb fey  ta  ad     -tuku  -kunu  -e   -n       -ew
+\ge DEM2 DET imagen -poner -PRPS  -INV -IND.1SG -OBL
+\ps pro  det nombre -tam-e -tam-e -per -per     -per
+
+\ft me fue a dejar instruido
+\mm SegundoLlamin_escuela_18052013_18mins.wav 715.240 718.760
+
+\ref 177
+\ELANBegin 00:11:58.760
+\ELANEnd 00:12:01.960
+\ELANParticipant SLL
+\tx fey  ta  adtukukunuenew
+\mb fey  ta  ad     -tuku  -kunu  -e   -n       -ew
+\ge DEM2 DET imagen -poner -PRPS  -INV -IND.1SG -OBL
+\ps pro  det nombre -tam-e -tam-e -per -per     -per
+
+\ft me fue a dejar instruido
+\mm SegundoLlamin_escuela_18052013_18mins.wav 718.760 721.960
+
+\ref 178
+\ELANBegin 00:12:01.920
+\ELANEnd 00:12:06.280
+\ELANParticipant HM
+\tx adtukukunueymew
+\mb ad     -tuku  -kunu  -e   -ym      -ew
+\ge imagen -poner -PRPS  -INV -IND.2SG -OBL
+\ps nombre -tam-e -tam-e -per -per     -per
+
+\ft Te dejo instruido
+\mm SegundoLlamin_escuela_18052013_18mins.wav 721.920 726.280
+
+\ref 179
+\ELANBegin 00:12:06.040
+\ELANEnd 00:12:08.240
+\ELANParticipant SLL
+\tx rume     küme    wenüy em     ka
+\mb rume     küme    wenüy em     ka
+\ge mucho    bien     amigo  finado y
+\ps adverbio adverbio nombre interj conj
+
+\ft Era un muy buen amigo el finado
+\mm SegundoLlamin_escuela_18052013_18mins.wav 726.040 728.240
+
+\ref 180
+\ELANBegin 00:12:08.240
+\ELANEnd 00:12:14.880
+\ELANParticipant SLL
+\tx rume     kim   wentru em     feychi     dungu  mew  ka
+\mb rume     kim   wentru em     fey  -chi  dungu  mew  ka
+\ge mucho    saber hombre finado DEM2 -adjr asunto PPOS y
+\ps adverbio verbo nombre interj pro  -***  nombre ppos conj
+
+\ft Era un hombre sabio en esos asuntos
+\mm SegundoLlamin_escuela_18052013_18mins.wav 728.240 734.880
+
+\ref 181
+\ELANBegin 00:12:14.880
+\ELANEnd 00:12:18.120
+\ELANParticipant SLL
+\tx adtukukunuenew
+\mb ad     -tuku  -kunu  -e   -n       -ew
+\ge imagen -poner -PRPS  -INV -IND.1SG -OBL
+\ps nombre -tam-e -tam-e -per -per     -per
+
+\ft Me dejó instruido
+\mm SegundoLlamin_escuela_18052013_18mins.wav 734.880 738.120
+
+\ref 182
+\ELANBegin 00:12:18.360
+\ELANEnd 00:12:21.920
+\ELANParticipant SLL
+\tx fey  ta  iñche ñochingey               tañi          amulen
+\mb fey  ta  iñche ñochi   -nge   -y       ta  -ñi      amu   -le    -n
+\ge DEM2 DET 1SG    lento    -COP   -IND.[3] DET -1SG.POSS ir    -PROG  -NMRZ1
+\ps pro  det pro    adverbio -verbo -per     det -pro      verbo -tam-e -nmrz
+
+\ft entonces yo despacito me fui
+\mm SegundoLlamin_escuela_18052013_18mins.wav 738.360 741.920
+
+\ref 183
+\ELANBegin 00:12:21.920
+\ELANEnd 00:12:27.320
+\ELANParticipant SLL
+\tx welu fey  rume
+\mb welu fey  rume
+\ge pero DEM2 siquiera
+\ps conj pro  adverbio
+
+\ft Pero entonces siquiera
+\mm SegundoLlamin_escuela_18052013_18mins.wav 741.920 747.320
+
+\ref 184
+\ELANBegin 00:12:27.320
+\ELANEnd 00:12:32.600
+\ELANParticipant SLL
+\tx kiñeke     mew  kimlan               kiñeke     dungu  wingkadungun
+\mb kiñe -ke   mew  kim   -la   -n       kiñe -ke   dungu  wingkadungu     -n
+\ge un    -DIST PPOS saber -NEG1 -IND.1SG un    -DIST asunto hablar.español -NMRZ1
+\ps art   -det  ppos verbo -neg  -per     art   -det  nombre verbo           -nmrz
+
+\ft algunas cosas no sabia en español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 747.320 752.600
+
+\ref 185
+\ELANBegin 00:12:32.600
+\ELANEnd 00:12:37.400
+\ELANParticipant SLL
+\tx welu ngillan          lifru
+\mb welu ngilla  -n       lifru
+\ge pero comprar -IND.1SG libro
+\ps conj verbo   -per     nombre
+
+\ft pero compré libros
+\mm SegundoLlamin_escuela_18052013_18mins.wav 752.600 757.400
+
+\ref 186
+\ELANBegin 00:12:37.400
+\ELANEnd 00:12:41.600
+\ELANParticipant SLL
+\tx amuley                ñi      ngillan        lifru  chem lifru  ñi      kimel    kimael
+\mb amu   -le    -y       ñi      ngilla  -n     lifru  chem lifru  ñi      kimel    kim   -a     -el
+\ge ir    -PROG  -IND.[3] 1SG.POSS comprar -NMRZ1 libro  qué libro  1SG.POSS enseñar saber -FUT   -NMRZ2
+\ps verbo -tam-e -per     pro      verbo   -nmrz  nombre pro  nombre pro      verbo    verbo -tam-e -nmzr
+
+\ft comencé a comprar libros los libros que enseñan para saber
+\mm SegundoLlamin_escuela_18052013_18mins.wav 757.400 761.600
+
+\ref 187
+\ELANBegin 00:12:41.600
+\ELANEnd 00:12:43.400
+\ELANParticipant SLL
+\tx femngechi kimün               peñi
+\mb femngechi kim   -*ü -n       peñi
+\ge así      saber -*** -IND.1SG hermano (de ego masculino)
+\ps adverbio  verbo -*** -per     nombre
+
+\ft así aprendí hermano
+\mm SegundoLlamin_escuela_18052013_18mins.wav 761.600 763.400
+
+\ref 188
+\ELANBegin 00:12:43.400
+\ELANEnd 00:12:48.240
+\ELANParticipant SLL
+\tx fey  ta  libro  ta  kimeltuenew                        doy
+\mb fey  ta  libro  ta  kimel    -tu    -e   -n       -ew  doy
+\ge DEM2 DET libro  DET enseñar -APPL3 -INV -IND.1SG -OBL más
+\ps pro  det nombre det verbo    -per   -per -per     -per adverbio
+
+\ft Esos libros me enseñaron más
+\mm SegundoLlamin_escuela_18052013_18mins.wav 763.400 768.240
+
+\ref 189
+\ELANBegin 00:12:48.240
+\ELANEnd 00:12:51.160
+\ELANParticipant SLL
+\tx lifru  ta  kimeltuenew
+\mb lifru  ta  kimel    -tu    -e   -n       -ew
+\ge libro  DET enseñar -APPL3 -INV -IND.1SG -OBL
+\ps nombre det verbo    -per   -per -per     -per
+
+\ft Los libros me enseñaron
+\mm SegundoLlamin_escuela_18052013_18mins.wav 768.240 771.160
+
+\ref 190
+\ELANBegin 00:12:51.160
+\ELANEnd 00:12:53.040
+\ELANParticipant SLL
+\tx feymew   ta  iñche ta  feypiken
+\mb feymew   ta  iñche ta  fey  -pi    -ke    -n
+\ge entonces DET 1SG    DET DEM2 -decir -HAB   -IND.1SG
+\ps conj     det pro    det pro  -verbo -tam-e -per
+
+\ft Entonces yo digo siempre
+\mm SegundoLlamin_escuela_18052013_18mins.wav 771.160 773.040
+
+\ref 191
+\ELANBegin 00:12:53.040
+\ELANEnd 00:12:59.600
+\ELANParticipant SLL
+\tx mapuche ta  tüfa ta  müley         re       femngechi kimeltungele                   kimlayay
+\mb mapuche ta  tüfa ta  müle -y       re       femngechi kimel    -tu    -nge -l-e      kim   -la   -ya    -y
+\ge mapuche DET DEM1  DET estar -IND.[3] solo     así      enseñar -APPL3 -PAS -COND-3SG saber -NEG1 -FUT   -IND.[3]
+\ps nombre  det pro   det verbo -per     adverbio adverbio  verbo    -per   -per -mod-per  verbo -neg  -tam-e -per
+
+\ft si a los mapuches le enseñan así no más no va a aprender
+\mm SegundoLlamin_escuela_18052013_18mins.wav 773.040 779.600
+
+\ref 192
+\ELANBegin 00:12:59.600
+\ELANEnd 00:13:05.000
+\ELANParticipant SLL
+\tx sino que mülele         ta  lifru  leliwle               chumngechi feypilen
+\mb sino que müle -l-e      ta  lifru  leli  -w    -l-e      chumngechi fey  -pi    -le    -n
+\ge sino que estar -COND-3SG DET libro  mirar -REFL -COND-3SG cómo      DEM2 -decir -PROG  -NMRZ1
+\ps conj sub verbo -mod-per  det nombre verbo -per  -mod-per  pro        pro  -verbo -tam-e -nmrz
+
+\ft sino que si hay libros y si lo mira cómo está diciendo
+\mm SegundoLlamin_escuela_18052013_18mins.wav 779.600 785.000
+
+\ref 193
+\ELANBegin 00:13:05.000
+\ELANEnd 00:13:09.360
+\ELANParticipant SLL
+\tx ka   chumngechi wirikonkülen                    feymew   ta  kimay                 ta  pu  mapuche
+\mb ka   chumngechi wiri     -kon    -küle -n       feymew   ta  kim   -a     -y       ta  pu  mapuche
+\ge y    cómo      escribir -entrar -PROG  -IND.1SG entonces DET saber -FUT   -IND.[3] DET COL mapuche
+\ps conj pro        verbo    -verbo  -tam-e -per     conj     det verbo -tam-e -per     det det nombre
+
+\ft y cómo está escrito, entonces van a saber los mapuches
+\mm SegundoLlamin_escuela_18052013_18mins.wav 785.000 789.360
+
+\ref 194
+\ELANBegin 00:13:09.360
+\ELANEnd 00:13:13.120
+\ELANParticipant SLL
+\tx feymew   ta  ayiay                     tañi        kimael              ta  pu  mapuche
+\mb feymew   ta  ayi       -a     -y       ta  -ñi    kim   -a     -el    ta  pu  mapuche
+\ge entonces DET alegrarse -FUT   -IND.[3] DET -3.POSS saber -FUT   -NMRZ2 DET COL mapuche
+\ps conj     det verbo     -tam-e -per     det -pro    verbo -tam-e -nmzr  det det nombre
+
+\ft ahí le va a gustar aprender a los mapuches
+\mm SegundoLlamin_escuela_18052013_18mins.wav 789.360 793.120
+
+\ref 195
+\ELANBegin 00:13:15.680
+\ELANEnd 00:13:18.600
+\ELANParticipant SLL
+\tx feymew   ta  kümey            ta ti   lifru  ta  mülele
+\mb feymew   ta  küme    -y       ta ti   lifru  ta  müle -l-e
+\ge entonces DET bien     -IND.[3] DETDET2 libro  DET estar -COND-3SG
+\ps conj     det adverbio -per     detdet  nombre det verbo -mod-per
+
+\ft Entonces es bueno si hay libros
+\mm SegundoLlamin_escuela_18052013_18mins.wav 795.680 798.600
+
+\ref 196
+\ELANBegin 00:13:18.600
+\ELANEnd 00:13:27.280
+\ELANParticipant SLL
+\tx chem dungu  rume     ta  müley         tañi        wirin           tukungeael               welu müleael            kiñe aunque
+\mb chem dungu  rume     ta  müle -y       ta  -ñi    wiri     -n     tuku  -nge -a     -el    welu müle -a     -el    kiñe aunque
+\ge qué asunto siquiera DET estar -IND.[3] DET -3.POSS escribir -NMRZ1 poner -PAS -FUT   -NMRZ2 pero estar -FUT   -NMRZ2 un    aunque
+\ps pro  nombre adverbio det verbo -per     det -pro    verbo    -nmrz  tam-e -per -tam-e -nmzr  conj verbo -tam-e -nmzr  art   sub
+
+\ft cualquier cosa hay que escribir pero que haya un, aunque
+\mm SegundoLlamin_escuela_18052013_18mins.wav 798.600 807.280
+
+\ref 197
+\ELANBegin 00:13:27.280
+\ELANEnd 00:13:31.440
+\ELANParticipant SLL
+\tx kiñe küla  meli   hoja   rume     ta  mülele
+\mb kiñe küla  meli   hoja   rume     ta  müle -l-e
+\ge un    tres   cuatro hoja   siquiera DET estar -COND-3SG
+\ps art   nombre nombre nombre adverbio det verbo -mod-per
+
+\ft una, tres, cuatro hojas siquiera que haya
+\mm SegundoLlamin_escuela_18052013_18mins.wav 807.280 811.440
+
+\ref 198
+\ELANBegin 00:13:31.440
+\ELANEnd 00:13:36.560
+\ELANParticipant SLL
+\tx elungele             ta  pu  mapuche leliwle               kimay
+\mb elu   -nge -l-e      ta  pu  mapuche leli  -w    -l-e      kim   -a     -y
+\ge dar   -PAS -COND-3SG DET COL mapuche mirar -REFL -COND-3SG saber -FUT   -IND.[3]
+\ps verbo -per -mod-per  det det nombre  verbo -per  -mod-per  verbo -tam-e -per
+
+\ft si se las dan al mapuche, los mira, va a saber
+\mm SegundoLlamin_escuela_18052013_18mins.wav 811.440 816.560
+
+\ref 199
+\ELANBegin 00:13:36.520
+\ELANEnd 00:13:44.880
+\ELANParticipant HM
+\tx chachay          feychi     tripantu   mew  eymi reke ka   müley         kakelu             mapuche ñi    adumün        feychi
+\mb chachay          fey  -chi  tripa -ntu mew  eymi reke ka   müle -y       ka   -ke   -lu     mapuche ñi    adum    -ün   fey  -chi
+\ge viejo (afectivo) DEM2 -adjr salir -COL PPOS tú  COMP y    estar -IND.[3] y    -DIST -advr.1 mapuche 3.POSS manejar -NMRZ1 DEM2 -adjr
+\ps nombre           pro  -***  verbo -det ppos pro  ppos conj verbo -per     conj -det  -advr   nombre  pro    verbo   -nmrz  pro  -***
+
+\tx dungu
+\mb dungu
+\ge asunto
+\ps nombre
+
+\ft chachay, en esos años, como usted, habían otros mapuches que aprendieron ese asunto
+\mm SegundoLlamin_escuela_18052013_18mins.wav 816.520 824.880
+
+\ref 200
+\ELANBegin 00:13:44.880
+\ELANEnd 00:13:52.480
+\ELANParticipant HM
+\tx ngüneluwün     feychi     kimün       mew  ñi    kimelael               fillke               colegio mew  fillke               kimelwe
+\mb ngüneluw -ün   fey  -chi  kim   -ün   mew  ñi    kimel    -a     -el    fill           -ke   colegio mew  fill           -ke   kimel    -we
+\ge dirigir   -NMRZ1 DEM2 -adjr saber -NMRZ1 PPOS 3.POSS enseñar -FUT   -NMRZ2 cada uno       -DIST colegio PPOS cada uno       -DIST enseñar -LOC
+\ps verbo     -nmrz  pro  -***  verbo -nmrz  ppos pro    verbo    -tam-e -nmzr  adjetivo       -det  nombre  ppos adjetivo       -det  verbo    -nmrz
+
+\tx ruka   mew  tüfachi    lof       mew
+\mb ruka   mew  tüfa -chi  lof       mew
+\ge casa   PPOS DEM1  -adjr comunidad PPOS
+\ps nombre ppos pro   -***  nombre    ppos
+
+\ft manejaban ese conocimiento para enseñar en los colegios, en todas las escuelas en esta comunidad
+\mm SegundoLlamin_escuela_18052013_18mins.wav 824.880 832.480
+
+\ref 201
+\ELANBegin 00:13:52.480
+\ELANEnd 00:13:59.160
+\ELANParticipant HM
+\tx feychi     tripantu   eymi kimlu         mapuchedungun           kimlu         wingkadungun
+\mb fey  -chi  tripa -ntu eymi kim   -lu     mapuche -dungu  -n     kim   -lu     wingkadungu     -n
+\ge DEM2 -adjr salir -COL tú  saber -advr.1 mapuche -asunto -NMRZ1 saber -advr.1 hablar.español -NMRZ1
+\ps pro  -***  verbo -det pro  verbo -advr   nombre  -nombre -nmrz  verbo -advr   verbo           -nmrz
+
+\ft En esos años, cuando tu sabías mapudungun, sabías español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 832.480 839.160
+
+\ref 202
+\ELANBegin 00:13:59.160
+\ELANEnd 00:14:01.520
+\ELANParticipant HM
+\tx wingka     ngüneluwün
+\mb wingka     ngüneluw   -ün
+\ge no.mapuche dirigir     -NMRZ1
+\ps nombre     verbo       -nmrz
+
+\ft manejabas el español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 839.160 841.520
+
+\ref 203
+\ELANBegin 00:14:01.520
+\ELANEnd 00:14:03.440
+\ELANParticipant HM
+\tx allküleymi              no
+\mb allkü   -le    -ymi     no
+\ge escuchar -PROG  -IND.2SG NEG2
+\ps verbo    -tam-e -per     adverbio
+
+\ft ¿me escuchas no?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 841.520 843.440
+
+\ref 204
+\ELANBegin 00:14:03.440
+\ELANEnd 00:14:11.120
+\ELANParticipant HM
+\tx ka   tripay         kakelu             mapuche eymi reke kimelalu                tüfachi    lof       mew
+\mb ka   tripa -y       ka   -ke   -lu     mapuche eymi reke kimel    -a     -lu     tüfa -chi  lof       mew
+\ge y    salir -IND.[3] y    -DIST -advr.1 mapuche tú  COMP enseñar -FUT   -advr.1 DEM1  -adjr comunidad PPOS
+\ps conj verbo -per     conj -det  -advr   nombre  pro  ppos verbo    -tam-e -advr   pro   -***  nombre    ppos
+
+\ft ¿salieron otros mapuches como tú que enseñaran en esta comunidad?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 843.440 851.120
+
+\ref 205
+\ELANBegin 00:14:11.120
+\ELANEnd 00:14:13.120
+\ELANParticipant HM
+\tx no       (tripalay)
+\mb no       tripa -la   -y
+\ge NEG2     salir -NEG1 -IND.[3]
+\ps adverbio verbo -neg  -per
+
+\ft (no) tripalay
+\mm SegundoLlamin_escuela_18052013_18mins.wav 851.120 853.120
+
+\ref 206
+\ELANBegin 00:14:13.120
+\ELANEnd 00:14:15.160
+\ELANParticipant HM
+\tx ngelay
+\mb nge   -la   -y
+\ge haber -NEG1 -IND.[3]
+\ps verbo -neg  -per
+
+\ft no habían
+\mm SegundoLlamin_escuela_18052013_18mins.wav 853.120 855.160
+
+\ref 207
+\ELANBegin 00:14:15.120
+\ELANEnd 00:14:20.880
+\ELANParticipant SLL
+\tx ngelay,              mapuche kimün         kimelngelay                  ta  che    kuyfi        peñi
+\mb nge   -la   -y       mapuche kim     -ün   kimel    -nge -la   -y       ta  che    kuyfi        peñi
+\ge haber -NEG1 -IND.[3] mapuche saber   -NMRZ1 enseñar -PAS -NEG1 -IND.[3] DET gente  antiguamente hermano (de ego masculino)
+\ps verbo -neg  -per     nombre  verbo   -nmrz  verbo    -per -neg  -per     det nombre adv          nombre
+
+\ft No había conocimiento mapuche, no se enseñaba a la gente antes, hermano
+\mm SegundoLlamin_escuela_18052013_18mins.wav 855.120 860.880
+
+\ref 208
+\ELANBegin 00:14:20.840
+\ELANEnd 00:14:22.880
+\ELANParticipant HM
+\tx no,      wingka     kimün
+\mb no       wingka     kim     -ün
+\ge NEG2     no.mapuche saber   -NMRZ1
+\ps adverbio nombre     verbo   -nmrz
+
+\ft No, conocimiento wingka
+\mm SegundoLlamin_escuela_18052013_18mins.wav 860.840 862.880
+
+\ref 209
+\ELANBegin 00:14:22.840
+\ELANEnd 00:14:24.640
+\ELANParticipant SLL
+\tx wingkadungun           si       po
+\mb wingkadungu     -n     si       po
+\ge hablar.español -NMRZ1 si       pues
+\ps verbo           -nmrz  adverbio part
+
+\ft español si po
+\mm SegundoLlamin_escuela_18052013_18mins.wav 862.840 864.640
+
+\ref 210
+\ELANBegin 00:14:24.640
+\ELANEnd 00:14:25.880
+\ELANParticipant SLL
+\tx wingkadungun
+\mb wingkadungu     -n
+\ge hablar.español -NMRZ1
+\ps verbo           -nmrz
+
+\ft español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 864.640 865.880
+
+\ref 211
+\ELANBegin 00:14:25.880
+\ELANEnd 00:14:32.760
+\ELANParticipant SLL
+\tx welu ta  ngelay               ta  kiñe che    kimeltualu                     wingkadungun
+\mb welu ta  nge   -la   -y       ta  kiñe che    kimel    -tu    -a     -lu     wingkadungu     -n
+\ge pero DET haber -NEG1 -IND.[3] DET un    gente  enseñar -APPL3 -FUT   -advr.1 hablar.español -NMRZ1
+\ps conj det verbo -neg  -per     det art   nombre verbo    -per   -tam-e -advr   verbo           -nmrz
+
+\ft no hay nadie que enseñe español
+\mm SegundoLlamin_escuela_18052013_18mins.wav 865.880 872.760
+
+\ref 212
+\ELANBegin 00:14:32.760
+\ELANEnd 00:14:37.800
+\ELANParticipant SLL
+\tx sino que profesor müten   ta  müley         tañi        lelingeel         tañi        kimeltuael
+\mb sino que profesor müten   ta  müle -y       ta  -ñi    leli  -nge -el    ta  -ñi    kimel    -tu    -a     -el
+\ge sino que profesor no.más  DET estar -IND.[3] DET -3.POSS mirar -PAS -NMRZ2 DET -3.POSS enseñar -APPL3 -FUT   -NMRZ2
+\ps conj sub nombre   adverbio det verbo -per     det -pro    verbo -per -nmzr  det -pro    verbo    -per   -tam-e -nmzr
+
+\ft sino que al profesor no más tiene que mirar para aprender
+\mm SegundoLlamin_escuela_18052013_18mins.wav 872.760 877.800
+
+\ref 213
+\ELANBegin 00:14:37.760
+\ELANEnd 00:14:44.560
+\ELANParticipant HM
+\tx tunten  tripantü kimelfengeymi              eymi?
+\mb tunten  tripantü kimelfe    -nge   -ymi     eymi
+\ge cuánto año      sustantivo -COP   -IND.2SG tú
+\ps pro     nombre    nombre     -verbo -per     pro
+
+\ft ¿cuántos años fuiste profesor?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 877.760 884.560
+
+\ref 214
+\ELANBegin 00:14:44.520
+\ELANEnd 00:14:46.040
+\ELANParticipant SLL
+\tx mari    kiñe tripantü
+\mb mari    kiñe tripantü
+\ge diez    un    año
+\ps número art   nombre
+
+\ft Once años
+\mm SegundoLlamin_escuela_18052013_18mins.wav 884.520 886.040
+
+\ref 215
+\ELANBegin 00:14:46.000
+\ELANEnd 00:14:47.920
+\ELANParticipant HM
+\tx mari    kiñe tripantü
+\mb mari    kiñe tripantü
+\ge diez    un    año
+\ps número art   nombre
+
+\ft Once años
+\mm SegundoLlamin_escuela_18052013_18mins.wav 886.000 887.920
+
+\ref 216
+\ELANBegin 00:14:47.920
+\ELANEnd 00:14:49.560
+\ELANParticipant HM
+\tx feychi     escuela mew
+\mb fey  -chi  escuela mew
+\ge DEM2 -adjr escuela PPOS
+\ps pro  -***  nombre  ppos
+
+\ft En esa escuela
+\mm SegundoLlamin_escuela_18052013_18mins.wav 887.920 889.560
+
+\ref 217
+\ELANBegin 00:14:49.560
+\ELANEnd 00:14:51.840
+\ELANParticipant HM
+\tx feley             feley
+\mb fele     -y       fele     -y
+\ge ser así -IND.[3] ser así -IND.[3]
+\ps verbo    -per     verbo    -per
+
+\ft claro, claro
+\mm SegundoLlamin_escuela_18052013_18mins.wav 889.560 891.840
+
+\ref 218
+\ELANBegin 00:14:51.840
+\ELANEnd 00:14:56.680
+\ELANParticipant HM
+\tx pütrün tripantü
+\mb pütrün tripa -ntu
+\ge mucho    salir -COL
+\ps adverbio verbo -det
+
+\ft Muchos años
+\mm SegundoLlamin_escuela_18052013_18mins.wav 891.840 896.680
+
+\ref 219
+\ELANBegin 00:14:56.640
+\ELANEnd 00:14:57.400
+\ELANParticipant SLL
+\tx
+\ft
+\mm SegundoLlamin_escuela_18052013_18mins.wav 896.640 897.400
+
+\ref 220
+\ELANBegin 00:14:57.560
+\ELANEnd 00:15:01.720
+\ELANParticipant SLL
+\tx ka   mari    tripantü küdawün               ta  INDAP  mew
+\mb ka   mari    tripantü küdaw   -*ü -n       ta  INDAP  mew
+\ge y    diez    año      trabajar -*** -IND.1SG DET INDAP  PPOS
+\ps conj número nombre    verbo    -*** -per     det nombre ppos
+
+\ft Y diez años trabajé en el INDAP
+\mm SegundoLlamin_escuela_18052013_18mins.wav 897.560 901.720
+
+\ref 221
+\ELANBegin 00:15:01.800
+\ELANEnd 00:15:04.360
+\ELANParticipant SLL
+\tx fey  ta  kom      püle rupan           ka
+\mb fey  ta  kom      püle rupa   -n       ka
+\ge DEM2 DET todo     hacia vez    -IND.1SG y
+\ps pro  det adverbio adv   nombre -per     conj
+
+\ft Entonces, por todos lados pasé también
+\mm SegundoLlamin_escuela_18052013_18mins.wav 901.800 904.360
+
+\ref 222
+\ELANBegin 00:15:04.360
+\ELANEnd 00:15:06.800
+\ELANParticipant SLL
+\tx kom      füchake      che    kimfin
+\mb kom      fücha  -ke   che    kim   -fi   -n
+\ge todo     anciano -DIST gente  saber -3.OP -IND.1SG
+\ps adverbio nombre  -det  nombre verbo -per  -per
+
+\ft Conocí a todos los ancianos
+\mm SegundoLlamin_escuela_18052013_18mins.wav 904.360 906.800
+
+\ref 223
+\ELANBegin 00:15:06.800
+\ELANEnd 00:15:17.560
+\ELANParticipant SLL
+\tx kimlu         fey  ta  ayukefin                             ta  kimeltuaetew                            kuyfike            dungu  fütake
+\mb kim   -lu     fey  ta  ayu            -ke    -fi   -n       ta  kimel    -tu    -a     -e   -t     -ew  kuyfi        -ke   dungu  füta -ke
+\ge saber -advr.1 DEM2 DET querer, gustar -HAB   -3.OP -IND.1SG DET enseñar -APPL3 -FUT   -INV -NMRZ3 -OBL antiguamente -DIST asunto viejo -DIST
+\ps verbo -advr   pro  det verbo          -tam-e -per  -per     det verbo    -per   -tam-e -per -nmrz  -per adv          -det  nombre adj   -det
+
+\tx che
+\mb che
+\ge gente
+\ps nombre
+
+\ft a mi me gustaba que me enseñaran las cosas antiguas los ancianos
+\mm SegundoLlamin_escuela_18052013_18mins.wav 906.800 917.560
+
+\ref 224
+\ELANBegin 00:15:17.560
+\ELANEnd 00:15:19.840
+\ELANParticipant SLL
+\tx kiñeke     fütake     che    kimi
+\mb kiñe -ke   füta -ke   che    kim   -i
+\ge un    -DIST viejo -DIST gente  saber -IND.[3]
+\ps art   -det  adj   -det  nombre verbo -per
+
+\ft alguns ancianos sabían
+\mm SegundoLlamin_escuela_18052013_18mins.wav 917.560 919.840
+
+\ref 225
+\ELANBegin 00:15:19.840
+\ELANEnd 00:15:23.800
+\ELANParticipant SLL
+\tx kakelu              fütake     che    ka   mülekey              fütake     che    kimnolu                  chem dungu  rume
+\mb ka   -ke    -lu     füta -ke   che    ka   müle -ke    -y       füta -ke   che    kim   -no       -lu     chem dungu  rume
+\ge y    -HAB   -advr.1 viejo -DIST gente  y    estar -HAB   -IND.[3] viejo -DIST gente  saber -NEG2     -advr.1 qué asunto siquiera
+\ps conj -tam-e -advr   adj   -det  nombre conj verbo -tam-e -per     adj   -det  nombre verbo -adverbio -advr   pro  nombre adverbio
+
+\ft otros ancianos, también habían ancianos que no sabían nada
+\mm SegundoLlamin_escuela_18052013_18mins.wav 919.840 923.800
+
+\ref 226
+\ELANBegin 00:15:23.760
+\ELANEnd 00:15:26.520
+\ELANParticipant HM
+\tx kimlayngün                 chem rume,    kim-papeltulayngün
+\mb kim   -la   -y       -ngün chem rume     kim-papel  -tu   -la    -y       -ngün
+\ge saber -NEG1 -IND.[3] -3.PL  qué siquiera sabepapel  -VERB -NEG1  -IND.[3] -3.PL
+\ps verbo -neg  -per     -per   pro  adverbio verbnombre -der  -neg   -per     -per
+
+\ft No saben nada, no saben leer
+\mm SegundoLlamin_escuela_18052013_18mins.wav 923.760 926.520
+
+\ref 227
+\ELANBegin 00:15:26.520
+\ELANEnd 00:15:29.560
+\ELANParticipant HM
+\tx re       changall küwü tukuy          tañi        firma  engün
+\mb re       changall küwü tuku  -y       ta  -ñi    firma  engün
+\ge solo     dedo     mano   poner -IND.[3] DET -3.POSS firma  3.PL
+\ps adverbio nombre   nombre tam-e -per     det -pro    nombre per
+
+\ft Con el dedo no más ponen su firma
+\mm SegundoLlamin_escuela_18052013_18mins.wav 926.520 929.560
+
+\ref 228
+\ELANBegin 00:15:29.560
+\ELANEnd 00:15:30.520
+\ELANParticipant HM
+\tx feley             feley
+\mb fele     -y       fele     -y
+\ge ser así -IND.[3] ser así -IND.[3]
+\ps verbo    -per     verbo    -per
+
+\ft Así es, así es
+\mm SegundoLlamin_escuela_18052013_18mins.wav 929.560 930.520
+
+\ref 229
+\ELANBegin 00:15:30.480
+\ELANEnd 00:15:33.360
+\ELANParticipant SLL
+\tx fey  ta  petu     feley
+\mb fey  ta  petu     fele     -y
+\ge DEM2 DET todavía ser así -IND.[3]
+\ps pro  det adverbio verbo    -per
+
+\ft Eso todavía es así
+\mm SegundoLlamin_escuela_18052013_18mins.wav 930.480 933.360
+
+\ref 230
+\ELANBegin 00:15:33.320
+\ELANEnd 00:15:36.280
+\ELANParticipant HM
+\tx petu     müley         füchake      che
+\mb petu     müle -y       fücha  -ke   che
+\ge todavía estar -IND.[3] anciano -DIST gente
+\ps adverbio verbo -per     nombre  -det  nombre
+
+\ft Todavía hay ancianos
+\mm SegundoLlamin_escuela_18052013_18mins.wav 933.320 936.280
+
+\ref 231
+\ELANBegin 00:15:36.960
+\ELANEnd 00:15:41.880
+\ELANParticipant SLL
+\tx fey  ti   chi  füchake      che    kimnolu
+\mb fey  ti   chi  fücha  -ke   che    kim   -no       -lu
+\ge DEM2 DET2 DEM2 anciano -DIST gente  saber -NEG2     -advr.1
+\ps pro  det  dem  nombre  -det  nombre verbo -adverbio -advr
+
+\ft los ancianos que no saben
+\mm SegundoLlamin_escuela_18052013_18mins.wav 936.960 941.880
+
+\ref 232
+\ELANBegin 00:15:41.880
+\ELANEnd 00:15:44.680
+\ELANParticipant SLL
+\tx duamnolu                    feychi     dungu
+\mb duam     -no       -lu     fey  -chi  dungu
+\ge entender -NEG2     -advr.1 DEM2 -adjr asunto
+\ps verbo    -adverbio -advr   pro  -***  nombre
+
+\ft que no les interesa ese asunto
+\mm SegundoLlamin_escuela_18052013_18mins.wav 941.880 944.680
+
+\ref 233
+\ELANBegin 00:15:44.680
+\ELANEnd 00:15:45.840
+\ELANParticipant SLL
+\tx duamnolu                    am
+\mb duam     -no       -lu     am
+\ge entender -NEG2     -advr.1 INT
+\ps verbo    -adverbio -advr   part
+
+\ft como no les interesa
+\mm SegundoLlamin_escuela_18052013_18mins.wav 944.680 945.840
+
+\ref 234
+\ELANBegin 00:15:45.800
+\ELANEnd 00:15:47.880
+\ELANParticipant HM
+\tx duamlay
+\mb duam     -la   -y
+\ge entender -NEG1 -IND.[3]
+\ps verbo    -neg  -per
+
+\ft No les interesa
+\mm SegundoLlamin_escuela_18052013_18mins.wav 945.800 947.880
+
+\ref 235
+\ELANBegin 00:15:47.840
+\ELANEnd 00:15:52.840
+\ELANParticipant SLL
+\tx feymew   rume     ta  füchake      che    ta  feypiy
+\mb feymew   rume     ta  fücha  -ke   che    ta  fey  -pi    -y
+\ge entonces mucho    DET anciano -DIST gente  DET DEM2 -decir -IND.[3]
+\ps conj     adverbio det nombre  -det  nombre det pro  -verbo -per
+
+\ft Entonces los ancianos dicen
+\mm SegundoLlamin_escuela_18052013_18mins.wav 947.840 952.840
+
+\ref 236
+\ELANBegin 00:15:52.840
+\ELANEnd 00:16:00.600
+\ELANParticipant SLL
+\tx chem duam     fey  tachi     lifru  tañi        kimeltuael                    mapuche ta  iñche
+\mb chem duam     fey  ta  -chi  lifru  ta  -ñi    kimel    -tu    -a     -el    mapuche ta  iñche
+\ge qué entender DEM2 DET -adjr libro  DET -3.POSS enseñar -APPL3 -FUT   -NMRZ2 mapuche DET 1SG
+\ps pro  verbo    pro  det -***  nombre det -pro    verbo    -per   -tam-e -nmzr  nombre  det pro
+
+\tx mapuchedunguleiñ                kimiñ         ta  mapudungun
+\mb mapuche -dungu  -le    -iñ     kim   -iñ     ta  mapudungun
+\ge mapuche -asunto -PROG  -IND.1PL saber -IND.1PL DET mapudungun
+\ps nombre  -nombre -tam-e -per     verbo -per     det nombre
+
+\ft ¿qué cosa tienen los libros para enseñar? Yo soy mapuche, hablamos mapudungun, sabemos mapudungun
+\mm SegundoLlamin_escuela_18052013_18mins.wav 952.840 960.600
+
+\ref 237
+\ELANBegin 00:16:00.600
+\ELANEnd 00:16:04.960
+\ELANParticipant SLL
+\tx pikey                 ta  tüfa petu     feypiley                     ta  che
+\mb pi    -ke    -y       ta  tüfa petu     fey  -pi    -le    -y       ta  che
+\ge decir -HAB   -IND.[3] DET DEM1  todavía DEM2 -decir -PROG  -IND.[3] DET gente
+\ps verbo -tam-e -per     det pro   adverbio pro  -verbo -tam-e -per     det nombre
+
+\ft dicen, todavía está diciendo así la gente
+\mm SegundoLlamin_escuela_18052013_18mins.wav 960.600 964.960
+
+\ref 238
+\ELANBegin 00:16:04.920
+\ELANEnd 00:16:09.160
+\ELANParticipant HM
+\tx kimlayayiñ                          ta  wingkadungun           iñchiñ taiñ        dungu  no       pi
+\mb kim   -la   -ya    -y       -iñ     ta  wingkadungu     -n     iñchiñ ta  -iñ     dungu  no       pi
+\ge saber -NEG1 -FUT   -IND.[3] -IND.1PL DET hablar.español -NMRZ1 nosotros DET -IND.1PL asunto NEG2     decir
+\ps verbo -neg  -tam-e -per     -per     det verbo           -nmrz  pro      det -per     nombre adverbio verbo
+
+\ft No vamos a saber español, ese no es nuestro asunto, dicen
+\mm SegundoLlamin_escuela_18052013_18mins.wav 964.920 969.160
+
+\ref 239
+\ELANBegin 00:16:09.120
+\ELANEnd 00:16:11.760
+\ELANParticipant SLL
+\tx iñchiñ taiñ        dungu  dew      kimiñ         ta ti
+\mb iñchiñ ta  -iñ     dungu  dew      kim   -iñ     ta ti
+\ge nosotros DET -IND.1PL asunto ya       saber -IND.1PL DETDET2
+\ps pro      det -per     nombre adverbio verbo -per     detdet
+
+\ft Nosotros ya conocemos nuestro asunto
+\mm SegundoLlamin_escuela_18052013_18mins.wav 969.120 971.760
+
+\ref 240
+\ELANBegin 00:16:11.760
+\ELANEnd 00:16:14.320
+\ELANParticipant SLL
+\tx wingkadungun           müten   kimaiñ               piy
+\mb wingkadungu     -n     müten   kim   -a     -iñ     pi    -y
+\ge hablar.español -NMRZ1 no.más  saber -FUT   -IND.1PL decir -IND.[3]
+\ps verbo           -nmrz  adverbio verbo -tam-e -per     verbo -per
+
+\ft El español no más vamos a saber, dicen
+\mm SegundoLlamin_escuela_18052013_18mins.wav 971.760 974.320
+
+\ref 241
+\ELANBegin 00:16:14.280
+\ELANEnd 00:16:18.360
+\ELANParticipant HM
+\tx chumngelu chi, kimimi         chumngelu chi
+\mb chumngelu chi  kim   -imi     chumngelu chi
+\ge por qué  DUB  saber -IND.2SG por qué  DEM2
+\ps pro       part verbo -per     pro       dem
+
+\ft ¿Por qué, sabes por qué?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 974.280 978.360
+
+\ref 242
+\ELANBegin 00:16:18.360
+\ELANEnd 00:16:23.240
+\ELANParticipant HM
+\tx chumngelu feychi     rakiduam    ta  niey           ta  pu  mapuche fey  tüfa
+\mb chumngelu fey  -chi  rakiduam    ta  nie   -y       ta  pu  mapuche fey  tüfa
+\ge por qué  DEM2 -adjr pensamiento DET tener -IND.[3] DET COL mapuche DEM2 DEM1
+\ps pro       pro  -***  nombre      det verbo -per     det det nombre  pro  pro
+
+\ft ¿Por qué los mapuches tienen ese pensamiento?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 978.360 983.240
+
+\ref 243
+\ELANBegin 00:16:23.240
+\ELANEnd 00:16:26.240
+\ELANParticipant HM
+\tx kiñeke     feypiy                kümelay                ta  mapuche dungun
+\mb kiñe -ke   fey  -pi    -y       küme    -la   -y       ta  mapuche dungu  -n
+\ge un    -DIST DEM2 -decir -IND.[3] bien     -NEG1 -IND.[3] DET mapuche asunto -NMRZ1
+\ps art   -det  pro  -verbo -per     adverbio -neg  -per     det nombre  nombre -nmrz
+
+\ft Algunos dicen "no es bueno nuestro mapudungun"
+\mm SegundoLlamin_escuela_18052013_18mins.wav 983.240 986.240
+
+\ref 244
+\ELANBegin 00:16:26.240
+\ELANEnd 00:16:29.320
+\ELANParticipant HM
+\tx re       wingkadungun           kimaiñ               pikey                 ta  kiñeke     ka
+\mb re       wingkadungu     -n     kim   -a     -iñ     pi    -ke    -y       ta  kiñe -ke   ka
+\ge solo     hablar.español -NMRZ1 saber -FUT   -IND.1PL decir -HAB   -IND.[3] DET un    -DIST y
+\ps adverbio verbo           -nmrz  verbo -tam-e -per     verbo -tam-e -per     det art   -det  conj
+
+\ft Español no más vamos a saber, dicen algunos también
+\mm SegundoLlamin_escuela_18052013_18mins.wav 986.240 989.320
+
+\ref 245
+\ELANBegin 00:16:29.320
+\ELANEnd 00:16:33.640
+\ELANParticipant HM
+\tx chumngelu chi
+\mb chumngelu chi
+\ge por qué  DUB
+\ps pro       part
+
+\ft ¿Por qué será?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 989.320 993.640
+
+\ref 246
+\ELANBegin 00:16:33.600
+\ELANEnd 00:16:35.920
+\ELANParticipant SLL
+\tx fey  tüfey che    mapudungun
+\mb fey  tüfey che    mapudungun
+\ge DEM2 DEM2   gente  mapudungun
+\ps pro  pro    nombre nombre
+
+\ft Esa gente, el mapudungun
+\mm SegundoLlamin_escuela_18052013_18mins.wav 993.600 995.920
+
+\ref 247
+\ELANBegin 00:16:35.920
+\ELANEnd 00:16:38.920
+\ELANParticipant SLL
+\tx pu  wingka     ta  ayentufiy             ta  mapuche
+\mb pu  wingka     ta  ayentu -fi   -y       ta  mapuche
+\ge COL no.mapuche DET burlar -3.OP -IND.[3] DET mapuche
+\ps det nombre     det verbo  -per  -per     det nombre
+
+\ft Los wingkas se burlan de los mapuches
+\mm SegundoLlamin_escuela_18052013_18mins.wav 995.920 998.920
+
+\ref 248
+\ELANBegin 00:16:38.920
+\ELANEnd 00:16:43.240
+\ELANParticipant SLL
+\tx ayentufiy             ta  mapuche taiñ        mapudungun mew
+\mb ayentu -fi   -y       ta  mapuche ta  -iñ     mapudungun mew
+\ge burlar -3.OP -IND.[3] DET mapuche DET -IND.1PL mapudungun PPOS
+\ps verbo  -per  -per     det nombre  det -per     nombre     ppos
+
+\ft Se burlan de los mapuches por su hablar mapudungun
+\mm SegundoLlamin_escuela_18052013_18mins.wav 998.920 1003.240
+
+\ref 249
+\ELANBegin 00:16:43.240
+\ELANEnd 00:16:47.640
+\ELANParticipant SLL
+\tx feymew   ta  ka   feypingün          eymün  tamün       dungun
+\mb feymew   ta  ka   fey  -pi    -ngün eymün  ta  -mün    dungu  -n
+\ge entonces DET y    DEM2 -decir -3.PL  ustedes DET -2PL.POS asunto -NMRZ1
+\ps conj     det conj pro  -verbo -per   pro     det -pro     nombre -nmrz
+
+\ft Entonces dicen "ese asunto de ustedes
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1003.240 1007.640
+
+\ref 250
+\ELANBegin 00:16:47.640
+\ELANEnd 00:16:49.240
+\ELANParticipant SLL
+\tx adlay
+\mb ad     -la   -y
+\ge imagen -NEG1 -IND.[3]
+\ps nombre -neg  -per
+
+\ft no es bueno"
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1007.640 1009.240
+
+\ref 251
+\ELANBegin 00:16:49.240
+\ELANEnd 00:16:51.440
+\ELANParticipant SLL
+\tx wesha dungun        nieymün
+\mb wesha dungu  -n     nie   -ymün
+\ge malo  asunto -NMRZ1 tener -IND.2PL
+\ps adj   nombre -nmrz  verbo -per
+
+\ft Tienen malos asuntos ustedes
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1009.240 1011.440
+
+\ref 252
+\ELANBegin 00:16:51.440
+\ELANEnd 00:16:54.360
+\ELANParticipant SLL
+\tx piy            ta  pu  wingka     mapuche mew
+\mb pi    -y       ta  pu  wingka     mapuche mew
+\ge decir -IND.[3] DET COL no.mapuche mapuche PPOS
+\ps verbo -per     det det nombre     nombre  ppos
+
+\ft dicen los wingka a los mapuches
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1011.440 1014.360
+
+\ref 253
+\ELANBegin 00:16:54.360
+\ELANEnd 00:16:56.960
+\ELANParticipant SLL
+\tx feymew   ta  pu  mapuche ta  feypiy
+\mb feymew   ta  pu  mapuche ta  fey  -pi    -y
+\ge entonces DET COL mapuche DET DEM2 -decir -IND.[3]
+\ps conj     det det nombre  det pro  -verbo -per
+
+\ft Entonces los mapuches dicen
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1014.360 1016.960
+
+\ref 254
+\ELANBegin 00:16:56.960
+\ELANEnd 00:16:58.760
+\ELANParticipant SLL
+\tx tañi          ayentungenoam
+\mb ta  -ñi      ayentu -nge -no       -a     -m
+\ge DET -1SG.POSS burlar -PAS -NEG2     -FUT   -ADVR2
+\ps det -pro      verbo  -per -adverbio -tam-e -advr
+
+\ft "para que no ser burlados
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1016.960 1018.760
+
+\ref 255
+\ELANBegin 00:16:58.760
+\ELANEnd 00:17:04.000
+\ELANParticipant SLL
+\tx tañi          ayentungenoam                         mejor    kiman                 wingkadungun
+\mb ta  -ñi      ayentu -nge -no       -a     -m     mejor    kim   -a     -n       wingkadungu     -n
+\ge DET -1SG.POSS burlar -PAS -NEG2     -FUT   -ADVR2 mejor    saber -FUT   -IND.1SG hablar.español -NMRZ1
+\ps det -pro      verbo  -per -adverbio -tam-e -advr  adverbio verbo -tam-e -per     verbo           -nmrz
+
+\ft para no ser burlados, mejor sabré mapudungun"
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1018.760 1024.000
+
+\ref 256
+\ELANBegin 00:17:04.000
+\ELANEnd 00:17:06.200
+\ELANParticipant SLL
+\tx piy
+\mb pi    -y
+\ge decir -IND.[3]
+\ps verbo -per
+
+\ft dice
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1024.000 1026.200
+
+\ref 257
+\ELANBegin 00:17:06.200
+\ELANEnd 00:17:13.520
+\ELANParticipant SLL
+\tx femngechi amuley                tañi        femngechi ta  tripaley
+\mb femngechi amu   -le    -y       ta  -ñi    femngechi ta  tripa -le    -y
+\ge así      ir    -PROG  -IND.[3] DET -3.POSS así      DET salir -PROG  -IND.[3]
+\ps adverbio  verbo -tam-e -per     det -pro    adverbio  det verbo -tam-e -per
+
+\ft así fueron avanzando
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1026.200 1033.520
+
+\ref 258
+\ELANBegin 00:17:13.480
+\ELANEnd 00:17:17.800
+\ELANParticipant HM
+\tx feley             feley
+\mb fele     -y       fele     -y
+\ge ser así -IND.[3] ser así -IND.[3]
+\ps verbo    -per     verbo    -per
+
+\ft claro, claro
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1033.480 1037.800
+
+\ref 259
+\ELANBegin 00:17:19.520
+\ELANEnd 00:17:23.240
+\ELANParticipant HM
+\tx feymew   ta  amuley                tüfachi    dungu, tüfachi    dungu
+\mb feymew   ta  amu   -le    -y       tüfa -chi  dungu  tüfa -chi  dungu
+\ge entonces DET ir    -PROG  -IND.[3] DEM1  -adjr asunto DEM1  -adjr asunto
+\ps conj     det verbo -tam-e -per     pro   -***  nombre pro   -***  nombre
+
+\ft Entonces así está yendo este asunto, este asunto
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1039.520 1043.240
+
+\ref 260
+\ELANBegin 00:17:23.240
+\ELANEnd 00:17:27.120
+\ELANParticipant HM
+\tx küpatukufiiñ                grabacion  mew
+\mb küpa  -tuku  -fi   -iñ     grabacion  mew
+\ge querer -poner -3.OP -IND.1PL grabación PPOS
+\ps aux    -tam-e -per  -per     nombre     ppos
+
+\ft La queremos poner en una grabación
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1043.240 1047.120
+
+\ref 261
+\ELANBegin 00:17:27.120
+\ELANEnd 00:17:30.760
+\ELANParticipant HM
+\tx eymi illkülayafuymi                     tañi          nütramkayafiel               tüfachi    dungu
+\mb eymi illkü -la   -ya    -fu    -ymi     ta  -ñi      nütramka -ya    -fi   -el    tüfa -chi  dungu
+\ge tú  enojar -NEG1 -FUT   -AP    -IND.2SG DET -1SG.POSS conversar -FUT   -3.OP -NMRZ2 DEM1  -adjr asunto
+\ps pro  verbo  -neg  -tam-e -tam-e -per     det -pro      verbo     -tam-e -per  -nmzr  pro   -***  nombre
+
+\ft ¿tú no te enojarías si conversamos sobre este asunto
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1047.120 1050.760
+
+\ref 262
+\ELANBegin 00:17:30.760
+\ELANEnd 00:17:33.280
+\ELANParticipant HM
+\tx estudiayafiel                tüfachi    dungu
+\mb estudia  -ya    -fi   -el    tüfa -chi  dungu
+\ge estudiar -FUT   -3.OP -NMRZ2 DEM1  -adjr asunto
+\ps verbo    -tam-e -per  -nmzr  pro   -***  nombre
+
+\ft si lo estudiamos?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1050.760 1053.280
+
+\ref 263
+\ELANBegin 00:17:33.280
+\ELANEnd 00:17:39.240
+\ELANParticipant HM
+\tx tüfachi    dungu  küpa  tukufufiiñ                 iñchiñ tañi          nütramkayael           ta  iñchiñ taiñ
+\mb tüfa -chi  dungu  küpa  tuku  -fu    -fi   -iñ     iñchiñ ta  -ñi      nütramka -ya    -el    ta  iñchiñ ta  -iñ
+\ge DEM1  -adjr asunto querer poner -AP    -3.OP -IND.1PL nosotros DET -1SG.POSS conversar -FUT   -NMRZ2 DET nosotros DET -IND.1PL
+\ps pro   -***  nombre aux    tam-e -tam-e -per  -per     pro      det -pro      verbo     -tam-e -nmzr  det pro      det -per
+
+\tx wecheke     chengen              fachiantü
+\mb weche -ke   che    -nge   -n     fachiantü
+\ge joven -DIST gente  -COP   -NMRZ1 hoy
+\ps adj   -det  nombre -verbo -nmrz  adverbio
+
+\ft Este asunto queremos ponerlo para conversarlo con los jovenes de hoy en día
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1053.280 1059.240
+
+\ref 264
+\ELANBegin 00:17:39.240
+\ELANEnd 00:17:41.000
+\ELANParticipant HM
+\tx tüfachi    grabacion
+\mb tüfa -chi  grabacion
+\ge DEM1  -adjr grabación
+\ps pro   -***  nombre
+
+\ft esta grabación
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1059.240 1061.000
+
+\ref 265
+\ELANBegin 00:17:41.120
+\ELANEnd 00:17:46.600
+\ELANParticipant HM
+\tx fey  ta  eluafuen                          eymi tami          permiso nütramkayafiel               tüfachi    dungu
+\mb fey  ta  elu   -a     -fu    -e   -n       eymi ta  -mi       permiso nütramka -ya    -fi   -el    tüfa -chi  dungu
+\ge DEM2 DET dar   -FUT   -AP    -INV -IND.1SG tú  DET -2SG.POSS permiso conversar -FUT   -3.OP -NMRZ2 DEM1  -adjr asunto
+\ps pro  det verbo -tam-e -tam-e -per -per     pro  det -pro      nombre  verbo     -tam-e -per  -nmzr  pro   -***  nombre
+
+\ft entonces ¿me darías permiso para conversar sobre este asunto
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1061.120 1066.600
+
+\ref 266
+\ELANBegin 00:17:46.600
+\ELANEnd 00:17:49.880
+\ELANParticipant HM
+\tx tami          feypin              tami          nütramkan
+\mb ta  -mi       fey  -pi    -n     ta  -mi       nütramka -n
+\ge DET -2SG.POSS DEM2 -decir -NMRZ1 DET -2SG.POSS conversar -NMRZ1
+\ps det -pro      pro  -verbo -nmrz  det -pro      verbo     -nmrz
+
+\ft tu decir, tu conversación?
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1066.600 1069.880
+
+\ref 267
+\ELANBegin 00:17:50.120
+\ELANEnd 00:17:53.160
+\ELANParticipant SLL
+\tx si po, claro
+\ft si po, claro
+\mm SegundoLlamin_escuela_18052013_18mins.wav 1070.120 1073.160
+
+ 
+\ELANMediaURL file:///Users/FelipeHasler/Dropbox/Trabajo de campo_21052013/trabajodecampomayo2013_300minutos/Galvarino_Curaco_25mins/SegundoLlamin_escuela_18052013_18mins.wav
+\ELANMediaMIME audio/x-wav

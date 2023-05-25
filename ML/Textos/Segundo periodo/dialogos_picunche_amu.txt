@@ -1,0 +1,4543 @@
+DIÁLOGOS ARAUCANOS EN DIALECTO PICUNCHE
+INTRODUCCIÓN
+En febrero de 1894 estuve como una semana en Collipulli para trabajar con mi
+antiguo amigo, el cacique Juan Amasa, que tiene su ruca cerca de este pueblo a orillas
+del río Malleco. La traducción de las 253 frases que traía preparadas para este destino,
+es casi sin excepción completamente correcta y Amasa solo raras veces añadió
+palabras que no le había pedido. Por esta razón creo que me será permitido entrar en
+muchos más detalles analíticos en la traducción interlineal. Sin embargo tengo que
+pedir perdón al lector por no haber observado siempre la misma exactitud en el
+análisis de los conjuntos verbales. La traducción literal al castellano es a menudo
+completamente imposible; me limito, pues, a veces a dar la versión literal de cada uno
+de los elementos componentes; para saber la idea expresada hay que consultar las
+frases castellanas originales al pie de la página. Siendo las frases en general las
+mismas que he pedido a Quintuprai, pongo el número correspondiente de los diálogos
+en huilliche (Est. Ar. II) en voladitas. En los estudios gramaticales en que entraré
+después de concluir la publicación de los diálogos y demás trozos que tengo recogidos,
+explicaré los detalles de la fonética, morfología y sintaxis del idioma de los mapuches.
+Aquí me limito a enumerar las particularidades fonéticas solo a grandes rasgos para
+que se entienda la trascripción.
+Los indios que viven en las reducciones cerca de Collipulli pertenecen a los
+grupos más septentrionales que se han conservado en las cercanías del ferrocarril de
+San Rosendo a Temuco y bien merecen el nombre de Picunches, hombres del norte
+(picun), con que los denominan menos ellos mismos, que sus parientes del sur. Cerca
+de Mininco solo quedan media docena de familias. Visité esa reducción en febrero de
+1894, pero no encontré a ningún hombre en su casa; todos habían salido para trabajar
+en la cosecha. Solo hallé enferma en su ruca la vieja curandera (machi) doña Manuela.
+El dialecto de los picunches es el que ha conservado con mayor fidelidad el
+estado fonético primitivo del idioma. Su pronunciación casi en todo corresponde a la
+trascripción de Havestadt y Febrés. La pérdida del sonido de la voz que es tan
+característica para los Huilliches (véase Est. Ar. I p. 6) solo se muestra en los
+principios del desarrollo. La v (generalmente bilabial como la v castellana) de vez en
+cuando se convierte en F (bilabial) o también en f (más o menos labio-dental), pero
+prevalece el sonido con voz. La d (consonante fricativa posdental) muy raras veces
+pierde la voz y se cambia por la fricativa posdental afónica que escribo z. La r no es
+nunca vibrada (roulé, según la terminología francesa) sino consonante fricativa apicosupraalveolar o prepalatal con abertura grande, el mismo sonido que usan en
+castellano no solo casi todo el pueblo bajo sino también muchos chilenos instruidos en
+vez de la rr fuerte. Solo en pocas palabras se debilita en una especie de r suave
+castellana, como en mari-mari, y se pierde casi por completo o se cambia por una n
+mal articulada. (ngen nuka por ruka).
+Muy interesante es el cambio de la t' en s't', es decir, un sonido apicosupraalveolar o prepalatal con implosión y explosión impura, casi s'ts' (semejante a la
+sh t' íntimamente unidas en la frase inglesa, pronunciación del sur de Inglaterra: “I
+
+1
+
+wish true happiness”. Esta “africación” inicial junta con la final ocurre también entre
+los indios de Valdivia y, aunque menos enérgica, entre los de Osorno, y es fuerte sobre
+todo entre dos vocales, e. gr. wüs't'an. Al principio es regular en la pronunciación de
+Juan Amasa solo en la palabra t'au (F. thaun juntarse), pero solo cuando significa
+“todo”. Amasa en ese caso siempre decía is't'o con una corta i antes de la “africación”,
+igual en su carácter a la i que en italiano, o la e que en castellano precede a la s más
+consonante latina inicial. En los apuntes que me ha mandado mi amigo don Víctor
+Manuel Chiappa de Pua encuentro la palabra en la trascripción cht'au, lo que deberá
+leerse s't'au y solo por medio de esta forma he comprobado la etimología del is't'o de
+Juan Amasa.
+La misma africación inicial y final se encuentra a veces en la ch de Collipulli, casi
+como shch (shtsh dorso-supraalveolar); escribo en tal caso çh; e. gr. cheçhem =
+cheshchem.
+La falta de voz más o menos completa en v, d está indicada a veces por v‘ d‘.
+EQUIVALENCIAS FONÉTICAS DE LA TRANSCRIPCIÓN
+ü
+ü
+w
+t'
+ņ
+ʎ
+k
+v
+F
+
+z’
+r
+s
+z
+
+d
+zh
+
+como en huilliche.
+como en huilliche.
+como en huilliche.
+como en huilliche.
+como en huilliche.
+como en huilliche.
+como en huilliche.
+como en castellano, pero nunca con oclusión completa b.
+la v afónica.
+el sonido con voz que en huilliche es s’; generalmente he escrito r.
+fricativo ápico-supraalveolar o prepalatal, sin vibración de la punta de
+la lengua.
+como s chilena; sonido muy raro, generalmente escribo z.
+sonido ápico-posdental fricativo afónico (este sonido en picunche es
+más claramente posdental que en huilliche de Osorno, donde la z
+equivale más bien a la s infraalveolar). Por lo común el sonido no es
+completamente afónico; entonces escribo d‘, o tiene voz completa;
+entonces escribo d.
+fricativo ápico-posdental que rara vez es un poco oclusivo.
+fricativo dorso-supraalveolar con abertura grande, la j francesa o
+catalana de Febrés; sonido muy raro; sin voz le corresponde la sh del
+huilliche
+
+Las explosivas afónicas p y t (esta casi siempre posdental) son a menudo muy
+fuertes y largas; en tal caso las duplico: vottüm, mütte, rüppü. También en la
+pronunciación de Quintuprai estas explosivas largas ocurrían; pero no parecían valer
+la pena de una trascripción particular l y ʎ en picunche siempre tienen voz completa.
+Los demás sonidos son más o menos iguales a los castellanos.
+
+2
+
+DIÁLOGOS ARAUCANOS EN DIALECTO PICUNCHE1
+1.
+
+Llaman en la puerta, vaya a ver quién es.
+Petu mütümngeymi; witrapunge ulngin-mu2; iney müley wekun.
+Todavía
+
+2.
+
+4.
+
+hombre "lo veré" te dice.
+
+Pregúntale quién es y qué quiere.
+Ini
+pingimi4 ta mi güy, chem düngu miawimi,
+
+pifinge.
+
+Quién dicho eres tu nombre,
+
+dile.
+
+anda.
+
+Dígale que iré luego.
+Müchay ula amoan, pifinge.
+Luego después iré,
+
+6.
+
+qué cosa andas haciendo,
+
+Que entre.
+Faw-ple kunpape; amunge.
+Aquí hacia que entre;
+
+5.
+
+afuera.
+
+Un caballero quiere verte.
+Kiñe wentru "peafin" pieymew3.
+Un
+
+3.
+
+llamado eres; quédate parado en la puerta; quién está
+
+dile.
+
+Buenos días, amigo. ¿Qué quieres?
+Marimari5, ñan; ¿chem duamngimi?
+Buenos días, amigo; ¿qué has menester?
+
+7.
+
+He venido a verte y saludarte.
+Pepapeeyu, rekintuwülpapeyu ta mi kümelen.
+A verte vine yo, bien a preguntarte yo
+
+tu
+
+bien estar.
+
+[Las frases en español empleadas por Lenz para elicitar traducciones al mapudungún fueron
+incluidas, en esta nueva versión, en la primera línea de cada grupo, escritas en negrita. En la
+versión original de estos Diálogos, tales frases fueron incluidas en el pie de página (1-253) o
+debajo de las traducciones (273-277, 279-280)].
+2 [Original: witrapunge ulgiñ-mu 'tira hacia adentro puerta de' (Estudio XII, Corrección al
+Estudio III)].
+3 [Original: kiñe wentru peafin 'un hombre lo veré (?)' (Estudio XII, Corrección al Estudio III)].
+4 El Grupo ey a menudo se cambia por i larga, más o menos diptóngica como la i larga del sur
+de Inglaterra en we see. En la segunda parte de estos apuntes he indicado la pronunciación
+diptóngica con ì; durante las primeras sesiones que tuve con Juan Amasa no me había fijado
+en esta ligera diferencia Así, iñi pingìmi estaría entre inay pingeymi y ini pingimi, como he
+escrito aquí.
+5
+Mientras que en general la r araucana corresponde a la r fuerte chilena (z'), en la palabra
+marimari es frecuente una pronunciación muy suave de las r, de manera que este saludo casi
+suena como maymay.
+1
+
+3
+
+8.
+
+Me alegro mucho de verte; siéntate.
+Matewe6 ayufün pepafiel-mu; anüpange.
+Tan solo
+
+9.
+
+quería
+
+tierra vienes?
+
+mismo mi tierra de
+
+venía.
+
+¿Dónde está situada tu chacra?
+¿Chuchi-mu nieymi ta mi takukan7?
+¿Cuál (parte) en
+
+12.
+
+tuymi?
+
+¿de dónde vienes?
+
+Vengo de mi fundo.
+Inche kido ñi mapu-mo tuwun.
+Yo
+
+11.
+
+siéntate.
+
+¿De dónde vienes?
+¿Chew
+mapu küpaymi? ¿chew
+(¿De) dónde
+
+10.
+
+venir a verte;
+
+tienes
+
+tu
+
+sementera?
+
+Está muy cerca.
+Püchi mapu müley. Aldü mapu müley ñi ruka-mew.
+Poca tierra está. Mucha tierra está mi casa de.
+
+13.
+
+¿Cuándo has salido de casa?
+¿Chumten-mew tripaymi ta mi ruka-mew?
+¿Cuánto desde
+
+14.
+
+saliste
+
+casa de?
+
+Esta mañana salí.
+Tayi pu liwen tripan ta ñi ruka-mu. Tüfachi antü tripayan.
+Esta en mañana salí
+
+15.
+
+tu
+
+mi
+
+casa de.
+
+día
+
+saldré.
+
+Hace mucho tiempo que no te he visto.
+Pücha kuyfi
+pewlayu; fewla8 pewtuyu.
+Mucho hace tiempo no nos vimos;
+
+16.
+
+Este
+
+ahora
+
+nos venimos a ver.
+
+¿Has estado ausente o has estado en la ciudad?
+¿Chuchi-mu mülepeymi; mülepeymi punuy kam wekuntu; mülepeymi
+¿Qué (parte) en has estado;
+
+has estado
+
+adentro
+
+o
+
+afuera;
+
+has estado
+
+kara-mew?
+ciudad en?
+
+17.
+
+He estado en la chacra de mi tío.
+Inche mülepen ñi malle ñi ruka-mew.
+Yo
+
+he estado mi
+
+tío su casa en.
+
+6
+
+En vez de matewe es mejor mütewe. La ü se acerca a veces mucho a una a oscura.
+takukan por tükukan; Véase la nota 8 [4, en esta versión].
+8
+Fewla=vewla. La F generalmente bilabial, no era muy frecuente en la pronunciación de Juan
+Amasa, y cambia con la v sin razón particular.
+7
+
+4
+
+18.
+
+¿Dónde está ese fundo?
+¿Chew meley chi düngullewe? ¿Chuchi-mu müngel9 müley ñi mapu ta mi malle10?
+¿Dónde está este porotal?
+
+19.
+
+¿Qué (parte) en siendo
+
+está
+
+su tierra
+
+tu
+
+tío?
+
+Río abajo (río arriba); a seis leguas de camino.
+Inalag11
+lewfu (inalpra ko);
+kayu lewa, feymew fenten mapu
+Siguiendo abajo
+
+lepelay12
+
+río (siguiendo arriba agua);
+
+seis
+
+leguas, ahí de
+
+tanta
+
+tierra
+
+ñi mapu.
+
+no parece estar su tierra.
+
+20.
+
+Saliendo por la mañana se llega a medio día.
+Pu liwen küpan, akun epe rangi antü.
+En mañana vengo,
+
+20ª.
+
+Déjalo que vaya, él sabrá cuando puede volver13.
+Kalli ngenepe, amukape.
+Solo
+
+21.
+
+hágalo él, que vaya él.
+
+¿Qué se cultiva en ese fundo?
+¿Chiem müngel tükuam tüfe küdaw ngepay?
+¿Qué
+
+22.
+
+siendo para sembrar ese trabajo ser viene?
+
+En la parte de abajo hay maíz y trigo, más arriba hay papas.
+Nageltu müley dengüll14, waywen-ple müley poñi.
+Hacia abajo está
+
+23.
+
+poroto,
+
+sud
+
+hacia está papa.
+
+¿Cuántos animales vacunos tiene tu tío en su corral?
+¿Chumten waka niey koral-mu tami malle?
+¿Cuántas
+
+24.
+
+llego casi medio día.
+
+vacas tiene corral en
+
+tu
+
+tío?
+
+En el corral hay muy poco, pero en el potrero detrás del cerro tienen
+muchos.
+Püchin koral teku niey tañi kullin tañi malle, welu
+kanple
+niey tañi
+
+müngel después de palabras interrogativas parece empleado como una partícula
+generalizadora; no se puede traducir.
+10 Ñi mapu ta mi malle es un ejemplo característico de la anteposición del sustantivo
+modificado por genitivo. Bastarían tales casos para probar que la “declinación” de las
+gramáticas chi chao ñi=del padre, patris, es imaginaria. En la frase chi chao ñi ruka la partícula
+ñi no se debe juntar con chao como una especie de terminación, sino con ruka como palabra
+posesiva, relacionada según parece con nien «tener»; el giro equivale a «el padre su casa».
+11 Probablemente hay que leer inal nag «siguiendo abajo».
+12 Lepelay será interrogación negativa con sentido positivo: «¿no estaría a tanta
+distancia?»=parece que está. En todas las frases en que ocurren números Amasa se expresa
+con muchas precauciones, porque, según dice, es muy fácil equivocarse en el cálculo. Cp. nota
+31, 40 etc.
+13 [Original: "Juan tradujo: Déjalo que vaya, él sabrá cuando puede volver"].
+14 Dengüll es una de las muchas palabras corrientes que se han omitido en la edición de
+Astraldi (Santiago 1846) aunque está en el original de Febrés s. v. degull.
+9
+
+5
+
+Poco corral puesto tiene su ganado mi
+
+tío,
+
+pero otra (parte) hacia tiene su
+
+kullin.
+ganado.
+
+25.
+
+¿Cuántos en todo? ¿No los han contado ayer?
+¿Chumten müngel chey tañi kullin itrokom15? ¿Chumli rakilaymi kullin wiya?
+¿Cuánto
+
+26.
+
+siendo está
+
+¿Cómo está no contaste ganado ayer?
+
+todo dos cientos dos diez cinco?
+
+¿Todos grandes?
+¿Itrofil kullin wichakeñma17 ama rakifimi?
+¿Todo
+
+28.
+
+todo?
+
+Había doscientas veinticinco cabezas.
+¿Mülelleama16 kom epu pataka epu mari kechu?
+¿Está
+
+27.
+
+su ganado
+
+ganado grande ahora
+
+lo contaste?
+
+Hay unas cien vacas grandes y más o menos cuarenta bueyes. Los toros
+son quince.
+Müley peley tomu ke waka pataka; meli mari manchun18 müley, toro mari
+Esta
+
+parece hembras
+
+vacas ciento;
+
+cuatro diez
+
+bueyes
+
+está, toro diez
+
+kechu, itrofill müle kay toro.
+cinco,
+
+29.
+
+está otro toro.
+
+Todo el resto son animales nuevos.
+Itrokun müli chey trukifiel19 weke waka.
+Todo
+
+30.
+
+todo
+
+está está mirado por nuevas vacas.
+
+¿Cuánto tiempo has estado?
+¿Chumten antü mülepeymi chi20?
+¿Cuántos
+
+días estar pareces?
+
+Itrokom, itrofill (véase número 27) e itro (véase número 28) solo significan «todo, entero»;
+este último es F. thaun juntarse. Más al sur se usa la forma traw como aquí itro; el significado
+primitivo es pues «en conjunto».
+16 Am o ama es una partícula interrogativa como en latín ne. La interrogación puramente
+retórica equivale a una expresión de duda.
+17 Wicha, fucha, futra, füta etc. más al sur también con f son diferentes formas de una sola
+palabra; pücha será otra forma de la misma palabra.
+18 Manchun o mansun «el buey» es la palabra castellana manso, que en el lenguaje de los
+soldados de la conquista ha tenido este significado, así como manco hasta hoy equivale a
+«caballo» en general.
+19 Trukifiel cp. F. thoquin.
+20 Chi o chey (véase número 39) en interrogaciones parece significar algo como «¿es así?
+¿acaso?»
+15
+
+6
+
+31.
+
+He estado 17 días.
+Mülemen mari relge antü, peno21.
+A estar fui diez siete días, no parece.
+
+32.
+
+¿Desde cuándo estás de vuelta?
+¿Chumten-mu müngel chey wuñoaymi?
+¿Cuánto
+
+de
+
+siendo
+
+es
+
+volverás?
+
+¿Chumten antü-mew akutuymi
+¿Cuánto
+
+día
+
+de
+
+llegaste
+
+ruka-mew?22
+casa
+
+33.
+
+en?
+
+He vuelto anoche, antenoche.
+Akutun trafia. (Wiya trafia).
+Llegué anoche. (Ayer anoche).
+
+34.
+
+¿Has venido solo, o en compañía?
+¿Kidu küpatuymi am, kam epue wimi am? ¿kam aldüyuymi am?
+¿Solo
+
+35.
+
+viniste,
+
+o
+
+dos
+
+fuiste?
+
+¿o con muchos fuiste?
+
+Vine con un cuñado mío y con un peón que arreaba una mula con carga.
+Küla yewiiñ23; küpaiñ taiñ ngillan inchiñ ka kiñe kona kecha küpalu24 tañi
+Tres fuimos; venimos nuestro cuñado nosotros otro un mocetón arrear venir haciendo mi
+
+chechem25 mula.
+carga
+
+36.
+
+He andado mucho hoy y estoy muy cansado.
+Fentren küpayin tüfachi antü, müte kutran ankan
+Tanto
+
+37.
+
+vinimos este
+
+día,
+
+ven acá27
+
+llawfüyayin26 tüfa-mew.
+
+muy enfermo cuerpo (estoy) sombrearemos
+
+Oye, muchacho, ¿cómo te llamas?
+Alkütunge, künapatunge, fotüm; ¿ini pingimi
+Oye,
+
+38.
+
+mula.
+
+aquí por.
+
+tami güy?
+
+hijo; ¿quién eres dicho (=te llamas) tu nombre?
+
+Me llamo…
+Tañi güy elan tüfa-mew.
+Mi nombre dejaré aquí de28.
+
+Este «peno» que Juan añade a todo numeral superior a tres o cuatro expresa la duda sobre
+la exactitud; porque en números grandes fácilmente puede uno equivocarse. Podría traducirse
+por «¿quién sabe?» Probablemente es una composición de pe (ver, parecer) con la negación
+no.
+22
+Un como verbo solo (sin composición) equivale a «ir»; corresponde a tun «venir» (véase III
+9. chew tuymi), según los diccionarios=tomar, echar mano.
+23 [Original: Küla yewi 'tres ?' (Estudio XII, Corrección al Estudio III)].
+24 [Original: kepalu (Estudio XII, Corrección al Estudio III)].
+25 Chechem no se encuentra en los diccionarios.
+26 «Vamos a sombrear», tradujo Juan; es decir «quedar a la sombra» de llawfu F. O. sombra.
+27 [Original: 'ven (?)' (Estudio XII, Corrección al Estudio III)].
+21
+
+7
+
+39.
+
+¿Qué edad tienes?
+¿Chumten tripantu chey nieymi?
+¿Cuántos
+
+40.
+
+años
+
+diez uno
+
+padre en
+
+vives?
+
+estoy30.
+
+¿Tienes hermanos?
+¿Nieymi am kay peñi? ¿lamgen
+¿Tienes
+
+44.
+
+no parece?
+
+Vivo en casa de mis padres.
+Tañi chao-mew mülen.
+Mi
+
+43.
+
+año,
+
+¿Dónde vives?
+¿Tuchi-mew
+müngeltuymi?
+¿Qué (parte) por
+
+42.
+
+tienes?
+
+Tengo unos once años.
+¿Niepelan mari kiñe tripantu, peno?29
+¿No parezco
+
+41.
+
+es
+
+kay nieymi?
+
+también hermano? ¿hermana también tienes?
+
+Sí, señor; tengo una hermana mayor y un hermano menor.
+Feyngi, tañi nien wenen lamgen, nien inan31 tañi peñi inche-mew.
+Así es, mi tener primera hermana, tener siguiendo mi hermano
+
+45.
+
+¿Quién más vive en la casa de ustedes?
+¿Kaki
+iney müngel müley tamn ruka-mew?
+¿Otro está quién
+
+46.
+
+yo de.
+
+siendo está
+
+vuestra casa en?
+
+El marido de mi hermana y mi abuela (paterna-materna).
+Tañi füta
+tañi lamgen, tañi kuye
+kuku, tañi kuye chuchu,
+Su
+
+tañi
+
+grande de mi hermana, mi vieja abuela materna, mi vieja abuela paterna, mi
+
+ngillantu32 müley, ruka konküley.
+amistad
+
+47.
+
+casa
+
+entra.
+
+¿Qué edad tiene tu abuela?
+¿Chumten tripantu niey tami kuye kuku?
+¿Cuántos
+
+48.
+
+está,
+
+años
+
+tiene tu
+
+vieja abuela materna?
+
+No sé cuántos años tenga; pero es muy vieja.
+Chumten tripantu chemay, fenten kuye (o kuse).
+
+Es decir: «de esto han tomado mi nombre»; refiriéndose al significado del nombre propio.
+cp. III 19.
+30 Es decir según la expresión vulgar «donde mi padre» (en casa de mi padre).
+31 Cp. unen F. primero; inan «segundo»; secundus en latín no significa originariamente otra
+cosa que «lo que sigue».
+32 Con la terminación ntu se forman sustantivos colectivos ngillantu el conjunto de amigos, cp.
+kurantu (III 56) terreno pedregoso, tripantu el conjunto de las salidas sc. del sol=el año.
+28
+
+29
+
+8
+
+Cuántos
+
+años
+
+qué será, tanto
+
+vieja.
+
+***
+49.
+
+¿Estás llorando? ¿Por qué?
+¿Ngümapey? ¿Chemewchi ngümapey?
+¿Llorar parece? ¿Qué por es
+
+50.
+
+No llores más.
+Fenten ngemange. Fentren ngemaymi.
+Tanto
+
+51.
+
+llora.
+
+Tanto
+
+tanto estás llorando?
+
+Habla más alto, porque no te comprendo.
+Newentu düngunge; newe; kimün malageyu33 tami düngun.
+Fuertemente habla,
+
+53.
+
+lloraste.
+
+Dime por qué lloras.
+¿Chem-mew müngel fenten ngemakeymi?
+¿Qué por siendo
+
+52.
+
+llorar parece?
+
+fuerte; saber no voy yo a ti
+
+muy
+
+enferma está mi madre.
+
+¿Qué enfermedad tiene tu madre?
+¿Chem kutran müngel chey niey tami ñuke?
+¿Qué enfermedad siendo
+
+55.
+
+hablar.
+
+Murió mi buen padre, y mi madre está enferma.
+Lay tañi küme chao em; mütewe34 kutrankley tañi ñuke.
+Murió mi buen padre oh;
+
+54.
+
+tu
+
+es tiene tu madre?
+
+Tiene la peste. Creo que morirá también.
+Perte kutran niey tañi ñuke; fantenu fenten ka kutran ngüli perte35-mew
+Peste enfermedad tiene mi madre;
+
+tañi ñuke;
+
+ka
+
+tanto
+
+tanto otro enfermo si es peste
+
+de
+
+lapelayay36.
+
+mi madre: ¿también no parece que morirá?
+
+Formas como kimün-malageyu prueban que la terminación pronominal del verbo araucano
+no indica solamente el sujeto de la acción, sino una relación general como los pronombres
+posesivos en castellano. Yu según las gramáticas significa «nosotros dos», eyu aquí
+corresponde a «yo a ti» o «yo de ti», o «yo contigo». El giro significa «yo contigo (eyu) no (la)
+voy (ma) a entender (kimün) tu hablar». Cp. III 7. y ANALES DE LA UNIVERSIDAD DE CHILE tomo 84
+pág. 1023.
+34 Generalmente no he escrito consonantes dobles en araucano; pero la p y t entre dos vocales
+a menudo se pronuncian con tanta fuerza como tt, pp en italiano tutto, troppo v. g. araucano
+picunche puttu (beber), rüppu (camino).
+35 Perte. La sustitución de la s castellana por la r araucana (=z’) es característica para probar la
+antigua aversión de los araucanos del norte contra este sonido, que según mi opinión es la
+causa de la pérdida casi completa de la s final de sílaba en el lenguaje corriente de Chile.
+36 Lapelayay pregunta negativa en vez de afirmación como III, 19.
+33
+
+9
+
+56.
+
+¿Desde cuándo está enferma?
+¿Chumten-mu kutrani tami ñuke?
+¿Cuánto
+
+57.
+
+Está en cama casi sin moverse desde siete días.
+Relge antünengu melay tañi ñuke. Ngetantu-mew müley.
+Siete
+
+58.
+
+días
+
+no va
+
+mi madre. Cama
+
+en
+
+está.
+
+Tiene mucha fiebre y no conoce a nadie.
+Fenten yanchi fotren; kimuelay iney rume kimwelafi.
+Tanto
+
+59.
+
+de enferma está tu madre?
+
+calofrío no conoce
+
+nadie
+
+no lo conoce.
+
+¿No han llamado un médico?
+¿Kintungelay machi?
+¿Buscado no fue médico?
+
+60.
+
+Hemos mandado a un mozo para buscarlo; pero el médico no ha venido.
+Werküñen37 kintuagel machi; kintufuy tañi werken amofuy, akulay.
+Mensajero fui (?) para buscar médico; buscaba mi mensajero iba,
+
+61.
+
+no llegó (el médico).
+
+¿Vive muy lejos de aquí?
+¿Püchi mapu mülekafuy, küpalay? ¿Mütewe aldü mapu müley am fe?
+¿Poca
+
+tierra viviendo estaba, no vino?
+
+¿O muy mucha tierra vive
+
+ese?38
+
+***
+62.
+
+¿Sabes escribir o leer?
+¿Kimi39 chilkatun?
+¿Sabe
+
+63.
+
+escribir?
+
+No, señor; no sé escribir; pero un poco sé leer.
+Kimchilkatulan,
+welu pekefin
+lifru-mew.
+Saber carta no hago40, pero estoy viéndolo libro de.
+
+Werküñen quizás equivale a werkün ngen fui mensajero; pero este significado no
+corresponde a la idea.
+38 Es decir: ¿Vive cerca y sin embargo no vino? o es que vive lejos (porque se explicaría que no
+haya venido).
+39 ¿Sabes? sería kimimi. Hay probablemente una equivocación. Chilkatun es en general
+«manejar cartas». Chilka o chillka es una palabra introducida por los incas junto con la cosa;
+cp. MIDDENDORF kellka. Valdivia pone en primer lugar la forma quillca por chilca. Febrés O.
+todavía menciona quilca por chilca. Astraldi omite la forma primitiva que hoy ya parece
+muerta. También chillca «una hierba medicinal» FEBRÉS, viene del quichua, MIDDENDORF
+chillca.
+40 «Hago» en el significado del inglés I do not know letters. Tenía cierta dificultad en explicar
+que era posible saber leer sin saber escribir.
+37
+
+10
+
+64.
+
+¿Puedes leer este papel? ¿Entiendes lo que dice?
+¿Tüfa kimlafimi dungulafiel tüfachi papel?41 ¿Kimfimi am kaychi tañi chem pin?
+¿Esto no lo sabes
+
+65.
+
+su
+
+¿Sábeslo también lo
+
+su
+
+qué decir?
+
+qué
+
+dicho; mala cosa
+
+está
+
+esta
+
+carta en.
+
+¿Quieres aprender a escribir, si yo te enseño?
+Küpakimfuymi42 chilkatoan, inche kimeloayu, ademaymi43.
+Venías a saber
+
+67.
+
+este papel?
+
+No lo comprendo. Está mal escrito.
+Kimlafin tañi chem pifel; weda düngu müley tüfachi chilka-mew.
+No lo sé
+
+66.
+
+lo que dirá
+
+escribir,
+
+yo
+
+te haré saber, te enseñaré.
+
+Con mucho gusto, señor; pero me temo que soy muy torpe.
+Ademelagen may chilkatun; adümelagen müten; mütewe weda piwkengen.
+Me harás enseñar pues a escribir; enseñar hazme no más;
+
+solo
+
+malo corazón soy.
+
+***
+68.
+
+¿Hay aquí una casa deshabitada?
+¿Nielay kiñe ruka rume welli lelo?
+¿No hay
+
+69.
+
+Yo querría vivir aquí un mes para aprender bien la lengua.
+Inche kiñe küyen müleafun tüfa-mew kimagel kimdunguafel.
+Yo
+
+70.
+
+una casa cualquiera vacía estando?
+
+un mes (luna) estaría
+
+Mañana estará vacía aquella casa al pie del cerro. El que tiene se va esta
+noche.
+Wile welli pelay teyechi tramawida mülechi ruka. Tefechi44 ngenuka45 tripalo
+Mañana vacía no parece este
+
+tefachi trafia.
+esta
+
+71.
+
+aquí por para saber para saber hablar.
+
+cerca cerro
+
+estando casa.
+
+Ese
+
+dueño casa saliendo
+
+noche.
+
+Bueno, pues; voy a hablar al dueño de la casa. Si me la da, debes barrerla
+y limpiarla mañana temprano.
+Femürkey düngulmeafi ngen ruka. Eluelimi tañi ruka wila ipükayafiñ46
+
+[Original: ¿Tüfa kimlafimi tengulafiel tüfachi papel? '¿Esto no lo sabes lo que contendrá (?)
+este papel?' (Estudio XII, Corrección al Estudio III)].
+42 Küpa antes de otro verbo corresponde a «querer».
+43 La d de ademaymi significa el sonido fricativo posdental afónico; era raro en la
+pronunciación de Amasa. La forma más correcta parece adüme, compuesto de ad «cara,
+costumbre» y me ir; de consiguiente admen debe significar «acostumbrar».
+44 Teyechi quizás debe traducirse por «esta», modificando a «casa». Véase F. thav cerca, junto.
+45 ngenuka=ngen ruka; la r se pronuncia a veces tan débilmente que se asimila a la n que le
+precede; véase III 6.
+46 Probablemente hay que escribir lipükayafin; cp. F. lipùmn limpiar.
+41
+
+11
+
+Así está bien a hablarle voy dueño casa. Si me das (?) mi (su?) casa mañana la limpiaremos
+
+pu liwen.
+en alba.
+
+72.
+
+No te quedes parado en la puerta; no puedo ver aquí.
+Chumal witraleapaymi; inche pokintoelan47.
+Para qué tirar estar (?) vienes; yo no llego a mirar.
+
+73.
+
+Ponte a un lado, hace muy oscuro aquí.
+Kiñel
+tripange, fenten tuming48 küleymi.
+A un (lado)
+
+74.
+
+sal,
+
+tanto
+
+oscuro
+
+haces.
+
+Esta casa es muy mala. El suelo está húmedo, porque el techo se llueve.
+Mütewe wesaley tüfachi ruka. Küchuley tüfachi mapu, mütewe wowi49 tüfachi
+Muy
+
+mala está esta
+
+casa. Mojada está
+
+esta
+
+tierra,
+
+mucho se llueve
+
+esta
+
+ruka.
+casa.
+
+75.
+
+Las paredes tienen muchos agujeros donde entra el viento frío de la
+noche.
+Wetod
+ngi tüfachi ruka, müte konpay
+küref pun.
+Agujereada está
+
+76.
+
+mala está;
+
+no alojaré
+
+aquí por.
+
+Tu casa me parece mucho más bonita y limpia que la del vecino.
+Eymi mi ruka doy kümelkale, tañi ka ruka51.
+Tú
+
+78.
+
+casa, mucho a entrar viene viento noche.
+
+Hay mal olor aquí y está todo muy sucio.
+Müten ngümüy, wedaley; mülewelayan50 tüfa-mew.
+Mucho huele,
+
+77.
+
+esta
+
+tu casa más mejorada está, su otra casa.
+
+Deja la puerta abierta cuando hace sol, para que se seque bien el suelo.
+Nüla künofinge tüfeychi ruka; mütefe küchuley tefachi ruka, kalli angkütoay.
+
+Abierta
+
+ponla
+
+esa
+
+casa; mucho mojada está
+
+esta
+
+casa, sola se secará.
+
+Pokintoelan=no alcancé a ver.
+F. dumiñ oscuridad.
+49 Wowi es pronunciación descuidada con asimilación casual de la a a las dos w; cp. F. huaùn,
+huaghùn lloverse o gotearse la casa.
+50 Müle-we-la-yan: mülen «estar»; we (hue) significa el lugar donde se hace o donde hay o
+sucede algo, el instrumento con que se hace algo; mülewe alojamiento, morada.
+51 La idea del comparativo se expresa en araucano, como en muchos otros idiomas sin
+verdadera comparación. «Esta casa es más bonita, la otra casa» o «de la otra casa». Todavía
+más sencillo es v. g. el hebreo, diciendo: «Esta casa es bonita de la otra», es decir, «vista de la
+otra». Tratándose de cualidades relativas el punto de salida decide el grado. Así se explica
+también el uso del ablativo en latín sol maior est lunâ=desde la luna. Cp. III 265. Inche ñi wenimu doy nien pülata=yo de mi amigo más tengo plata.
+47
+
+48
+
+12
+
+79.
+
+No se puede cerrar esta puerta. Tráigame un palo para cerrarla.
+Pepi
+takulafi tüfachi ullgiñ ruka. Küpalelen kiñe mamel düngküam52.
+No se puede cerrarla
+
+80.
+
+un
+
+palo
+
+para cerrar.
+
+ladrón acá
+
+por?
+
+Está,
+
+pero
+
+no viene
+
+acá por.
+
+Roban los animales en el potrero, pero no vienen a las casas.
+Mütewe weñimakenu ñi kullin lelfün-mew, welu konpakelay tüfa-mew.
+Solo
+
+82.
+
+puerta casa. Hazme venir
+
+¿Hay ladrones aquí? Sí, hay, señor; pero no vienen por acá.
+¿Müli weñefe tüfa-mew? Müley, welu küpakelay tüfa-mew.
+¿Está
+
+81.
+
+esta
+
+vienen a robar su ganado llanura en,
+
+pero no vienen a entrar acá por.
+
+¿Puedo obtener algún sirviente aquí?
+¿Mülepelay
+ñi kiñe kona ñiagel tüfa-mew?
+¿No parece estar mi un mocetón para mí aquí por?
+
+83.
+
+Sí, señor, hay uno.
+Müli li may.
+Está está pues.
+
+84.
+
+Estoy muy cansado; quiero acostarme.
+Itro mütewe atru lewel kuduwan53.
+Todo mucho cansado estando me acostaré.
+
+85.
+
+La cama está muy dura, me duele todo el cuerpo.
+Rüngelay54 tañi ngetantu; müte kutran angkan.
+No está blando55 mi
+
+86.
+
+Venir hazme un
+
+poncho para taparme.
+
+Ayúdame a arreglar la cama; extiende las frazadas.
+Kümeelklopangel
+ngütantu; ngütantu knolen ekull.
+Bien dejar ayudar venir sido
+
+88.
+
+muy enfermo cuerpo.
+
+Tengo frío. Tráigame un poncho para taparme.
+Wotren56. Küpalelen kiñe poncho ekulluam.
+Tengo frío.
+
+87.
+
+cama;
+
+cama;
+
+cama
+
+ponme poncho.
+
+Despiértame mañana, para levantarme temprano.
+Trepelangel wile kuliwen57, trepenoli.
+Despiértame mañana temprano, si no despierto.
+
+En Febrés encuentro solo dechun trancar.
+Cp. III 25.
+54 Tal vez re-nge-lay no está bien, no está como debe estar; o F. O. rùge cosa gruesa=no está
+gruesa, blanda.
+55 [Original: 'No está bien (?)' (Estudio XII, Corrección al Estudio III)].
+56 Wotren=ùthen F. O. ecullun abrigarse, arroparse, falta en Astraldi.
+57 Kuliwen es una sustitución casual de p por k=pu liwen.
+52
+
+53
+
+13
+
+89.
+
+¿Cómo has pasado la noche? ¿Has dormido bien?
+¿Chungechi rupami tüfachi trafüa? Küme umañen.
+¿Cómo
+
+90.
+
+pasaste
+
+esta
+
+noche?
+
+Buen sueño tuve.
+
+He dormido bien; he dormido mal. Me he despertado muchas veces.
+Müte küme umañen58; mütewe weda umañen. Umagtulan reke
+tüfachi
+Muy
+
+buen sueño tuve;
+
+muy
+
+mal sueño tuve.
+
+No dormí
+
+bien siempre
+
+esta
+
+trafia.
+noche.
+
+91.
+
+Los perros ladraban mucho. En la casa al lado cantaban y metían mucha
+bulla.
+Müte wangküy trafia trewa. Rüf59 mütewe ülkatuy60 trafia pepi ümatu ruka
+Mucho
+
+ladró
+
+lagel
+
+üngün61.
+
+noche perro.
+
+?
+
+mucho
+
+cantaron
+
+noche poder dormir casa
+
+no me ellos.
+
+92.
+
+No quiero levantarme todavía. Mozo, pon una frazada sobre la banca;
+quiero sentarme.
+Petu
+witralayan. Elelen kiñe ekuüll ñi ana62 fangku-mew. Tüfey-mu
+Todavía no me levantaré. Pásame una
+
+anügan.
+
+frazada mi sentarme
+
+banco en.
+
+Allí por
+
+me sentaré.
+
+93.
+
+Acerca una mesa; ponla acá.
+Fülüm63 elpangen fangku; tüfa-mu
+Junto
+
+94.
+
+ven a dejarme banco;
+
+elelpangen.
+
+acá por ven a dejármelo.
+
+Tengo sed; échame agua al vaso. Esta agua está turbia y caliente.
+Müta-mew elupangen ko, müte wuywün64. Tüfachi ko pedpele, eñumkley
+Cuerno en ven a darme agua, mucho tengo sed.
+
+Esta
+
+agua turbia está, caliente está
+
+tüfachi ko.
+esta
+
+95.
+
+agua.
+
+Tráeme agua limpia; limpia el vaso.
+Küme ko küpalelen; küme küchafinge tüfichi müta.
+Buena agua venir hazme;
+
+bien
+
+lávalo
+
+este
+
+cacho.
+
+umañen equivale a umagngen o a umagün.
+Rüf cp. III 139.
+60 ülkatuy está por gülkatuy de F. O. ghùlcan cantar.
+61 La colocación de ruka entre las dos partes esencialmente verbales pepi ümatu (umagtu)
+«poder dormir» y lagel engün «no a mí ellos» es un ejemplo característico de incorporación.
+Todo el giro significa «ellos no me dejaron poder dormir en casa».
+62 Ana= anü o anüa.
+63 Cp. F. vùlùmn juntar.
+64 Cp. F. huyghùn tener sed.
+58
+
+59
+
+14
+
+96.
+
+No lo seques con un trapo sucio, sino con uno limpio.
+Weda pañu-mu ngütuüllkifilmi pañu-mew; lif pañu mew ngüduillfinge65.
+Mal
+
+97.
+
+paño con
+
+paño con; limpio paño con
+
+sécalo.
+
+Límpiame el cuchillo y lava la cuchara.
+Lipüm melen ñi kuchillu; küchafinge tüfeychi fütrü66.
+Límpiame
+
+98.
+
+no seques
+
+mi cuchillo;
+
+lávala67
+
+esta
+
+cuchara.
+
+Tráeme qué comer; tengo mucha hambre.
+Küpalelen yagel; mütewe ngüñin.
+Venir hazme para comer; mucho tengo hambre.
+
+99.
+
+No puedo comer esta carne; está mala, tiene mal olor.
+Ilayafin tüfachi ilo; müte ngümüy68.
+No la comeré esta carne; mucho
+
+100.
+
+Más bien voy a comer carne seca; hágala cocer mucho tiempo para que se
+ablande.
+Angken angüm ikayan. Mütewe küme fayomafimi69 kalli wellayay.
+Seco
+
+101.
+
+carne seca comeré.
+
+lo hervirás
+
+solo fresco estará bien.
+
+fuego;
+
+haz palitos chicos
+
+esta
+
+madera.
+
+fuego. Bien
+
+enciéndelo.
+
+Eche ceniza sobre el carbón para que no se apague el fuego.
+Takufinge trufken-mew, kalli ñi trongnoam.
+Tápalo
+
+104.
+
+bien
+
+El fuego está apagándose; préndalo de nuevo.
+Chongi71 kay tami ketral. Küme uyemtufinge72.
+Se apaga también tu
+
+103.
+
+Muy
+
+No está bueno el fuego. Haga pedacitos chicos de leña. Sople el fuego.
+Kümelay
+tüfachi kütral; püchike irakafinge70 tüfichi mamel.
+Bueno no (está) este
+
+102.
+
+huele.
+
+ceniza con,
+
+solo su apagar no para.
+
+Hágame hervir esta agua. Todavía no está hirviendo. Deje la olla al fuego.
+Fayemüle tüfachi ko. Petu faylay. Anüntükunofinge73 tüfeychi challa
+
+ngüduüll quizás se relaciona con F. gùlludn limpiar o con gùdin tapar alguna vasija con algo.
+F. huythù cuchara.
+67 [Original: llávala].
+68 Habrá que leer nümüy (F. numun) II 136 está nümuy.
+69 Véase F. O. vain hervir, vaimn hacer hervir; angüm cp. Febrés-Hernández agituy «está seco»;
+Havestadt angidun «siccum esse». Cp. III 175, 183.
+70 [Original: püchike erakofinge 'chico siempre
+? ' (Estudio XII, Corrección al Estudio III)].
+71 chongi, cp. F. O. chogn, Astraldi chugn apagarse; de ahí viene también II 143 chungi, que allí
+he dejado sin traducción, y III 103 trong.
+72 F. ghùyùmn encender.
+73 [Original: Amütüku künofinge ' ?
+ponla' (Estudio XII, Corrección al Estudio III)].
+65
+
+66
+
+15
+
+Haz hervir
+
+esta
+
+agua. Todavía no hierve. Sentada déjala puesta
+
+esa
+
+olla
+
+kütral-mew.
+fuego
+
+105.
+
+en.
+
+Saque la olla, porque está hirviendo. Está saliéndose el agua por encima.
+Anü
+intuknofinge tüfeychi challa; mütewe fayi; müte tripay ñi ko
+Sentado
+
+sácala
+
+esa
+
+olla;
+
+mucho hierve; mucho
+
+sale
+
+su agua
+
+fay koñi.
+hirviendo agua tiene.
+
+106.
+
+Tenga cuidado que no bote agua. Me quemará usted la mano.
+Fotrukakifilmi74 tüfichi ko. Lüfi (lüpümaafen) ñi kuü75, mütewe areley.
+No botes
+
+107.
+
+esta
+
+agua. Arde (me quemarás) mi mano, mucho ardiente está.
+
+Páseme un pedazo de pan; pero no ese viejo que está tan duro.
+Altropagen tüfeychi kiñe kofke. Tüfachi chumül melelo peno tüfachi kofke;
+Pásame76
+
+kangelu
+
+otro siendo
+
+este
+
+un
+
+pan.
+
+Este
+
+cómo
+
+siendo quién sabe
+
+este
+
+pan;
+
+altropagen77.
+pásame
+
+***
+108.
+
+¿Dónde has estado, muchacho? —No he salido; he estado aquí.
+¿Chew m(ü)ngel müley peymi am? —¿Chew-no rume tripapelan;
+¿Donde
+
+ser
+
+mülekape-llelan
+
+estar
+
+parece ?
+
+—¿A ninguna
+
+parte
+
+no salí;
+
+am78?
+
+estar otro no estuve?
+
+109.
+
+Dices una mentira. Te he llamado en todas partes y no me has oído.
+¿Koylatupelaymi? ¿Mütümkapellalafeyu am? ¿Allku-pelani79 am?
+¿No se ve que mientes? ¿Llamando no te estuve yo acaso? ¿No me oíste?
+
+Fotru del castellano «botar» (?); la palabra se encuentra a menudo en mis apuntes y siempre
+con tr, lo que me hace creer que es palabra primitiva araucana aunque no está en los
+diccionarios. Ka’ [original: vot’uka’kifílmi] aquí el signo ‘ indica aspiración tal como es
+frecuente en la pronunciación chilena en vez de s antes de consonante. Tal vez es casual aquí o
+equivale a karki.
+75 [Original: Lafay ñi kuü ' ? mi mano' (Estudio XII, Corrección al Estudio III)]. Lafay véase F.
+lavn extenderse, abrirse, laun pelarse como en la curtiembre. Habrá, pues que traducir: se
+abrirá mi mano, le saldrá el cutis por la quemadura.
+76 [Original: ' ? ' (Estudio XII, Corrección al Estudio III)].
+77 [Original: altropagel ' ? ' (Estudio XII, Corrección al Estudio III)].
+78 Mülekapellelan am=no estuve en otra parte; el am interrogativo se usa a menudo en
+araucano como el ¿no? interrogativo que en el lenguaje corriente de Chile tantas veces suele
+terminar las frases del diálogo aunque no se espera ninguna contestación; es el francés: n’estce pas?
+79 Allkupelan es contracción por allkupelaen; el significado de la i final me es dudoso.
+74
+
+16
+
+110.
+
+Dime siempre la verdad; porque si mientes tengo que castigarte.
+Küme pien; welu koyla-tukilmi: koyla-tupralmi, würa-füayu80, koylatulmi.
+Bien
+
+dime; pero
+
+no mientas;
+
+si mientes en vano, yo te pegaré,
+
+si mientes.
+
+***
+111.
+
+¿Cómo te va, amigo?; ¿está buena tu salud? ¿Ahora no más te has
+levantado?
+Marimari, nay; ¿chumli kümeleymi am? ¿Witrafimi ula?
+Buenos días, amigo; ¿cómo está bien estás?
+
+112.
+
+Me acuesto temprano y suelo levantarme cuando sale el sol.
+Inche ella
+trafia kuduken81;
+tripapay ula antü wütraken.
+Yo
+
+113.
+
+¿Te levantas todavía?
+
+apenas anochecer me acuesto siempre; viene a salir todavía sol me estoy levantando.
+
+Me he sentido mal esta mañana. —¿Qué te ha sucedido?
+Mütewe weda82 tuamklen wenman, feymu witra-pelan. —¿Chumülkeymi
+Muy
+mal
+ánimo tengo amanezco, así de no me levanto.
+—¿Cómo estás
+müngelyam?
+viviendo?
+
+114.
+
+Llovía durante mi viaje; me mojé las piernas y así me he resfriado.
+Ñi amoagel83 mawen man84; küchuy tañi chang85; feymew kutran tripan.
+Mi
+
+115.
+
+viaje
+
+lloviendo fui;
+
+se mojó mi pierna;
+
+de ahí enfermo salí.
+
+La rodilla me dolía tanto que no podía andar.
+Mütewe kutrani ñi luku, pepi-amolan.
+Mucho enfermo está mi rodilla, no puedo andar.
+
+Cp. F. huyrav riendazo.
+[Original: Inche ila tüfa tafia kuduken 'Yo ? aquí noche me acuesto siempre' (Estudio XII,
+Corrección al Estudio III)].
+82 Weda tuamklen=weda duamklen; la sustitución de una t (explosiva posdental afónica) por la
+d (fricativa posdental fónica) es casual, pero ocurre bastantes veces; cp. 96, 73 etc.
+83 Amoagel originariamente es viaje futuro, lo que caminaré, como iagel lo que comeré; pero
+como esta palabra se aplica después a la comida en general (también lo que comí ayer), así
+amoagel (el camino que hay que hacer) pasa a significar viaje en general.
+84 Mawen-man corresponde a «me vine con lluvia».
+85 [Original: ka chuñi chang 'y
+? pierna' (Estudio XII, Corrección al Estudio III)]. Chuñi se
+deriva probablemente de F. chùn «escampar», es decir, cesar la lluvia. F. chùtun «es también
+guarecerse de la lluvia, acogerse debajo de cubierta». Aquí quizás habrá que leer chuy ñi chang
+y que traducir: se mojó de la lluvia mi pierna.
+80
+
+81
+
+17
+
+116.
+
+¿Te sientes mejor hoy? —Sí, amigo, un poco mejor; pero todavía no estoy
+bueno.
+¿Küme wedmaymi86 am tüfachi antü? —Püchi doy kümelkan.
+¿Bien
+
+117.
+
+amaneciste
+
+este
+
+día?
+
+—Poco más bien estoy.
+
+¿Qué se dice de nuevo en el pueblo? —Mi compadre me dice que han
+traído tres ladrones.
+Chem düngu müley kara-mew; ¿alküyawfülimi am? —Ñi weñi87: küpalngey
+Qué
+
+cosa
+
+hay
+
+ciudad en;
+
+¿has ido oyendo algo? —Mi amigo: fueron hecho venir
+
+küla weñefe.
+tres ladrones.
+
+118.
+
+¿Qué es lo que han robado? —Han robado dos mulas y un potro de un
+corral.
+¿Chem müngelchi weñengey88? —Epu mula weñengey, ka kiñe potro, küla, mula
+¿Qué
+
+siendo
+
+fue robado?
+
+—Dos mulas fueron robadas, otro un potro, tres, mula
+
+yengn, tüfichi potro engn.
+ellos,
+
+119.
+
+ese
+
+potro ellos.
+
+¿Quién los ha tomado presos? —Cuatro soldados del gobierno y el
+subdelegado.
+¿Iney müngel chi presueyu89 tüfeychi küla weñefe? —Meli soldao, ka kiñe
+¿Quién siendo
+
+soeleao
+
+es presos él a ellos
+
+tükulpageyu;
+
+meli
+
+esos
+
+tres ladrones? —Cuatro soldados, otro un
+
+yewi engün; kidu miawwi tefeychi soeleao.
+
+subdelegado él los vino a poner; cuatro se llevaron ellos; solo caminó
+
+120.
+
+ese
+
+subdelegado.
+
+Ellos no querían rendirse; pero los soldados mataron a uno y amarraron
+a los dos otros.
+Kidu tüfeychi weñefe küpan-pilafuy küpayagel. Kiñe langümngi, langümeyu
+Solo
+
+esos
+
+ladrones venir no decían
+
+soldao, kakelu
+soldado,
+
+trayingi90,
+
+venida.
+
+Uno
+
+muerto fue,
+
+lo mató
+
+fewla küpay.
+
+otro siendo amarrado fue, entonces vino.
+
+Wedmaymi podría relacionarse con we nuevo, fresco, sano. Pero me parece más probable
+que hay que leer wenmaymi, wünmaymi amaneciste. En III 113 había también apuntado una d
+sobre la n. Probablemente se trata de un sonido particular, véase Fébres sub verbo uùn’ y Arte
+4.
+87 Después de Ñi weñi parece faltar algo como pien (me dijo).
+88 La e doble en weñeengey será casual; habrá que leer como después weñengey. Es
+característico con cuánto cuidado Juan Amasa indica el número «Dos mulas fueron robadas y
+un potro; son, pues, tres animales, en parte mulas y en parte potros».
+89 Presu-eyu cp. II 182 nota. –Eyu como transición de tercera a tercera equivale a eyew de las
+gramáticas.
+90 F. tharin amarrar.
+86
+
+18
+
+121.
+
+Un vecino fue muy mal herido en la pelea.
+Ñi kiñe ñi weñi em alfümey91 weychan-mew.
+Mi uno mi amigo ¡oh! lastimado fue pelea
+
+122.
+
+¿A dónde querías ir ahora? —Quería ir al mercado a comprar buenas
+frutas.
+¿Chewmüngel amoan pilimi92 müngelyam? —Amoan, ngillakamean, itruko
+¿Donde siendo
+
+iré
+
+ngilla-kame-yafun,
+
+tendría que ir a comprar,
+
+123.
+
+dijiste
+
+?
+
+—Iré,
+
+compraré,
+
+decía:
+
+compraré
+
+peras.
+
+No vayas; no hay nada de bueno allá. Acompáñame a mi casa para
+almorzar conmigo.
+Amupralaymi;
+chemume93 ngelayna tüfey. Amuyu
+tuyu ñi
+no está
+
+ruka-mew; imeyayu.
+casa
+
+ahí. Caminemos (los dos) vayamos mi
+
+a; iremos a comer.
+
+Muchas gracias, pero todavía no tengo hambre. —Si es así, ven en la noche
+a comer.
+Küme ñi
+furenefuel,
+petu ngüñilan.
+—Amungelaymi, tay pu tafia
+
+Bueno lo que me tienes compasión, todavía no tengo hambre. —No caminas,
+
+ula
+
+esta en noche
+
+amulgaymi, fewla may.
+
+después
+
+125.
+
+todo
+
+pifun; ngilamean perad.
+
+No vayas de balde; cualquiera cosa
+
+124.
+
+de.
+
+si vas,
+
+entonces pues.
+
+Te estoy esperando. Puedes traer a tu tío. —Bueno, si no llueve iremos los
+dos.
+Ungüm94 niepeeyu. Küpalaymi malle95. —Maw-nole küpayayu yu
+malle
+Te estoy esperando. Venir harás
+
+tío.
+
+—Si no llueve vendremos los dos conmigo tío
+
+inchu96.
+nosotros dos.
+
+F. allvùn lastimarse.
+Pilimi=pileymi.
+93 Chemume=chem rume cp. III 70.
+94 Cp. F. úgnien esperar.
+95 Podrá leerse también: Kepalay mi malle=¿no vendrá tu tío?
+96 Kepayayu yu malle inchu es un ejemplo característico para el significado de yu=«conmigo»,
+en seguida «yo y tú», y finalmente «nosotros dos» aunque equivalga, como aquí, a «yo con él»
+o «él conmigo».
+91
+
+92
+
+19
+
+126.
+
+Con que ¿de veras has venido amigo? Creía ya que no vendrían ustedes
+dos.
+¿Chungelu küpaymi, ñi weñi? lnche fey pien97, küpa-pelaya may yengu, pipen.
+¿Cómo siendo
+
+127.
+
+así me dije, venir no se verá pues ellos dos, me dije.
+
+¿Cómo puedes creer que no vengamos (los dos), pues te he dicho que
+vendríamos?
+Fey chumalam fey pimi; ¿küpayan pillellaeyu ama; ¿koylatulenge am, weñi em?
+
+Así
+
+128.
+
+vienes, mi amigo? Yo
+
+para qué
+
+así dijiste; ¿vendré lo diré yo de veras? ¿mentira es pues,
+
+Si no hubiéramos podido venir por el mal tiempo, te hubiéramos avisado.
+Müchay femelu katrü-prafuliw: “amolayan may”, pifalpayafeyu.
+Luego así siendo si teníamos estorbo: “no iré
+
+129.
+
+solamente; buena está tu llegada. Comida ya
+
+está, concluida está
+
+yagel.
+comida.
+
+Si la sopa no está bien sazonada, échale sal. Aquí está el ají verde y el
+colorado.
+Tüfachi yagel chadi ngelay, tükulfinge chadi. Tüfa ñi mülel külü99 trapi, karü
+Esta
+
+comida
+
+trapi ka
+ají
+
+131.
+
+pues”, te lo habría mandado decir.
+
+Ya está bien. Entren no más ustedes dos. Ya está la comida.
+Konpakange müten; kümi tami akun. Yagel müten müley, dewi-kli98
+Entra
+
+130.
+
+amigo o?
+
+sal
+
+no hay,
+
+ponle
+
+sal.
+
+Aquí mi siendo colorado ají,
+
+verde
+
+müli.
+
+también está.
+
+Está muy bien cocida; no le falta nada. —¿Te gustan estos choclos?
+Tüfachi yagel müte kümey; chemume100 faltalay tüfa. — ¿Ikelaymi am
+Esta
+
+comida muy buena está; cualquier cosa no falta aquí
+
+—¿No estás comiendo
+
+wa kayam?
+maíz también?
+
+132.
+
+Son muy tiernos los choclitos; son del maizal que has visto detrás de mi
+casa.
+Müte wengi tüfachi wa. Inche ñi furitu ruka mülechi wa tüfa; kakel-lu
+Muy nuevo es
+
+este
+
+maíz. Yo
+
+peñmakeno tañi wa, feyta
+no se le ve
+
+mi detrás casa estando
+
+maíz este; en otra parte
+
+tüfa.
+
+mi maíz, así (es) este.
+
+Pien según las gramáticas es «me dices, me dijiste»; pero parece que solo significa
+«decirme». «Yo me dije» como reflejo debería ser piun. El indio emplea el verbo pin en el
+sentido de «pensar, creer». El pensamiento que no se comunica a otro es una especie de
+monólogo.
+98 Dewi-kli está concluida, es decir: «está completamente preparada».
+99 Külü véase F. quelù.
+100 Chemume véase III 123. El significado aquí es «nada».
+97
+
+20
+
+133.
+
+¿Quieres un poco del asado? —Sí, dame un pedazo; pero antes tomemos
+una copa de chicha.
+Püchi kam kangkatulafeyu, ¿ilotulaaymi am? —Elukan müten; wüne101
+Poco
+
+otro
+
+no te he asado,
+
+pütukonoeyu
+
+¿no comerás carne?
+
+—Da lo
+
+tan solo; primero
+
+tayu pulku.
+
+beber te pasaré nuestro licor.
+
+134.
+
+Aquí hay papas dulces, papas fritas y buenas humitas.
+Tüfamu müley mütewe kochu poñi, meley tüfamew mallu poñi, müte ngemi
+Acá por
+
+está
+
+mucho
+
+dulce papa, está
+
+acá por preparadas papas, mucho va a ser
+
+kofke wa (umita).
+pan
+
+135.
+
+maíz (humita).
+
+No quiero comer más. Estoy satisfecho. —Me parece que has comido muy
+poco.
+Iwelayan;
+wedan. —Mütewe püchi ilo-tukieyu.
+No comeré más; lleno estoy.
+
+136.
+
+—Muy
+
+poca carne me comiste.
+
+No te vayas todavía. Quédate un ratito; vamos a conversar.
+Petu amukilmi. Pechi müchawla amotuaymi, püchi nütramkawayu, fewla
+Aún no te vayas.
+
+Poco luego después
+
+te irás,
+
+poco nos comunicaremos, después
+
+amokatullaloam eymi.
+puedes irte
+
+137.
+
+tú.
+
+Adiós, amigo. Hasta este otro día. Que te vaya bien.
+Amuchi may102, ñan. ¿Ka antü pewkalaoam103 inchu? Pewmangen may,
+Quiero irme pues,
+
+amigo. ¿Otro día no volveremos a vernos los dos? A vernos ir ser pues,
+
+küme amotoaymi.
+bien
+
+irás.
+
+***
+138.
+
+¿Cuándo saldrás para tu viaje? —Debía haber salido ya, pero tenía que
+arreglar un negocio.
+¿Chumten-mu müngelchi amoaymi? —(Tripafal-wiyafuymi mi nien-mo ñielal;
+¿Cuánto
+
+en
+
+feymew petu
+por eso
+
+viviendo
+
+te irás?
+
+amulaymi)104.
+
+todavía no fuiste).
+
+petu tripalan.
+
+—(Salir
+
+ayer debías tu tener por negocio;
+
+Inche tripafal-wiyafun, welu nielo ñielal, pemew105
+Yo
+
+salir ayer
+
+debía, pero teniendo negocio, por eso
+
+todavía no salí.
+
+Wüna cp. III 44.
+[Original: Achi may ' ? pues' (Estudio XII, Corrección al Estudio III)].
+103 Pewkalaoam probablemente pewkalayu am «¿no nos veremos otra vez?»
+104 La frase que he puesto entre paréntesis se debe a una equivocación de Juan Amasa;
+después se rectificó.
+105 Pemew equivaldrá a fe(y)mew. En varias ocasiones confundió Juan aparentemente p con f
+en su pronunciación.
+101
+
+102
+
+21
+
+139.
+
+Muchacho, cuando llegue el arriero cuyano, dile que venga a verme.
+Akule, küpayay, piafimi; akule rüfküpape106 peafiñ. Akule pemeaneo
+pi ñi
+
+Si llega, vendrá él, le dirás; si llega ? que venga lo veremos. Si llega él me irá a ver dice mi
+
+tañi. Amoay piafimi tami kona, akule107.
+mío.
+
+140.
+
+Irá
+
+ese
+
+jefe
+
+su gente con él.
+
+pides
+
+dije, por esto vine.
+
+tu dos caballos?
+
+Un peso por cada día de viaje.
+Kiñe ke antü re kiñe ke pesu, ngilay
+Uno siempre día siempre un
+
+143.
+
+¿No nos acompañamos?
+
+¿Cuánto pide usted por estos dos caballos?
+¿Chumten falimi110 mi epu kawellu?
+¿Cuánto
+
+142.
+
+tu mocetón, y llega.
+
+Ya llegó el cacique, con sus mocetones. Quiere acompañarte en tu viaje.
+Akuy tañi fechi longko ñi kona engu108. ¿Kompankewlafiñ109? pin, peymew küpan.
+Llegó mi
+
+141.
+
+le dirás
+
+peso, se compra
+
+antü.
+día.
+
+Tráigalos mañana antes de salir el sol.
+Wile petu tripapanochi antü küpalelan.
+Mañana aún no viniendo a salir día me lo harás venir.
+
+144.
+
+Haré lo que deseas, patrón.
+Ñi chem pingen pietew, itrofill müngeltoafiñ.
+Mi qué se me dice él me dice, todo
+
+145.
+
+lo voy a hacer así111.
+
+¿Por qué llegas tan tarde? ¿Dónde has estado? Ya hace mucho que salió el
+sol.
+¿Chem-mew müngel fentre antü akuymi? ¿Chew müngel mülepeymi; wicha tayi
+¿Qué
+
+por
+
+tanto
+
+día
+
+llegas? ¿Dónde
+
+estuviste;
+
+alto
+
+hoy112,
+
+Rüf cp. III 91.
+He apuntado aquí las diferentes maneras de que Juan trató de traducir mi frase castellana.
+La traducción era difícil por la doble subordinación, además le faltó una expresión
+correspondiente para el «arriero cuyano». Creo que ninguna de las traducciones es
+satisfactoria. Según otros ejemplos había debido decir más o menos: Akule tüfeychi kona, fey
+piafimi: «Küpape (o pemepe) pi chi patron», fey piafimi.
+108 Aquí se ve que engu no es un dual primitivo; el cacique y sus mocetones son más de dos, o
+al menos se toma ñi kona como segunda unidad.
+109 Kompan será el castellano acompañar, no el ar. kon (entrar), pa (venir). Mi traducción de
+kompankewlafiñ es dudosa, me parece que debería ser kompanukelafin. La pregunta negativa
+equivale a una afirmación como en III 19, 31, 40; y todo esto son palabras con que el longko
+motiva su llegada.
+110 Falimi quizás es derivado del castellano valer con el significado «tener cierto valor» o
+«atribuirlo»=avalorar y en seguida «pedir el precio», pero hay también una palabra indígena
+val cp. Febrés § 200, 201, 76 etc.
+111 Es decir: lo que se me dice, lo haré todo.
+112 [Original: 'está' (Estudio XII, Corrección al Estudio III)].
+
+106
+
+107
+
+22
+
+tripapay antü.
+salió
+
+146.
+
+sol.
+
+No tengo la culpa, señor. Uno de los caballos se había perdido en la noche.
+Nielan may düngu. Kiñe tüfechi kawullu ñamfuy trafia.
+No tengo pues cosa.
+
+147.
+
+Un
+
+este
+
+caballo se perdía noche.
+
+Tenía que ir en busca de él. Al fin lo encontré en el monte.
+Kintukefiñ.
+Fentren ñi kintufiel,
+fewla niellu ula petufin
+Fuimos a buscarlo. Tanto mi buscarlo siendo entonces
+
+148.
+
+lemu-mew.
+
+al fin lo alcancé monte en.
+
+No digas más. Ensilla mi caballo y pon la carga en el otro.
+Fente düngunge. Chillale113 ñi kawullu. Chech-finge114 kakelo.
+Tanto
+
+149.
+
+?
+
+habla.
+
+Ensíllame
+
+mi caballo.
+
+Cárgalo
+
+el otro siendo.
+
+La barriguera está muy floja; apriétala. Ate bien este saco, que no se caiga.
+Müte keltoley115 tañi sinta, küme nürüftufinge. Küme trayfinge116 tüfachi saku,
+Mucho floja está
+
+ütrunalnoam117.
+
+su cinta, bien
+
+ciérrela.
+
+Bien
+
+átelo
+
+este
+
+saco,
+
+para que no se caiga.
+
+150.
+
+Los estribos están cortos; alárguelos. ¿Es manso este caballo, o tiene
+maña?
+Ñiw118 tripu119 müte püchikey; amultulelan. ¿Ñomngey120 tüfachi kawellu am?
+Mis dos estribos muy chicos están; me los harás ir. ¿Está manso
+
+Adngi
+
+caballo?
+
+tüfachi kawellu.
+
+Mañoso es este
+
+151.
+
+este
+
+caballo.
+
+Agarre las riendas mientras yo subo. Amarre mejor esta carga; se está
+resbalando.
+Nünielen
+ñi wütran-tükue, inche pürayan. Kümelfinge tüfa chechem; epe
+
+Agarrado tenme mi
+
+ke
+siempre
+
+subir
+
+poner, yo
+
+subiré.
+
+Bien hazla
+
+esta
+
+carga;
+
+casi
+
+ütrünagi tüfachi chechem.
+se cae
+
+esta
+
+carga.
+
+Chillaleñi=chillalen ñi.
+Cheçh escribo çh por sh ch [original: cheçh-viņe]; el sonido corresponde a s’t’ por t’. Véase III
+Introducción.
+115 K,eltoley F. cùlthen cosa floja. k, es explosiva velar afónica, cp. 148.
+116 F. tharin atar. Cp. III 120.
+117 Habrá que leer ütru(f)nagnoam.
+118 Ñiw equivaldrá a ñi yu.
+119 Astraldi da irtipu. Como is’t’ es lo mismo que t’ (cp. III is’t’o), también se explica t’ por is’t’
+primitivo.
+120 [Original: Nungi ' ? ' (Estudio XII, Corrección al Estudio III)].
+113
+
+114
+
+23
+
+152.
+
+El lado izquierdo está más cargado que el derecho. Ponga aquí la pala y el
+hacha.
+Wele-pele
+rüpaley
+tüfi chechem. Tüfamu elfinge tüfechi pala engu, tüfechi
+Izquierda hacia pasándose está esta carga.
+
+Acá por déjalo
+
+esta
+
+pala con,
+
+esta
+
+toki.
+hacha.
+
+153.
+
+¿En qué dirección vamos? ¿Damos vuelta a la derecha?
+¿Chuchi-mu müngelyam amoayu? Fachi-ple. Trünkayayu121 man-ple.
+¿Qué (parte) por
+
+154.
+
+siendo
+
+iremos los dos?
+
+Después pasamos el río y subimos la cuesta de aquel cerro.
+Feymiw122
+nürüpuayu
+ko-mew, feytiechi mawida mew waytafayu123.
+Entonces tomaremos (el) camino agua a,
+
+155.
+
+cerro?
+
+pedregal es
+
+solo
+
+ese
+
+camino; pero mucho se levanta ese
+
+cerro.
+
+carga
+
+con.
+
+Yo
+
+seguiré.
+
+agua? —Poca siempre estribo está solo.
+
+¿Es rápido? —En esta parte no mucho, y menos en esta estación. Hay poca
+agua.
+Matewe newenngi, müte wütruy? —Fa-ple newen ngelay; tüfamu newe nielay
+¿Mucho
+
+ke
+
+fuerte es, mucho corre? —Acá hacia fuerte no es;
+
+aquí de fuerza no tiene
+
+tefachi estasion. Pichin ko.
+
+siempre esta
+
+160.
+
+¿Cómo está bueno camino?
+
+¿Es muy hondo el río? —No alcanza más que a la barriga de los caballos.
+¿Müte aldü tefechi ko? —Püchi ke estipu key müten.
+¿Muy mucha esta
+
+159.
+
+por daremos vuelta.
+
+Vaya adelante con la bestia de carga, yo sigo después.
+Une konnge tefi chechem-engün. Inche inalean.
+Primero entra esta
+
+158.
+
+cerro
+
+El camino es algo pedregoso; pero no es muy escarpado.
+Mütewe kurantunge müten tüfeychi rüpü; welu mütewe witray tefechi mawida.
+Mucho
+
+157.
+
+allí ese
+
+¿Es larga la subida? y ¿Cómo es el camino?
+¿Pücha124 mawida? ¿Chumley küme rüpü?
+¿Grande
+
+156.
+
+Acá hacia. Volveremos derecha hacia.
+
+estación. Poca agua.
+
+Ya estamos en la cumbre del cerro; aquí sigue llano el camino y después
+bajamos.
+Dew wechun panmay; tüfamu lelfün ngey amuy rüpü; tay fla125 nagayu.
+Ya
+
+cumbre venir está; acá de llanura es
+
+va camino; allá después bajaremos.
+
+Trünkayayu cp. F. thùnvùl cosa torcida.
+Feymiw probablemente debe leerse feymew.
+123 Waytafayu cp. F. huaydùvn dar vuelta un cerro.
+124 Pücha no está en los diccionarios; cp. III 216, 236.
+125 Fla equilvadrá aquí a ula después, no a vla por.
+121
+
+122
+
+24
+
+161.
+
+Aquí se divide en dos el camino. ¿Cuál de los dos tomamos?
+Tefamu trafuy rüpü epu rüpü. ¿Chuchi rüpü inayafiyu?
+Acá por se junta camino dos caminos. ¿Cuál camino lo seguiremos?
+
+162.
+
+El camino de la derecha es más ancho y parece más trajinado.
+Manple amuchi rüpü doy aldü
+rupay, doy inaayol126 ñi che127.
+Derecha hacia yendo camino más grande pasar viene, más seguido
+
+163.
+
+su gente.
+
+Me parece mejor tomar a la izquierda. Allí está un muchacho; llámelo.
+¿Doy küme pelay tüfachi wile-ple amuchi rüpü? Teye ñi mülem elaweni128,
+¿Más bueno no (se) ve este izquierda hacia yendo camino? Allí su
+
+ser ? muchacho,
+
+mütrüm-fimün.
+llámalo.
+
+164.
+
+No me oye, señor. —Allá abajo viene una mujer; pregúntele.
+Allkülay. —Nag-ple küpay kiñe domuche, ramtufimün.
+No oye.
+
+165.
+
+—Abajo hacia viene una
+
+mujer,
+
+preguntadle.
+
+Eh, mujer, ¿a dónde va este camino? —Este conduce a los campos de trigo
+del valle.
+¿Chuchi koni tüfachi rüpü? —Tüfachi rüpü amuy kachilla-mew
+pülom
+¿Cuál parte entra este
+
+camino? —Este
+
+camino va
+
+trigo
+
+por
+
+el bajo del valle129
+
+nagi.
+baja.
+
+166.
+
+Este otro conduce a Traiguén; pasa por los toldos que usted ve allá lejos.
+Ka tüfachi rüpü amuy Trayyen130, rumeam kay chi tüfachi rüpü toldo-mew
+Otro este
+
+camino va
+
+pefimi aldü tripa.
+
+Traiguén,
+
+pasar ir para también el
+
+este camino toldo en
+
+lo ves mucho salir (alejarse).
+
+Inaayol (con L baja, l «dura» del ruso) será también mal pronunciado, se tratará en todo
+caso de una forma participial de inan «seguir».
+127 K'e (k' prepalatal como a menudo vulgar en Chile queso, casi quieso) debe ser casual por che
+[origina: k'e].
+128
+Elaweni cp. laweni III 204. [Elaweni picunche equivale a püchi kampu
+pehuenche=muchacho (Estudio XII, Corrección al Estudio III)].
+129 [Original: ' ? ' (Estudio XII, Corrección al Estudio III)].
+130 La etimología del nombre del río y de la ciudad Traiguén es evidentemente F. thayghen
+chorrillo de agua o arroyuelo. (H. taiyen y taiûen “torrens”). En el mapa de Havestadt el nombre
+se describe Taiyen.
+126
+
+25
+
+167.
+
+¿No se puede errar el camino? —No, señor. Detrás de esta loma dobla a la
+derecha.
+¿Ñampeyafuy tüfachi rüpü? —Ñamlay. Tüfachi püchi mawida-mew wifod
+¿Perderse vería este camino?
+
+ünkü131
+
+tripa rüpuy
+
+—No se pierde.
+
+Este
+
+poco
+
+cerro
+
+en
+
+detrás
+
+man-ple.
+
+derecho sale camino derecha hacia.
+
+168.
+
+¿Hay que pasar un río? —Sí, pero trae poca agua. La gente por allá le dirá
+dónde hay que pasar.
+¿Rumey tüfachi rüpü ko-mew kay? —Müli ko, püchi ki. (Tüfe-mu müle-chi che
+¿Pasar va este camino agua por también? —Hay agua, poca está. Allá por estando gente
+
+rume
+
+pelayan tüfechi che mew?)132 Üyew133 mülechi che tüfe-mu müley küme
+
+cualquiera no veré
+
+esa
+
+gente por?).
+
+ilawe piyageymew.
+vado
+
+169.
+
+gente allá por está
+
+buen
+
+te lo dirán.
+
+¿Cuándo llegaremos a Victoria? ¿Estamos todavía muy lejos?
+¿Chumten-muchi puan Fitoria? ¿Petu mütewe aldü mapu lewen ñi poam?
+¿Cuánto en es
+
+170.
+
+Allí estando
+
+llegaré Victoria? ¿Aún
+
+muy
+
+mucha tierra está mi llegar para?
+
+Andando despacio llegarán ustedes (tres) hacia la puesta del sol.
+Tüfa nochi lelmün, ¿popelayaymn
+kon antü?
+Allá despacio si sois, ¿llegar no pareceréis entrada sol?
+
+171.
+
+¿Hay una posada allá, o en qué casa podremos pasar la noche?
+¿Uman pupelaymn? müley kiñe wentru, fey-mew uman poaymn.
+¿Dormir llegar no parecéis? está
+
+172.
+
+un
+
+hombre, ese por dormir llegaréis.
+
+No hay muchos chilenos allá. Pero el cacique es amigo mío; en su casa
+quedaremos.
+Mütewe ñielay wingka. Ñi müte küme weñi tüfeychi longko; fey-mew poan. Kidu
+Mucho
+
+no hay chileno.
+
+Mi muy buen amigo
+
+ese
+
+cacique;
+
+ese a
+
+llegaré. Propia
+
+ñi ruka-mu reke poaymi.
+su casa en de veras llegarás134.
+
+173.
+
+No echen al potrero los caballos. Déjenlos aquí cerca de la casa y denles
+un poco de pasto.
+Konpeafuy
+tüfechi ngüyon135-mu mün kawellu. Tüfaple müten elknokafimn,
+Entrar parecerían ese
+
+potrero136
+
+a vuestros caballos. Acá hacia
+
+solo
+
+dejadlos juntos,
+
+[Original: ifodi inkü 'detrás(?) ?' / Cp. IX 4, 6 (Estudio XII, Corrección al Estudio III)].
+La frase en paréntesis fue una traducción equivocada. En vez de ilawe habrá que leer
+ngilawe (FEBRÉS gilahue).
+133 üyew uyew no está así en los diccionarios, pero se emplea como terminación de transición
+de tercera a tercera; cp. III 199. Por la formación cp. teyen allá (F. O. H.) III 203.
+134 Es decir: serás recibido como en tu propia casa.
+135 ngüyon. cp. F. gio, gion «recodo»; H. gion refercire, replere; según esto podría ser o el
+rincón, o el lugar donde pastean los animales.
+131
+
+132
+
+26
+
+püchi mapu ruka mülekayay. Elufimn kachu tüfechi kawellu.
+poca
+
+174.
+
+tierra casa
+
+Dadles
+
+pasto
+
+esos
+
+caballos.
+
+Vaya a comprar un poco de maíz. Oiga, comadre, ¿tiene usted algunos
+huevos?
+Ngillamenge wa. Lamgen, ¿nielaymi kuram ulagel137?
+Comprar ve
+
+175.
+
+estarán.
+
+maíz. Hermana, ¿no tienes
+
+huevo que venderme?
+
+¿Hay carne fresca? —Solo tenemos charqui; pero es muy bueno; yo misma
+lo he hecho.
+¿Müley we ilo? —Charki niefuiñ mütewe küme. Angim, inche dewmalken,
+¿Hay nueva carne? —Charqui teníamos muy
+
+bueno. Carne seca, yo
+
+la he preparado,
+
+mütü kümi138.
+muy
+
+176.
+
+buena está.
+
+Háganos (a los dos) un guiso con carne salada y cebolla; échele más
+papas.
+Dewmalmu fuliyu ilo chadi ngüyay139 chefollan maleyay poñi male(y)ay.
+Preparadnos
+
+177.
+
+carne
+
+sal
+
+será
+
+cebolla
+
+Haga cocer cinco huevos frescos; y diga a su hija que nos traiga agua en
+esta calabaza.
+We kuram afülelen kechu kuram. Fey pifinge mi koñi: küpalkilmi tüfachi
+Fresco huevos conclúyeme cinco huevos. Así dile
+
+tu hijo: si ahora me traes esta
+
+wada-mew, pifinge, ko.
+calabaza en,
+
+178.
+
+dile,
+
+agua.
+
+Arriero, amarre mi caballo, para que no se vaya en la noche.
+Tüfe ñi kawellu trapel-lelen, amutuafuy; amunual tüfachi pun.
+Este mi caballo amarrado déjamelo,
+
+179.
+
+se iría:
+
+para no irse esta
+
+noche.
+
+¿No tienes pollos para venderme, mamita? —Sí, señor; aquí están dos
+pollos y una gallina.
+¿Nielaymi püchi ke achawall, nielaymi wulagel ngillayaful? —Müley epu ülcha140
+¿No tienes
+
+chicas
+
+achawall
+
+kagiñe141
+
+domu achawall.
+
+otra una
+
+hembra gallina.
+
+gallina
+
+180.
+
+poner será, papa poner será.
+
+gallinas,
+
+no tienes para darme quisiera comprar? —Hay dos pollo
+
+¿Cuánto pides por esta gallina? —Sesenta centavos.
+¿Chumten pimi tüfachi domo achawal-mew? —Küla chawchay fali, mütefali.
+¿Cuánto
+
+dices
+
+esta
+
+hembra gallina
+
+por?
+
+—Tres chauchas vale, tanto vale.
+
+[Original: ' ? ' (Estudio XII, Corrección al Estudio III)].
+Ulagel cf. III 179 de F. uln enajenar dando o vendiendo.
+138 Cp. III 108, 183.
+139 ngüyay=ngeyay o ngegay «será».
+140 ülcha cp. F. ghùlcha.
+141 Kagiñe por kakiñe es casual.
+136
+
+137
+
+27
+
+181.
+
+Te daré cincuenta centavos. —Bueno, señor, tómela. —Mate la gallina
+ahora luego.
+Eloaeyu meli rial. —Tüfa may; eluen tami meli rial. —Langümelen tüfachi
+Yo te daré cuatro reales. —Aquí pues; dame tus cuatro reales.
+
+—Mátame
+
+esta
+
+achawall muchay.
+gallina
+
+182.
+
+luego.
+
+Hágame la cazuela de ave mañana temprano. Mi estómago está malo.
+Ule münawwün dewmalagen achawall yagel.
+Küpaylan142; wedaley ñi
+Mañana poca alba
+
+me prepararás gallina
+
+para comer. Ir a comer no yo; malo está mi
+
+piwke.
+corazón.
+
+183.
+
+No puedo aguantar la sopa de charqui ni la carne de yegua. No le pongas
+mucho ají.
+Kümentulafin tüfachi angim yagel. Kümentukelafin tüfachi awka ilo.
+No me gusta
+
+este
+
+Mütewe trapi
+Mucho
+
+184.
+
+charqui para comer.
+
+ese
+
+agujero casa? Mucho entrar viene viento.
+
+Lo taparé con paja; pero esta no es bastante. Tráigame más.
+Pinu-mew takuafin; welu tüfachi pinu-mew powlayay. Ka yelmen pinu.
+con
+
+lo taparé; pero
+
+esta
+
+paja con no alcanzará. Otra pásame paja.
+
+Mañana temprano me traerás una olla con agua caliente. —Lo haré.
+Ule
+puliwen
+küpalelan kiñe challa ko, fay ko. —Dewmalayuka.
+Mañana en (la) mañana venir me harás una olla
+
+187.
+
+yegua carne.
+
+¿No puede usted tapar este agujero en la pared? Entra mucho viento.
+¿Chumelu
+taku-lafimn tüfeychi wetod ruka? Müte konpagi kürüf.
+
+Paja
+
+186.
+
+esta
+
+ají si junto ahora le pones.
+
+¿De alguna manera no lo tapáis
+
+185.
+
+No me gusta
+
+makünokilmi143.
+
+agua, caliente agua. —Te lo prepararé.
+
+Arriero, ¿han comido bien los animales? —No había bastante pasto; falta
+el agua.
+¿Chumley kümegtay kullin puen tafüa? Newe ngelay kachu. —Nielay rume ko ni
+
+¿Como está
+
+pütokoal
+
+bien
+
+animal vientre noche? Fuerte no fue pasto. —No hay ninguna agua
+
+taiñ
+
+gullin144.
+para tomar agua nuestros animales.
+
+Küpa ilan es decir: no quiero comer.
+Es decir: «no le pongas»; la forma que en las gramáticas se llama «imperativo negativo» no
+contiene ninguna partícula negativa, sino coincide con el «subjuntivo» con la partícula ke,
+ki=ahora. Parece, pues, ser una amenaza en forma de hipótesis. «¡Si ahora lo haces!» callando
+la apódosis: «¡mal haya!». Cp. III 136, 177 etc.
+144 Gullin por kullin es casual, cp. III 179.
+142
+
+143
+
+28
+
+188.
+
+Esta bestia de carga está lastimada. ¿Qué tenemos que hacer para que no
+se haga peor?
+Tüfachi kawellu chechemkegel145 werani. ¿Chum-künoafuinchiñ ñi mungafun
+Este
+
+caballo para ser cargado
+
+malo está. ¿Cómo
+
+haríamos
+
+para que sanaría
+
+tüfachi weran?
+esta
+
+189.
+
+herida?
+
+Le pondremos unos pellejos blandos. Pregunte al colono si tiene pellejos.
+¿Kiñe küme chofan trülke pramülafiñ?
+¿Niemi trülke ulagel? Amunge
+¿Un
+
+bueno sobado146 cuero no le ponemos encima? ¿Tienes cuero que vender? Camina
+
+tiechi ruka-mew ramtumenge nienchi trülke ulagel.
+esta
+
+190.
+
+casa a
+
+preguntar ve
+
+tener
+
+cuero que vender.
+
+Tiene algunos, pero pide un peso por cada uno. —Ofrécele tres pesos por
+cinco cueros.
+Niey, welu kiñeke pesuy trülke. —Küla peso eloayu mi kechu trülke-mew.
+Tiene, pero uno siempre peso es cuero. —Tres pesos te daré tus cinco
+
+191.
+
+cueros por.
+
+¿No está la sopa, mamita? —Luego va a estar, patroncito.
+Papa yem, ñi yagelnga elfaleyunga elutoafel. —Muchay küpayay,
+Mamita o,
+
+mi
+
+comida
+
+dejarme puedes
+
+para dar.
+
+—Luego
+
+vendrá,
+
+üngümkakellenge147.
+quédate esperando.
+192.
+
+Saque la tapa de la olla para que yo vea lo que hay adentro.
+Intu-nulafinge tüfeychi challa, ñi chem ñi mülen tüfechi challa-mew.
+Destápala
+
+193.
+
+olla, mi qué su estar
+
+esta
+
+olla
+
+en.
+
+Apúrate; ya hace mucho calor, tenemos que salir lueguito.
+Matukalnge. Mütewe antüy. Müchay148 tripayaiñ.
+Apresúralo.
+
+194.
+
+esa
+
+Mucho
+
+día es.
+
+?
+
+saldremos.
+
+¿Cuánto te pagaré por la noche? —No sé lo que vale el pasto que usted ha
+tenido.
+¿Chumten piagen tüfachi kiñe trafüa-mew, umanpamum? —Inche kimlan ñi
+¿Cuánto
+
+me dirás esta
+
+una noche por, por el ir a dormir?
+
+—Yo
+
+no sé su
+
+chumtefalin tüfachi kachu.
+cuánto valer este
+
+195.
+
+pasto.
+
+Preguntaré a mi marido. –Bueno, llámelo; tengo que hablarle.
+Ramtuafin tañi füta. Ya, matrümfinge149 may; dengulafiñ.
+Lo preguntaré a mi grande. Bueno,
+
+llámalo
+
+pues; conversaremos.
+
+Chechemkegel literalmente «que siempre lleva carga».
+[Original: ' ? ' (Estudio XII, Corrección al Estudio III)].
+147 [Original: üngüm kakellenge ' ? otro quédate' (Estudio XII, Corrección al Estudio III)].
+148 [Original: wichay (Estudio XII, Corrección al Estudio III)].
+149 Matrümfinge=mütrümfinge.
+145
+
+146
+
+29
+
+196.
+
+Espérese un momento, señor. Allá viene mi marido con mi hijo mayor.
+Püchifle kellenge. Tie ñi küpan ñi fütay-engu ñi unen koñi.
+Poco
+
+197.
+
+quédate. Allá su venir mi grande con mi primer hijo.
+
+¿Conoces el camino de Temuco? —Cómo no, señor; lo conozco muy bien.
+¿Kimfimi kay amuchi rüpü kay Temuko150? —Kimfingka.
+¿Lo sabes también yendo camino también Temuco?
+
+198.
+
+¿Es fácil encontrar el camino? —La primera parte pasa por los campos.
+¿Müle-pralay151 tüfechi rüpü? —Uneltu rumeymi müley ñi lelfün mi rumeam.
+¿No sube a estar
+
+199.
+
+este
+
+camino? —Primero pasar vas está
+
+camino bosque a.
+
+Allá
+
+llegarás está tu pasar para está agua.
+
+¿No hay un puente? —Ha habido uno; pero en el último invierno el agua lo
+ha arrastrado.
+¿Nielay puente rumeam? —Mülekefuy; tüfachi pukem yerpay mangin ko.
+¿No hay puente para pasar? —Estaba siempre; este
+
+201.
+
+su llanura tu pasar para.
+
+Después el camino entra en el bosque. Allá encontrarás un río que hay
+que pasar.
+Konpuy tüfechi rüpü lemu-mew. Uyew152 poaymi müli mi rumeam müli ko.
+Entrar llega este
+
+200.
+
+—Lo sé, sí.
+
+invierno se lo llevó avenida agua.
+
+No es posible rehacerlo, hasta que haya menos agua.
+Elnge-petu-layay
+may tüfechi puente, niagle153 ula
+Hecho ser todavía no podrá pues
+
+elnge-petu-layay.
+
+ese
+
+tüfechi ko
+
+puente, cuando baje después esa
+
+agua
+
+hecho ser todavía no podrá.
+
+202.
+
+¿Dónde está el vado? —Está más arriba; pero allí hay muchos pantanos.
+¿Chuchi-mu mungel müley ñilawe154? —Püchi wentetu; welu tie-mew mütewe
+¿Dónde por siendo está
+
+fotrangi155
+
+vado?
+
+—Poco hacia arriba; pero allí por
+
+mucho
+
+rumeam.
+
+pantano es para pasar.
+
+Temuko significa «agua del temu» (un árbol).
+Mülepralay, pra «subir» se emplea para indicar que algo se hace de balde, en vano, gratis;
+como pasando por encima sin tocar; mülepralay «¿no está de balde?» es decir, sin utilidad, sin
+que se pueda encontrar.
+152 Uyew, cp. III 168.
+153 Habrá que leer nagle; nagle ula= hasta que baje.
+154 Ñilawe por ngilawe será casual, lo mismo véase III 206; pero 209, 216 etc. ngilawe.
+155 Fotra «pantano» no está en los diccionarios pero cp. F. vochan chupar; foche ola del río;
+fochen empaparse. H. vochon madeo. Cp. III 209, 216, 206.
+150
+
+151
+
+30
+
+203.
+
+Por allá está muy malo el camino y apenas se ve. Hay que buscarlo.
+Teyew müte wedaley rüpü rumeam, kimenngelay156 tüfeychi rüpü amoam.
+Allá
+
+muy malo está camino para pasar, saber no es
+
+ese
+
+camino para andar.
+
+Kintuafimn.
+Lo buscaréis.
+
+204.
+
+Vaya a buscarme un muchacho que me muestre el camino.
+Yelmen kiñe laweni157 ñi ngüyul-lagetew ñi nütram-künomeatew tüfechi rüpü.
+Traerme ve uno ? muchacho su guiar no él me
+
+205.
+
+ese
+
+camino.
+
+Mi hijo segundo te acompañará; es un muchacho muy inteligente.
+Ni inan koñi fey kompanaymu. Fey fe ni koñi müte
+rupayawki,
+
+müte
+
+Mi siguiente hijo allá te acompañará. Este
+
+su noticia poner ir él me
+
+mi hijo mucho pasar camina siempre, mucho
+
+kimi.
+sabe.
+
+206.
+
+Él conoce bien el vado y el camino al través el pantano.
+Fey konkimi ñilawe fotra itroko kim ni chew ñi wedalen rüpü.
+
+Este entrar sabe vado pantano todo saber su dónde su malo estar camino.
+
+207.
+
+Bueno; diga a su hijo que venga luego. —¿Quiere ir conmigo?
+Mülufeypielelka158 mi koñi küpape. —¿Kumpanlayagen am? amoayu.
+
+? así decir hacer haz tu hijo que venga. —¿No me acompañarás? caminemos.
+
+208.
+
+¿Quieres mostrarme el camino a la casa de don Pedro? ¿Conoces bien el
+camino?
+¿Nütram-knomeam tüfechi rüpü rumeam? ¿Pero-mu amuchi rüpü-künomeam?
+¿Noticia
+
+poner vas
+
+¿Rüfkimimi159
+¿ ? sabes
+
+209.
+
+ese
+
+camino para pasar? ¿Pedro a
+
+tüfechi rüpü?
+ese
+
+yendo camino poner vas?
+
+camino?
+
+¿Cuándo has pasado por última vez el río y el pantano?
+Chumten-mu rupaymi tüfechi ngilawe-mew, tefechi fota160-mu.
+Cuánto
+
+de pasaste
+
+ese
+
+vado
+
+por,
+
+ese
+
+pantano por.
+
+Kimenngelay=kimünngelay.
+Laweni cp. III 163. ngüyul cp. F. giuln guiar, endilgar.
+158 Fey pielelka así dícemelo.
+159 Rüf cp. III 91, 139.
+160 Fota o fotra pantano, no está en los diccionarios cp. III 216.
+156
+
+157
+
+31
+
+210.
+
+Anteayer no más, señor. —¿Puede mi caballo pasar el río sin que se moje
+la carga?
+Epue161-mu
+ula. —Ñi kawellu rumepelay162 ¿kadüpeay chi163 ni
+Dos (días) desde después. —¿Mi
+
+caballo pasar ir no parece ¿se mojará
+
+acaso
+
+mi
+
+chechem chi?
+carga?
+
+211.
+
+He pasado el río en un burro, que es mucho más bajo que tu caballo.
+Inche rumeken puru pra yawelün, rumeken. Müte püchüy rumeyelu furu, mi
+Yo
+
+pasar he ido burro encima anduve, pasar he ido. Muy chico es
+
+para pasar burro, tu
+
+kawellu füchañma, rumeaymi müten ka164.
+caballo
+
+212.
+
+grande,
+
+asar irás mucho.
+
+Entonces era más alto el río que hoy; porque no ha caído lluvia.
+Feychi miawen doy aldü ki, ante-mu doy püchi ketuy mawnoloam.
+
+Entonces anduve más mucho fue, día de más poco siempre va lloviendo no ser.
+
+213.
+
+Apenas me mojé los pies. —¡Vamos, pues! Aquí está el río.
+Alli165 kadülay tañi namun166. —Amuy may. Tüfaye mülen tüfachi ko, tami
+?
+
+no se mojó mi
+
+pie.
+
+—Vamos pues.
+
+Aquí
+
+está
+
+esta
+
+agua, tu
+
+noagel.
+pasar para.
+
+214.
+
+No pase usted por allá, patrón. La bajada es muy resbalosa. Aquí es mejor.
+Rumelaaymi may. Tüfachi nagpupel mütewe pelkayngi,
+Tüfa doy kümi.
+Pasar no irás pues.
+
+215.
+
+Esta
+
+bajada
+
+muy
+
+resbalosa es167. Acá más bueno es.
+
+Es mucho más fácil bajarse aquí. Yo iré adelante, sígame usted con su
+caballo.
+Tüfamew doy kümi nagel mu. Inche unean,
+inalepayaymi.
+Acá por más bueno es
+
+bajar de.
+
+Yo
+
+primero seré, siguiendo vendrás.
+
+F. epuhue.
+[Original: Ñi kawellu rumepelay (chey ñi kadüpeayni ñi chechem chi) 'Mi caballo pasar ir no
+parece ( . . . . . . . . . . . mi carga
+)' (Estudio XII, Corrección al Estudio III)].
+163 Kadupeaychi parece significar «quedando seco». Cp. 213.
+164 Se trata en la segunda frase de una expresión particular que tiene significado de
+comparación. [Original: Müte püchi peye furu emi kawellu tañ ma, rumeaymi müten ka 'Muy
+chico se ve (?) burro tu (?) caballo ? pasar irás mucho' (Lenz, Estudio XII, Corrección al
+Estudio III)].
+165 Alli quizás por kalli solo.
+166 [Original: kadü me te ñi ngamun ' ?
+mis pies' (Estudio XII, Corrección al Estudio III)].
+ngamun por namun será casual.
+167 [Original: 'Este bajar barro, mucho barro también es' (Estudio XII, Corrección al Estudio
+III)].
+161
+
+162
+
+32
+
+216.
+
+¿Hay muchas piedras grandes en el río? —No, el fondo es barroso.
+¿Mütewe püchake168 kurangi kay tüfeychi ngilawe? —Fotrangi gay169 tüfechi
+¿Mucho
+
+grande
+
+piedra es también este
+
+vado?
+
+—Pantano es también
+
+esta
+
+ko.
+agua.
+
+217.
+
+Un poquito más lejos principia el pantano (ñadi).
+Püchi ke aldü tripa fotrangi.
+Poco siempre mucho salir pantano es.
+
+218.
+
+Sería mejor que se apeara usted. Pudiera fácilmente hundirse el caballo.
+Doy kümefuy nagelmi ñi kawellu. Mütewe fotra konpelayafuy mi kawellu.
+Más bueno era si bajaras su caballo.
+
+Mucho pantano entrar no parecería tu
+
+caballo.
+
+Namuntu witrayakayaymi kawellu.
+A pie
+
+219.
+
+le levantarías
+
+caballo.
+
+Ya hemos pasado el pantano. Ahora puede volver a subir al caballo.
+Dew rupay tüfachi fotra-mu. Pra-kullu170-toaymi.
+Va
+
+pasó
+
+este
+
+pantano por. Subir caballo irás.
+
+***
+220.
+
+¿Cómo se llama el pueblo que vemos allá, a la orilla del monte?
+¿Chew pingi tüfachi mülewe traf lemu mülechi mülewe?
+¿Dónde
+
+221.
+
+dicho es esta
+
+No es pueblo. Son las chacras de dos colonos extranjeros.
+Kara no ta tefi. Müley epu kolon ta tüfey, fey tañi tükukan ta tüfe.
+Ciudad no esta allá.
+
+222.
+
+morada junto monte estando morada?
+
+Está dos colonos estos allá,
+
+ahí su sementera esta allá.
+
+¿Tiene nombre ese cerro? —No sé con seguridad. Creo que lo llaman
+Cerro Negro.
+¿Tiechi mawida uü ngielayam? —Kimlafin. Fi pikel-tukifin, kudü mawida
+¿Ese
+
+cerro nombre no tiene?
+
+—No lo sé.
+
+Así llamado lo tienen, negro cerro
+
+pikel-tukifin.
+llamado lo tienen.
+
+Pücha no está en los diccionarios. Cp. III 230, 155.
+En vez de gay [original: qai] había antes escrito gay [original: gai]lo que probablemente es
+más correcto; equivale a kay.
+170 La palabra kawellu pronunciada rápidamente no rara vez sufre cambios como kawullu
+kuwullu y aun kullu.
+168
+
+169
+
+33
+
+223.
+
+¿Cómo se llama aquel volcán nevado? —Es el volcán Llaima, señor.
+¿Tiechi degiñ171 chew pingi, tiechi pirenngechi dengiñ? —Fey ta tüfe llayma
+¿Aquel
+
+volcán
+
+donde llamado es, aquel nieve siendo
+
+volcán? —Así este allá Llaima
+
+dengiñ ta tüfe.
+volcán este allá.
+
+224.
+
+¿No hay una laguna cerca de ese volcán?
+¿Mülelay kiñe lafken fel-mew; ¿changel lafken müleam lafken?
+¿No está
+
+225.
+
+una laguna allá por?
+
+es
+
+laguna?
+
+¿Hay guanacos y pumas en estos cerros? ¿Qué otros animales hay allí?
+¿Müleam kay luan tüfachi degiñ-mu? Müleam kay ngen
+mapu172 kay
+¿Hay
+
+también guanacos
+
+este
+
+ka chem kullin, müleam kay
+otro qué animal,
+
+226.
+
+¿pierna laguna
+
+hay
+
+volcán en?
+
+Hay
+
+kakerume
+
+también ser (dueño) tierra
+
+y
+
+kullin.
+
+también otro cualquiera animal.
+
+Hay guanacos y venados; pero no vienen en estos meses, sino más tarde.
+Müley luan, müley puüyu173. ¿Tüfachi kuyen akukelayam kay?
+Ka küyen
+Hay
+
+ula
+
+guanacos, hay venado.
+
+¿Este
+
+mes
+
+no llegan
+
+también?
+
+Otro mes
+
+müleay.
+
+después habrá.
+
+227.
+
+Cuando principia a nevar en la cordillera, entonces también se bajan los
+pumas.
+Piren-mu nagpageam kay tüfechi ngen mapu.
+Nieve de bajar vienen también esos
+
+228.
+
+¿Tiene usted miedo a los pumas, o no atacan a la gente?
+¿Llekakeymn am kay ngen mapu kam nükey che ngen mapu?
+¿Tenéis miedo
+
+229.
+
+dueños tierra.
+
+también dueño tierra
+
+o
+
+agarra gente dueño tierra?
+
+¿Cómo se cazan los pumas aquí? ¿Con perros y lazos o con rifle?
+¿Chum ngechi nüngüki174
+kay ngen mapu? ¿Trewa-mew kam llasu-mew,
+¿Cómo siendo
+
+tomados son
+
+también dueño
+
+tierra.
+
+Perro con
+
+o
+
+lazo con,
+
+tralka-mew?
+trueno con?
+
+171 Havestadt deúin mons ignivomus. Febrés O. escribe dehuiñ. Según me dijo Juan Amasa
+Llaima no es nombre indígena, por lo menos no el actual. Lo llaman changel dengiñ; F. chag o
+chagùll ramito, chagnamun pierna chagùllcuù los dedos de la mano. Parece que la idea
+primitiva de chang es como dice Havestadt § 696 pars, junctura. [El nombre del Llaima
+(pehuenche llañma) changül deqiñ significa volcán patido, dividido, porque tiene dos cumbres
+(Estudio XII, Corrección al Estudio III)].
+172 El nombre corriente del puma en el dialecto de Collipulli no es pangi sino ngen mapu «el
+dueño, señor de la tierra».
+173 Febrés O. puúdu, puúyu un venado.
+174 Probablemente nüngeki con asimilación fonética de la e a la ü cp. más abajo 230.
+
+34
+
+230.
+
+¿Hay pescado en este río? —Sí, pero son muy chicos. Se pescan con redes.
+¿Müleam kay challwa tüfachi ko-mew? —Müley; welu püchi ki, nüngüki
+¿Hay
+
+también pescado esta
+
+agua en?
+
+—Hay;
+
+pero chicos son, tomados son
+
+re-mew.
+red con.
+
+231.
+
+¿Conoce usted otra manera de pescar?
+¿Kimimi kay
+kakerume challwa?
+¿Sabes
+
+232.
+
+también otro cualquiera pescar?
+
+¿En qué mes siembran aquí el maíz, y en qué mes el trigo?
+Chem küyen tükukimn wa; chem kuyen tükukeymn kachilla.
+¿Qué
+
+233.
+
+mes
+
+en
+
+año
+
+mucho tuviste papa,
+
+pájaro
+
+bueno
+
+pájaro grande
+
+también poroto, mucho tuviste
+
+otro
+
+año
+
+de?
+
+también comer de es
+
+pájaro
+
+estar
+
+o
+
+bueno no es?
+
+kay tüfachi mapu-mew?
+
+también esta
+
+tierra en?
+
+¿Hay mucha neblina aquí? —¿En qué mes hay más lluvia aquí?
+¿Müte tokürki kay tüfa-mew? —¿Chem kuyen-mu müngel müte we mawki?
+¿Mucho
+
+238.
+
+bajar vais tus nueva papas?
+
+¿Qué pájaros grandes hay por aquí?
+¿Chem üñüm küchake176 üñüm müleam
+¿Qué
+
+237.
+
+trigo?
+
+¿Puede comerse la carne de este pájaro, o es mala?
+¿Tüfachi üñüm175 küme am kay
+il-mu chi kam kümelay?
+¿Este
+
+236.
+
+sembráis
+
+¿Han tenido muchas papas y muchos porotos el año pasado?
+Ka tripanto mütenimi poni am kay düngel, mütenimi am kay tripantu-mu.
+¿Otro
+
+235.
+
+mes
+
+¿Cuándo se recogen las primeras papas nuevas?
+¿Chumten-mu nagmaymn mi we poñi?
+¿Cuánto
+
+234.
+
+sembráis maíz; qué
+
+?
+
+también acá por?
+
+—¿ Qué
+
+mes
+
+por siendo mucho nueva lluvia hay?
+
+¿Cuándo principian las nevazones fuertes? ¿Se seca este río en el verano?
+Chem küyen-mu müngel mütewe pirenki. Arküki am kay tüfachi ko walüng177
+¿Qué
+
+kay?
+
+mes
+
+por siendo mucho nieve hay. Se seca (baja) también esta agua otoño
+
+también?
+
+üñüm F. uñum y ghuñum.
+Kücha ha de ser lo mismo que pücha cp. III 216. La sustitución de k por p la he observado
+varias veces.
+177 Febrés O. hualug otoño cuando hay maíz.
+175
+
+176
+
+35
+
+239.
+
+¿Conoce usted un portillo en la cordillera? ¿Arrean vacas por este
+camino?
+¿Kimimi kay
+rumeam wetod-klen178? ¿Tüfachi rüpü am kay
+¿Sabes
+
+también para pasar ir agujero estar?
+
+yengekelay
+
+camino
+
+también
+
+kay waka tüfachi rüpü-mu?
+
+llevado ser no es
+
+240.
+
+¿Este
+
+también vaca
+
+este
+
+camino en?
+
+Tengo mucho calor. Parémonos un poquito. Quiero bajarme. Ayúdame.
+Re
+müte antüngi, müte arofün179. Püchi witrakelliñ. Inche nagan.
+De veras mucho
+
+sol es, mucho sudo.
+
+Poco nos levantemos. Yo
+
+bajaré.
+
+Nagmküloan.
+Bajar me ayudarás.
+
+241.
+
+Allá hay una casa. A ver si tienen algo que comer.
+Tie-mew müley kiñe ruka; rumeaiñ amtu-rupuaiñ180 ñienchi yagel.
+Allá por
+
+242.
+
+una casa; pasaremos a preguntar pasaremos, tener
+
+dueño casa? Poco hazme el favor mi bajar para mi sombrear para. —Bájate pues.
+
+Entre en mi casa, extranjero. Siéntese aquí al lado de la puerta.
+Konpange ruka-mu. Tüfa-mu anunawpaka ina ullgiñ.
+Entrar ven casa en.
+
+244.
+
+comida.
+
+Buenos días, amigo. ¿Me permites bajarme aquí para descansar?
+¿Nielay am ngen ruka? Püchi füreniafen ñi nagael ñi llawfuagel. —Nage may.
+¿No hay
+
+243.
+
+hay
+
+Acá por sentarte ven cerca puerta.
+
+¿Es tu mujer esta niña bonita? —No, es mi cuñada (hermana de la mujer).
+¿Tüfachi domu una küme domuche tami kure anchi? —Tañi kure no, tañi kürün
+¿Esta
+
+mujer ?
+
+buena mujer gente tu
+
+esposa es?
+
+—Mi esposa no, mi cuñada
+
+ta tefe.
+esta ahí.
+
+245.
+
+¿Cuántos niños tienes? —¿Produce bastante tu campo, o cómo ganas tu
+vida?
+¿Chumten pu peñien nieymi? —¿Chum-ngechi küme mapu nieymi am?
+¿Cuántos
+
+niños
+
+tienes?
+
+—¿Cómo siendo
+
+buena tierra tienes?
+
+¿Chum-ngechi mongengimi?
+¿Cómo siendo
+
+vivo eres?
+
+Wetodklen «abierto estar» es decir, un lugar, pasaje que está abierto; wetod portillo, Febrés.
+Febrés arovcùn sudar.
+180 Amturupuaiñ será casual por ramturupuaiñ.
+178
+
+179
+
+36
+
+246.
+
+Yo y mi hijo segundo vamos a trabajar en la cosecha de un caballero
+chileno.
+Inche ñi inan fotüm fe inchu küdawtumekeyu kiñe winka-mu; fey-mew
+Yo
+
+247.
+
+mi siguiente hijo ahí conmigo trabajar vamos
+
+mungelukem;
+
+kellumeafin181.
+
+para vivir;
+
+él nos socorre (?).
+
+hijo
+
+está
+
+mi casa en, ahí está cosechando (?).
+
+¿Cuál de estas mujeres es la esposa del cacique?
+Chuchi müngel ñi ñi kure tüfachi longko.
+¿Cómo siendo tiene su esposa este
+
+249.
+
+cabeza?
+
+¿Tiene usted adornos de plata? Yo los pagaré muy bien.
+¿Niey am ka plata dew? Inche mütegeme182 kulliayu.
+¿Hay
+
+250.
+
+chileno donde; ahí de
+
+Mi hijo mayor queda aquí para cosechar.
+Ni unen fotrüm müleyki ñi ruka-mu, fey nag-muki.
+Mi primer
+
+248.
+
+un
+
+también plata hecho? Yo
+
+muy bien (?)
+
+te lo pagaré.
+
+Soy muy pobre, señor. ¿Cuánto me pagará usted por este prendedor?
+Inche may mütewe kuñifall. Chumten elupeafen tüfachi tupu-mew (dew
+Yo
+
+pues
+
+mucho
+
+pobre.
+
+Cuánto darme parecerás
+
+este prendedor por (hecho
+
+kullin183-mew).
+animal por).
+
+251.
+
+Toma esta carta y llévala al subdelegado. No lo olvides y no la pierdas.
+Tüfachi papel yefinge; amoaymi soleaw-mu. Golmeafimi, ngoyulayaymi, utrü
+Este
+
+papel llévalo;
+
+nagmlaaymi.
+
+irás
+
+subdelegado a.
+
+?
+
+no lo olvidarás, de golpe
+
+no lo echarás.
+
+252.
+
+Arregle la carga; me parece que se está cayendo. Se perdió un saco vacío.
+Kümelfinge tüfichi chechem. Küle rupay tatüfechi chechem. Kiñe anega184
+Bien hazla
+
+esta
+
+carga.
+
+?
+
+pasa
+
+esta
+
+carga.
+
+Un
+
+fanega
+
+llanküy, weyin saku.
+se perdió, vacío
+
+saco.
+
+F. quellun ayudar favoreciendo, socorrer.
+Mütegeme=müte küme muy bien (?) cp. III 216.
+183 Dew kullin, kullin como en latín pecunia ha pasado del significado de «ganado, animales» a
+la idea general de hacienda, valor, propiedad, fortuna; dew kullin es, pues, una cosa trabajada
+de valor, arte.
+184 Anega corresponde a la forma antigua (hoy poco usada en Chile) hanega. Así se conservan
+en araucano varias palabras introducidas por los conquistadores que hoy han caído en
+desuso. Cp. I 40. Limite= limeta por botella. También el araucano conserva en palabras
+casatellanas a menudo vestigios de la pronunciación del siglo XVI, de los cuales trataremos
+más tarde en la fonética araucana.
+181
+
+182
+
+37
+
+253.
+
+Quite la silla, y dele de beber.
+Intuchillafinge ñi kawellu; eloafimi ko, pütokoay.
+Desensilla
+
+mi caballo; le darás agua, beberá agua.
+
+***
+Añado aquí algunas frases que he apuntado en noviembre de 1891 cuando tuve
+la primera entrevista con Juan Amasa.
+La traducción es libre.
+254.
+
+¿Chem
+
+255.
+
+Tefamu tuymi; ka
+
+256.
+
+Kimlayu
+
+257.
+
+Inche tüfamu koñingen. Inche kuyfi kimfuin.
+
+258.
+
+Inche kimütulafin.
+
+se llama esto? ¿Dónde vives?
+
+Vienes
+
+acá;
+
+Yo
+
+aquí
+
+tuymi?
+
+¿De dónde vienes?
+
+mapu-mu tuymi chuchi mapu.
+
+de otra tierra
+
+vienes qué
+
+inche. Inche pelayu.
+
+No te conozco yo.
+
+Yo
+
+259.
+
+pingi tüfa? ¿Chew mülimi mapu? ¿Chew
+
+¿Cómo
+
+Yo
+
+tierra.
+
+Küme pimi eymi.
+
+no te he visto. Tienes razón.
+
+he nacido. Yo
+
+antes lo conocía.
+
+Kuyfi
+
+püchikeche ñeyu185 kimufuyu.
+
+no lo (re)conozco. Antes (cuando) chiquillos
+
+fuimos nos conocíamos.
+
+Kuyfi pumel mapudunguan.
+Dentro de breve hablaré la lengua del país.
+
+260.
+
+Tüfay mapu kom kümelay.
+La gente aquí toda está bien.
+
+261.
+
+Inche fenten düngu nütamkayayu. lnche peageyu.
+Yo
+
+262.
+
+tantas cosas
+
+ayer.
+
+Me
+
+sentaré. Estoy sentado.
+
+¿Qué
+
+(cosa) hay?
+
+¿Chumten tripantu nieymi?
+¿Cuántos
+
+265.
+
+te veré.
+
+¡Anükellenge! ¿Chem düngu müley?
+¡Siéntate!
+
+264.
+
+Yo
+
+Inche peeyu wiya. Anüan inche. Anün inche.
+Te he visto
+
+263.
+
+te contaré.
+
+años
+
+tienes?
+
+lnche ñi weni-mu doy nien pülata.
+
+Tengo más plata que mi amigo.
+
+Probablemente debe leerse che ngeyu.
+Imperial: Iney dewmay tüfa. ¿Eymi dewmaymi, mi lamuèn emu?
+185
+
+38
+
+266.
+
+Ye-kloafel tüfachi mamel.
+Ayúdame a llevar este
+
+palo.
+
+***
+Las frases que siguen me fueron dictadas por una india en Collipulli en
+noviembre de 1891. En las notas doy algunas traducciones de las mismas frases dadas
+por un chileno algo instruído de descendencia medio indígena de Nueva Imperial,
+cuyo nombre no recuerdo. Lo vi en Santiago en 1892.
+267.
+
+¿Ini
+
+dewmay, kameymi, kameymi tami lamgen?
+
+¿Quién hizo esto,
+
+268.
+
+tu
+
+hermana?
+
+se mojó el vientre del entrar (al) agua.
+
+Püte187 küdawtun tay mongeam.
+Mucho
+
+270.
+
+o
+
+Pasando el río me mojé hasta el vientre.
+Amun-mu küchuntrayuy186 konün ko-mew.
+Del ir
+
+269.
+
+tú,
+
+trabajo
+
+para vivir (ganar la vida).
+
+¿Kimdunguymi?
+
+Kimlan. Püchi rumüten kimdungun188.
+
+¿Hablas el castellano? No lo hablo. Solo un poco lo
+
+271.
+
+Ñi tay malle doy kimdunguy.
+
+272.
+
+Él sabe los nombres de todas estas matas.
+Tüfa doykimi tüfachi lemu.
+
+Mi
+
+tío
+
+hablo.
+
+más sabe hablar.
+
+Este más conoce este
+
+bosque.
+
+273.
+
+Estas casas son viejas y malas, cuando venga el viento se caerán.
+Tüfachi foyake ruka, küre-ple laray tüfachi ruka189.
+
+274.
+
+¿A dónde has encontrado a Pedro? A la orilla del río lo encontré.
+¿Chew trawfimi Peyro? Inaltru ko trawfin190.
+
+275.
+
+Hemos estado en el monte toda la noche, hacía fuerte lluvia.
+Kiñe pun mleyu lemu-mu; müna mawi, mna mawinmalayu191.
+
+tra cp. F. putha. Imperial: Petu nupalulewfu-mew masiao fochon; ruku-mew akuy ñi fochon.
+Cp. F. rucu pecho.
+187 Püte es una forma particular por müte, significando «muy, mucho». La he apuntado muchas
+veces en las frases de esta mujer, que probablemente no era de Collipulli mismo. Amasa decía
+siempre müte o mütte.
+188 Imperial: Kimimi winkadungun. Petu pichin alkün. (Un poco entiendo hasta ahora).
+189 Imprerial: Kuyfi ruka tüfa, kümelay; mülele keref tranay.
+190 Imperial: ¿Chew trafiefimn Pedro? Eyew ina lewfu trafefin.
+186
+
+39
+
+276.
+
+Estos hombres han peleado con los ladrones; y mataron a muchos de
+ellos.
+Tfayngen keway winküfeyungen; fote langmüngey.
+
+277.
+
+Eran todos amigos, pero cuando estaban borrachos se enojaron.
+Kom weniwen, ngollilu engn kewayngn.
+
+278.
+
+Dijiste que se murió mi tía, pero no le creí.
+Lay nga, pien, lay nga mi paldu, pien, welu inche mungeltulan.
+Murió,
+
+me dices,
+
+murió
+
+tu
+
+tía,
+
+me dices, pero yo
+
+279.
+
+Estos dos no han bebido nada; tienen mucha sed.
+Tfay engu ptogolay192; pte fuyfuyngu.
+
+280.
+
+El niño tenía miedo que su padre lo pegara.
+Llekay tfe challa weni kewayfetew ta iñ chao.
+
+191
+192
+
+no lo creí.
+
+Imperial: Kompun müleiñ pum mawida: fentren nagi maw.
+Ptogo=pütuko. Fuyfuyngu cp. F. huyghun tener sed.
+
+40
+
+

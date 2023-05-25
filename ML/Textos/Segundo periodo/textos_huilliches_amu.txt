@@ -1,0 +1,2377 @@
+VIAJE AL PAÍS DE LOS MANZANEROS
+CONTADO EN DIALECTO HUILLICHE POR EL INDIO DOMINGO QUINTUPRAI, DE OSORNO
+INTRODUCCIÓN
+La relación que me hizo el indio Domingo Quintuprai de un viaje emprendido
+por él en el año de 1871, más o menos, para vender aguardiente a los pehuenches
+establecidos en la falda oriental de la cordillera, entre los lagos Lácar y Nahuelhuapi,
+me parece interesante por diferentes razones.
+1) Es el primer documento de alguna extensión que se publica en el dialecto
+huilliche.
+2) Es además el primer documento que se publica en araucano en conformidad
+con los progresos de la lingüística de nuestros días, es decir, está apuntado en
+transcripción fonética bastante minuciosa y sin alteraciones ningunas en el estilo y la
+sintaxis, tal como salió de la boca de mi profesor indígena. Solo el orden de los
+diferentes episodios no es siempre el primitivo, porque me contó algunos de ellos solo
+más tarde, cuando en las diversas repeticiones que le hice leyendo mis apuntes, le
+llamé la atención sobre alguna omisión. Por esta razón el trozo puede servir para el
+análisis sintáctico y estilístico de la lengua, mientras que los trozos seguidos de las
+Gramáticas de Febrés y Havestadt o son traducciones del castellano o por lo menos
+influenciados por ideas completamente ajenas al idioma indígena.
+3) El trozo contiene muestras de todos los estilos, a saber, simple narración
+histórica, diálogos ordinarios y ceremoniosos (estilo de koyaqtun), descripciones y
+discursos en estilo elevado, invocaciones religiosas y hasta delirios de indios ebrios.
+4) La narración abunda en pasajes interesantes y característicos para el
+conocimiento de las costumbres de la vida privada, política y religiosa de los indios;
+con ellos se comprueban indicaciones semejantes de autores de los diferentes siglos,
+que cito en las notas, y se rectifican otras.
+5) Finalmente, por una feliz casualidad, el mismo camino que hizo mi indio a
+través de la cordillera desde el lago de Ranco por el lago de Lácar al país de los
+Manzaneros, ha sido descrito detalladamente por don Guillermo E. Cox (Anales de la
+Universidad, 1863), el cual vivió con los mismos caciques mencionados por mi indio
+unos ocho años antes, siendo la misma región pocos años después visitada por el
+inglés G. Ch. Musters. La conformidad casi completa de tres autores tan distintos no
+deja de tener cierto valor filológico para juzgar de la corrección de las indicaciones e
+ideas del autor indígena.
+Domingo Quintuprai me contó el viaje muy despacio en su lengua; al apuntar,
+repetía yo las frases, y si no acertaba bien en la pronunciación, él me corregía. Al fin de
+cada párrafo repetía yo la lectura y preguntaba por la traducción de las expresiones
+cuyo sentido no entendía. Las traducciones que en tal caso me dio mi profesor fueron
+casi siempre bastante libres. Palabras que en la traducción que sigue salen en cursiva,
+se deben a las indicaciones directas de Domingo y las doy así siempre que sean
+características, que no pueda explicar el significado bien exactamente con ayuda de
+los diccionarios existentes, o que no se encuentren las palabras en los diccionarios.
+Por lo demás, doy en las notas un gran número de las palabras menos frecuentes en la
+1
+
+forma bajo la cual se hallan en los diccionarios, sin entrar por ahora en el análisis
+detallado de la morfología y sintaxis araucanas. La traducción que doy es tan literal
+como lo creía compatible con la inteligibilidad del texto castellano, el cual por eso
+refleja bastante bien el estilo del araucano. El orden de las palabras está
+minuciosamente conservado. De tal manera es inevitable que sufran a menudo no solo
+el estilo sino también la corrección gramatical del castellano; pero no he excusado
+tales faltas para dar una idea aproximativa de la manera de pensar en araucano.
+En cuanto a la ortografía, ya he dicho que es fonética y no he uniformado nada.
+Quienquiera que haya estudiado un dialecto vivo sabe que toda lengua no fijada por
+literatura escrita no presenta sonidos y formas completamente fijas, y en cada dialecto
+hay ciertos sonidos y ciertas formas especialmente inclinadas a vacilaciones. Tales
+palabras a veces varían según su colocación en medio de sonidos vecinos de ciertas
+particularidades, o según su importancia relativa en el conjunto de la frase; pero otras
+veces las mismas variaciones parecen por completo arbitrarias y caprichosas. Series
+de sonidos que vacilan en araucano son según Febrés o-u, e-i, d-j1-r, n-ñ, l-ll, t-th-ch, ùgh. En el dialecto huilliche la serie d-j-r, así como la v y, más o menos completamente, l
+y ll (yo escribo la ll castellana, en araucano ʎ) han perdido el sonido de la voz; escribo
+el resultado z-sh-s’-f-l’ y ʎ. El sonido de la l’ y ʎ’ sin voz se asemeja mucho a la z-sh-s’,
+que entre sí a menudo eran difíciles de distinguir. Conservo la ortografía de mis
+primeros apuntes, aunque me habría sido fácil uniformar la ortografía, escribiendo
+siempre z donde Febrés escribe d, etc. Solo pocas veces aparentemente he oído mal,
+escribiendo z o sh por l o ʎ sin voz y viceversa; si la misma palabra se encontraba
+varias veces con l’ o ʎ’ y solo una vez con z o sh o s’, he enmendado el error manifiesto.
+Quizás habría sido conveniente suprimir el signo ɒ, y sustituirlo siempre por ü; he
+escrito ɒ cuando el sonido se inclinaba más a la u de inglés but, nut que a la ü
+característica; el sonido correspondiente a ü o ɒ sin acento lo escribo ə; vacila pues la
+ortografía y pronunciación según el acento entre kəmé y kü´me.
+En el empleo de los acentos no he sido riguroso; el acento en general en
+araucano no es fuerte, y fluctúa sobre diferentes sílabas de la palabra según el ritmo
+del conjunto; generalmente he pintado el acento solo cuando me parecía tener cierta
+fuerza o una posición no común. Del mismo modo en la l y ʎ indico la falta de voz solo
+cuando es completa.
+EQUIVALENCIAS FONÉTICAS DE LA TRANSCRIPCIÓN
+ü
+
+ɒ
+ə
+w
+v
+z
+1
+
+una especie de ü muy sorda; sonido intermedio entre u e i, los labios
+más o menos como i; el dorso medio de la lengua se encorva hacia el
+paladar como para la g de gana, pero sin tocar al paladar; acercándose
+mucho sale la q, semejante a la g chilena en pagó.
+semejante a la u del inglés but.
+como ü, pero muy breve e indistinto.
+como hu en huaso.
+como en español.
+la s chilena de seso; la z castellana de algunas partes del norte de
+
+j para Febrés tiene el sonido de la j francesa y catalana, no el de la j castellana.
+
+2
+
+sh
+s’
+t’
+n̩
+ʎ
+k
+l’ ʎ’
+tz
+r
+
+España.
+semejante a la ch francesa, o más bien la s del inglés sure o assume.
+semejante a la ch francesa; no raro en la pronunciación chilena de
+verso.
+la tr (traigo, otro) vulgar chilena, igual a la londinesa de try; la th de
+Febrés. Este sonido no tiene nada ver con la th inglesa de thick.
+la n castellana antes de c, g (blan̩ co, gan̩ ga); final en inglés sing, thing.
+la ll castellana bien pronunciada, no y.
+como c antes de a, o, u.
+la l y ʎ sin voz.
+es una forma secundaria en vez de ch.
+es la rr vulgar chilena, rara en huilliche y generalmente reemplazada
+por el sonido correspondiente sin voz s’.
+
+Vocales con circunflejo son largas; a menudo contracciones de dos vocales.
+Los demás signos suenan como en castellano.
+En otra ocasión daré una fonética detallada del araucano.
+
+VIAJE AL PAÍS DE LOS MANZANEROS
+CONTADO EN DIALECTO HUILLICHE POR EL INDIO DOMINGO QUINTUPRAI, DE OSORNO
+1. Kiñechi may2 miawmen waydüf
+mapu3; yen may epu karga4 pü lku
+awardiente.
+Amoyen kü la wentru; epu karga mayen5, epu kawellu ka-yen: epu nel6
+kawellu ka-yen.
+Kiñe antü yey chi yewün chi epu
+kawellu, kantü-mo chillangey chi nel
+kawellu; tükulelngey yewün.
+
+1. Una vez pues fui a andar a la tierra de
+ultra cordillera; llevé dos cargas de
+chicha aguardiente.
+Caminamos tres hombres; dos cargas
+llevé, y dos caballos llevé; y dos caballos
+vacíos (sueltos).
+Un día llevaron la carga los dos caballos,
+el otro día fueron ensillados los caballos
+vacíos; fue llevada la carga.
+
+2. Femngechi may amoyen; triwtupüyen 2. Así pues caminamos, a la sombra
+chew mülen ko; feymu may kachu7- quedamos donde hay agua, allí pues
+tupüyyen kawellu rangi antü.
+pasto tomaron nuestros caballos medio
+May se emplea como una especie de conjunción copulativa; lo suprimiré a menudo en la
+traducción.
+3 F. huaydùv a la otra banda de loma o cerro, pero no de aguas.
+4 karga y awardiente naturalmente son palabras castellanas; pülku es toda bebida fuerte.
+5 = may yen.
+6 Nel, no encuentro la palabra en los diccionarios; pero Hernández da nelcùmn soltar.
+7 La palabra kachu es uno de los vocablos bastante frecuentes que se introdujeron del
+quechua: k’achu–yerba del campo, grama. MIDDENDORF, pág. 288.
+2
+
+3
+
+día.
+Inchen ka wülpud-tupüyen; küme Nosotros también nos hicimos un ulpo,
+ipuyen; yen kawellu küme kachutupüy.
+bien comimos; nuestros caballos bien
+pastearon.
+Feymo may newenngi yen kawellu.
+De ahí fuerza tuvieron nuestros caballos.
+3. Chilla kawelluyin, amoputuyin may; 3. Ensillamos los caballos y nos pusimos
+fey trafuyan mayen nag kawellüin; en marcha; esa tarde bajamos de los
+feymu may wü nmayen8.
+caballos y allí amanecimos (es decir:
+pasamos la noche hasta la mañana).
+Wüle-mo chilla kawelluin, amoputuyen. En la mañana ensillamos los caballos,
+nos pusimos en marcha.
+4. Powyen kiñe lewfu mo; masiao9
+witrunngey chi lewfu.
+Entuchillain kawellu; furitu noyen chi
+lewfu-mo; witrayen10 yewü n; nontumien
+kiñe ketu.
+Kangelu ka yepayen.
+Chi nel kawellu ngiyantükunge; rangin
+lewfu wü ñ ioy11; yegew chi witrun.
+Yen yewü n kü me nolien.
+Masiao kuniwwü nngey12 chi lewfu;
+masiao wuytruy chi lewfu.
+Iñam niey fucha ke pangkuntu13; ligi chi
+lewfu, lichi waka müngey.
+Wal14 nopayen chi lewfu-mo, iepayen nel
+kawellu; witratu nolien kawelluy chi
+lewfu mo.
+Pillanlewfu15 pingey tüfi chi lewfu.
+Pewenche kawellu masiao kü me lewfumo.
+
+4. Llegamos a un río; muy correntoso fue
+el río.
+Desensillamos los caballos; en pelo
+pasamos por el río; tiramos la carga; los
+pasamos uno por uno.
+El otro venimos a llevar.
+El caballo suelto arreamos al río; en
+medio del río dio vuelta; lo llevó la
+corriente.
+Nuestra carga bien la pasamos.
+Mucho da miedo (es peligroso) el río;
+mucha corriente tiene el río.
+No deja de tener muchas piedras
+grandes; blanco está el río, leche de vaca
+es.
+Volvimos para atrás por el río, vinimos a
+llevar el caballo suelto, tirando pasamos
+el caballo por el río.
+Pillanleufu se llama ese río.
+El caballo pehuenche es muy bueno para
+el agua.
+
+F. uùnman amanecer, es decir pasar la noche hasta la mañana.
+Masiao es la palabra castellana «demasiado» mutilada en la forma y debilitada en el
+significado.
+10 F. huythan.
+11 F. uñon.
+12 F. cuñiun.
+13 F. panco.
+14 F. huall.
+15 Pillanlewfu–río del trueno. Compárese la descripción de COX (pág. 163). “Pillanleufu. río
+turbio, correntoso con grandes piedras, que viene de un volcán que hay cerca del lago
+Riñihue... El vado alcanza hasta el pecho del caballo.
+8
+9
+
+4
+
+5. Ka kiñe lewfu müley; feymu may ka
+noyen.
+Ka lükan ngey chi lewfu; ka femngechi
+niey chi kurantu; ka femngey ni
+witrunngen.
+Kumrüngi16 pingey chi lewfu.
+Feymu gü shfi17 kiñe shiwen18.
+Epe tripafuy kapüle lewfu; feymu nagi
+chi mula; wü trunagi chi mula; wall
+wü tray chi mula; fey chi wentru chi
+gü shfilu pünü ntükui19 pu istipu.
+Lasungey
+chi
+mula;
+witranoy20
+püchowü y21 chi mula.
+Kiñepüle rupalay chi chilla; feymu
+wü trangi noy chi mula.
+Nülkünolay ni istipo; feymu may mongi
+chi wentru.
+Fey epe ngemafuy: “Kuñifalngen-mo
+miawen fachi rü pü -mo; epe may lafun”.
+
+5. Otro río está allí; por ese también
+pasamos.
+También es bravo el río; también así está
+su corriente.
+Cumrüni se llama el río.
+Ahí se hundió un compañero.
+Casi había salido al otro lado del río;
+entonces cayó la mula; fue arrastrada la
+mula; de nuevo se levantó la mula; ese
+hombre (que estaba) hundiéndose
+quedó colgado en el estribo.
+Fue laceada la mula; se corcoveó la mula.
+A un lado no pasó la silla; así salió tirada
+la mula.
+No se largó su estribo; de ahí vivió el
+hombre.
+Así casi lloraba: “Por mi pobreza ando
+por este camino; casi había muerto”.
+
+6. Feymu may kiñ e lelfü n-mo tripayen;
+powyen.
+Feymo entu-chillawyen; ñipumuy chi
+wentru.
+Kiñe antü rulpayen feymo.
+
+6. De ahí a una pampa salimos; llegamos.
+
+7. Wüle-mo chilla kawellutuyen;
+amoyen, powyen ka lewfu-mo.
+Ka entu–chillawtuyen.
+Fortuna may küme wenu ngefuy; feymo
+nontuwutuyen.
+Küme
+noyen
+tüfichi
+lewfu-mo;
+Wentelewfü22 pingi tüfichi lewfu.
+
+7. En la mañana ensillamos los caballos;
+anduvimos, llegamos a otro río.
+Otra vez nos desensillamos.
+Por suerte hacía buen tiempo; así nos
+pasamos.
+Bien pasamos ese río. Huenteleufu se
+llama ese río.
+
+8.
+
+Amoputuyen
+
+may;
+
+pürayin
+
+Allí nos desensillamos; se secó el
+hombre.
+Un día pasamos allí.
+
+chi 8. Nos pusimos en marcha; subimos la
+
+Cox (pág. 163). Cunringue–de agua clara, y con menos corriente que el primero (a saber, el
+Pillanleufu).
+17 F. ghùrvin.
+18 F. dihueñ.
+19 F. pùnontùcun.
+20 Parece que huythan «tirar para sí» y uúthan «levantarse» se confunden; ¿o son en el fondo
+una misma palabra?
+21 No estoy seguro en la explicación. Domingo tradujo witranoy püchowüy solo por «se
+corcoveó», véase § 17. Nota 53 [original: 54].
+22 Cox (pág. 168) Huentreleufu–bastante considerable.
+16
+
+5
+
+kordillera.
+Feymu powin chi Waño-mo; arengi may
+tüfichi ko23.
+Feymo münietupuyen24; münietulu
+inchen amoputuyen.
+
+cordillera.
+Allí llegamos al baño; caliente está esa
+agua.
+Allí nos bañamos; habiéndonos bañado
+nos pusimos en marcha.
+
+9.
+Pepofiyen
+chi
+Utrenla25:
+tükulelpüfiyen mamel26.
+Fil wentru rumi feymo, tükupükay
+mamel, küme rüpü ñi nagam.
+“¡Legkeduamen27, chao! ¡Küme rüpu may
+inan, chao! ¡Chen chi may ni trokiel,
+tüfamo mapungeymi, chao! ¡Küntolay28
+may ni kawellu, chao! ¡Lil-mo
+ütrüftukula ni kawellu! ¡Küme rüpu may
+inan!”.
+
+9. Llegamos a ver el Utrenla; pasamos a
+depositar leña.
+Todos los hombres pasan allí, y dejan
+leña, para obtener buen camino.
+¡Acuérdate bien de mí, padre! ¡Buen
+camino seguiré, padre! ¡Quienquiera que
+lo mande, acá eres dueño de la tierra tú,
+padre! ¡Que no manquee mi caballo,
+padre! ¡de las piedras (rocas) que no se
+desbarranque mi caballo! ¡Buen camino
+pues seguiré!”.
+
+10. Eyfachi epu-entru amoy konpukem, 10. Allá dos hombres anduvieron al
+pukemtualu
+waydüfmapu;
+feymo entrar el invierno, a invernar al otro lado
+ilkünmayngu.
+de la cordillera; allí les llovió la
+nevazón134.
+Kiñe tüfachi rangin kordillera-mo, feymo Uno en esa mitad de la cordillera, allí
+lay.
+murió.
+Chi kumpan amopüy; epe tripafuy chi El compañero siguió caminando; casi
+küme mapu-mo; epe rumefuy chi pu había salido a la tierra buena; casi había
+kordillera.
+pasado la cordillera.
+Ka pichi amole, kendafe lapay lafuy.
+Otro poco hubiera caminado, quién sabe
+no hubiera muerto.
+Feymo ka lay tichi wentru.
+Allí también murió ese hombre.
+Ka tükulel-ngüpüki mamel.
+También se sigue a ponerle palos.
+Cox (pág. 168): “A poca distancia en la cordillera que faldeábamos, se hallaba una vertiente
+de agua caliente, la temperatura del líquido era de 24 cent., siendo la del aire 13˚”.
+24 F. mùñetun.
+25 Utren la–muerte de frío.
+26 Es más que probable que esta costumbre de depositar palos al llegar a la cumbre de la
+cordillera esté en relación con la costumbre de los indios peruanos y bolivianos, continuada
+por los habitantes hasta hoy día, de depositar piedras o de escupir coca o maíz mascado en
+ciertos puntos designados en lo alto de la cordillera. Compárese: MEDINA Aboríjenes pág. 324
+sig. las citas de GARCILASO, DESJARDINS y otros, y sobre todo la de BOLLAERT: "los indios, ántes de
+entrar en el paso, depositan sobre ellas (las piedras con cavidades) algunas pocas cuentas de
+vidrio, un poco de comida, o alguna otra oferta propiciatoria al jenio que preside en el lugar o
+dispone de las tempestades”.
+27 o hazme el favor. Esta es la especie de oración que hacen a las ánimas de los dos viajeros
+desafortunados. Está en tono ceremonioso (koyagtun).
+28 F. cùnthon.
+23
+
+6
+
+11. Ka tripan-mo amoy fachi ka ke puentru.
+Feymo pepowfi chi la; anüley chi la, ñi
+makun
+nün
+pürami
+pu
+furi;
+29
+wüshkolefuy; koyutuy furin tükuniefi
+chi monton mamel; ketral trokipayfi may
+chi mamel; küymilu fey fil femfemngi.
+Ngellemfi30 chi mamel, üyümalu31 ni
+ketral trokiwüpayi may.
+Pengi tüfi may chi la, feymu
+tükulelngepüy chi mamel; fil wentru
+rungi, winkange pe ka tükupüy mamel;
+ini no fem ngen rumepukelay32.
+
+11. En el otro año fueron allá otros
+hombres.
+Así llegaron a ver al muerto; estuvo
+sentado el muerto, su poncho levantó
+sobre la espalda; estaba doblado; calentó
+la espalda (donde) tenía hecho el
+montón de madera; ardiendo, pensaría,
+estaba la madera; estando alocado así
+todo fue hecho.
+Amontó la madera, encendido su fuego
+pensaría pues.
+Visto fue allí pues el muerto, por eso se
+siguió a poner la madera; todo pasajero
+indio y también los españoles siguen a
+poner madera; quienquiera que sea no
+pasa sin hacerlo así.
+
+12. Fey chi-antü wechulien33 chi
+kordillera.
+Feymu wünmayen.
+Mülerki kiñe Pewinkantue; pefiyen may.
+
+12. Ese día llegamos a la punta de la
+cordillera.
+Allí amanecimos (alojamos en la noche).
+Existe un oráculo (lugar para ver la
+suerte); lo vimos (hallamos) pues.
+Rangin-mo masiao bonito püypüy püley. En medio muy bonito cerrito está.
+Rüpüy tichi pu wentru ni miawpayem Pasan los hombres en su camino para
+
+Traducción de Quintuprai; tal vez de ülkun enojo y maun llover–üllkunmawingu ¿le cayó la
+lluvia del terror?
+29 F. covn quemar, cavuñn calentar.
+30 F. gùlumn amontonar.
+31 H. 534. uimn incendere.
+32 Cox pág. 171: “Apénas salimos de la meseta, un cúmulo de ramas verdes nos llamó la
+atención. Vimos a la jente que quebraba ramas i las echaba encima de esta especie de túmulo
+de hojas. Se nos dijo que allí descansaba un Pehuenche muerto helado en la cordillera, en
+compañía de otro que un poco mas abajo tiene su sepultura. Esos dos Pehuenches habian
+venido de la otra banda a buscar mujeres que les ayudasen a pasar con ménos trabajo el
+desierto de la vida i el desierto de la pampa. Viaje infructuoso; al volver fueron sorprendidos
+por la nieve i dejaron sus huesos en la cordillera. Lo que es la suerte: apénas se sabe en dónde
+están las tumbas de uno que otro de esos grandes hombres de la historia, i aquí hai las de dos
+oscuros Pehuenches en las cuales se ponen continuamente flores i verduras. Miéntras dure el
+comercio de aguardientes, i miéntras pasen el boquete honrados traficantes yendo a llevar
+alcohol a los indios, eterna verdura coronará vuestras tumbas, i salvará del olvido el lugar en
+donde yacen los restos de dos desconocidos salvajes, i si un dia vuestra alma viene a
+revolotear encima de su antiguo forro, de los barriles de los comerciantes, la alcanzarán
+emanaciones perfumadas del licor que, como buenos indios, debisteis haber amado durante
+vuestra vida; la tierra os sea liviana …”. El señor O. de Fischer, pasando la cordillera en el año
+pasado encontró todavía la misma costumbre aquí y en el Nühualtun.
+33 F. huechun arriba, la punta, llegar al fin.
+134
+
+7
+
+kimalun ni lüngenchi ni mongenchi.
+Puypuy kantuyen; wal iawfiyen inchen
+kiñe namun-mo.
+Tref küyawuyen34, kiñe namun-mo.
+Melin rupayen mongechengelu; feychi
+mongechengenolu
+kiñen
+rupay,
+ütrüfnagi35.
+Nüwaltun pingey pewinkantue may
+tüfi36.
+
+saber su morir, su vivir.
+Dimos vueltas; alrededor de él fuimos
+(saltamos) nosotros en un pie.
+Brincamos en un pie.
+Cuatro veces pasamos los que vivirán
+mucho; ese que no tendrá larga vida una
+vez pasa (y) cae al suelo.
+Nühualtun se llama el oráculo ese.
+
+13. Wüle-mo chilla kawellu, rumien
+tüfichi pu kordillera-mo; powyen;
+Nontue pingey may tifichi lafken; epe
+katrünngefuy tüfichi lafken; niey chi
+pichün rüpay, chew chi nopayen37;
+feymu may noyen füta ke lelfün.
+
+13. En la mañana ensillamos los caballos,
+pasamos por esa cordillera; llegamos;
+Nontué se llama pues esa laguna; casi se
+cortaba (se divide en dos) esa laguna;
+tiene el pequeño pasaje, en donde
+pasamos; allí pues pasamos a una pampa
+grande.
+
+14. Fachi nopa masiao müli mansano; 14. En esa salida mucho hay manzanos;
+kensafe tunten faril pülku dewafuy.
+quién sabe cuántos barriles de chicha
+harían.
+Masiao müley chi weltantu.
+Mucho está el manzanal.
+Masiao füni tüfichi weltantu, mishki38 Mucho
+cargan
+esos
+manzanales,
+kay masiao müley, ilel mishki.
+manzana dulce también mucha está,
+para comer dulce.
+Dewma müley che, nopa müley che, Ya está gente, a este lado (acá) está
+nomeka müley che39.
+gente, al otro lado (allá) está gente.
+40
+Alü müley kelyen , dewma müley Mucho hay frutilla, ya esta toda clase de
+künipaye; masiao küme mapu.
+sementera; muy buena (es la) tierra.
+F. thevn moverse.
+F. ùthuvn caer de golpe, nagh abajo.
+36 COX (pág. 170): “La meseta de Inihualhue es circular, una yerba menuda tapiza el suelo
+surcado por un riachuelo que corre con suave murmullo; cerca, a la derecha, se veia un cerro
+grande con nieve en la cima ... Luego en un círculo que hai trazado a la derecha, como de tres
+metros de radio: cada una de las personas de la comitiva con mucha seriedad, dió tres vueltas
+en un pié, esta ceremonia asegura el éxito del viaje a todo viajero que atraviesa el boquete,
+tanto para Valdivia como para las pampas. ¿De dónde viene esta costumbre perpetuada por la
+tradicion? nadie lo sabe; pero todos la cumplen con escrupulosa exactitud. El círculo tiene
+como dos pies de profundidad, y parece ahondado solo con la repeticion de la ceremonia.
+Nosotros conformándonos con la costumbre dimos tambien las tres vueltas en un pié”.
+37 La laguna de Lácar consiste efectivamente de dos partes unidas por una parte más estrecha
+“el antiguo balseo Nontúe” (Cox 176). Nontue significa “tierra del pasaje” también se llama
+Nontuwe “lugar del pasaje”.
+38 Febrés escribe misqui, mijqui o mizqui la miel o cosa dulce. La palabra viene del quechua
+misk’i dulce. MIDDENDORF pág. 591.
+39 Se refiere a la numerosa población de esos parajes.
+34
+35
+
+8
+
+Masiao kullin motri.
+Mucho ganado engorda.
+Amoyen; powyen. Wechuwewün pingey Caminamos; llegamos. Huechuhuehuün
+chi mapu41.
+se llama la tierra.
+15. Müleyfuy kiñe fücha, Turewpan42
+pingefuy; feymu masiao mülefuy
+weltantu.
+Feymo powlu inchen: "üshketu pamün,
+malle”, pingiyen43.
+“Afumün ilo”.
+Malutulngien44 ilon kawellu; wingkül
+kawellu45; küla katrün munay chi trokomo46.
+
+15. Estaba un grande, Tureupan se
+llamaba; allí mucho había manzanal.
+
+16. Domingo: “Marimari47, chao malle.
+¿Kümeley mi piwke, mongimi tüfa,
+malle?”.
+Turewpan:
+"Kiñe
+küme
+duamo
+mongenka.
+Kiñe ke antü nag küllenwan48, fil
+tripantu may ngümalan”.
+Domingo: “¿Komütufimi49 pu fochüm
+may?”.
+Turewpan: “Komütufin küme ke longko,
+küme ke kona; feymo may kiñe no duam
+kechi mongen.
+Küme komutufin ale, komutufin antü.
+
+16. Domingo: “Buenos días, padre tío.
+¿Bueno está tu corazón, vives135 acá,
+tío?”.
+Tureupan: “En buena condición vivo.
+
+Wünmapaaymi,
+wünmanentuüpaaymi.
+
+Allí llegando nosotros: “Venid a
+descansar, tío”, se nos dijo.
+“Preparad carne”.
+Nos sancocharon carne de caballo;
+espinazo de caballo; tres tajadas no más
+en el plato.
+
+Un día a veces dejo caer lágrimas, todo el
+año pues no lloro”.
+Domingo: "¿Con gusto miras los hijos
+pues?”.
+Tureupan: “Con gusto veo buenos los
+jefes, buenos los mocetones; así pues sin
+cuidado (pesar) alguno vivo.
+Bien con gusto miro la luna, con gusto
+miro el sol.
+malle; Pasarás a alojar tío; vendrás a quedar
+hasta la mañana.
+
+F. queligen cosa colorada. H. 412 quellùen fraga culta. COX menciona la abundancia de frutilla
+varias veces.
+41 Wechuwewün «donde se acaba todo juicio» (?) Quintuprai. Wechun llegar al fin, wewin rayo,
+tal vez «donde llegan al fin los rayos». La denominación del lugar Huechuhuehuin según COX ya
+se encuentra en el viaje de VILLARINO.
+42 COX (pág. 179) da una descripción muy divertida de este honrado caballero, tipo de gordete.
+COX dice Trureupan.
+43 Pingiyen literalmente: fuimos dichos cp. inglés we were told.
+44 F. mallotun hacer un guiso de legumbres.
+45 [Versión original: kawe llu].
+46 F. thonco plato de palo redondo.
+47 Marimari es el saludo de los picunches y pehuenches, pero no de los huilliches, los que dicen
+mushkay.
+48 F. cùlleñu lágrimas.
+49 La frase «mirar con gusto (contemplar) a sus hijos y nietos» para expresar la felicidad es
+típica; véase Cox pág. 208; compárese la otra «mirar el sol y la luna».
+40
+
+9
+
+Küpalen ma chi kawellu; pichi
+pürakawelluan.
+Ñi wütran ka ke küpalelpe kawellu ni
+chillaya.
+Ñomomalu50 kiñe awka kapun51 ñi
+cheskuy52.
+Fey may pichi komütumean, miauwlan
+ñi wütran.
+Kange shuwamtu miawway”.
+
+Traedme pues el caballo; un poco
+montaré a caballo.
+A mi huésped tráigase otro caballo para
+ensillarlo yo.
+Va a amansar un potro alzado mi yerno.
+
+17. Feymu may ngüllümngey53 chi yewa;
+konpay tüfichi awka kapun; lasungey
+may.
+Ngelay malal, koral ngelay; feymo
+femngen lasungey.
+Waytukefuy chi yewa, pecha54-miawwi,
+walniegew chi pu wentru.
+Kiñe repente lasungi may chi awka
+kapun.
+Tükulelngi epu lasu.
+Ngetrünngey55, futanma, futamotrin.
+
+17. Entonces fue rodeada la manada;
+entró ese potro alzado (y) fue laceado.
+
+Así pues un poco iré a mirar con gusto,
+llevaré conmigo a mi huésped.
+Él va a divertirse136”.
+
+No hubo cerco, corral no hubo; por eso
+así no más fue laceado.
+Brincaba la manada; corcoveando
+anduvo, la rodearon los hombres.
+De un repente fue laceado pues el potro
+alzado.
+Le fueron echados dos lazos.
+Fue volcado (ese animal) muy grande,
+muy gordo.
+Masiao may niey tüfichi wentru ayüy ñi Mucho pues tuvo ese hombre el deseo de
+pürayafiel tüfichi kawellu.
+montar sobre ese caballo.
+Ükelküongey56 kiñe fücha wayyun-mu, Fue amarrado de un gran espino, en una
+anünuayun.
+mata de chacay.
+Feymo ükelngey, tükulelngey fosal; Allí estuvo amarrado; le fue puesto un
+ngüchan57 kafrestu ükelngey.
+bozal; con un cabestro doble estuvo
+amarrado.
+18.
+Wüle-mo
+chillangey;
+tüfichi 18. En la mañana fue ensillado137; se
+llükangey ni laya.
+tuvo miedo que muriera.
+“Chillangele fa lagay; masiao wedan “Si es ensillado este, morirá; demasiado
+küley58.
+malo está.
+
+Vivir en el significado de «gozar la vida».
+F. ñom callado, quieto, pacífico.
+51 Kapun en su primer significado es el castellano «capado», pero ha llegado a ser una
+denominación general, así como awka solo a menudo significa “yegua”; awka es palabra
+quechua: auka enemigo rebelde, salvaje. MIDDENDORF pág. 6.
+52 F. chedcuy nieto.
+53 F. gùlumn juntar en un montón.
+54 Tal vez una derivación del chileno pechada (pechá)–anduvo dando pechadas cp. § 5. Nota
+19. Pero en los párrafos que siguen está siempre püchow.
+55 F. gùthùn, echar garra al pescuezo y ahogarse así.
+56 F. ùqueln atar por el cuello, pescocear.
+57 F. mùchan ser o estar doblado.
+135
+50
+
+10
+
+Wüle kümey ñi chillangen-mo”.
+Femkünongey.
+Wüle-mo nütramngey pu kona: “Chillakawellu-alu Kochekanilla, püralu kiñe
+awka kapun fachi antü may”.
+
+Mañana está bueno para ser ensillado”.
+Así fue dejado.
+En la mañana se avisó a los mocetones:
+“Quiere ensillar un caballo Cochecanilla;
+quiere montar un potro alzado hoy día
+pues”.
+Feymu alküy chi pu wentru; filamoyngn, Por eso (lo) oyeron los hombres; todos
+kellu pu malgen amoy, pichi ke che amoy caminaron ellos, por igual las mujeres se
+komütualu; masiao afkütungey59 may.
+fueron, y la gente chica (los niños) fue
+queriendo verlo; mucho se admiraron
+(se impacientaron).
+19. “¿Llüka pelafi60 may ñi pürayafiel
+tüfichi awka kapun may tüfichi wentru?”
+“Lükalay tichi wentru”.
+Ngüli61 chi che, mongko chi che.
+Maneangi,
+ütrufnakümngey62,
+epu
+namun müten pichü wutraley.
+
+19. "¿Parece no tenerle miedo, pues, de
+montar ese potro alzado ese hombre?”
+“No tiene miedo este hombre”.
+Se amontonó la gente, toda la gente.
+Se le puso manea, fue arrojado al suelo,
+(con) dos pies solamente; un poco
+estuvo levantado.
+Feymu rumi chi sincha minu pue Así pasaron la cincha debajo (de la)
+kawellu; füyemngi chi sincha.
+barriga (del) caballo; fue apretada la
+cincha.
+20. Petu pepiwüy, feypi chi wentru: 20. Todavía estaba alistando, así dijo el
+“Ütrüfnagli tükulelafin irpuela fachi hombre: “Si me voltea, le clavaré las
+kullin; ütrüfnagli fütafkütun”.
+espuelas a este animal; si me voltea
+mucho me admiro138”.
+21. Raningn chi wentru, pu malgen kay, 21. Apostaron139 los hombres, las
+wüpul, tupu, trapelwe63 ofisha, tripantu mujeres también, aros, prendedores, ...
+waka, awka yewa.
+(?), ovejas, de un año vacas, yeguas
+alzadas.
+Apostay chi pu wentru awka kapun, Apostaron los hombres potros alzados, y
+pichi ke potro, mansu kawellu; pequeños potros, mansos caballos;
+apostayngn ispuela plata, llochokon, apostaron ellos espuelas (de) plata,
+waril istipu; apostayngn estrifera plata, canelones140 de estribo; apostaron ellos
+Quintuprai tradujo “lleno” refiriéndose a la barriga hinchada del caballo que acababa de
+llegar del potrero.
+136 Lit. en otra cosa andará pensando.
+137 Es decir «debía ser ensillado»; no se hizo, por las razones que siguen.
+59 F. avcùn afligirse de pena. Avcùln apurarle la paciencia a uno.
+60 F. llùcan tener miedo.
+61 F. gùln estar amontonado.
+62 F. ùthuvn arrojarse, caer de golpe; nacùmn abajar.
+63 Compárese F. thapel cordel. Trapelwe es alguna prenda de adorno de las mujeres, pero no
+recuerdo precisamente qué cosa.
+58
+
+11
+
+kellu chilla, plata rükulngey64 chi chilla; estriberas (de) plata, con todo el avío,
+rani chi pu wentru, apostayngn.
+plateadas cabezas de avío; (tales cosas)
+jugaron los hombres, apostaron ellos.
+22. Dewma dewküley chi apuesta; trali 22. Ya están hechas las apuestas; cubrió
+longko pañu-mo Kochekanilla püralu ñi la cabeza con un paño Cochecanilla
+kawellu: “¡Yafülwünge65, Kochekanilla!
+queriendo subir al caballo. “¡Anímate,
+Cochecanilla!
+Lükalaymi, Kochekañilla; dewma dewwi No tengas miedo, Cochecanilla; ya está
+chi apuesta; ¡dewma dewwi!" pingey, hecha la apuesta; ¡ya se concluyó!” le
+nütramngey.
+dijeron, le avisaron.
+23. Ritro künongey chi kawellu kiñe
+winka, kiñe che.
+Pray may.
+Wütrüfkülefuy chi kawellu, pray
+Kochekanilla.
+Takunienmangey ñi ange chi kawellu.
+Cuando püray nentun mangey ñi makun;
+makun-mo trakulefuy chi ange kawellu.
+Nelkünongey.
+Nüy ni rienda Kochekanilla, ni kafrestu
+kay.
+Nelkünungey, wütray chi kawellu,
+püchowi awü66 may chi kawellu;
+manküfuy chi kawellu; nakümi ni longko
+pu tue tüfichi kawellu, wütrapüray
+tüfichi
+kawellu,
+epu
+namuntu
+wütrapüray.
+24. Miawki Kochekanilla67; wütrüfnaglay
+Kochekanilla.
+Münay68 müten amoy kiñe kuara
+Kochekanilla.
+
+23. Fue enderezado el caballo (por) un
+español (y) un indio.
+Subió pues.
+Estaba arrojado (aún) el caballo,
+(cuando) subió Cochecanilla.
+Tapada tenía la cara el caballo.
+Cuando subió, le quitaron de la cara el
+poncho; con un poncho había estado
+tapada la cara (del) caballo.
+Suelto lo dejaron.
+Agarró sus riendas Cochecanilla, y su
+cabestro también.
+Soltado fue, se levantó el caballo,
+corcoveó a prisa pues el caballo; pateaba
+el caballo; bajó su cabeza hacia la tierra
+ese caballo; levantose derecho ese
+caballo, en dos pies se levantó derecho.
+24. Siempre anda Cochecanilla; no cayó
+abajo Cochecanilla.
+En un solo momento anduvo una cuadra
+Cochecanilla.
+
+Es decir: quisiera saber si–, estoy curioso. cp. inglés I wonder.
+Las apuestas de los indios con motivo de sus carreras las menciona MUSTERS pág. 208 y
+227.
+140 Musters menciona los canelones de plata que usan en las estriberas pág. 246.
+64 F. rùcul.
+65 F. yavuln animar, yuvuluge ¡valor!
+66 F. ahue a priesa.
+67 La continua repetición del nombre Kochekanilla al fin de las frases de este párrafo, con la
+entonación de coyautun en la última sílaba, es un interesante medio retórico para dar fuerza a
+la narración; del mismo modo se repite kawellu en el § 23.
+68 F. mùna–muna cosa poca, corta.
+138
+139
+
+12
+
+Günatungefuy69 may Kochekanilla.
+Kiñe püle wütran tükumey70 ni kawellu
+Kochekanilla.
+Wütrapüray chi kawellu, ütrüfnaglay
+Kochekanilla;
+miawkey
+may
+Kochekanilla.
+Petuwimanaküm71 kay Kochekanilla.
+Petu may truyukay Kochekanilla, petu
+atrulkay ni kawellu Kochekanilla.
+
+(Casi) era mordido Cochecanilla.
+A un lado fue a retirar su caballo
+Cochecanilla.
+Se levantó derecho el caballo, no cayó
+abajo Cochecanilla; siempre anduvo
+Cochecanilla.
+Continúa a darle el chicote Cochecanilla.
+Todavía se va contentando Cochecanilla,
+todavía está cansando su caballo
+Cochecanilla.
+“Inche may ni kawellu tüfa”, piki “Mío pues es este caballo”, está diciendo
+Kochekanilla.
+Cochecanilla.
+Amoy may, katrütungemey; wallakuy Caminó pues, le fueron a atajar; de
+may Kochekanilla chew ni püramom vuelta llegó pues Cochecanilla donde
+Kochekanilla.
+había subido Cochecanilla.
+Akuy may, kalopi.
+Llegó pues, galopeó.
+Atrun akuli ni kawellu Kochekanilla.
+Cansado hizo llegar (trajo) su caballo
+Cochecanilla.
+25. Müñetuma72 ko-mo müngey73 tichi
+kawellu ñi fenten ni trüfün; lüyküy74 ni
+trüf tichi kawellu.
+Walükelngey chi kawellu; ükelngetuy
+tüfichi kawellu.
+Ilay tüfichi kawellu epu pun; lay;
+elungelay kachu.
+Wal chillangey petu ni inon kachu, yom
+ñi püchowenowam75.
+
+25. Como bañado en agua parecía ese
+caballo por el tanto sudor; corría el
+sudor al caballo.
+De nuevo fue amarrado el caballo,
+amarrado dejaron ese caballo.
+No comió ese caballo dos noches; no
+comió; no le dieron pasto.
+De nuevo fue ensillado todavía no
+habiendo comido pasto, para que tuviera
+tanto menos aliento.
+Wal pürangi epu pun-mo.
+De nuevo fue montado después de dos
+noches.
+Newen ngewelay, liwe ngewelay; Fuerzas ya no tuvo, valor ya no tuvo; no
+püchowwülay, rulwüy chi kawellu.
+corcoveó, se entregó el caballo.
+Ka pichü müten chillangey, miawelngey, Otro poquito solamente fue ensillado, y
+awla elungey kachu.
+lo hicieron andar, en la tarde le dieron
+pasto.
+Awla kachutulu, wüle mo ka chillange Habiendo comido pasto en la tarde, en la
+kay.
+mañana también lo ensillaron.
+
+F. ghùnan, ghuñatun morder. Es decir: el caballo quería (trataba de) morderlo.
+Lit. fue a hacerlo levantarse.
+71 Probablemente: petu-i-maw-naküm todavía él soga bajar.
+72 F. mùñetun bañarse.
+73 Müngen ser semejante.
+74 F. luycùmn pringar, chorrear.
+75 Lit. para que más no corcoveara.
+69
+70
+
+13
+
+Kim-chey, dewmafin kimfi chi che.
+
+Conoció la gente, ya llegó a conocer la
+gente.
+Kuñewüy76, mangsuy, chen piwelay77, Fue peligroso (?), se amansó, ya no se
+chenasniewelay78.
+espanta, ya no tiene maña.
+Afi may düngunay.
+Se acabó el asunto.
+26. Amon epu antü-mo.
+Wal kargawen, chilla kawellutun,
+challitun,
+amopün,
+powen,
+79
+Payllakaniw -mo powen; ka longko-mo
+powen.
+Feymu may pemefin tüfichi pu gülmen.
+Mülefu pu kasike, longko.
+
+26. Caminé después de dos días.
+De nuevo puse mi carga, ensillé el
+caballo, me despedí, continué a andar,
+llegué, donde Paillacan llegué, a otro
+cacique llegué.
+Entonces fui a ver esos ricos.
+Eran caciques, jefes.
+
+27. Feymo küme düngungen, trüyungen,
+powen chi kasike-mo.
+Nütramngey chi longko: “trafmefimn
+wütran.
+Küme wütran ngen chi, wesha wütran
+ngen chi.
+Küme wütran ngele, konpape; weda
+wütran ngele, münay nütramoan pu
+kona”.
+Domingo:
+“Küpalan
+chendungu;
+pemefichi ni pu gülmen, ñi longko;
+kümele pele may ta küme poan, pin may
+küpan-mo, ñi akun-mo.
+Kümelele ñi pu longko trüyuan”.
+
+27. Entonces buena cosa me fue, me
+alegré, llegué donde el cacique.
+Se avisó al jefe; (este contestó): "Id a
+encontrar al forastero.
+(Si) buen forastero es, (o si) mal
+forastero es.
+Si es buen forastero, que entre; si es mal
+forastero, luego me avisarán los
+mocetones”.
+Domingo: “No traigo ninguna novedad;
+quiero ir a ver a mis ricos, mis caciques;
+estando bien ellos entonces bien llegaré,
+(así) digo yo de mi venida, de mi llegada.
+Si está bueno mi cacique, estaré
+contento”.
+
+28. Wütralay chi longko.
+Nütramngey: “Küpay wütran” pingey.
+
+28. No se levantó el jefe.
+Le avisaron: “Vino un forastero”, le
+dijeron.
+Feymo manday küla mari moseton, Entonces mandó treinta mocetones,
+mongko püray ni kawellu engün.
+todos montaron sus caballos ellos.
+Trafmeno engün chi pu kona.
+Me fueron a encontrar los mocetones.
+29. Los Mensajeros: “¡Marimari peñi!, 29. Los Mensajeros: “¡Buenos días,
+¡wütran!; werküpayeno80 ñi longko.
+hermano! ¡forastero! me manda decir mi
+
+De kuñiun peligro, temor (?)
+Literalmente parece significar «ya no dice nada más» véase F. pihuen.
+78 Probablemente de F. adn estar acostumbrado o tener una costumbre, tomado in malam
+partem: «ya no tiene costumbre alguna».
+79 COX da muchos detalles sobre este célebre cacique.
+80 F. huercùn enviar, mensaje.
+76
+77
+
+14
+
+cacique.
+“Konpape may ñi wütran, küme may “Que entre pues mi huésped; bien llegó
+akuni wütran”.
+el huésped”.
+Nag-kawellunge, nay; “tüfamo konpape”, Bájate del caballo, amigo, “que entre
+pieymo longko.
+acá”, te dice el jefe.
+81
+“¡Trülke moaniüpange, wutran!”.
+“¡En el pellejo ven a sentarte, huésped!”
+30. El Cacique: “Marimari, fochüm; 30. El Cacique: “Buenos días, hijo,
+¿tumten antü müleymi püra kawellun?
+¿cuántos días estuviste sobre (el)
+caballo?
+¿Kume inapafimi rüpü?”.
+¿Bien seguiste el camino?”.
+Domingo: “Küme inapan ka”.
+Domingo: "Bien lo seguí”.
+El Cacique: “¿Ngelay inawtun?”.
+El Cacique: “¿No hay novedad?”.
+Domingo: Ngelay, malle chao, ngelay Domingo: “No hay, tío padre, no hay
+inawtun, ñi chao malle”.
+novedad, mi padre, tío”.
+El Cacique: “¿Kümelekaymi , malle?”.
+El Cacique: “¿Bien estás tú también, tío?”.
+Domingo: “Kümelen ka. ¿Nielafimi Domingo: “Estoy bien. ¿No tienes
+chendüngu tüfa?”.
+novedad acá?”.
+El Cacique: “Ngelay; nielan ka”.
+El Cacique: “No hay; no tengo ninguna”.
+Kümerki may ni felepüran; müley pu Bien está pues que vivo tranquilamente;
+fücha, müley pu kure, müley pichi ke así están los viejos, están las mujeres,
+fuüll82; müley pu malle; luku-mo están los chicos, están los tíos; en la
+tranaley83
+pichi
+wüll;
+tafunagi, rodilla están cabalgando (?) los
+nagküllenuanngey.
+chiquillos; se baja al suelo (el chiquillo),
+caen las lágrimas.
+Feymu may chumül antü, kümelenon- Así pues todos los días, de no estar bien,
+mo, ngemawtun.
+se tira a llorar.
+Müley mongepelu; mülenolmo inawtun, Estamos pasando la vida; por no haber
+küme kechi komütungey antü, ale.
+novedad alguna, bien con gusto se mira
+el sol, la luna.
+Kiñe küme duam-mo komütungey antü, Con buena gana se contempla el sol, la
+ale.
+luna.
+31. Fil pu longko84: müley may ñi 31. Todos los caciques: estuvo mi
+Shayweke, müley ñi Wingkawal, müley Shaihueque, estuvo mi Huincahual,
+may Payllakan ñi fochüm, Foygel pingey. estuvo de Paillacan el hijo, Foiguel se
+llama.
+Fey may kimnieno pu longkollemay.
+Así pues me conocieron los que eran
+F. thùlque pellejo.
+cp. F. vùl (n).
+83 F. thanan pisonear, golpear como clavando [versión original: thanaléi].
+84 MUSTERS menciona como caciques de los Manzaneros a Cheveque, Inacayal, Huincuhual y
+Foyel. COX conoció casi a todos los caciques que aquí se mencionan en los mismos parajes más
+o menos. Paillacan y sus hijos Foiguel y Quintunahuel; Huincahual, Choihueque, Inacayal,
+Antuleghen, etc.
+81
+82
+
+15
+
+caciques.
+Küme
+wentrungen,
+wesha Buen hombre soy, malo hombre no soy;
+wentrungelan; wesha wentrungefuli, malo hombre si fuera, no me mirarían
+komütuleafu no pu longko.
+con gusto los caciques.
+32. Feymo may pefin ñi pu longko, fütra 32. Entonces vi a mis caciques, con
+nütram-mo peñiewükiyen.
+grande conversación nos estábamos
+viendo.
+Küme ke longko; kiñe küme kullin Bueno (es) el cacique; un buen animal
+trananay, küme kullin; ilotuyal nowillu, botó (hizo matar), un buen animal; para
+küme awka85.
+comer novillo, una buena yegua.
+33. Feymo may koyawtuleyen.
+El Cacique: "Pu longko; küme ke gülmen,
+ke pu kona, yafülwügaymün; wesha
+düngu konpale, küme raki duamüm86 ni
+pu kona.
+Ngülamtunien87 ngay pu kona, chem
+düngu niekelepe.
+Kutran longkokelefipe pu longko.
+Wesha düngu kintulay pu kona.
+Küme ke nütram-mo konkelay88 pu
+kona.
+Wesha nutram-mo nütramkatulay pu
+kure, ni nütram-mo melekey wesha
+düngu.
+Winka düngu konpale, trafnewenafien89
+may pu winka; kishu may trokiay chao
+dios, trokiay wekufü pu ngen mapu;
+tranalelay mapu; fill mapu müley chao
+dios, ka femmüley wekufü.
+Wewngelien90, feymu
+pisiayün mo winka.
+
+may
+
+33. Entonces tuvimos parlamento.
+El Cacique: “Caciques, buenos ricos,
+mocetones, tened valor141; si mala cosa
+entra, bien pensando estad, mocetontes
+míos.
+Damos consejo a los mocetones, mala
+novedad no tengáis.
+No le hagáis dolor de cabeza al cacique.
+Mala cosa no buscan los mocetones.
+Con buena noticia entrarán (?) los
+mocetones.
+Con mala noticia no dan142 aviso las
+mujeres, de sus noticias viene a menudo
+mala cosa.
+Si guerra con españoles143 entra,
+juntaremos las fuerzas contra los
+españoles; solo lo gobernará el padre
+Dios, lo gobernará Huecufü, los dueños
+de la tierra; no está sola la tierra; en toda
+la tierra está padre Dios, así también
+está Huecufü.
+chew Si me lo ganan, entonces nos quieren
+quemar todo los españoles.
+
+MEDINA: Aboríjenes pág. 292, “Al huésped que llega, traen cántaros de chicha i suelen matar
+a su recibimiento alguna oveja de la tierra, "que es accion ostentosa i de grande honor entre
+ellos”(BASCUÑAN, Cautiverio feliz, pág. 85).
+86 F. raquiduamn estar triste, pensativo.
+87 F. glam o gùlam consejo.
+88 Kon-ke-la-y «no entran» parece que no conviene al sentido; talvez kon-küla-y «junto
+entrarán».
+89 F. thavn recibir, juntarse; nehuen fuerza.
+90 F. hueun ganar en juego de apuestas.
+141 Medina: ibid. pág. 294 cita Ovalle: "Los caciques al comenzar estas fiestas, exhortan a la
+jente moza i liviana que no les agrien la fiesta i se la echen a perder, inquietando las mujeres,
+85
+
+16
+
+Fenten müley pu kona; müley ni
+Winkawal, fenten kona niey; müley ni
+Foygel, ka fenten kona niey; mülay ni
+Antülgen, füta gülmen; küta kalniey ni pu
+longko.
+Feley ni Shayweke, ka fem niey ñi pu
+kona; müley Karna, ka fem niey ni pu
+kona.
+Müley longko Inakayal, ka fem niey ni pu
+kona.
+Feymu ma-yafüluke pu longko, fenten
+chi kona müley.
+Lükalafien winka”.
+
+Tantos mocetones están aquí; está mi
+Huincahual, tanta gente tiene; está mi
+Foiguel, otra tanta gente tiene; está mi
+Antülguen, el grande rico; se acompaña
+con sus caciques.
+Así está mi Shaihueque, otros así tiene
+sus mocetones; está mi Carna, otros así
+tiene sus mocetones.
+Está el cacique Inacayal, otros así tiene
+sus mocetones.
+Por eso pues tienen valor siempre los
+caciques; tantos son los mocetones.
+No tenemos miedo a los españoles”.
+
+34. Domingo: “Malle, kiñe charu winka
+pülku tüfi, malle.
+Tragelen91, malle.
+¿Pu kona nieymi, malle?”.
+El Cacique: “Nien ka, mallen; feley ta pu
+kona; fenten kona”.
+Domingo: “Fey ürke, may, malle;
+nierkimi may pu kona, malle.
+Ka kiñe charu winka pülku, malle.
+Kufa ñi ka kiñe charu winka pülku92,
+malle.
+Trapünolmi93 pu kona, truyun tripalafuy;
+trafle chi pu kona fül-mo, truyun tripay”.
+
+34. Domingo: “Tío, un jarro chicha de
+españoles144 helo aquí, tío.
+Recíbemelo, tío.
+¿Muchos mocetones tienes tío?145”.
+El Cacique: “Sí, tengo, tío; ahí están estos
+mocetones; tantos mocetones"
+Domingo: “Ya lo sé bien, pues, tío; parece
+que tienes mucha gente, tío.
+Otro jarro aguardiente, tío.
+Aquí (está) mi otro jarro aguardiente,
+tío.
+Si no convidas todos los mocetones,
+contentamiento no saldría; si alcanza
+para los mocetones con la vasija, alegría
+sale”.
+El Cacique: “Kümey may ñi femfiel, El Cacique: “Bueno está que así lo haces,
+malle; trüyun may mi akul-mo”.
+tío; me alegro de tu llegada”.
+35. Feymo akuy chi pu kona;
+ngüymuyngün, kiñe munawen.
+Küpalngi may chi rüngi94; fey chi pu
+rüngi ngüllingün95, trafuyngün.
+
+35. Entonces llegaron los mocetones, se
+juntaron ellos, una mañana.
+Se hizo venir los lanceros; los lanceros se
+reunieron, se juntaron ellos.
+
+hurtando, peleando, emborrachándose i vengando pasiones; i que el teatro de sus
+representaciones i bailes no se conviertan en teatro de gladiadores”.
+142 = no deben dar.
+143 literalmente: cosa de españoles.
+91 F. thaghn recibir lo que se da.
+92 [Versión original incompleta: pül].
+93 F. thapùmn juntar o muñir gente.
+94 F. rùgi los colihues.
+95 F. gùln estar amontonado.
+144 Es decir: aguardiente.
+
+17
+
+36. Tungi chi pipa, kiñe pipa.
+Entungey chi pülku pipa, kiñe troko-mo.
+
+36. Se sacó la pipa, una pipa.
+Se vació el aguardiente de la pipa en un
+plato.
+Chi longko müley, feymo pu kona wal Los caciques estuvieron, allí los
+küley; tüfichi rüngi ngetrüley.
+mocetones alrededor estuvieron; estas
+lanzas las clavaron.
+37. Feymo koyawtuyngün96: “¡Fürenen
+may, chao! Kiñe charu putual inche,
+winka pülku pütualu inche, küme may
+tripape ngollin97.
+Truyuan küme tripale ngollin.
+Fürenen may chao dios, frenen may
+wekufü, che pür entuan98 winka pulku:
+“¡po alwe, efkütuaymün, po alwe!
+kümelkaymün pu fochüm; kümelkaymn;
+ngekelepe kewan; kuchillu nülafimn99;
+pu domo, kewatulaymn.
+Küme tripape ngollin; küme tripay
+ngollin ngenole kewatun; truyuayen pu
+kona, pu domo.
+Che
+pülnakümayyen100,
+afimayyen
+dünguwün”.
+Pichü ketu wütrunakemi101 ni pülku
+engn.
+
+37. Entonces tuvieron parlamento:
+“¡Favoréceme padre! Un jarro quiero
+beber yo, aguardiente tomando yo, bien
+salga fiesta.
+Me alegraré si bien sale la fiesta.
+Favoréceme, padre Dios favoréceme
+Huecufü:
+haré
+la
+libación
+del
+aguardiente: “¡Almas muertas, ayudadme
+a tomar, almas muertas! haced bien a los
+hijos; haced bien; que no haya pelea; no
+agarréis los cuchillos146; mujeres, no
+peleéis!
+Bien salga la borrachera; bien sale la
+borrachera, si no hay pelea; nos
+alegraremos los mocetones (y) las
+mujeres.
+Ya acabamos la libación, y concluimos
+con los consejos”.
+Un poco cada uno botaron de su bebida
+ellos.
+
+Domingo pregunta esto para saber si una botella de aguardiente alcanzará para un trago de
+todos; lo que, como se ve, no es el caso. La costumbre obligatoria de ofrecer algo como regalo
+antes de principiar la venta, no solo se encuentra aquí; de la misma manera procede después
+el cacique con su gente. Véase lo mismo MUSTERS pág. 221. Compárese: MEDINA. Aboríjenes,
+pág. 292 la cita de BASCUÑAN: Cautiverio feliz pág 126: “El que recibe la chicha la reparte a los
+presentes de mayor estimacion, para que vaya brindando a los circunstantes”.
+96 Se principia con la libación para las almas de los defuntos (alwe), una de las pocas
+costumbres religiosas de los araucanos. Véase MUSTERS pág. 220 y 253. ROSALES (Historia de
+Chile I pág. 162: “I así el primer jarro de chicha que han de beber suelen derramar parte de él
+o todo para que beban sus caciques i parientes difuntos”; citado por MEDINA: Aboríjenes pág.
+235; (las palabras pu am citadas allí mismos parecen ser otra fórmula semejante, o
+abreviación, en lugar de pu alwe o pu alhue).
+97 F. gollin borrachera.
+98 Domingo tradujo: Voy a botar algo. Tal vez de püd «cosa espesa y también desparramada»
+(F.) pùdm trago; de consiguiente: ¿botaré (entuan) el trago (püd) para la gente (che)?
+99 H. 791 nùn pugno capio, sumo.
+100 Vacilé en la trascripción entre pül y pür, che = che, naküm bajar, botar al suelo.
+101 cp. F. ùthuvnaghn caer como arrojado.
+145
+
+18
+
+38. Petuley dewküley chi korü102 ilon;
+anünayngn.
+Rupangel103 külefuyngn; afi chi nütram;
+af-chepülnakemien104.
+Anünayngn pu chaku wipuül105.
+Amoy may mongko chi che; anüy chi
+chag: pu fücha chag106 anüy; pu we che
+weychuntu107 anüy.
+Mangetuy, remongko mangetuy108.
+Rulelngepay ni korü engn; anülu engn
+fil109 kiñe troku mo i chi epu wentru; re
+femngechi repu ke i kiñe troku-mo.
+Traf rungayngn; wema af ilotuyngn;
+entungetuy chi troku.
+39. Amoy chi pulku, re trokomo.
+Masiao kulkafi110 chi pulku engn, ko
+müngechi.
+Petu ñi rupanon ka kiñe chi troko chi
+mangeñ-mo111, ngollingn may.
+Chi longko ni pu kona eputu trapümi,
+yom rulay.
+Rangi nakümi ni pipa, dewma ngolli chi
+pu kona.
+Mülewelay, anüle welay ni pu
+
+38. Mientras tanto ya estuvo preparado
+el guiso de carne; se sentaron.
+Pasaban entonces a reunirse ellos; se
+acabó la conversación; se concluyó la
+libación.
+Se sentaron en el pellejo a la fila.
+Anduvo pues toda la gente; se sentaron
+por igual; los viejos juntos se sentaron;
+los jóvenes al fin (al último) se sentaron.
+Se sentaron a tomar, toditos se sentaron
+a tomar.
+Se les pasó su guiso a ellos; sentados
+ellos todos, en un plato estaban
+comiendo dos hombres; de la misma
+manera siguieron a comer en un plato.
+A todos les tocó según el orden147; antes
+acabaron de comer la carne ellos; les
+fueron quitados los platos148.
+39. Caminó la bebida, en un plato
+grande.
+Harto tragaron la bebida ellos, como si
+fuera agua.
+Todavía no había pasado otro plato más
+por
+la
+reunión,
+estuvieron
+emborrachados.
+El cacique a los mocetones por segunda
+vez convidó, mas no pasó.
+Medio
+bajó
+su
+pipa,
+ya
+se
+emborracharon los mocetones.
+No pudieron estar, no pudieron quedar
+
+Lo que es común; cp. MUSTERS pág. 239; por esto las mujeres antes de la borrachera
+recogen los cuchillos y los ponen en un saco cp. MUSTERS pág. 243.
+102 F. corù el caldo o guisado.
+103 = pasar (rupa) junta (gül) estar (kle).
+104 Aquí escribí simplemente pül.
+105 F. huypùdn estar unos tras otros, a la fila; probablemente hay que escribir wipüd.
+106 F. chagh cosa igual.
+107 F. huechuntun dar fin.
+108 Domingo tradujo: se sentaron a patas cruzadas. H. magetun potationes adire, F. magen,
+magentun ir a las bebidas. ·
+109 Fil podría traducirse aquí por «siempre» o «cada vez» en lugar de «todos».
+110 F. cùlcan enjugar lavando con agua. HAV. 716, immergere.
+111 Domingo tradujo: la rueda; es decir: había hecho la vuelta entre los convivales. El
+significado primitivo parece: compotatio «remolienda».
+146
+
+19
+
+trakuwengn.
+Wütrayngn, ngollilu engn.
+Wimi ni dewa ni pütu nieya chi pülku.
+
+sentados en sus pellejos.
+Se levantaron, emborrachados ellos.
+Se acostumbraron por fin (?) a tener que
+beber (?) el aguardiente.
+
+40. Awlakuy ni longko-mo engn: 40. Ahora llegaron donde el cacique: “Así
+“Fentelen meli limite112”.
+dame cuatro botellas”.
+“Meli limite-mo nien kiñe awka kapun”.
+“Por cuatro botellas tengo un potro
+alzado”.
+“Ya, fenteliaymi”.
+“Bueno, así te lo daré”.
+Rulelngepay meli limite; truyuy may chi Le fueron pasadas cuatro botellas; se
+kona.
+alegraron pues los mocetones.
+“Inche ka fentelen; ka kiñe kure waka; “A mí también dame así; por una vaca
+¿mufi113 fotella114 füreneam?”.
+paridera ¿con cuántas botellas me
+favorecerás?”.
+“Kechu fotella”.
+“Cinco botellas”.
+“Feymo ¡may lape!”.
+“Entonces ¡conforme!149”.
+Rulelngepay may, ka truyüy chi pu Le fueron pasadas pues, y también
+wentru.
+alegráronse los hombres”.
+“Inche ka epu fotella kiñe tripantu”.
+“Yo también dos botellas por una
+potranca de año150”.
+41. Femngechi amokay ni fenden; chi 41. De esta manera siguió su venta; el
+longko ngollilay.
+cacique no se rascó151.
+Fendekay müten; ruliekay müten.
+Solo estaba vendiendo, estaba pasando
+tan solo.
+Ka kona-akuy, ka kiñe kure waka; Otro mocetón llegó otra vaca parida;
+kangilay115 chi longko ka kiñe ñom también compró el cacique también un
+kawellu, kiñe palaw.
+caballo manso, un caballo castaño.
+Tripantu ke waka küla ke fotella-mo.
+Una vaca de un año por tres botellas.
+Ngillaniekay chi longko; künol ni Siguió comprando el cacique; dejadas
+estrifera empeña.
+sus estriberas como prenda.
+116
+Wüngelwe kopar wünelwe, traritue
+Frenos, encopados frenos, cinturón de
+plata empeña.
+plata como prenda.
+
+Domingo tradujo: pasó la rueda.
+cp. MUSTERS: Wooden platters loaded with large portions of meat and a due allowance of fat
+were handed round for the first course–the platter when cleared was carried off, pág. 253.
+112 Limite es la palabra castellana limeta.
+113 F. muvi y mivu cuántos.
+114 Nótese que las palabras castellanas con b o v aparecen con v o f indiferentemente.
+115 Probablemente ngillay; F. gillan pedir, conchavar.
+116 De tharin atar, fajar (F).
+149 Literalmente lape «que muera» es decir «que se concluya el negocio».
+150 MUSTERS pág. 222 menciona “a mantle or unbroken colt for two bottles of villainous
+Valdivia rum”, y otros “exorbitant prices”.
+147
+148
+
+20
+
+Akuli ni kullin engn, entutuy ni empeña, Cuando trajeron sus animales, devolvió
+¡kishu ni pütu mom engn!
+sus prendas; ¡solo para tomar ellos (sc.
+hicieron tanto)!
+42. Feymo may elkay tüfichi longko.
+Kishu may ni putuyal tüfichi longko,
+ayüfi chi küme wentru.
+“Inche may kelluen ngolliküloyan; pichü
+elkunien winka pülku pu wütrani
+miawlel.
+Afngolli ni pu kona; küme tripay ni
+ngollin ni pu kona.
+Feymo may truyunkülen, ngenolmo
+chendungu; ngelay kewatun.
+Kiñe ke mo nüy kuchillu, müley kewatun,
+allfülwüyngn117, langümuyngn.
+Femngelay fachi ngollin tripay”.
+
+42. Entonces dejó (algo guardado) este
+cacique.
+Solo tomarlo después este cacique quiso,
+ese buen hombre.
+“A mí me ayuda a borracharte conmigo;
+un poco tengo guardado de la bebida
+española de la que el forastero trajo.
+Concluyeron
+a
+borracharse
+los
+mocetones; bien me salió la fiesta
+(borrachera) de los mocetones.
+Por eso pues estoy muy contento, que no
+hubo novedad, no hubo pelea.
+En alguna parte152 agarran el cuchillo:
+hay pelea, se lastiman, se matan.
+Así no fue como esta borrachera salió”.
+
+43. Kiñe weche antü118 anüley ni gülmen
+chag tüfichi longko; nütram kaleyngu,
+ayüwuyngu.
+Kiñe fotella rulelngepay tüfi gülmen,
+petu ni trantunon ñi fotella, ngolli,
+pürukey119 may.
+
+43. Un buen día estuvo sentado junto
+con su rico este cacique; estuvieron
+conversando, se quisieron153.
+Una botella fue pasada a este rico,
+todavía no había derribado (vaciado) su
+botella, se embriagaron, fantasearon
+pues.
+
+44. “Mongelen mo ni piwke putun may
+winka pülku120.
+¡Chem may ni ngüneetew121 mongen
+tüfachi mapu-mo!
+Kishu may dios chao ni trokiel-mo,
+mongeley ñi piwke.
+Chenchi wekufü ni trokiel-mo, kiñe
+chenchi ñi trokiel-mo, komutufin weche
+
+44. “Hace vivir alegremente mi corazón
+el beber la bebida española.
+¡Qué le habrá dispuesto el que vive en
+esta tierra!
+Solo de Dios padre por el mandamiento
+está vivo mi corazón.
+O que sea por el mandamiento del
+Huecufü, o por el mandamiento de un
+
+De la misma manera dice MUSTERS pág. 222 que el cacique Quintuhual era el único que no
+se emborrachó.
+117 F. allvùln lastimar a otro.
+118 Probablemente = chi; we F. hue nuevo. La misma expresión se repite más abajo.
+119 De F. prun bailar, es, decir, desvariaron a causa de la embriaguez.
+120 Estilo de coyautun.
+121 F. gùnen gobernar, disponer.
+152 O de alguna vez.
+153 Es decir: fueron buenos amigos.
+151
+
+21
+
+antü; komutufin may ale.
+Nielan may chendüngu”.
+
+ser alguno154, miro con gusto nuevo el
+sol, con gusto miro la luna.
+No tengo novedad”.
+
+45. Akuy chi kulli, fil fenden; niewelay ni 45. Llegó el ganado, todo (el
+fendeal.
+aguardiente) vendí; no me quedó para
+vender.
+Ka-antü-mo akulelngen ñi kullin El otro día se me hizo llegar mi ganado,
+nünakulelngen kiñe palao, mankor se me trajo un castaño, mancornado lo
+künon.
+dejé.
+Epu kure waka ka elungen, ka kiñe toru Dos vacas parideras me dieron, y un toro
+palomo ka elungen; küla tripantu, ka palomo también me dieron; (uno de)
+kiñe tripantu toro, ka wulle gansu, ka tres años, (y) un toro de un año, y un
+kiñe flangku; pilon potoro, fententu ñi ganso de color y uno blanco; sin oreja
+pülku-mo kullin.
+(un) potro, tanto fue de mi aguardiente
+(el) ganado.
+Yemen kiñe eraje.
+Llevé un herraje.
+46. Awla ni kasike fey elueno kiñe yewa: 46. Ahora mi cacique así me dio una
+“Tüfa may yetoaymi, malle”, pieno; ka yegua: "Esto pues te llevarás, tío”, me
+kiñe mansu flangku: “Ka tüfa kay, malle”. dijo, y un buey blanco: “Y esto también,
+tío”.
+“Tragelen may, malle; ka kiñe” kurü “Recíbemelo pues, tío”; y un potrillo
+pichi potro; “ka tüfa yegaymi, malle.
+negro; “y eso te llevarás, tío.
+Kümi may ni konümpafiel122”.
+Bueno es que has venido acá a tratar
+conmigo”.
+"Grasia may, malle”.
+“Gracia, pues, tío”.
+"Chenu
+wekufü
+trokielmo
+küme “Si así lo dispone Huecufü, bien llegarás
+powtuaymi may mi mapu-mo, malle”.
+a tu tierra, tío”.
+“Truyun may, malle, niakul-mo”.
+“Me alegro, pues, tío, que haya venido”.
+Ngiülmetuyaymo123
+pu
+kona; “Te van a endilgar los mocetones te van
+nontumeaymo lewfu-mo”.
+a balsear por el río”.
+“¿Werange lewfü, malle?”.
+“¿Es malo el río, tío?”.
+"I che key tüfachi lewfu, malle.
+“Se come gente este río, tío.
+Küme
+kona
+eluyaymi,
+trangi-mo Buenos mocetones (vaqueanos) te daré,
+nontungeyaymi.
+en la balsa serás pasado.
+lnche-kay amoan, malle; komutunieman Yo también iré, tío; voy a mirar si pasas
+mi küme nonchi”.
+bien”.
+47. Amopatun inche, nome lewfu-mo 47. Me puse en camino, y al otro lado del
+nopatun inche, truyun may.
+río pasé yo, me alegré pues.
+F. "conùmn entrar, platicar, venteni tayu conùmpaviel, basta ya lo que hemos platicado, i es
+modo de despedirse de platicar”. Domingo tradujo: "que te acordaste de mí”.
+123 F. giuln guiar, indilgar.
+154 O «de cualquiera».
+122
+
+22
+
+Komutueno ni wütran-ngiyüm, chi
+longko. “Mongeche ngeliw pewayu,
+malle”.
+Manday ni epu weche, ngüllemi ni kullin
+engn.
+Küpatuyen ka keyew-mo, tripay tüfichi
+kullin, kimulayngn.
+
+Me miró mi huésped, el cacique.
+“Si quedamos vivos los dos, volveremos
+a vernos, tío”.
+Ordené mis dos jóvenes; juntaron mi
+ganado ellos.
+Vinimos en otro potrero, salió este
+ganado; no supieron ellos.
+
+48. Feymo kumpañwülayngn.
+Wüdawwükayngn.
+Küdowtuyen nopalewfu.
+Tunten tuwülayen; umaglayen feychi
+pun.
+“Kensafe
+inangepayen”,
+piyen,
+umaglayen.
+Wüni, fill niekaiñ kullin, ükelifiyen kay,
+umaglayen.
+Entuchillangelay chi kawellu.
+“Malongelien,
+saltiangepalien,
+nütramawüñoan.
+Nütramafin chi longko.
+“Femnge may ni inangen, salteangen”,
+piafi chi longko.
+Umaglayen; kiñe wentru umagpe, epu
+pelolay124, umagnoam wenu kawellu
+müley.
+Ñangümkelien125 tüfachi kullin wetripay.
+
+48. Entonces no nos acompañaron más.
+Se apartaron.
+Trabajamos a este lado del río.
+Cuánto no caminamos155; no dormimos
+esta noche.
+“¿Quién sabe si nos siguen?” dijimos; no
+dormimos.
+Amaneció, todo tuvimos el ganado; lo
+amarramos también, no dormimos.
+No quitaron las sillas a los caballos.
+“Si nos hacen un malón, si vienen a
+saltearnos, volveré a dar cuenta.
+Avisaré al cacique.
+“Así me han seguido, me han salteado”,
+diré al cacique156.
+No dormimos; un hombre debe dormir,
+dos estarán despiertos, para no dormir,
+sobre los caballos quedan.
+Que no perdamos este ganado recién
+salido.
+
+49. Küme wünmalien kiñe no duamayen.
+
+49. Bien amanecimos, no tuvimos
+cuidado alguno.
+Wünmayen; amoyen.
+Amanecimos; caminamos.
+Fill küle kay chi kullin; truyuyen.
+Todo estuvo (lo encontramos) el ganado;
+nos alegramos.
+Lükaniefiyen tüfichi pu wentru, pu ngen Tuvimos miedo a estos hombres, los
+mapu.
+dueños de la tierra.
+Fenten awkangingn.
+Tan alzados son ellos.
+50. Küpayen may, chen mo tu
+duamlayen; küme inapafien rüpu.
+Akuyen ka lewfu; feymu umagiyen.
+Ükelfiyen tüfichi kullin; ka kiñe wentru
+wenu kawellu müli, umaglay.
+124
+125
+
+50. Vinimos pues, no tuvimos nada que
+pensar; bien seguimos el camino.
+Llegamos a otro río; allí dormimos.
+Amarramos ese ganado; y un hombre
+sobre el caballo quedó, no durmió.
+
+F. pelolen estar despierto.
+Talvez ñagüm= nagüm (F. naghùmn) bajar, de ahí perder.
+
+23
+
+Inche kay umaglan.
+Ñi
+chillan
+kawellu,
+anülechi,
+trekanagen126
+kiñe
+chaku-mo
+anünakümüün umagnoam.
+Entun ñi freno, ni kachutuam ñi kawellu.
+Chi kafrestu pürontükufin127 pu chang ñi
+lüpuyatew, inche ni pelomyatew
+umagnoam.
+Rangipun welu püray kawellu ka
+wentru.
+Tüfichi wenu kawellu, müleumag.
+“Welu128 pichi umagnge, chi kangelu
+welu pürani ni kawellu, komutupaylu
+tüfichi kullin ñamnoam129”.
+Wünmayen may, pichi ke ngollin
+femleyen; küdowtu rupay wentru;
+küdowtu rupanole mülelafuy chen-no;
+kuydangi fill niey kay ta che.
+
+Yo tampoco dormí.
+Estando ensillado mi caballo, me senté,
+me apeé, en un pellejo bajé a sentarme,
+para no dormir.
+Quítele su freno para que pastease mi
+caballo.
+El cabestro anudé en la pierna para que
+me derribase y me despertase, para no
+dormir.
+A media noche en cambio subió al
+caballo otro hombre.
+Ese (que había estado) sobre el caballo,
+fue a dormir.
+“Ahora pues un poco duerme tú, mas el
+otro montará el caballo, para ir a mirar
+(cuidar) ese ganado para no perderse”.
+Amanecimos
+pues,
+así
+nos
+emborrachamos un poco; el hombre
+pasa a trabajar, si no pasara a trabajar,
+no habría porqué; cuidado mucho tiene
+también la gente.
+
+51. Amopakien may, kake gülmen mo
+rupayen; katrükonpayen130.
+“Nütrampafichi may ñi peñi.
+Wüñomen
+chew
+ni
+longko-mo
+nutrampafichi may ni wünüy ñi
+kimniatew rüpu pingey kamü.
+Fey ritro inangelay mülen mo pu wenüy.
+
+51. Continuamos el camino; donde otro
+rico pasamos, le hicimos una visita.
+“Quiero dar cuenta a mi hermano.
+Volví de donde mi cacique, voy a darle
+cuenta a mi amigo para que lo sepa el
+viaje157.
+Así derecho no seguiré estando aquí un
+amigo.
+Femngen may ni wüñomen, pipafichi De tal manera volví, voy a pasar a decir a
+may ñi wenüy.
+mi amigo.
+
+Es decir, según la traducción de Domingo: poco caminamos.
+Por la necesidad de esas precauciones véase MUSTERS pág, 222 "the Tehuelches stole back a
+good number of mares and colts”.
+126 F. thecanaghn apearse del caballo.
+127 F. pron el ñudo.
+128 F. huelu pero, antes, al contrario, huelun trocarse.
+129 F. ñamn perderse.
+130 F. cachù o cathù, amigo, camarada, así llaman a sus compañeros de brindis y así se saludan
+los Pehuenches. Kathü konpayen “como amigos entramos". Creo que esta palabra es la que ha
+dado origen a la palabra gaucho; la epéntesis de cachu cauchu es un fenómeno frecuente en
+araucano; la sustitución de una c (k) indígena por g es muy frecuente también. Las demás
+etimologías como la del latín gaudeo, del árabe chaouch etc. son absurdas. Si la palabra
+gauderio tiene relaciones con gaucho, no lo sé todavía (véase GRANADA: Vocabulario
+Rioplatense segunda edición Montevideo 1890, pág. 225 y ss).
+155
+156
+
+24
+
+“Kümelele ni wenüy truyuan may,
+femngi ni wüñomen may”, pipafichi may
+ni wenüy kimtükunieyano may ñi
+wenüy, pi doamün; feymo may katrü
+konpan.
+“Trekakenoafun131 tañi küme wenüy;
+ritro inangelay kiñe rüpu mülen mo kiñe
+wenüy”.
+“Kümelloeno, kümerkimi, küme wüñon;
+küme pülliyamo132, küme püllikey che.
+Fem ürkimi may kiñe truyunmo,
+wüñoymi, feymo may peniepatuen;
+inche kay truyun ka mi küme wüñon-mo.
+Kiñe antü may kange shuamtu payan,
+pekatulia mapu133”.
+
+“Si está bien mi amigo, me alegraré pues;
+así es mi vuelta pues”, quiero ir a decir a
+mi amigo para que tenga conocimiento
+mi amigo”, pensé yo; por eso fui a
+visitarle.
+“No tendría que pasar largo a mi buen
+amigo; derecho no seguiré, estando en el
+mismo camino un amigo”.
+“Bien te sucede, bueno está que bien
+volviste, cuando hay suerte bien hace
+todo la gente.
+Así hiciste (que es) una alegría volviste,
+y así me tienes visto; yo también estoy
+contento que hayas vuelto bien.
+Un día pues ven a divertirte, para ir a ver
+al fin tu tierra”.
+
+EPISODIO HISTÓRICO
+DE LA GUERRA DE LA INDEPENDENCIA, CONTADO POR DOMINGO QUINTUPRAI
+(DIALECTO HUILLICHE DE OSORNO)
+El episodio histórico que sigue, un recuerdo de familia de Quintuprai, es notable
+por la vivacidad de la narración. No se podrá negar que el viejo indígena de Osorno es
+un hablista de mérito; seguramente los hombres del pueblo que nunca han tenido la
+menor instrucción escolar ni en los países más civilizados siempre serían capaces de
+hacer una narración tan bien ordenada.
+En cuanto al hecho mencionado es efectivo que algunas veces los indios han
+tomado parte en la guerra de la independencia combatiendo al lado de los patriotas
+chilenos, como por ejemplo en la batalla de Loncomilla. En la de Maipú, según
+comunicación de don Diego Barros Arana esto no ha sido el caso; y parece que en la
+memoria de Quintuprai alguna acción de guerra de menor importancia ha sido
+sustituida por la célebre batalla de Maipú. Para nosotros esto es de poco monto.
+Con respecto al estilo no debe sorprendernos que todo se refleja en la mente del
+indio por medio de oración directa. Su lengua no conoce oración indirecta.
+
+Y le diga cómo fue el viaje.
+F. thecan paso, pasear.
+132 F. pùlln ocuparse en hacer bien una cosa.
+133 La relación del viaje termina aquí antes de la llegada a Osorno. Pero es poco lo que falta;
+pues cuando hizo la visita en casa del amigo, Quintuprai ya se encontraba cerca de su propia
+casa, a uno o dos días de camino. Las conferencias que tuve con Domingo Quintuprai fueron
+interrumpidas en este punto de la narración.
+
+157
+131
+
+25
+
+EPISODIO HISTÓRICO
+1. Inche may ni laku mongefuy kuyfi 1. Mi abuelo, pues, vivía días pasados.
+antü. Juan Jose Kintupray pingefu-inche Juan José Quintuprai se llamaba mi
+ñi laku; pichü müten kimpafin.
+abuelo; solo poco alcancé a conocerlo.
+2. Feyti may rupay weychan-mo.
+Komfidanngey chi pu kasike; dünguew
+chi pu kawallero nielu ta weychan
+awkandüngu:
+
+2. Ese pues pasó a la guerra.
+Fueron convidados los caciques, les
+hablaron los caballeros que tenían la
+guerra161 palabras de levantamiento:
+
+3. “Küpape may ñi pu señor kasike; 3. “Que vengan mis señores caciques; me
+lewkeano ni pu señor kasike.
+tendrán
+compasión
+mis
+señores
+caciques.
+4. —Petu ngay ayüngeñi langmngeya,
+mongko ñi pu kona engn. Lewkeyano ni
+pu señor kasike, niey ta ñi küme ke kona,
+kumpañayanno may ñi weychan-mo”.
+
+4. —Todavía de veras me quieren matar
+a mí y a todos mis mocetones. Me
+tendrán
+compasión
+mis
+señores
+caciques, tienen tan buenos mocetones,
+me acompañarán en mi guerra”.
+
+5. —Müley ta pu kona ka; kumpañafin
+may tañi señor koronel.
+Ngüleman ñi pu kona; müley tañi
+kapitanejo, müley tañi sarjentu, müley
+tañi pu fiskal, küme ke wentru.
+
+5. —Están los mocetones; acompañaré
+pues a mi señor coronel.
+Juntaré mis mocetones; está mi
+capitanejo, está mi sargento, están mis
+fiscales, buenos hombres.
+
+6. Dewma may lewmefin tañi señor
+koronel; fey trokilantü künolano ñi
+señor koronel; trokilantümo mongko
+nian ni pu kona. Peli düngu truftulen, ñi
+señor koronel.
+
+6. Ya le tengo compasión a mi señor
+coronel; así me pondrá día señalado mi
+señor coronel; el día señalado todos
+tendré mis mocetones. Cuando vea aviso
+estoy listo, mi señor coronel.
+
+7. —Truyun may mi kumpañayatew, ñi
+señor kasike.
+—Dewma may fil mongko truftunmüley
+ni pu kona.
+
+7. —Me alegro pues que me acompañes,
+mi señor cacique.
+—Ya están listos todos en conjunto mis
+mocetones.
+
+8. Chi pu kasike yey ni pu kona chi
+weychan-mo; kewalu yey ñi kapitanejo,
+yey ñi pu sarjento, yey ni pu fiskal, chi pu
+kasike, meli kasike.
+
+8. Los caciques llevaron sus mocetones a
+la guerra; a pelear llevaron su
+capitanejo, llevaron sus sargentos,
+llevaron sus fiscales, los caciques, cuatro
+caciques.
+
+161
+
+Es decir, los patriotas.
+
+26
+
+9. Feymo yey may rulpadüngualu, amoy
+may ñi laku Juan Jose Kintupray; kimi
+may winkanütram; yey ni rulpadüngualu
+chi pu kasike; amoy may Juan Jose
+Kintupray, feymay rulpadüngupaylu.
+
+9. Entonces llevaron pues un lenguaraz,
+fue pues mi abuelo Juan José Quintuprai;
+sabía el habla española; llevaron su
+lenguaraz los caciques; fue pues Juan
+José Quintuprai, ese pues era el
+lenguaraz.
+
+10. Maypue pingey chi mapu; müley may
+kiñe lewfu; feychi nome lewfu mlew may
+chi weychan.
+Feymu may langümuyngn, kewayngn,
+aldü may lay pu winka.
+
+10. Maipú se llama la tierra; hay un río;
+al otro lado de ese río tuvo lugar el
+combate.
+Entonces se mataron, pelearon, muchos
+pues murieron los españoles.162
+
+11. Feymu afi chi weychan; femngechi
+alküpan fachi nütram, feymu may
+nütramkan inche eymi chi wentru-mo.
+Alküngi,
+pewwülu
+pu
+wentru
+nütramkakay.
+
+11. Entonces se concluyó la guerra; así
+he oído esta noticia, por eso te la
+comunico yo a ti (que también eres)
+hombre163. Se oye; viéndose los
+hombres, conversan.
+
+12. —Fiskal, werküyaymi; amoaymi
+señor koronel-mo; fey piafimi: “Dewma
+may nakümi ñi kewan, ñi señor koronel.
+Asta158 famo mten kumpañafin ñi señor
+koronel. Ni pu kona niewelay ñi
+mongam”, fey pifinge ñi señor koronel.
+
+12. —Fiscal, te mandaré de mensajero;
+irás al señor coronel; así le dirás: “Ya se
+acabó mi guerra, mi señor coronel. Hasta
+aquí no más acompañaré a mi señor
+coronel. Mi gente no tiene más víveres”;
+así dile a mi señor coronel.
+
+13. Niefuli ñi mongam ni pu kona
+kumpañañiekayawfin ñi señor koronel,
+amolafun. Apüme ñi rokin, niewelay ni
+mongam ni pu kona. Werküeno may ñi
+señor kasike: “asta famo mten
+kumpañafin” pi may ni señor kasike,
+señor koronel.
+
+13. Si tuvieran víveres mis mocetones,
+mas continuaría acompañando a mi
+señor coronel, no me iría. Se concluyó mi
+provisión, no tienen más para vivir mis
+mocetones. Me manda pues mi señor
+cacique: “Hasta aquí no más te
+acompañaré”, dice pues mi señor
+cacique, señor coronel.
+
+14. —Muchas grasias may ñi señor
+kasike; amotupe ni señor kasike; fey
+piafimi may: “¡Chillaka-wellungn pe pu
+kona!”
+
+14. —Muchas gracias pues, mi señor
+cacique; que vaya164 a mi señor cacique:
+así le dirás pues: “¡Qué ensillen los
+caballos los mocetones!”
+
+Asta naturalmente es la palabra castellana.
+Es decir, tanto españoles como patriotas chilenos.
+163 La reflexión filosófica de Quintuprai quiere decir, que los recuerdos históricos son un tema
+digno de hombres serios.
+164 O: “que vaya mi señor cacique” refiriéndose este título al mensajero.
+158
+162
+
+27
+
+15. —¡Kapitanejo, sarjento, pu fiskal,
+chillakawellu pe! Amotuyen mapu-mo;
+petuyen rüpü, yen amotuam. Küme
+pelüyen may, wewi ñi kewan ñi señor
+koronel. Elutueyen rüpü ñi señor
+koronel.
+
+15. —¡Capitanejo, sargento, fiscales, a
+ensillar los caballos! Vamos a la patria;
+volvemos a ver el camino para nuestra
+vuelta. Bien nos mostramos (?); ganó su
+guerra mi señor coronel. Me dio
+camino165 mi señor coronel.
+
+16. ¡Ia!159 ¡amoyen pu kona! ¡Sia! trüftuy
+chi pu kona. Pra kawelluyngn; feymu
+may ¡fifa! rüpüyngn, ¡fifay ñi señor
+koronel!
+
+16. ¡Hola! ¡Vamos, mocetones! ¡Hola! se
+alistaron los mocetones. Montaron a
+caballo; entonces ¡viva! se encaminaron;
+¡que viva mi señor coronel!
+
+17. Wenu kawellu müleyngn, mongko
+chi
+pu
+kasike
+wenu
+kawellu;
+prakawelluleyngn; feymu may ¡fifay! tüfi
+engn mongko chi che.
+
+17. Sobre los caballos estuvieron, todos
+los caciques sobre los caballos;
+montados estuvieron; entonces pues
+¡viva! gritaron todos los indios.
+
+18. Lalay may mongko tfichi pu kona;
+kiñe ke mten tripay alfün. Inche ñi laku
+eputue wesoy160 machetaso safle; ñi foru
+longko wampu nagi, prapalay chi foru
+yom. Femngen lay.
+
+18. No murieron pues todos esos
+mocetones; algunos tan solo salieron
+heridos. Mi abuelo tuvo dos heridas en la
+cabeza, machetazos de sable; el hueso de
+su cabeza se hundió, más arriba no pasó
+el hueso. Así no fue166.
+
+19. Mongko akutuy ñi mapu-mo.
+Truyukechi mongko may chi pu fücha,
+pu tremche.
+Ngemay may chi pu tremche, pu fütra
+akutulmo.
+
+19. Todos llegaron a su tierra. Se
+alegraron todos los viejos y las viejas.
+
+20. Ngülümuyngn, pütuyngn, langmi
+kullin, küme ke waka iloyngn,
+langmingn. Truyunkechi, truyuyngn,
+siempre ngemayngn.
+
+20. Se reunieron, bebieron, mataron
+animales, buenas vacas comieron,
+mataron. Con alegría se alegraron,
+siempre lloraron.
+
+Lloraron pues las viejas, los viejos en la
+llegada.
+
+La h en las dos exclamaciones hia y siha era aspirada como h alemana o inglesa.
+Cp. F. huedon descalabrar, herida de la cabeza.
+165 Es decir, me despidió, me dio permiso para volver.
+166 Es decir, por eso no murió.
+159
+160
+
+28
+
+LA ERUPCIÓN DEL VOLCÁN CALBUCO167
+DESCRITA POR DOMINGO QUINTUPRAI (DIALECTO HUILLICHE)
+1. Kiñe küme düngun, masiao küme, 1. Un buen cuento, muy bueno, nos
+dünguwkiyu chi kawelleru eyu. Feymo estamos contando, yo contigo, caballero.
+nütramkaeno:
+Entonces me lo comunicaron:
+2. Petu üyi chi pire lil; fitruy masiao,
+kensafe chungayel mongen. Masiao
+afkütulngi; femngemalay rume fenten
+tripantu
+mongien;
+alkülafien,
+alküunmalafien.
+
+2. Todavía arde el cerro nevado; humea
+mucho; quien sabe como será la vida.
+Mucho fue exterminado; tal cosa no
+sucedió nunca tantos años que vivimos;
+no lo hemos oído ni lo vamos oyendo (?).
+
+3. Feymo may alkufien; küpaychi 3. Entonces pues oímos; vino, llegó la
+akuychi düngu ñi femngen, petu uyen chi noticia de este suceso, de que todavía
+pire chi kordillera, küme alkufiyen.
+arde la cordillera nevada, bien lo oímos.
+4. Akuy chi fitun Osorno; chi tapü mamel 4. Llegó el humo hasta Osorno; las hojas
+ligruy, chi tue mongko ligruy.
+de los árboles se pusieron blancas; la
+tierra toda se puso blanca.
+5. Feymo masiao afkütuy chi pu mongen.
+Kensafe weda dungu mülay, ngepay.
+Ulkupey may chao dios. Kishu may chao
+dios trokiay.
+
+5. Por eso mucho fue exterminada la
+vida. Quién sabe, mala cosa habrá,
+sucederá. Enojado parece el padre Dios.
+Solo pues el padre Dios gobernará.
+
+6. Feymo fi pifuyen: “Kachu may
+pewelayen, lagay may yen kullin
+mongko; kensafe fünlayen ketran, yen
+tükun.
+Chumngechi
+mongüfuyen,
+ngepayi fünnofule in ketran”.
+
+6. Entonces así nos dijimos: “Pasto no
+veremos más, morirá pues nuestro
+ganado todo; quién sabe no da fruta
+nuestro cultivo, nuestra siembra. ¿Cómo
+viviríamos si sucede que no dé fruta
+nuestro cultivo?
+
+7. Mongkoy masiaoy güyi chi lil; ¿chen 7. Todo mucho ardió el cerro; ¿Qué,
+kensafe güykepi mino? Mülepay may quién sabe, está quemando adentro?
+kensafe kuyulkura.
+Será pues, quién sabe, carbón de piedra.
+8. Petuy kay tüfichi lil; chew güyi chi lil 8. Y continuó ese cerro; dónde ardió el
+mülewelay, lofi.
+cerro no hubo morada, se arruinó.
+9. Fey pi chi pu aleman fey ñi nütramo: 9. Así dijeron los alemanes, así nos
+“Welu duamlaymn; inchen mapu-mo avisaron168. “Pero no tengáis cuidado; en
+Sobre la erupción del volcán, véase las publicaciones científicas en los ANALES de la
+Universidad de Chile, tomos 85 y siguientes.
+167
+
+29
+
+güyki lil. Feymo kimiefiyen”.
+
+nuestro país arden siempre los cerros.
+Por eso lo conocemos”.
+
+10. Feymo trepewkülayen, pieyenmo chi 10. Entonces no nos espantamos, por lo
+aleman. Feymo kiñe no duamiyen.
+que nos dijeron los alemanes. Por eso
+estuvimos sin cuidado169.
+
+LA LLEGADA DEL FORASTERO
+Ya en el “Viaje al país de los Manzaneros” (Est. ar. I. 16; 27-31) Quintuprai me
+había dado dos ejemplos de las ceremonias acostumbradas que se observan cuando
+un forastero llega a la casa de un indígena. Como se trata aquí de un punto interesante
+para el folklore araucano170 y al mismo tiempo útil para los Huincas que quieren
+visitar a los indios en su patria, pedí a mi viejo amigo un ejemplo típico de estas
+ceremonias. La contestación fue que él me recibiría más o menos como sigue:
+Akuy chi wütran kiñe ruka-mo; wankay
+chi trewa; tripapay chi ngen ruka; pichi
+alü pu müley chi ngen ruka:
+—Trekanange, alkütunge, puturupange;
+famo chaku mley; anüpange.
+
+Llega el forastero a una casa; ladran los
+perros; sale el dueño de casa; en cierta
+distancia queda el dueño de casa:
+—Apéate, oye, pasa a beber; acá está un
+pellejo; siéntate.
+
+Pero cuando el dueño de casa no conoce al viajero, por ejemplo, si yo llegara a
+casa de un Picuntu, habría una conversación en los términos siguientes:
+Dueño: Marimari,
+mongeymi?
+
+winkaw;
+
+¿küme Dueño: Buenos días, español. ¿Estás
+bien?
+
+Forastero: May; küme mongenka. ¿Eymi Forastero: Sí, estoy bien. ¿Tú estás bien?
+küme mongeymi?
+D. —Küme mongenka. ¿Kulay akuymi, D. —Bien estoy. ¿Ahora llegaste, habrías
+Domingo tiene a su cargo el cuidado de los animales de un caballero alemán cerca de
+Osorno. La ingeniosa noticia de los volcanes de Alemania, como se ve, tuvo buen efecto para
+dominar el pánico que se había apoderado durante algunos meses de 1894 no solo de los
+indios, sino también de los colonos chilenos.
+169 Esta descripción de la erupción del volcán Calbuco ya ha sido publicada por mí con
+traducción y notas alemanas en las Actas de la Sociedad Científica Alemana de Santiago de
+Chile, tomo III, 1895.
+170 Véase MEDINA; Aboríjenes, pág. 291. “A nadie que llega a casa de un araucano, es lícito
+entrar sin licencia del amo, y suele no raras veces que éste salga afuera a recibir al huésped,
+con cortesía ciertamente ingrata, porque comenzando por la salutación, pasa de unas en otras
+a largas arengas, y el pobre huésped ha de aguantar sin mostrar desabrimiento, aunque lo ase
+el sol o traspase el agua hasta que el dueño de la casa se le ofrezca decirle que se acomode, y
+ordinariamente se le ofrece tarde”. (OLIVARES, Historia de Chile, pág. 44).
+168
+
+30
+
+akun mülelkelafuymi?
+
+hecho (?) tu llegada?
+
+F.
+—Pichi
+kulay
+müten
+akun, F. —Hace solo muy poco que llegué, te
+loftunieymi, trekanaglepan tami ruka- estoy esperando, vengo a apearme en tu
+mo. ¿Chendungu nielaymi tüfa, ngen casa. ¿No tienes novedad acá, dueño de
+ruka?
+casa?
+D. —Nielan chendungu; küme may D. —No tengo novedad; bien pues estoy.
+mülen.
+F. —Fey ürkemay, tami küme mlerken;
+tüyün may tami küme mlerkelmo.
+¿Küme müley mi kumpan, tami malgen,
+mi pu fochüm, nawe kay?
+
+F. —Bueno está que estás bien tú; me
+alegro, pues, de que estás bien. ¿Bien
+están tus compañeros, tu mujer, tus hijos
+e hijas?
+
+D. —Mülekey, fil kümeli tüfa.
+
+D. —Sí, están; todo está bien aquí.
+
+F. —Kümerki may.
+
+F. —Bueno, pues.
+
+D. —¿Kintuküpaymi?
+
+D. —¿Vienes a buscar algo?
+
+F. —Pichi ke duamngen; kintuküpan; F. —Tengo un negocio; vengo a buscar;
+welu mi peniefiel, entuan ñi duam.
+pero para que lo veas, manifestaré mi
+negocio.
+
+CANTO DEL BORRACHO
+DICTADO POR DOMINGO QUINTUPRAI (DIALECTO HUILLICHE)
+Quintuprai no recordaba ningún canto característico de sus antepasados. En
+general me hizo la impresión de que entre sus compatriotas de Osorno la civilización y
+el continuo comercio con los chilenos y alemanes arraigados habían aniquilado la vida
+nacional del indígena; lo que también se veía en la aceptación de palabras como,
+entonces, con eso, siempre, nunca, etc., en el vocabulario huilliche.
+Solo podía decirme que sus connacionales de Osorno solían cantar en sus fiestas
+cuando se embriagaban con chicha o con aguardiente. Un ejemplo de estos cantos es el
+que sigue:
+Mollipülkün; winka pülkün kümey.
+Yu wenüy winka.
+Fey may freneno kiñe charu,
+feymo may molli pülkü.
+
+Estoy borracho de licor; el licor del español es
+bueno.
+Conmigo es amigo el español.
+Así pues me brinda un jarro,
+por eso pues me embriago con licor.
+
+Kümey may ni wenüy winka,
+
+Bueno pues es mi amigo español,
+
+31
+
+fey may freneno.
+Feymo ngolli-pülkün,
+kiñe charu, kiñe fül.
+Amoyu may, chachan,
+ngolli pülkün may, chachan,
+winka pülkü-mo.
+Kümey may wenüy winka.
+
+así pues me brinda.
+Por eso me embriago con licor,
+un jarro, un vaso.
+Vamos pues, amigo,
+estoy borracho de licor, amigo,
+del licor español.
+Bueno es, pues, el amigo español.
+
+Por estúpido y monótono que sea este canto, no deja de ser característico. Se ve
+que la borrachera, fomentada por los Huincas inescrupulosos, ha llegado a ser el único
+ideal de esos pobres huilliches. En las regiones centrales de la Araucanía donde el
+aguardiente todavía no ha hecho tantas devastaciones entre la raza indígena veremos
+también el nivel intelectual más elevado.
+
+32
+
+
