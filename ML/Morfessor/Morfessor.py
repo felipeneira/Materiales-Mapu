@@ -37,23 +37,21 @@ AF1 = dict(zip(palabras, segmentacion))
 # =============================================================================
 # =============================================================================
 # 
-train_data1 = io.read_annotations_file('AF.txt', construction_separator=' ', analysis_sep=',')#palabras+segmentos
+train_data1 = io.read_annotations_file('/home/felipe/GitHub/Materiales-Mapu/ML/Morfessor/AF.txt', construction_separator=' ', analysis_sep=',')#palabras+segmentos
 train_data = [(i,j) for i,j in train_data1.items()]
-# TCF = list(io.read_corpus_file("WLF.txt"))#palabras texto plano
-# WLF = io.read_segmentation_file("WLF.txt", has_counts=False)#lista palabras
+TCF = list(io.read_corpus_file("/home/felipe/GitHub/Materiales-Mapu/ML/Morfessor/WLF.txt"))#palabras texto plano
+WLF = io.read_segmentation_file("/home/felipe/GitHub/Materiales-Mapu/ML/Morfessor/WLF.txt", has_counts=False)#lista palabras
 # 
 # 
 model_tokens = morfessor.BaselineModel()
 # 
 # 
-# model_tokens = morfessor.BaselineModel()
-# 
-model_tokens.load_segmentations()
-model_tokens.train_batch('AF2.txt')
+#model_tokens.load_segmentations()
+model_tokens.train_batch('/home/felipe/GitHub/Materiales-Mapu/ML/Morfessor/AF2.txt')
 # 
 prueba = list(model_tokens.get_segmentations())
 # 
-# print(model_tokens.viterbi_segment(input("Escribe la palabra: ")))
+print(model_tokens.viterbi_segment(input("Escribe la palabra: ")))
 
 ev = morfessor.MorfessorEvaluation(AF1)
 WSR = morfessor.evaluation.WilcoxonSignedRank()
